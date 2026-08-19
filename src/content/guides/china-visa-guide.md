@@ -64,7 +64,7 @@ The 55 include the United States, Canada, the United Kingdom, all EU and Schenge
 
 1. **Third country requirement.** You must hold a confirmed onward ticket to a country or region *different* from the one you arrived from. New York → Beijing → Seoul qualifies. New York → Beijing → New York does not. Hong Kong, Macau and Taiwan count as separate "regions" for this purpose, which makes Beijing → Hong Kong a valid onward leg.
 2. **The clock.** The 240 hours start at **00:00 on the day after arrival**, so you effectively get part of your arrival day plus ten full days.
-3. **Geography.** You may move freely within the **24 permitted provinces and municipalities** — which cover essentially every destination a first-time visitor cares about, including Beijing, Shanghai, Xi'an, Chengdu, Chongqing, Guangzhou, Guilin, Hangzhou, Suzhou, Nanjing, Qingdao, Xiamen and Kunming. Tibet, Xinjiang, Inner Mongolia, Gansu, Qinghai, Ningxia, Heilongjiang, Jilin, Tibet and Hainan are outside the permitted zone.
+3. **Geography.** You may move within the **24 permitted provinces and municipalities**, which cover essentially every destination a first-time visitor cares about — Beijing, Shanghai, Xi'an, Chengdu, Chongqing, Guangzhou, Guilin, Hangzhou, Suzhou, Nanjing, Qingdao, Xiamen and Kunming among them. Seven province-level areas are outside the zone: **Tibet, Xinjiang, Inner Mongolia, Gansu, Qinghai, Ningxia and Jilin**. Note that Heilongjiang and Hainan *are* inside it, which older guidance often gets wrong.
 4. **Entry and exit ports** must be on the designated list. Major international airports all are; some land and sea crossings are.
 5. **Registration.** You will be issued a temporary entry permit stamp at the port. Hotels handle police registration as usual.
 
@@ -72,6 +72,12 @@ The 55 include the United States, Canada, the United Kingdom, all EU and Schenge
 
 :::warn The most common mistake
 A return ticket to your origin country does not satisfy the third-country requirement, no matter how long the gap. If you want to fly home from China, you need an actual visa — or you need to structure the trip so that you exit to a third country and fly home from there.
+:::
+
+:::warn Three provinces admit you only to named cities
+"Permitted province" does not always mean the whole province, and this is the detail most summaries drop. In **Shanxi** you may stay only in Taiyuan and Datong; in **Jiangxi** only in Nanchang and Jingdezhen; in **Guangxi** only in twelve named municipalities, which do include Nanning, Guilin and Beihai.
+
+The trap this sets is Pingyao. It sits in Shanxi but in Jinzhong, not Taiyuan or Datong, so a Datong–Pingyao trip that looks like one province is half inside the zone and half outside it. Fujian, Hubei and Shaanxi were widened to whole-province coverage in the December 2024 revision, so older warnings about those no longer apply.
 :::
 
 ## Route 3: Regional and special schemes
@@ -84,14 +90,14 @@ A return ticket to your origin country does not satisfy the third-country requir
 | **Guilin (Guangxi)** | 6 days | ASEAN tour groups |
 | **Xishuangbanna, Yunnan** | 6 days | ASEAN tour groups |
 
-Hainan is the one worth knowing: it is a genuine tropical beach destination with its own 30-day visa-free entry, entirely separate from the mainland schemes.
+Hainan is the one worth knowing: it is a genuine tropical beach destination, and it is covered twice over — by its own 30-day provincial scheme for direct arrivals at Haikou or Sanya, and, since the December 2024 revision, as one of the 24 areas open to 240-hour transit visitors as well.
 
 :::slot ad:mid-article
 :::
 
 ## Route 4: The L tourist visa
 
-If none of the above applies — or if you want more than 30 days, or want to visit Tibet, Xinjiang or Hainan on the same trip as the mainland, or want to fly home directly from China — you apply for a visa.
+If none of the above applies — or if you want more than 30 days, or want to visit Tibet, Xinjiang or one of the other excluded provinces, or want to fly home directly from China — you apply for a visa.
 
 ### What you need
 

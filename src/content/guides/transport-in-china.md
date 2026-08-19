@@ -23,7 +23,7 @@ related:
 
 ## High-speed rail: the default
 
-China's high-speed network exceeds **48,000 km** — more than the rest of the world combined — and it has quietly made domestic flying pointless for most journeys under about 1,200 km. Beijing to Shanghai is 4.5 hours at 350 km/h, city centre to city centre, with no check-in queue and no transfer to a distant airport.
+China's high-speed network exceeds **48,000 km** — more than the rest of the world combined — and it has quietly made domestic flying pointless for most journeys under about 1,200 km. Beijing to Shanghai is 4 hours 20 minutes at 350 km/h, city centre to city centre, with no check-in queue and no transfer to a distant airport.
 
 ### Reading the train number
 

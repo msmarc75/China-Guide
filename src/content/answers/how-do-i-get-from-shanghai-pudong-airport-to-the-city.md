@@ -20,11 +20,13 @@ Shanghai has two airports and they behave very differently. **PVG (Pudong)** han
 
 The simplest option. Line 2 runs from Pudong Airport straight across the city through Lujiazui, People's Square and on to Hongqiao — which means it passes near most places you might be staying, with no change needed.
 
-The catch: some Line 2 services split at **Guanglan Road**, requiring you to get off and cross the platform to continue. It is well signposted and easy once you know to expect it, but it surprises people who assume a single through train.
+Older guidance tells you to change trains at **Guanglan Road**, where the eastern extension used to be worked by shorter units. That ended when the through service began in December 2018, and trains have run the full length without a change since. If a guidebook or a forum post still mentions the split, it is out of date.
+
+What has not changed is the distance. The line is 62.2 km end to end with 31 stations and Pudong is at the far eastern extremity, so budget an hour or more into the centre rather than treating it as an airport hop.
 
 ## The Maglev
 
-The Maglev runs from the airport to **Longyang Road**, where you change to Line 2 or Line 16. It is genuinely fast — the fastest commercial train service in the world — and worth doing once for its own sake.
+The Maglev runs from the airport to **Longyang Road**, where you change to Line 2 or Line 16, covering the 30 km in about eight minutes. It holds the record for the highest speed in scheduled passenger service anywhere — but note that most departures now run at 300 km/h rather than the headline 430, with only a small number of full-speed runs reinstated since 2024. It is still worth doing once for its own sake.
 
 Be clear about what it does and does not do: it delivers you to Longyang Road, not the city centre. With the change and onward journey, the door-to-door time saving over Line 2 is smaller than the headline speed suggests. Ride it as an experience, not as a shortcut.
 

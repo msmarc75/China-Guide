@@ -19,8 +19,8 @@ facts:
   - Getting there | High-speed rail from Xiamen or Fuzhou
   - Don't miss | Kaiyuan Temple, Cao'an, Luoyang Bridge
 related:
+  - /destinations/xiamen/
   - /culture/chinese-history-for-travellers/
-  - /guides/transport-in-china/
   - /culture/religion-and-philosophy-in-china/
 ---
 
@@ -60,7 +60,9 @@ Quanzhou is a UNESCO Creative City of Gastronomy, and the cooking is Minnan — 
 
 ## Getting there and around
 
-High-speed rail from **Xiamen** takes well under an hour, and from **Fuzhou** a little longer, which makes Quanzhou an easy addition to a Fujian trip rather than a special expedition. The station sits outside the old town; take a taxi in.
+High-speed rail from [Xiamen](/destinations/xiamen/) takes well under an hour, and from **Fuzhou** a little longer, which makes Quanzhou an easy addition to a Fujian trip rather than a special expedition. The station sits outside the old town; take a taxi in.
+
+Pairing the two is the sensible way to do Fujian. Quanzhou was the great port of the Song and Yuan and Xiamen the one that mattered from the Ming onwards, so between them they cover most of Chinese maritime history — and Xiamen has the airport, the beaches and the World Heritage island, while Quanzhou has the older and stranger material.
 
 Once there, walk. The old town's grid of stone lanes is the point, and the density of temples, mosques and merchant houses only registers on foot.
 
@@ -84,6 +86,6 @@ Being the greatest port of Song and Yuan China — the eastern terminus of the m
 
 ### How do I get to Quanzhou?
 
-By high-speed rail from Xiamen or Fuzhou. Both are short hops, and Xiamen's airport is the usual international entry point for this part of Fujian.
+By high-speed rail from [Xiamen](/destinations/xiamen/) or Fuzhou. Both are short hops, and Xiamen's airport is the usual international entry point for this part of Fujian.
 
 For the rail network and how to book, see the [guide to transport in China](/guides/transport-in-china/); for the traditions behind the temples, [religion and philosophy in China](/culture/religion-and-philosophy-in-china/).

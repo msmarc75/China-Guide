@@ -239,24 +239,124 @@ function excerptOf(page) {
   return page.excerpt || toPlainText(page.body, 140);
 }
 
+/**
+ * Words that appear in almost every page on a China travel site. Left in, they
+ * would make every page equally related to every other, which is the same as
+ * having no relatedness signal at all.
+ */
+const LINK_STOPWORDS = new Set([
+  'china', 'chinese', 'travel', 'travelling', 'traveling', 'guide', 'trip', 'tips',
+  'the', 'and', 'for', 'with', 'from', 'that', 'this', 'you', 'your', 'are', 'can',
+  'how', 'what', 'when', 'where', 'why', 'best', 'need', 'know', 'about', 'into',
+]);
+
+const tokenise = (text = '') =>
+  String(text)
+    .toLowerCase()
+    .split(/[^a-z0-9']+/)
+    .filter((w) => w.length > 2 && !LINK_STOPWORDS.has(w));
+
+/**
+ * Picks related pages by keyword and structural affinity.
+ *
+ * Hand-maintained `related` lists do not survive a few hundred pages, so they
+ * are treated as pins that come first, and the remainder is computed.
+ */
+const RELATED_COUNT = 4;
+
 function resolveRelated(page) {
   const explicit = (page.related || [])
     .map((url) => allArticles.find((p) => p.url === url) || standalonePages.find((p) => p.url === url))
     .filter(Boolean);
-  if (explicit.length >= 3) return explicit.slice(0, 3);
 
-  const sameSection = pagesBySection[page.sectionId]?.filter((p) => p.url !== page.url) || [];
-  const pool = [...explicit, ...sameSection];
-  const seen = new Set();
-  const out = [];
-  for (const item of pool) {
-    if (seen.has(item.url) || item.url === page.url) continue;
-    seen.add(item.url);
-    out.push(item);
-    if (out.length === 3) break;
-  }
-  return out;
+  const taken = new Set([page.url, ...explicit.map((p) => p.url)]);
+  const myKeywords = new Set((page.keywords || []).map((k) => String(k).toLowerCase()));
+  const myWords = new Set([
+    ...tokenise(page.title),
+    ...(page.keywords || []).flatMap((k) => tokenise(k)),
+  ]);
+
+  const scored = [...allArticles, ...standalonePages]
+    .filter((candidate) => !taken.has(candidate.url))
+    .map((candidate) => {
+      let score = 0;
+
+      // Whole keyword in common — the strongest signal available.
+      for (const k of candidate.keywords || []) {
+        if (myKeywords.has(String(k).toLowerCase())) score += 10;
+      }
+
+      // Individual meaningful words in common.
+      const theirWords = new Set([
+        ...tokenise(candidate.title),
+        ...(candidate.keywords || []).flatMap((k) => tokenise(k)),
+      ]);
+      for (const word of myWords) if (theirWords.has(word)) score += 2;
+
+      // Structural affinity: parent, child, sibling, same section.
+      if (candidate.parentUrl && candidate.parentUrl === page.url) score += 8;
+      if (page.parentUrl && page.parentUrl === candidate.url) score += 8;
+      if (page.parentUrl && candidate.parentUrl === page.parentUrl) score += 5;
+      if (candidate.sectionId === page.sectionId) score += 3;
+
+      return { page: candidate, score };
+    })
+    .filter((r) => r.score > 0)
+    // Title tie-break keeps the output deterministic across builds.
+    .sort((a, b) => b.score - a.score || a.page.title.localeCompare(b.page.title));
+
+  return { explicit, scored };
 }
+
+/**
+ * Related links for every page, computed once.
+ *
+ * Scoring alone leaves a tail of pages that never appear in anyone's list —
+ * Harbin, for instance, shares little vocabulary with the rest of the site. A
+ * page nothing links to is discovered late and ranks poorly, so a second pass
+ * guarantees every page a minimum number of inbound editorial links by placing
+ * it on the list where it scored highest.
+ */
+const MIN_INBOUND = 2;
+
+const RELATED = (() => {
+  const everything = [...allArticles, ...standalonePages];
+  const ranked = new Map(everything.map((p) => [p.url, resolveRelated(p)]));
+  const lists = new Map(
+    everything.map((p) => {
+      const { explicit, scored } = ranked.get(p.url);
+      return [p.url, [...explicit, ...scored.map((r) => r.page)].slice(0, RELATED_COUNT)];
+    })
+  );
+
+  const inbound = new Map(everything.map((p) => [p.url, 0]));
+  for (const list of lists.values()) {
+    for (const target of list) inbound.set(target.url, (inbound.get(target.url) || 0) + 1);
+  }
+
+  for (const target of everything) {
+    while ((inbound.get(target.url) || 0) < MIN_INBOUND) {
+      // Where does this page rank highest among lists that do not already carry it?
+      let best = null;
+      for (const source of everything) {
+        if (source.url === target.url) continue;
+        const list = lists.get(source.url);
+        // Append rather than replace: replacing would silently cost the
+        // displaced page an inbound link and leave the accounting wrong.
+        if (list.length >= RELATED_COUNT + 2) continue;
+        if (list.some((p) => p.url === target.url)) continue;
+        const hit = ranked.get(source.url).scored.find((r) => r.page.url === target.url);
+        if (hit && (!best || hit.score > best.score)) best = { source, score: hit.score };
+      }
+      if (!best) break; // genuinely unrelatable — the check will flag it
+
+      lists.get(best.source.url).push(target);
+      inbound.set(target.url, (inbound.get(target.url) || 0) + 1);
+    }
+  }
+
+  return lists;
+})();
 
 function crumbsFor(page) {
   const crumbs = [{ label: 'Home', href: '/' }];
@@ -294,7 +394,7 @@ function renderArticle(page) {
   const { html, headings } = renderMarkdown(page.body, { slotRenderer });
   const faqs = extractFaq(page.body);
   const crumbs = crumbsFor(page);
-  const related = resolveRelated(page);
+  const related = RELATED.get(page.url) || [];
   const children = childrenOf(page);
   const childHub = children.length
     ? `<nav class="child-hub" aria-label="In this guide">

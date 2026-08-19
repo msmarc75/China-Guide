@@ -26,6 +26,7 @@ const PAGES = [
   '/destinations/shanghai/things-to-do/',
   '/destinations/shanghai/restaurants/',
   '/destinations/shanghai/nightlife/',
+  '/destinations/shanghai/massage-and-spa/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

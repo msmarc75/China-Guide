@@ -32,7 +32,7 @@ The situation improved markedly after a 2024–25 government push to stop hotels
 2. **Filter for "foreigners accepted"** where the platform offers it — Trip.com does.
 3. **Prefer the national chains** (see below). They are licensed almost everywhere.
 4. **Have the booking confirmation on your phone**, showing your name and passport number.
-5. **If refused**, ask the desk to call the local PSB, or move on — it is a licensing issue, not a judgement about you.
+5. **If refused**, ask the desk to call the local PSB, or move on — it is a licensing issue, not a judgement about you, and [raising your voice is the one approach that reliably fails](/answers/how-do-i-complain-politely-in-china/).
 :::
 
 ## The domestic chains worth knowing

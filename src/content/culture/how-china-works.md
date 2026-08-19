@@ -85,7 +85,7 @@ This is the pattern that most confuses first-time visitors, and it has a consist
 
 That same pattern — enormous capacity for the designed case, none for the exception — is what produces the physical landscape described in [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/): infrastructure built at a scale that assumes the demand will arrive.
 
-The useful response is not to argue the logic — the logic is not in dispute and the person you are talking to probably agrees with you. It is to ask whether there is a different route to the same outcome. There very often is, and the same person who could not bend the rule will happily help you find the way around it. This is also why a Chinese friend or a hotel concierge can resolve in one phone call something you have failed at for an hour.
+The useful response is not to argue the logic — the logic is not in dispute and the person you are talking to probably agrees with you. It is to ask whether there is a different route to the same outcome, which is also [how to complain in China without making things worse](/answers/how-do-i-complain-politely-in-china/). There very often is, and the same person who could not bend the rule will happily help you find the way around it. This is also why a Chinese friend or a hotel concierge can resolve in one phone call something you have failed at for an hour.
 
 ## Where a foreigner's experience genuinely differs
 

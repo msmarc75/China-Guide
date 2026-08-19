@@ -148,7 +148,7 @@ Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mou
 
 ### How do I book train tickets in China as a foreigner?
 
-Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate. For how far ahead the booking window opens and what to do when a train sells out, see [can I book Chinese train tickets in advance?](/answers/can-i-book-chinese-train-tickets-in-advance/)
+Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate. For how far ahead the booking window opens and what to do when a train sells out, see [can I book Chinese train tickets in advance?](/answers/can-i-book-chinese-train-tickets-in-advance/) During *chunyun*, the forty-day travel surge around [Chinese New Year](/answers/when-is-chinese-new-year/), book on the day the window opens or not at all.
 
 ### Do I need to print my Chinese train ticket?
 

@@ -57,7 +57,7 @@ Routes worth walking:
 
 ## Museums and old Shanghai
 
-**Shanghai Museum** — one of China's best. Bronzes, ceramics, painting and calligraphy, presented properly. Free, book ahead, closed Mondays. The new **Shanghai Museum East** in Pudong is larger and increasingly the main site.
+**Shanghai Museum** — one of China's best. Bronzes, ceramics, painting and calligraphy, presented properly. Free, book ahead, closed Mondays. The painting galleries repay knowing [how a handscroll is meant to be read](/answers/how-should-i-look-at-a-chinese-handscroll/) before you walk in. The new **Shanghai Museum East** in Pudong is larger and increasingly the main site.
 
 **Yu Garden and the Old City** — a Ming dynasty scholar's garden (¥40) surrounded by a heavily commercialised bazaar. Go early, do the garden, eat the soup dumplings at Nanxiang, and leave before the crowds.
 

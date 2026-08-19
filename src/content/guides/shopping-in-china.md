@@ -24,6 +24,8 @@ related:
 
 Skip the mass-produced souvenir. The things worth carrying home are the ones China makes better, cheaper or differently than anywhere else.
 
+Before you buy for someone else, note that a short list of objects [must not be given as gifts in China](/answers/what-gifts-should-you-avoid-giving-in-china/) — clocks above all.
+
 **Tea.** The single best buy in the country. Longjing from Hangzhou, Tieguanyin from Fujian, pu'er cakes from Yunnan, keemun black from Anhui. Buy from a proper tea shop where they will brew samples for you, not from a station kiosk. Expect ¥100–400 for a genuinely good 100 g of a named tea, and far more for aged pu'er.
 
 **Silk.** Suzhou is the historic centre and still the best place for quality. Look for the weight and the burn test if the seller allows it; real silk smells of burnt hair and turns to ash, polyester melts into a bead.

@@ -49,6 +49,8 @@ The "Ten Scenes of West Lake" are a canonical list dating to the Song dynasty �
 
 **China National Tea Museum** — free, well done, next to the tea fields.
 
+**Zhejiang Provincial Museum** — free, and holder of the burnt opening fragment of Huang Gongwang's *Dwelling in the Fuchun Mountains*, shown periodically rather than permanently. [The story of how the scroll ended up in two pieces](/answers/how-should-i-look-at-a-chinese-handscroll/) is worth knowing before you go looking for it.
+
 **Six Harmonies Pagoda** (¥20) — a Song-era pagoda above the Qiantang River, which is also where the world's largest tidal bore arrives each autumn (around the 18th day of the 8th lunar month, usually September).
 
 **Xixi National Wetland Park** (¥80) — quiet canals and boardwalks, a good half-day if the lake feels too busy.

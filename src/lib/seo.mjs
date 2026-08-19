@@ -77,6 +77,24 @@ export function articleSchema(page) {
   };
 }
 
+/**
+ * A page answering ONE question. Distinct from FAQPage, which is for a page
+ * carrying several questions alongside other content. Never emit both.
+ */
+export function qaPageSchema(page, answerText) {
+  return {
+    '@type': 'QAPage',
+    mainEntity: {
+      '@type': 'Question',
+      name: page.question || page.title,
+      text: page.question || page.title,
+      answerCount: 1,
+      acceptedAnswer: { '@type': 'Answer', text: answerText, url: abs(page.url) },
+      author: { '@type': 'Organization', name: SITE.name },
+    },
+  };
+}
+
 export function faqSchema(faqs) {
   return {
     '@type': 'FAQPage',

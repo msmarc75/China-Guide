@@ -32,6 +32,7 @@ export const NAV = [
   { label: 'Culture', href: '/culture/', match: '/culture/' },
   { label: 'Itineraries', href: '/itineraries/', match: '/itineraries/' },
   { label: 'Food', href: '/food/', match: '/food/' },
+  { label: 'Answers', href: '/answers/', match: '/answers/' },
 ];
 
 export const FOOTER_LINKS = [

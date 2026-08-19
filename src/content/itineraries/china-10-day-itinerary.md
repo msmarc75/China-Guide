@@ -50,7 +50,7 @@ Airport Express into the city, check in near Qianmen or Dongsi. Walk the neighbo
 
 **07:00 at the Temple of Heaven**, for the park's morning tai chi, dancing and opera singing. Then the **Lama Temple**, then either the **Summer Palace** or the **National Museum**.
 
-**Late afternoon: G-train to Xi'an**, 4h20–6h, ¥515. Arrive in the evening; stay inside the city walls near the Bell Tower.
+**Late afternoon: G-train to Xi'an**, [4h20–6h](/answers/how-long-is-the-train-from-beijing-to-xian/), ¥515. Arrive in the evening; stay inside the city walls near the Bell Tower.
 
 ## Days 5–6: Xi'an
 

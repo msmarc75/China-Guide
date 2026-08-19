@@ -92,7 +92,7 @@ Walk one street back from Beiyuanmen — **Xiyangshi** and **Dapiyuan** — for 
 
 ## Getting around
 
-The metro is modern and bilingual, ¥2–8. The old city inside the walls is walkable end to end in about 40 minutes. Xi'an North railway station handles high-speed trains: 4h20 to Beijing, 3h to Chengdu, 6h to Shanghai.
+The metro is modern and bilingual, ¥2–8. The old city inside the walls is walkable end to end in about 40 minutes. Xi'an North railway station handles high-speed trains: [4h20 to Beijing](/answers/how-long-is-the-train-from-beijing-to-xian/), 3h to Chengdu, 6h to Shanghai.
 
 ## Frequently asked questions
 

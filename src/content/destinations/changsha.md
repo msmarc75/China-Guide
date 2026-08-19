@@ -100,7 +100,7 @@ Yes — lines 1 to 6 are in operation, plus the S2 maglev line out to Huanghua a
 
 ### Is Hunan food spicier than Sichuan food?
 
-They are hot in different ways. Hunan heat is dry and direct chilli heat; Sichuan adds the numbing tingle of the Sichuan peppercorn. Many people find Hunan food the sharper of the two.
+They are hot in different ways. Hunan heat is dry and direct chilli heat; Sichuan adds the numbing tingle of the Sichuan peppercorn. Many people find Hunan food the sharper of the two — [the fuller comparison](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/) covers which is actually hotter and how to order around either.
 
 ### How many days do you need in Changsha?
 

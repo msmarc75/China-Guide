@@ -64,7 +64,7 @@ Eight-hundred-year-old terraces cut into slopes up to 1,100 m and farmed by **Zh
 
 **Dazhai/Jinkeng** is the more dramatic of the two village areas, with a cable car and good walking between viewpoints; **Ping'an** is easier to reach.
 
-**Timing is everything:** flooded and mirror-like from mid-May to mid-June, golden in late September, bare brown earth from November to April.
+**Timing is everything**, and [the windows are narrow](/answers/when-are-the-longji-rice-terraces-at-their-best/): flooded and mirror-like for about a fortnight somewhere in late April to late May, golden from mid-September until the harvest after National Day, bare brown earth from November to April.
 
 **Stay overnight** in a village guesthouse. The day-trippers leave at 16:00 and the terraces at dawn are extraordinary.
 
@@ -110,7 +110,7 @@ They are different. Zhangjiajie is vertical, dramatic and hard-walking, with 3,0
 
 ### When should I visit the Longji rice terraces?
 
-Mid-May to mid-June, when they are flooded and reflect the sky, or late September, when they are golden before harvest. Between November and April they are bare earth and much less rewarding.
+Either the fortnight in late spring when they are flooded and reflect the sky — the date follows the lunar calendar and the weather rather than a fixed month — or mid-September until the harvest begins after National Day, when they are golden. Between November and April they are bare earth and much less rewarding.
 
 ### How do I get from Zhangjiajie to Yangshuo?
 

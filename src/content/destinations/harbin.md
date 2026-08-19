@@ -13,7 +13,7 @@ order: 17
 updated: 2026-08-01
 keywords: [harbin ice festival, harbin travel guide, ice and snow world, harbin winter, russian architecture china]
 facts:
-  - Ice Festival | Late Dec to late Feb
+  - Ice Festival | Late Dec to late Feb; opens officially 5 Jan
   - Winter temperature | −15 to −30°C
   - Ice and Snow World | ¥330, go at dusk
   - Days needed | 2–3 nights
@@ -30,7 +30,7 @@ Harbin grew out of the Chinese Eastern Railway, built by Russia in the 1890s, an
 
 Officially the **Harbin International Ice and Snow Sculpture Festival**, running from late December to late February, and the largest event of its kind in the world. It has three main venues:
 
-**Ice and Snow World (冰雪大世界)** — ¥330 in peak season. A purpose-built city of full-scale buildings — towers, palaces, temples, slides — carved from blocks cut out of the frozen Songhua River and lit from inside with coloured LEDs. The footprint is rebuilt and re-scaled every winter — the 2025–26 edition runs to about 1.2 million m², the largest yet — so treat any area figure you read as belonging to a particular year rather than to the festival. **Go at dusk**, arriving around 16:00, so you see it in daylight and then lit. It gets colder as the evening goes on; most people last two to three hours.
+**Ice and Snow World (冰雪大世界)** — ¥330 in peak season. A purpose-built city of full-scale buildings — towers, palaces, temples, slides — carved from blocks cut out of the frozen Songhua River and lit from inside with coloured LEDs. The footprint is rebuilt and re-scaled every winter — the 2025–26 edition runs to about 1.2 million m², the largest yet — so treat any area figure you read as belonging to a particular year rather than to the festival. [Do not wait for the festival's official 5 January opening](/answers/when-is-the-harbin-ice-festival/) — the park normally admits visitors from around mid-to-late December, once the river ice is thick enough to build with. **Go at dusk**, arriving around 16:00, so you see it in daylight and then lit. It gets colder as the evening goes on; most people last two to three hours.
 
 **Sun Island Snow Sculpture Art Expo** — ¥240. Monumental snow sculpture rather than ice, seen best in daylight.
 

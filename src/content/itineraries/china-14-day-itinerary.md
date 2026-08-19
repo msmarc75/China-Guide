@@ -49,7 +49,7 @@ Fourteen days is the sweet spot for a first China trip. It absorbs a rainy day a
 
 ## Days 5–7: Xi'an
 
-*G-train Beijing → Xi'an, 4h20–6h, ¥515.*
+*G-train Beijing → Xi'an, [4h20–6h](/answers/how-long-is-the-train-from-beijing-to-xian/), ¥515.*
 
 **Day 5 — Arrive and the walls.** Check in inside the city walls. **Cycle the 13.7 km wall** in the late afternoon (¥54 + ¥45 bike), when the light is good and the lanterns come on. Evening in the **Muslim Quarter** — eat one street back from Beiyuanmen.
 
@@ -124,7 +124,7 @@ Yes — two weeks is the standard and arguably ideal length for a first trip. It
 
 ### Should I fly or take the train between Chinese cities?
 
-Take the train for legs under about five hours: Beijing–Xi'an, Xi'an–Chengdu and Shanghai–Suzhou are all faster door to door by rail. Fly the long legs, such as Chengdu to Shanghai, which is 7–8 hours by train and 2.5 by air.
+Take the train for legs under about five hours: Beijing–Xi'an, Xi'an–Chengdu and Shanghai–Suzhou are all faster door to door by rail. Fly the long legs, such as Chengdu to Shanghai, which is 7–8 hours by train and 2.5 by air. [The five-hour rule](/answers/should-i-fly-or-take-the-train-between-chinese-cities/) sets out why the stations, not the trains, are what decide it.
 
 ### Is Chengdu worth including in a China itinerary?
 

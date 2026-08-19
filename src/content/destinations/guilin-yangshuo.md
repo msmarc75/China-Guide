@@ -29,7 +29,7 @@ Karst is limestone that has been dissolving in rain for 300 million years, leavi
 
 ## Guilin or Yangshuo?
 
-**Base yourself in Yangshuo.** This is the single most useful piece of advice about the region.
+**Base yourself in Yangshuo.** This is [the single most useful piece of advice about the region](/answers/should-i-stay-in-guilin-or-yangshuo/).
 
 Guilin is a pleasant enough mid-sized city with a few karst peaks inside it, and it is where the airport and the railway station are. But the landscape you came for is in the countryside downstream, and Yangshuo sits in the middle of it.
 
@@ -69,7 +69,7 @@ The **Dragon's Backbone terraces** at Longsheng, 2 hours north of Guilin, are 80
 
 - **Entry** ¥80 plus shuttle buses within the area
 - **Two main villages:** *Ping'an* (easier access, more developed, good viewpoints) and *Dazhai / Jinkeng* (larger, more dramatic, with a cable car and better walking between viewpoints). Dazhai is the better choice if you only visit one.
-- **Timing is everything.** Mid-May to mid-June the terraces are flooded and mirror the sky — the most photogenic state. Late September to early October they are golden before harvest. From November to April they are bare brown earth and, honestly, not worth a special trip.
+- **Timing is everything**, and [the windows are narrower than they look](/answers/when-are-the-longji-rice-terraces-at-their-best/). The terraces are flooded and mirror the sky — the most photogenic state — for only about a fortnight somewhere in late April to late May; sources disagree on which, because it follows the lunar calendar and the weather rather than a fixed date. Late September to early October they are golden, until the harvest starts after National Day. From November to April they are bare brown earth and, honestly, not worth a special trip.
 - **Stay overnight** in a village guesthouse if you can. The day-trip crowd leaves at 16:00 and the terraces at dawn are extraordinary.
 
 ## Also worth knowing

@@ -129,7 +129,7 @@ Yes, unless your nationality qualifies for 30-day unilateral visa-free entry. Th
 
 ### Should I fly or take trains on a long China itinerary?
 
-Both. Take high-speed rail for anything under about five hours — Beijing–Xi'an, Xi'an–Chengdu, Kunming–Dali–Lijiang. Fly the long diagonal legs such as Chengdu to Guilin and Lijiang to Shanghai, which would otherwise consume whole days.
+Both. Take high-speed rail for anything under about five hours — Beijing–Xi'an, Xi'an–Chengdu, Kunming–Dali–Lijiang. Fly the long diagonal legs such as Chengdu to Guilin and Lijiang to Shanghai, which would otherwise consume whole days. [The reasoning behind the five-hour line](/answers/should-i-fly-or-take-the-train-between-chinese-cities/) also covers when an overnight sleeper beats both.
 
 ### What is the best three-week route in China for a second visit?
 

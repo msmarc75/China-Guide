@@ -42,9 +42,9 @@ For a 07:30 arrival, either means leaving well before the city wakes up. This is
 
 ## What you cannot do
 
-**Hold a panda.** Keeper photo and hugging arrangements have been discontinued across Chinese panda facilities, and any operator advertising them is selling something that no longer exists.
+**Hold a panda.** Keeper photo and hugging arrangements were [discontinued in 2018](/answers/can-you-hold-a-panda-in-chengdu/) across Chinese panda facilities, and any operator advertising them is selling something that no longer exists.
 
-What does still exist is the **volunteer programme at Dujiangyan**, about 60 km away, where you help prepare food and clean enclosures. That is closer contact than any viewing platform offers, and it is a different sort of day — quieter, longer, and not a substitute for the main base.
+**Volunteer programmes** at the breeding centres outside the city are the nearest thing, and they involve preparing food and cleaning enclosures rather than contact. Which centres are running them moves around — the Dujiangyan base closed for upgrades in April 2026 and Bifengxia has been suspended for construction, leaving Wolong — so confirm the specific site is open before booking anything non-refundable.
 
 ## If you cannot make the morning
 

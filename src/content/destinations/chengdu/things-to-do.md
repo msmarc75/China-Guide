@@ -22,7 +22,7 @@ Every entry below was cross-checked against at least two independent sources, se
 
 | Sight | Chinese | Address | Transport |
 | --- | --- | --- | --- |
-| Giant Panda Breeding Base | 成都大熊猫繁育研究基地 | 成都市成华区熊猫大道1375号 | No metro — see below |
+| Giant Panda Breeding Base | 成都大熊猫繁育研究基地 | 成都市成华区熊猫大道1375号 | No metro — see below; and [no holding a panda](/answers/can-you-hold-a-panda-in-chengdu/) |
 | Wuhou Shrine | 武侯祠 | 成都市武侯区武侯祠大街231号 | Lines 3 and 5, Gaoshengqiao (exit D) |
 | Du Fu Thatched Cottage | 杜甫草堂 | 成都市青羊区青华路37号 | Line 4, Caotang Beilu |
 | Sichuan Museum | 四川博物院 | 成都市青羊区青华路251号 | Line 4 |

@@ -34,7 +34,7 @@ Chengdu is the capital of Sichuan, a city of 21 million in a fertile basin under
 
 ## Giant pandas
 
-**Chengdu Research Base of Giant Panda Breeding**, 10 km north of the centre. ¥55, opens 07:30.
+**Chengdu Research Base of Giant Panda Breeding**, 10 km north of the centre. ¥55, opens 07:30. You cannot [hold or touch a panda](/answers/can-you-hold-a-panda-in-chengdu/) here or anywhere else in China — the photo sessions ended in 2018.
 
 **Arrive at opening.** This is not optional advice. Pandas are most active in the cool early morning during their first feed and are largely asleep by 10:00. By 09:30 the site is full of tour groups and you will be looking at a distant sleeping ball of fur over three rows of heads.
 
@@ -113,7 +113,7 @@ Two nights minimum, three or four to enjoy it. The pandas take a morning; the te
 
 ### Is Sichuan food too spicy for foreigners?
 
-Some of it is genuinely very hot, but Sichuan cuisine is far broader than its reputation — many classic dishes are mild, sweet or sour. In hotpot restaurants, order the split *yuanyang* pot so you have a non-spicy broth alongside the spicy one.
+Some of it is genuinely very hot, but Sichuan cuisine is far broader than its reputation — many classic dishes are mild, sweet or sour. The numbing and the chilli are also [two separate sensations you can adjust separately](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/). In hotpot restaurants, order the split *yuanyang* pot so you have a non-spicy broth alongside the spicy one.
 
 ### Can you hold a panda in Chengdu?
 

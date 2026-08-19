@@ -33,7 +33,7 @@ Seven days in China means choosing. The temptation is Beijing, Xi'an, Shanghai a
 
 ## Day 1 — Arrive in Beijing
 
-Land, take the Airport Express (¥25) to Dongzhimen, check in around Qianmen or Dongsi. Do not schedule anything demanding.
+Land, take the Airport Express (¥25) to Dongzhimen, check in around Qianmen or Dongsi. Do not schedule anything demanding. [The alternatives from Capital](/answers/how-do-i-get-from-beijing-capital-airport-to-the-city/) are worth knowing if you land late or are staying somewhere the Express does not reach.
 
 **Evening:** walk to **Qianmen Street** and the surrounding hutongs, eat an early Peking duck at **Siji Minfu** (book ahead), and get to bed. Jet lag is going to wake you at 05:00 tomorrow, which is fine — Beijing is best early.
 
@@ -89,7 +89,7 @@ Hire a car and driver for the day (¥600–800) if there are two or more of you 
 
 **Option B — Suzhou** (25 minutes by train, ¥40). One classical garden at opening — the **Master of the Nets** is the most perfectly composed — plus a walk along **Pingjiang Road**. Back in Shanghai by mid-afternoon.
 
-**Then:** the run out to Pudong airport is an hour or more on metro line 2, or about eight minutes and ¥50 by Maglev from Longyang Road. Allow three hours for an international flight.
+**Then:** the run out to Pudong airport is an hour or more on metro line 2, or about eight minutes and ¥50 by Maglev from Longyang Road — [whether that is worth the change of trains](/answers/is-the-shanghai-maglev-worth-it/) depends on your luggage. Allow three hours for an international flight.
 
 :::slot partner:trains
 :::

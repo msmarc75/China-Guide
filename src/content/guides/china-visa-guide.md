@@ -30,6 +30,7 @@ There are four ways into mainland China as a tourist. Work through them in order
 
 :::tip Skip the reading
 Our [China visa checker](/tools/china-visa-checker/) asks four questions and tells you which of the four routes applies to your passport, your trip length and your routing. Come back here for the detail once you know which one you are dealing with.
+:::
 
 ## Route 1: Unilateral visa-free entry (30 days)
 

@@ -59,7 +59,11 @@ function editorialRegion(html) {
   const end = relatedAt !== -1 ? relatedAt : html.indexOf('</article>', start);
   return html
     .slice(start, end === -1 ? html.length : end)
-    .replace(/<aside[\s\S]*?<\/aside>/g, '')
+    // Strip chrome asides only. `:::warn`/`:::tip`/`:::note` render as
+    // <aside class="callout ...> and are prose a writer chose to put there, so
+    // links inside them are editorial and must count. The sidebar, product and
+    // promo slots are generated and must not.
+    .replace(/<aside class="(?:article__aside|product-slot|promo-slot)[\s\S]*?<\/aside>/g, '')
     .replace(/<div class="ad-slot"[\s\S]*?<\/div>/g, '');
 }
 

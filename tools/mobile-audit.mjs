@@ -30,6 +30,7 @@ const PAGES = [
   '/destinations/xian/things-to-do/',
   '/destinations/xian/restaurants/',
   '/destinations/xian/nightlife/',
+  '/destinations/xian/massage-and-spa/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

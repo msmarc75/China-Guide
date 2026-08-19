@@ -56,7 +56,7 @@ For a two-week trip you will use G trains almost exclusively, with perhaps one Z
 **When tickets go on sale:** the pre-sale window has changed several times in recent years — plan on tickets appearing roughly **two weeks ahead**, and check 12306 for the current rule. Popular routes around holidays sell out within minutes of release.
 
 :::tip You do not collect a ticket
-Chinese rail is fully electronic. Your **passport is the ticket**. Walk to the gate, place the passport on the reader, and go. There is no counter to visit and no paper to print. Older advice about collecting tickets at a window applies only to a handful of legacy situations.
+Chinese rail is fully electronic. Your **passport is the ticket** — one of [several reasons it travels with you](/answers/do-i-need-to-carry-my-passport-in-china/) rather than staying in the hotel safe. Walk to the gate, place the passport on the reader, and go. There is no counter to visit and no paper to print. Older advice about collecting tickets at a window applies only to a handful of legacy situations.
 :::
 
 ### At the station

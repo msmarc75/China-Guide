@@ -24,6 +24,8 @@ Pay with the transport code in Alipay, or buy tokens from the machines. Expect a
 
 ## Two airports
 
+Line 3 also carries you to the Panda Base, where [arriving at 07:30 opening](/answers/what-time-should-i-arrive-at-the-chengdu-panda-base/) makes more difference than anything else you plan in Chengdu.
+
 **Shuangliu (CTU)** is the older airport, closer to the city, served by Metro Line 10.
 
 **Tianfu (TFU)** opened in 2021, is much further south-east, and is served by Lines 18 and 19. Line 18 is the fast link toward the centre.

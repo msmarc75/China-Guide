@@ -97,7 +97,7 @@ Mutianyu for most people — restored, forested, 1.5 hours from Beijing, with a 
 
 ### How far is the Great Wall from Beijing?
 
-Mutianyu and Badaling are both about 70 km from central Beijing, roughly 1.5 hours by road. Jinshanling and Simatai are 120–130 km, about 2.5 hours. All are full-day trips.
+Mutianyu and Badaling are both about 70 km from central Beijing, roughly 1.5 hours by road. Jinshanling and Simatai are 120–130 km, about 2.5 hours. All are full-day trips — [the distances section by section](/answers/how-far-is-the-great-wall-from-beijing/) sets out why distance is the wrong thing to choose on.
 
 ### How much does it cost to visit the Great Wall?
 

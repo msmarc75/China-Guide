@@ -102,7 +102,7 @@ Yes — it is one of the genuinely singular archaeological sites on earth, and p
 
 ### How do I get to the Terracotta Army from Xi'an?
 
-Take tourist bus 5 (306) from the east square of Xi'an railway station — ¥8, about an hour, and it is the official green bus rather than the touts beside it. A DiDi costs ¥120–150 each way and takes 50 minutes.
+Take tourist bus 5 (306) from the east square of Xi'an railway station — ¥8, about an hour, and it is the official green bus rather than the touts beside it. A DiDi costs ¥120–150 each way and takes 50 minutes. [Getting to the Terracotta Army](/answers/how-do-i-get-to-the-terracotta-army-from-xian/) covers the tout problem, which is worse here than almost anywhere in China.
 
 ### How many days do you need in Xi'an?
 

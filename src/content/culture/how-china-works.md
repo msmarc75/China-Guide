@@ -129,6 +129,6 @@ Because discretion generally does not sit with front-line staff. Systems are bui
 
 ### Do I need to carry my passport in China?
 
-Yes, or at minimum a clear photograph of the photo page and your visa. Your passport is the identity document the system recognises, and you will need it for hotels, trains, SIM cards and some site entries. Keep the original secure and use the photograph for casual checks.
+Yes, or at minimum a clear photograph of the photo page and your visa. Your passport is the identity document the system recognises, and you will need it for hotels, trains, SIM cards and some site entries. Keep the original secure and use the photograph for casual checks — [why you need it so often](/answers/do-i-need-to-carry-my-passport-in-china/) sets out every situation that asks for it.
 
 For the social rules that sit alongside all this, see the [guide to Chinese etiquette](/culture/chinese-etiquette/); for entry types and permits, see the [China visa guide](/guides/china-visa-guide/).

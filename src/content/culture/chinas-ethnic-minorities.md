@@ -56,7 +56,7 @@ What a traveller actually notices is narrower than the constitutional language s
 **Inner Mongolia and the northeast** have Mongol and Manchu populations, though Manchu language use has declined to near-extinction and the visible distinctiveness is much reduced.
 
 :::warn Tibet requires a permit and an organised tour
-Foreign passport holders cannot travel independently in the Tibet Autonomous Region. You need a **Tibet Travel Permit**, arranged through a travel agency, and you must be on an organised tour; the permit is checked before you board the train or flight. Border areas such as Everest and Ngari need a further permit on top.
+Foreign passport holders cannot travel independently in the Tibet Autonomous Region. You need a **Tibet Travel Permit**, [arranged through a travel agency](/answers/how-do-i-get-a-tibet-travel-permit/) rather than applied for directly, and you must be on an organised tour; the permit is checked before you board the train or flight. Border areas such as Everest and Ngari need a further permit on top.
 
 Requirements and processing times change, and the agencies that publish them have a commercial interest, so treat any timeline you read — including this one — as a starting point and confirm with an operator well before booking flights. Tibetan areas in Qinghai, Sichuan and Yunnan are not covered by this and need no permit.
 :::

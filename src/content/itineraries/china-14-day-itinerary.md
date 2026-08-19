@@ -34,7 +34,7 @@ Fourteen days is the sweet spot for a first China trip. It absorbs a rainy day a
 | Forbidden City | 7 days ahead |
 | Shaanxi History Museum (free) | 7 days ahead |
 | Shanghai Museum (free) | 7 days ahead |
-| Chengdu Panda Base | Book the earliest slot |
+| Chengdu Panda Base | [Book the earliest slot](/answers/what-time-should-i-arrive-at-the-chengdu-panda-base/) |
 :::
 
 ## Days 1–4: Beijing

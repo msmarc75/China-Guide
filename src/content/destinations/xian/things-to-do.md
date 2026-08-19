@@ -14,7 +14,7 @@ related:
   - /destinations/beijing/things-to-do/
 ---
 
-Xi'an concentrates more of China's early history in one compact city than anywhere else, and the walled centre means you can walk between much of it. The exception is the Terracotta Army, which is out east in Lintong and needs a full day.
+Xi'an concentrates more of China's early history in one compact city than anywhere else, and the walled centre means you can walk between much of it. The exception is the Terracotta Army, which is out east in Lintong and needs a full day — [take the official green bus 306](/answers/how-do-i-get-to-the-terracotta-army-from-xian/) rather than anything sold to you at the station.
 
 Every entry below was cross-checked against at least two independent sources, several of them the Shaanxi Provincial Cultural Heritage Administration or the sites' own official websites.
 

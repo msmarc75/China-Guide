@@ -54,6 +54,8 @@ Arrived from India along the Silk Road in the 1st century CE and became thorough
 
 **Where to see it:** the **Yungang** and **Longmen** grottoes, the **Mogao caves** at [Dunhuang](/destinations/dunhuang/) — the richest of them all, and the only one whose tickets need booking a month out — **Leshan** and **Emei** in Sichuan, **Putuoshan** island, and Lingyin Temple in Hangzhou.
 
+For a working temple rather than a monument, **Nanputuo** in [Xiamen](/destinations/xiamen/) is a good one to practise on: free, central, busy with actual worshippers, and named as the southern counterpart to Putuoshan — so everything described above is in front of you at once.
+
 ## Folk religion
 
 The largest category in practice and the hardest to label. Local deities, city gods (*chenghuang*), kitchen gods, the sea goddess **Mazu** along the southeastern coast, ancestor worship, and temples dedicated to historical figures who were deified — **Guandi**, the god of war and, curiously, of business, is a general from the Three Kingdoms.

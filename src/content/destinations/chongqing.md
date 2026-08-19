@@ -66,7 +66,7 @@ Chongqing is the upstream departure point for cruises down the Yangtze to Yichan
 
 ## Practicalities
 
-- **Getting there:** 1h10 by high-speed rail from Chengdu, 4h30 from Zhangjiajie, 6h from Xi'an. Chongqing Jiangbei (CKG) is a major airport.
+- **Getting there:** 1h10 by high-speed rail from Chengdu, 4h30 from Zhangjiajie, 6h from Xi'an. Chongqing Jiangbei (CKG) is a major airport. Three different stations here take trains from Chengdu and they are nowhere near each other, so [check which one your ticket names](/answers/how-far-is-chongqing-from-chengdu/) before you book.
 - **Getting around:** an excellent metro that is also an engineering exhibition. Note that "walking distance" on a map means nothing here — vertical separation is enormous. Use the metro and the escalators.
 - **Season:** Chongqing is one of China's "furnace" cities, regularly above 38°C in July and August with high humidity. Spring and autumn are far more comfortable. Winter is mild, grey and foggy.
 - **Days needed:** two nights for the city; three with Dazu.

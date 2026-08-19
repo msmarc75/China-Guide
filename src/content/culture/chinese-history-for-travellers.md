@@ -63,7 +63,7 @@ The cave temples at [Dunhuang](/destinations/dunhuang/) on the Silk Road preserv
 
 ### Song: the sophisticated one, 960–1279
 
-Militarily weak, culturally extraordinary. Movable-type printing, paper money, gunpowder weapons, the magnetic compass, monumental landscape painting, and a refinement in ceramics that has never been bettered. The first capital was [Kaifeng](/destinations/kaifeng/), then called Dongjing and by most reckonings the largest city on earth; after the Jurchen took the north in 1127 the court fled south and the capital moved to **Hangzhou**.
+Militarily weak, culturally extraordinary. Movable-type printing, paper money, gunpowder weapons, the magnetic compass, monumental landscape painting, and a refinement in ceramics that has never been bettered. The first capital was [Kaifeng](/destinations/kaifeng/), then called Dongjing and by most reckonings the largest city on earth — and now [twenty-five minutes from Zhengzhou East by intercity rail](/answers/how-do-i-get-from-zhengzhou-to-kaifeng/), which makes it one of the cheapest historical detours in China; after the Jurchen took the north in 1127 the court fled south and the capital moved to **Hangzhou**.
 
 Worth knowing that "the Song dynasty" was never the whole of China. For most of this period the Song shared the map with rival states that ran their own courts and armies: the Khitan **Liao** and then the Jurchen **Jin** in the northeast, and the Tangut **Western Xia** (1038–1227) across the northwest. The Western Xia had their own script and their own emperors, and the Mongols destroyed them so completely that their imperial tombs outside [Yinchuan](/destinations/yinchuan/) — a UNESCO World Heritage site since 2025 — are most of what is left.
 

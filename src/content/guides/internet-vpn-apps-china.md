@@ -93,7 +93,7 @@ A VPN routes your traffic through a server outside China, which restores access 
 | — | **Alipay** | Payments plus a huge set of mini-programs: metro QR, bike share, museum tickets |
 
 :::tip Two downloads that save the trip
-**Offline maps** in Amap or Apple Maps for every city on your route, and the **offline Chinese language pack** in Google Translate. Both work with no signal, no VPN and a nearly dead battery. Together they solve navigation and communication when everything else fails.
+**Offline maps** in Amap or Apple Maps for every city on your route, and the **offline Chinese language pack** in Google Translate. Both work with no signal, no VPN and a nearly dead battery. Together they solve navigation and communication when everything else fails — [which translation app to actually install](/answers/what-is-the-best-app-for-translating-chinese/) is a two-app answer rather than one.
 :::
 
 :::slot ad:mid-article

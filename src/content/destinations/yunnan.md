@@ -89,7 +89,7 @@ For the framework behind all of this — where the 56 nationalities came from, a
 
 **Nujiang and Dulong valleys** — deep river gorges near the Myanmar border, remote and stunning, for travellers with time.
 
-**[Jianshui](/destinations/jianshui/) and Tuanshan** — a Confucian temple town in the far south with superb Qing merchant architecture, a working metre-gauge tourist train and very few foreign visitors. Around two hours by train from Kunming, and worth two nights.
+**[Jianshui](/destinations/jianshui/) and Tuanshan** — a Confucian temple town in the far south with superb Qing merchant architecture, a working metre-gauge tourist train and very few foreign visitors. [Around two hours by train from Kunming South](/answers/how-do-i-get-to-jianshui-from-kunming/) — not from Kunming's central station — and worth two nights.
 
 **Puzhehei and Luoping** — karst lakes, and the vast canola blossom of February and March.
 

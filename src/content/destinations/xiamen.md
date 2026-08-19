@@ -84,7 +84,7 @@ Fujian tea culture is serious here, and being handed small cups of oolong in a s
 
 It does **not** currently reach Nanputuo Temple or Xiamen University. A line 3 extension towards the university's south gate is under construction but not open, so use buses or a taxi for those two, whatever a map application suggests.
 
-The **Fuzhou–Xiamen high-speed line opened in September 2023** and runs up the coast through Quanzhou, putting [Quanzhou](/destinations/quanzhou/) around an hour away or less depending on the service. Quanzhou has more than one station, so check which one your ticket names before you book.
+The **Fuzhou–Xiamen high-speed line opened in September 2023** and runs up the coast through Quanzhou, putting [Quanzhou](/destinations/quanzhou/) around an hour away or less depending on the service. Quanzhou has three stations in three different places, so [check which one your ticket names](/answers/how-do-i-get-to-quanzhou/) before you book — the one called simply "Quanzhou" is the one you want.
 
 ## Frequently asked questions
 

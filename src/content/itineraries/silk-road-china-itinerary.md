@@ -95,7 +95,7 @@ In a basin **154 m below sea level**, one of the hottest places in China — abo
 
 ## Kashgar — days 14–17
 
-*Fly Urumqi → Kashgar (1h45) or take the overnight train (about 22h along the southern Tarim route via Korla, Kuqa and Aksu — the more interesting option if you have the time).*
+*[Fly Urumqi → Kashgar in about two hours, or take the overnight train](/answers/how-do-i-get-from-urumqi-to-kashgar/) — the direct sleeper runs 20:40 to 08:10 along the southern Tarim route via Korla, Kuqa and Aksu, and the slower daytime services take sixteen to twenty hours if you want to see it.*
 
 The western end. **Id Kah Mosque**, the largest in China. The **old city**, extensively rebuilt from 2009 but still atmospheric in the workshop lanes. The **Sunday livestock market** on the city's eastern edge — sheep, cattle, camels and horses traded by Uyghur and Kyrgyz farmers, and the most genuine thing on the whole route. The **Grand Bazaar** for textiles, hats and dried fruit.
 

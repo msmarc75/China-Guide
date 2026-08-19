@@ -101,7 +101,7 @@ At this length the question changes from "what can I fit" to "what do I want to 
 | Li River cruise | Full day (Guilin to Yangshuo) |
 | Longji rice terraces | Full day from Guilin, better with an overnight |
 | Zhangjiajie forest park | Two full days |
-| [Huangshan](/destinations/huangshan/) | Two days with a night on the mountain |
+| [Huangshan](/destinations/huangshan/) | [Two days with a night on the mountain](/answers/how-long-do-you-need-at-huangshan/) |
 | Potala Palace | Half a day, with a strictly timed entry slot |
 
 ## Common mistakes about time

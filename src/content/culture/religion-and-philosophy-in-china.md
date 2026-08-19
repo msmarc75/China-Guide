@@ -30,7 +30,7 @@ Not a religion in the usual sense, but an ethical and social philosophy that has
 
 **What it produced:** the imperial civil service examination system, which for over a thousand years selected officials by written examination on the classics — the first meritocratic bureaucracy in the world, and an idea China exported.
 
-**Where to see it:** Confucian temples (文庙) in most old cities are quiet, symmetrical, and contain no statues of gods — only tablets and often a scholar-tree courtyard. **Qufu** in Shandong, Confucius's birthplace, has the temple, the family mansion and the cemetery, all UNESCO-listed. Beijing's is second in scale, and third — remarkably, given it stands on what was once the empire's southwestern frontier — is the temple at [Jianshui](/destinations/jianshui/) in Yunnan. Nanjing and Suzhou are worth an hour each.
+**Where to see it:** Confucian temples (文庙) in most old cities are quiet, symmetrical, and contain no statues of gods — only tablets and often a scholar-tree courtyard. **Qufu** in Shandong, Confucius's birthplace, has the temple, the family mansion and the cemetery, all UNESCO-listed. Beijing's is second in scale, and third — remarkably, given it stands on what was once the empire's southwestern frontier — is the temple at [Jianshui](/destinations/jianshui/) in Yunnan, which is [under two hours by train from Kunming South](/answers/how-do-i-get-to-jianshui-from-kunming/) and receives almost no foreign visitors. Nanjing and Suzhou are worth an hour each.
 
 ## Taoism
 
@@ -78,7 +78,7 @@ Religious practice in China operates within a state registration framework, and 
 
 - **Enter through a side door** where there is one, and **step over** the raised threshold rather than on it.
 - **Walk clockwise** around halls, stupas and prayer wheels.
-- **Incense** is offered in threes, held in both hands, bowed with three times, then placed in the burner. Watching rather than participating is entirely fine.
+- **Incense** is offered in threes, held in both hands, bowed with three times, then placed in the burner. Watching rather than participating is entirely fine. This is close to the only setting in which you will see bowing at all — [it is not a Chinese greeting](/answers/do-people-bow-in-china/).
 - **Photography** is usually fine in courtyards, usually prohibited inside halls, and always requires asking before photographing monks or worshippers.
 - **Dress** covering shoulders and knees at active temples.
 - **Do not** point your feet at an altar or an image, touch statues, or step on cushions used for prostration.

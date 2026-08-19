@@ -19,7 +19,7 @@ Xinjiang as a whole needs no special permit for the main routes. The Karakoram H
 
 ## What the permit is
 
-The road south of Kashgar enters a **border zone**, and foreign visitors need a permit to travel in it. It is issued in **Kashgar**, not in advance from abroad and not at the roadside, so it has to be built into the start of the trip rather than picked up along the way.
+The road south of Kashgar enters a **border zone**, and foreign visitors need a permit to travel in it. It is issued in **Kashgar**, not in advance from abroad and not at the roadside, so it has to be built into the start of the trip rather than picked up along the way. That is an argument for [flying into Kashgar rather than taking the train](/answers/how-do-i-get-from-urumqi-to-kashgar/) if your days are tight — the permit costs you a morning at the Kashgar end whichever way you arrive.
 
 In practice this is one of several reasons to travel the route with a **local driver or agency**. They know the current documentation requirements, which move; they can obtain the permit as a matter of routine; and public transport on this road is limited enough that a hired vehicle is the realistic option anyway.
 

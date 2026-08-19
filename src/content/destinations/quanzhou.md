@@ -62,7 +62,7 @@ Quanzhou is a UNESCO Creative City of Gastronomy, and the cooking is Minnan — 
 
 ## Getting there and around
 
-High-speed rail from [Xiamen](/destinations/xiamen/) takes well under an hour, and from **Fuzhou** a little longer, which makes Quanzhou an easy addition to a Fujian trip rather than a special expedition. The station sits outside the old town; take a taxi in.
+High-speed rail from [Xiamen](/destinations/xiamen/) takes well under an hour, and from **Fuzhou** a little longer, which makes Quanzhou an easy addition to a Fujian trip rather than a special expedition. The catch is that [there are three stations with Quanzhou in the name](/answers/how-do-i-get-to-quanzhou/) and only one of them is near the old town. All of them sit outside it; take a taxi in.
 
 Pairing the two is the sensible way to do Fujian. Quanzhou was the great port of the Song and Yuan and Xiamen the one that mattered from the Ming onwards, so between them they cover most of Chinese maritime history — and Xiamen has the airport, the beaches and the World Heritage island, while Quanzhou has the older and stranger material.
 

@@ -28,7 +28,7 @@ Huangshan is the mountain in the paintings. Granite peaks rising abruptly from a
 
 ## How to do it
 
-**Two days with a night on the mountain** is the standard and correct approach. Day trips are possible and mean you miss both sunset and sunrise, which are the entire point.
+**Two days with a night on the mountain** is the standard and correct approach. Day trips are possible and mean you miss both sunset and sunrise, which are the entire point — the [longer answer on how the two days actually break down](/answers/how-long-do-you-need-at-huangshan/) covers where the third day goes if you have one.
 
 **Entry:** ¥190 (¥150 in winter). Cable cars ¥80–90 each way.
 

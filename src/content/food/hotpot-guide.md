@@ -38,7 +38,7 @@ Hotpot is the exception to how a Chinese meal is normally structured — see [be
 
 **Chongqing (重庆火锅).** The original and the most intense: rendered beef tallow, a large volume of dried chilli and Sichuan peppercorn, and a thick layer of red oil. Genuinely very hot. Dip in **sesame oil with raw garlic**, which cools the burn and coats the mouth. Classic orders: tripe (*maodu*), duck intestine (*yachang*), luncheon meat, lotus root, potato slices, beef.
 
-**Sichuan (Chengdu).** Similar but usually a little milder and more aromatic, often with a clear broth option alongside.
+**Sichuan (Chengdu).** Similar but usually a little milder and more aromatic, often with a clear broth option alongside. The two cities are [just over an hour apart by high-speed rail](/answers/how-far-is-chongqing-from-chengdu/), so eating both versions in one trip is easy and is the only honest way to judge the difference.
 
 **Beijing / instant-boiled mutton (涮羊肉).** A copper pot with a chimney, clear broth with a few dates and goji berries, and paper-thin lamb swished through for seconds. The dip is **sesame paste** with fermented tofu, chive flower and coriander. Restrained, and superb in winter.
 

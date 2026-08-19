@@ -97,7 +97,7 @@ Beyond hotpot:
 
 ## Getting around
 
-Excellent bilingual metro, ¥2–8, and [easy enough to get around on](/answers/how-do-i-get-around-chengdu/) without a taxi. Tianfu International Airport (TFU) is the newer and larger of the two, 50 km out; Shuangliu (CTU) is closer. Chengdu East railway station is the main rail hub: 3 hours to Xi'an, 1 hour to Chongqing, 7–8 hours to Beijing.
+Excellent bilingual metro, ¥2–8, and [easy enough to get around on](/answers/how-do-i-get-around-chengdu/) without a taxi. Tianfu International Airport (TFU) is the newer and larger of the two, 50 km out; Shuangliu (CTU) is closer. Chengdu East railway station is the main rail hub, on metro Lines 2 and 7: 3 hours to Xi'an, [just over an hour to Chongqing](/answers/how-far-is-chongqing-from-chengdu/), 7–8 hours to Beijing.
 
 Chengdu is also the main jumping-off point for **Tibet** — flights to Lhasa take 2.5 hours, and most Tibet tour permits are processed through Chengdu agencies. See our [Tibet guide](/destinations/tibet-lhasa/).
 

@@ -45,7 +45,7 @@ Cantonese cooking prizes freshness and restraint: steaming, quick stir-frying, c
 
 **Seafood.** Steamed whole fish with ginger and spring onion is the benchmark dish of the cuisine.
 
-**Late-night streets.** Bāo Yǔ, Wénmíng Lù and the streets around Beijing Road for barbecue, oyster omelettes and clay pot rice.
+**Late-night streets.** Wénmíng Lù (文明路) and the streets around Beijing Road for congee, sweet soups, barbecue and clay pot rice. Guangzhou's late-night streets turn over faster than most of this site's recommendations — Baoye Road, for years the standard answer to this question, had its stalls served notice to clear in early 2023 for a commercial redevelopment, so treat any list more than a year or two old as a starting point rather than a plan.
 
 ## Sights
 
@@ -53,7 +53,7 @@ Cantonese cooking prizes freshness and restraint: steaming, quick stir-frying, c
 
 **Chen Clan Ancestral Hall** (¥10) — an 1894 clan academy with extraordinarily elaborate wood, brick, stone and ceramic decoration. The best single building in the city.
 
-**Museum of the Mausoleum of the Nanyue King** (¥12) — the tomb of a 2nd-century BCE king discovered in 1983, with a jade burial suit. Small, superb.
+**Nanyue King Museum** (¥12) — the tomb of a 2nd-century BCE king discovered in 1983, with a jade burial suit. Small, superb. Note that the institution was reorganised in September 2021: the old Museum of the Western Han Mausoleum of the Nanyue King merged with the Nanyue Palace Museum, and the combined body now has two separate sites — the tomb, on Jiefang North Road, and the palace ruins, on Beijing Road. Older listings name only one of them, so check which you are navigating to.
 
 **Canton Tower** (¥150–350) — 604 m, with a bubble tram around the rim for the brave.
 
@@ -69,7 +69,7 @@ Cantonese cooking prizes freshness and restraint: steaming, quick stir-frying, c
 | --- | --- | --- |
 | **Foshan** | 30 min metro | Ancestral Temple, Cantonese opera, martial-arts heritage (Wong Fei-hung, Ip Man) |
 | **Kaiping diaolou** | 2 h | UNESCO-listed fortified watchtowers built by returning overseas Chinese, blending Chinese and European styles. Genuinely strange and wonderful |
-| **Shenzhen** | 30 min HSR | A city built from nothing since 1980; Huaqiangbei electronics market |
+| **Shenzhen** | 30 min HSR | Grew from a county town of a few hundred thousand into a megacity after 1980 — not the empty fishing village of the legend; Huaqiangbei electronics market |
 | **Hong Kong** | 50 min HSR | Immigration handled in the station |
 | **Chaozhou** | 3 h | A distinct and superb culinary tradition, and a beautiful old town |
 

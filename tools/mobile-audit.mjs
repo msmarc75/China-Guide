@@ -22,6 +22,9 @@ const PAGES = [
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',
+  '/answers/',
+  '/answers/how-much-cash-should-i-bring-to-china/',
+  '/tools/china-visa-checker/',
   '/search/',
 ];
 

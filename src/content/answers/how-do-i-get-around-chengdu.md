@@ -34,7 +34,7 @@ Check your ticket. Arriving at Tianfu expecting Shuangliu means a considerably l
 
 ## DiDi and taxis
 
-DiDi is the practical default for anything the metro does not reach — it is inexpensive, you set the destination in the app so there is no language problem, and payment is automatic. Street taxis are metered and fine; have your destination in Chinese characters to show.
+DiDi is the practical default for anything the metro does not reach — [the app your own country uses is not an option here](/answers/can-you-use-uber-in-china/) — and it is inexpensive, you set the destination in the app so there is no language problem, and payment is automatic. Street taxis are metered and fine; have your destination in Chinese characters to show.
 
 :::warn The panda base rewards an early start
 The pandas are most active in the morning feed, and the site gets busy afterwards. This is one of the few places in China where arriving at opening genuinely changes the experience — plan the journey the night before.

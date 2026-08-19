@@ -29,6 +29,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { editorialRegion } from './lib/inbound-links.mjs';
 
 const DIST = 'dist';
 const CONTENT = 'src/content';
@@ -51,22 +52,6 @@ const htmlFiles = [];
 
 const urlOf = (file) => file.replace(/^dist/, '').replace(/index\.html$/, '');
 
-/** The prose region of a page: no related block, no sidebar, no ad slots. */
-function editorialRegion(html) {
-  const start = html.indexOf('<article');
-  if (start === -1) return '';
-  const relatedAt = html.indexOf('<section class="related">', start);
-  const end = relatedAt !== -1 ? relatedAt : html.indexOf('</article>', start);
-  return html
-    .slice(start, end === -1 ? html.length : end)
-    // Strip chrome asides only. `:::warn`/`:::tip`/`:::note` render as
-    // <aside class="callout ...> and are prose a writer chose to put there, so
-    // links inside them are editorial and must count. The sidebar, product and
-    // promo slots are generated and must not.
-    .replace(/<aside class="(?:article__aside|product-slot|promo-slot)[\s\S]*?<\/aside>/g, '')
-    .replace(/<div class="ad-slot"[\s\S]*?<\/div>/g, '');
-}
-
 const pages = htmlFiles.map((file) => {
   const html = fs.readFileSync(file, 'utf8');
   return {
@@ -87,7 +72,11 @@ const byUrl = new Map(pages.map((p) => [p.url, p]));
  * ------------------------------------------------------------------ */
 
 const inbound = new Map(pages.map((p) => [p.url, 0]));
+const isListingUrl = (u) => u === '/' || u === '/sitemap-page/' || /^\/[^/]+\/$/.test(u);
 for (const page of pages) {
+  // Section indexes link to everything beneath them by construction. That is
+  // generated navigation, not an editorial route, so they are not sources.
+  if (isListingUrl(page.url)) continue;
   const seen = new Set();
   for (const m of page.editorial.matchAll(/href="(\/[^"#?]*)"/g)) {
     const target = m[1].endsWith('/') ? m[1] : `${m[1]}/`;
@@ -106,7 +95,15 @@ const articles = pages.filter(
   (p) => !SKIP.has(p.url) && !SECTION_INDEX.test(p.url) && p.url !== '/404.html'
 );
 
-const orphans = articles.filter((p) => inbound.get(p.url) === 0);
+// The two shop pages are deliberately not promoted from editorial prose —
+// putting Marc's own products inside the guides is a commercial decision that
+// is his to make. Recorded here so the exemption is visible rather than
+// masked by a loose count, which is how it went unnoticed before.
+const COMMERCIAL_PAGES = new Set(['/shop/china-trip-planner/', '/shop/survival-mandarin-pack/']);
+
+const orphans = articles.filter(
+  (p) => !COMMERCIAL_PAGES.has(p.url) && inbound.get(p.url) === 0
+);
 if (orphans.length) {
   note(`${orphans.length} article(s) with zero inbound editorial links:`);
   for (const o of orphans) note(`    ${o.url}`);
@@ -177,7 +174,10 @@ for (const p of answerPages) {
  * Report
  * ------------------------------------------------------------------ */
 
-const counts = articles.map((a) => inbound.get(a.url)).sort((a, b) => a - b);
+const counts = articles
+  .filter((a) => !COMMERCIAL_PAGES.has(a.url))
+  .map((a) => inbound.get(a.url))
+  .sort((a, b) => a - b);
 const median = counts.length
   ? counts.length % 2
     ? counts[(counts.length - 1) / 2]

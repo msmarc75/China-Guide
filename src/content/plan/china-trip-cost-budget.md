@@ -20,7 +20,7 @@ related:
   - /guides/transport-in-china/
 ---
 
-Prices below are in renminbi (¥, also written CNY or RMB). The exchange rate hovers around **¥7.1 to the US dollar** and **¥7.7 to the euro**, but it moves — treat conversions as indicative.
+Prices below are in renminbi (¥, also written CNY or RMB). The exchange rate hovers around **¥7.1 to the US dollar** and **¥7.7 to the euro**, but it moves — treat conversions as indicative. None of it is spendable until your payment apps work, which is [the first of the four things to set up before flying](/plan/first-time-china-travel-guide/).
 
 :::key The short version
 - **Backpacker:** ¥250–400 a day (US$35–55)

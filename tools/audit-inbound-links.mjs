@@ -20,8 +20,8 @@
 //
 // Usage: node tools/audit-inbound-links.mjs [--max N] [--section answers]
 
-import { readFileSync, readdirSync } from 'node:fs';
-import { join, relative } from 'node:path';
+import { readFileSync } from 'node:fs';
+import { inboundSources, clusterIsolation, isArticle } from './lib/inbound-links.mjs';
 
 const DIST = new URL('../dist/', import.meta.url).pathname;
 
@@ -30,52 +30,12 @@ const DIST = new URL('../dist/', import.meta.url).pathname;
 const NOT_EDITORIAL_TARGETS =
   /^\/(about|contact|privacy|editorial-policy|affiliate-disclosure|search|sitemap-page|shop)?\/?$/;
 
-function editorialRegion(html) {
-  const start = html.indexOf('<article');
-  if (start === -1) return '';
-  const relatedAt = html.indexOf('<section class="related">', start);
-  const end = relatedAt !== -1 ? relatedAt : html.indexOf('</article>', start);
-  return html
-    .slice(start, end === -1 ? html.length : end)
-    // Strip chrome asides only. `:::warn`/`:::tip`/`:::note` render as
-    // <aside class="callout ...> and are prose a writer chose to put there, so
-    // links inside them are editorial and must count. The sidebar, product and
-    // promo slots are generated and must not.
-    .replace(/<aside class="(?:article__aside|product-slot|promo-slot)[\s\S]*?<\/aside>/g, '')
-    .replace(/<div class="ad-slot"[\s\S]*?<\/div>/g, '');
-}
-
-function walk(dir, out = []) {
-  for (const entry of readdirSync(dir, { withFileTypes: true })) {
-    const p = join(dir, entry.name);
-    if (entry.isDirectory()) walk(p, out);
-    else if (p.endsWith('.html')) out.push(p);
-  }
-  return out;
-}
-
 const argv = process.argv;
 const maxShown = argv.includes('--max') ? Number(argv[argv.indexOf('--max') + 1]) : 2;
 const section = argv.includes('--section') ? argv[argv.indexOf('--section') + 1] : null;
 
-const files = walk(DIST).filter((f) => !/404\.html|\/search\/|sitemap-page/.test(f));
-const slugOf = (f) => `/${relative(DIST, f).replace(/index\.html$/, '').replace(/\\/g, '/')}`;
-
-const slugs = files.map(slugOf);
-const counts = new Map(slugs.map((s) => [s, 0]));
-const sources = new Map(slugs.map((s) => [s, []]));
-
-for (const file of files) {
-  const from = slugOf(file);
-  const region = editorialRegion(readFileSync(file, 'utf8'));
-  for (const to of slugs) {
-    if (to === from) continue;
-    if (region.includes(`href="${to}"`)) {
-      counts.set(to, counts.get(to) + 1);
-      sources.get(to).push(from);
-    }
-  }
-}
+const { sources, urls } = inboundSources(DIST);
+const counts = new Map(urls.map((u) => [u, (sources.get(u) ?? []).length]));
 
 const scored = [...counts.entries()]
   .filter(([slug]) => !NOT_EDITORIAL_TARGETS.test(slug))
@@ -101,31 +61,17 @@ console.log();
 // Cluster isolation — the thing the totals above hide.
 //
 // /destinations/beijing/restaurants/ sat at two inbound editorial links, which
-// is on the section's median and looks entirely healthy. Both came from
+// is on the section median and looks entirely healthy. Both came from
 // /destinations/beijing/ and /destinations/beijing/things-to-do/ — its own
 // parent and its own sibling. A reader who never lands on the Beijing city
-// page has no editorial route to it at all.
-//
-// Eight sub-pages were in that state and the count-based view could not show
-// it, because a link's VALUE depends on where it comes from and a total throws
-// that away. So: for any page nested under a parent (/destinations/<city>/…),
-// count how many of its referrers come from outside that cluster.
+// page has no editorial route to it at all. Eight pages were in that state and
+// the count-based view could not show it, because a link's VALUE depends on
+// where it comes from and a total throws that away.
 // ---------------------------------------------------------------------------
 
-const clusterOf = (slug) => {
-  const m = slug.match(/^\/([^/]+)\/([^/]+)\/.+/);
-  return m ? `/${m[1]}/${m[2]}/` : null;
-};
-
-const nested = scored
-  .map(([slug, count]) => {
-    const c = clusterOf(slug);
-    if (!c) return null;
-    const outside = sources.get(slug).filter((s) => clusterOf(s) !== c && s !== c);
-    return { slug, count, outside };
-  })
-  .filter(Boolean)
-  .sort((a, b) => a.outside.length - b.outside.length || a.count - b.count);
+const nested = clusterIsolation(sources, urls).filter((n) =>
+  section ? n.url.startsWith(`/${section}/`) : true
+);
 
 if (nested.length) {
   const isolated = nested.filter((n) => n.outside.length === 0);
@@ -134,7 +80,7 @@ if (nested.length) {
   console.log(`  reachable only from inside their own cluster    ${isolated.length}\n`);
   for (const n of nested.filter((x) => x.outside.length <= 1)) {
     const label = n.outside.length === 0 ? 'ISOLATED' : `${n.outside.length} outside`;
-    console.log(`  ${String(n.count).padStart(2)} in · ${label.padEnd(10)} ${n.slug}`);
+    console.log(`  ${String(n.inbound).padStart(2)} in · ${label.padEnd(10)} ${n.url}`);
     if (n.outside.length) console.log(`      outside: ${n.outside.join(', ')}`);
   }
   console.log();

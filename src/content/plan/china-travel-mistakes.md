@@ -21,7 +21,7 @@ related:
 
 ## 1. Arriving without Alipay or WeChat Pay set up
 
-The single most consequential mistake. China runs on QR payment, your Visa card works almost nowhere, and verification can require an SMS code to a number that works. **Install both apps, verify with your passport and bind a card before you fly.** See [money and payments](/guides/money-and-payments-in-china/).
+The single most consequential mistake. China runs on QR payment, your Visa card works almost nowhere, and verification can require an SMS code to a number that works. **Install both apps, verify with your passport and bind a card before you fly.** See [money and payments](/guides/money-and-payments-in-china/), and [the four problems to solve before departure](/plan/first-time-china-travel-guide/) if this is your first trip.
 
 ## 2. Not installing a VPN before arrival
 

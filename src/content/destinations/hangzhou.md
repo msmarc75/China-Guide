@@ -67,7 +67,7 @@ Zhejiang cuisine is delicate, slightly sweet and fish-forward.
 
 ## Practicalities
 
-- **From Shanghai:** 45–60 minutes by high-speed rail from Hongqiao to Hangzhou East. Trains every few minutes.
+- **From Shanghai:** [45–60 minutes by high-speed rail](/answers/how-do-i-get-from-shanghai-to-hangzhou/) from Hongqiao to Hangzhou East. Trains every few minutes.
 - **Days needed:** one night makes a good stop; two nights lets you do the lake at dawn and the tea villages properly.
 - **Getting around:** modern metro, and shared bikes are ideal around the lake.
 - **Best season:** March to May for blossom and green tea harvest, September to November for clear autumn air and the tidal bore. Summer is hot and humid.

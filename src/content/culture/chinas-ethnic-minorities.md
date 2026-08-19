@@ -49,7 +49,7 @@ What a traveller actually notices is narrower than the constitutional language s
 
 **Ningxia and the northwest** are Hui heartland — Chinese-speaking Muslims whose visible difference is religious rather than linguistic. The halal cooking described in the [food pillar](/food/beyond-the-eight-cuisines/) is theirs, and it reaches every large Chinese city. See [Yinchuan](/destinations/yinchuan/).
 
-**Xinjiang** is Uyghur, Kazakh and several other Turkic-speaking populations, with a food culture and built environment closer to Central Asia than to eastern China.
+**Xinjiang** is Uyghur, Kazakh and several other Turkic-speaking populations, with a food culture and built environment closer to Central Asia than to eastern China. The Tajik towns along [the Karakoram Highway](/answers/do-i-need-a-permit-for-the-karakoram-highway/) are a different world again, and need a border permit.
 
 **Tibetan areas** extend well beyond the Tibet Autonomous Region — into Qinghai, western Sichuan and northwest Yunnan — and those provincial Tibetan areas are reachable without the permit that Tibet itself requires.
 
@@ -58,7 +58,7 @@ What a traveller actually notices is narrower than the constitutional language s
 :::warn Tibet requires a permit and an organised tour
 Foreign passport holders cannot travel independently in the Tibet Autonomous Region. You need a **Tibet Travel Permit**, [arranged through a travel agency](/answers/how-do-i-get-a-tibet-travel-permit/) rather than applied for directly, and you must be on an organised tour; the permit is checked before you board the train or flight. Border areas such as Everest and Ngari need a further permit on top.
 
-Requirements and processing times change, and the agencies that publish them have a commercial interest, so treat any timeline you read — including this one — as a starting point and confirm with an operator well before booking flights. Tibetan areas in Qinghai, Sichuan and Yunnan are not covered by this and need no permit.
+Requirements and processing times change, and the agencies that publish them have a commercial interest, so treat any timeline you read — including this one — as a starting point and confirm with an operator well before booking flights. [Tibetan areas in Qinghai, Sichuan and Yunnan](/answers/can-i-visit-tibetan-areas-without-a-tibet-permit/) are not covered by this and need no permit.
 :::
 
 ## Staged culture and living culture

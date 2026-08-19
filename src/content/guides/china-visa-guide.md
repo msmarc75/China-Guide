@@ -142,7 +142,7 @@ Being admitted to China is not the same as being allowed everywhere in China.
 
 **Tibet Autonomous Region.** Foreign nationals require a **Tibet Travel Permit**, which cannot be applied for individually — it must be arranged by a registered Tibetan travel agency as part of a booked tour with a guide. You need it before boarding the flight or train to Lhasa. Additional Aliens' Travel Permits are needed for areas beyond Lhasa such as Everest Base Camp. Budget three weeks for [the paperwork](/answers/how-do-i-get-a-tibet-travel-permit/), and note that the region periodically closes to foreigners, usually around March. See our [Tibet guide](/destinations/tibet-lhasa/).
 
-**Xinjiang.** No special permit for the main cities and the Southern Silk Road route, but expect frequent identity checks, security screening at the entrance to markets and stations, and restrictions in border areas.
+**Xinjiang.** No special permit for the main cities and the Southern Silk Road route, but expect frequent identity checks, security screening at the entrance to markets and stations, and restrictions in border areas — [the Karakoram Highway needs a border permit](/answers/do-i-need-a-permit-for-the-karakoram-highway/) obtained in Kashgar.
 
 **Border areas** in Yunnan, Inner Mongolia and elsewhere may need an Aliens' Travel Permit from the local Public Security Bureau.
 

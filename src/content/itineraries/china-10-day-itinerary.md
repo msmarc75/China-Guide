@@ -21,7 +21,7 @@ related:
   - /plan/china-trip-cost-budget/
 ---
 
-The Beijing–Xi'an–Shanghai triangle is the standard first China trip and it is standard because it works: the imperial capital, the ancient capital, and the 21st-century one, connected by high-speed rail, with the Great Wall and the Terracotta Army as bookends.
+Hangzhou is [under an hour from Shanghai](/answers/how-do-i-get-from-shanghai-to-hangzhou/) if you want to stretch the last leg. The Beijing–Xi'an–Shanghai triangle is the standard first China trip and it is standard because it works: the imperial capital, the ancient capital, and the 21st-century one, connected by high-speed rail, with the Great Wall and the Terracotta Army as bookends.
 
 **Fly into Beijing, out of Shanghai.** An open-jaw ticket avoids a wasted backtrack day.
 

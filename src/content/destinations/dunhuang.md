@@ -115,7 +115,7 @@ No. Dunhuang is a small oasis city with a handful of bus routes. Get around by t
 
 ### Which train station should I book for Dunhuang?
 
-Dunhuang station (敦煌站), about ten kilometres from town. Liuyuannan (柳园南站) is a high-speed station roughly 130 kilometres away in a different county, and reaching town from there needs a long road transfer.
+Dunhuang station (敦煌站), about ten kilometres from town. Liuyuannan (柳园南站) is a high-speed station roughly 130 kilometres away in a different county, and reaching town from there needs a long road transfer. [Which station to book](/answers/which-train-station-should-i-book-for-dunhuang/) explains why apps steer you to the wrong one.
 
 ### How many days do you need in Dunhuang?
 

@@ -26,7 +26,7 @@ related:
 ---
 
 :::warn Read this first
-Foreign nationals **cannot travel independently** in the Tibet Autonomous Region. Every foreign visitor needs a **Tibet Travel Permit**, which can only be obtained through a registered Tibetan travel agency as part of a booked itinerary with a licensed guide. Additional permits are required for areas beyond Lhasa. The region also closes to foreign visitors periodically, most consistently during March. Confirm current conditions with an agency before booking flights.
+Foreign nationals **cannot travel independently** in the Tibet Autonomous Region — though [the Tibetan areas outside it](/answers/can-i-visit-tibetan-areas-without-a-tibet-permit/) need no permit at all. Every foreign visitor needs a **Tibet Travel Permit**, which can only be obtained through a registered Tibetan travel agency as part of a booked itinerary with a licensed guide. Additional permits are required for areas beyond Lhasa. The region also closes to foreign visitors periodically, most consistently during March. Confirm current conditions with an agency before booking flights.
 :::
 
 ## The permit system

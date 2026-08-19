@@ -56,7 +56,7 @@ The westernmost city in China, closer to Baghdad than to Beijing, and for two th
 
 South from Kashgar towards the Pakistan border, climbing through the Pamirs. **Karakul Lake** (3,600 m) sits below the 7,546 m Muztagh Ata, and **Tashkurgan**, a Tajik town at 3,100 m, is the last settlement before the Khunjerab Pass.
 
-This route requires a border-area permit obtainable in Kashgar, is subject to closures, and is one of the great mountain drives on earth. Hire a driver; public transport is limited and checkpoints are numerous.
+This route [requires a border-area permit obtainable in Kashgar](/answers/do-i-need-a-permit-for-the-karakoram-highway/), is subject to closures, and is one of the great mountain drives on earth. Hire a driver; public transport is limited and checkpoints are numerous.
 
 ## Turpan
 

@@ -89,7 +89,7 @@ Hong Kong is one of the world's great eating cities.
 
 ### Do I need a separate visa for Hong Kong?
 
-Hong Kong has its own immigration policy, and most nationalities enter visa-free for 14 to 180 days depending on passport. A mainland Chinese visa does not cover Hong Kong, and crossing from Hong Kong into mainland China counts as a new entry against your Chinese visa or visa-free allowance.
+Hong Kong has its own immigration policy, and most nationalities enter visa-free for 14 to 180 days depending on passport. A mainland Chinese visa does not cover Hong Kong, and crossing from Hong Kong into mainland China counts as a new entry against your Chinese visa or visa-free allowance — which is why [a single-entry Chinese visa does not survive the trip](/answers/is-hong-kong-part-of-china-for-visa-purposes/).
 
 ### Does Google work in Hong Kong?
 

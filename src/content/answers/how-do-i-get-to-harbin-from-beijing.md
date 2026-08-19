@@ -31,7 +31,7 @@ About **two hours** in the air, plus two airport transfers and security at both 
 
 ## Going for the ice festival
 
-Most people making this journey are going for the **Harbin International Ice and Snow Sculpture Festival**, which runs from late December to late February. Two things follow from that.
+Most people making this journey are going for the **Harbin International Ice and Snow Sculpture Festival**, which runs from late December to late February — [the official 5 January opening is a ceremony, not the gate](/answers/when-is-the-harbin-ice-festival/). Two things follow from that.
 
 **Book earlier than feels necessary.** This is a domestic tourism peak, and rail seats and hotel rooms both tighten in January.
 

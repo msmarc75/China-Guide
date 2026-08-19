@@ -33,7 +33,7 @@ Almost all of it survives. That is what makes Beijing unlike any other capital.
 
 ## How long you need
 
-**Three nights minimum, four is right.** Day one for the Forbidden City and the Tiananmen area, a full day for the Great Wall, a day for the Temple of Heaven and the Summer Palace or a hutong wander. The fourth buys you the 798 art district, the Lama Temple, or a second, quieter Wall section.
+**Three nights minimum, four is right.** Day one for the Forbidden City and the Tiananmen area, a full day for the Great Wall, a day for the Temple of Heaven and the Summer Palace or a hutong wander. It is also the city to do [before Shanghai rather than after](/answers/should-i-visit-beijing-or-shanghai-first/), because it asks the most of you. The fourth buys you the 798 art district, the Lama Temple, or a second, quieter Wall section.
 
 ## The Forbidden City
 

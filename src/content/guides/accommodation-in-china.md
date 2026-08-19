@@ -100,7 +100,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 | Shanghai | Former French Concession, or the Bund | Tree-lined streets and cafés, or the classic waterfront |
 | Xi'an | Inside the city walls, near the Bell Tower | Everything walkable; the Muslim Quarter at your door |
 | Chengdu | Near Chunxi Road or the Wide & Narrow Alleys | Central, good metro, teahouse district |
-| Guilin | Around Zhengyang pedestrian street | Or skip Guilin and stay in Yangshuo |
+| Guilin | Around Zhengyang pedestrian street | Or [skip Guilin and stay in Yangshuo](/answers/should-i-stay-in-guilin-or-yangshuo/) |
 | Hangzhou | West Lake's north or west shore | Walk to the lake at dawn |
 | Hong Kong | Sheung Wan, Tsim Sha Tsui or Causeway Bay | Central, MTR-connected |
 

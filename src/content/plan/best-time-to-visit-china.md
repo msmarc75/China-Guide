@@ -91,7 +91,9 @@ Brutally cold from November to March, which is exactly the point: the **Harbin I
 | Classic first trip (Beijing–Xi'an–Chengdu–Shanghai) | Late Sep–early Nov | Best weather across all four |
 | Hiking the Great Wall | Oct, or late Apr | Clear air, no heat, good visibility |
 | Rice terraces at Longji | Jun (flooded, reflective) or Sep (golden) | The two photogenic states |
+| Longji rice terraces | Late spring, or mid-Sept | [Two narrow windows](/answers/when-are-the-longji-rice-terraces-at-their-best/) — flooded, then gold before the harvest |
 | Zhangjiajie and Huangshan | Oct–Nov | Fewer clouds, less rain, best chance of the sea-of-clouds |
+| Harbin ice festival | Late Dec–Feb | [Opens officially 5 Jan, but the park admits visitors earlier](/answers/when-is-the-harbin-ice-festival/) |
 | Tibet | Jun–Sep | Passes open, workable weather |
 | Silk Road (Xinjiang, Gansu) | May–Jun, Sep–Oct | Avoids the 40°C+ summer |
 | Skiing and ice festivals | Jan–Feb | Peak season in Heilongjiang and Jilin |

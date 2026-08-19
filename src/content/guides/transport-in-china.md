@@ -160,7 +160,7 @@ Forty minutes. Stations are airport-sized, entry requires security screening, an
 
 ### Is it better to fly or take the train in China?
 
-Take the train for journeys under about five hours of rail time — it is faster door to door, more reliable and cheaper. Fly for genuinely long distances such as Beijing to Kunming, anywhere to Urumqi, or the leg to Lhasa.
+Take the train for journeys under about five hours of rail time — it is faster door to door, more reliable and cheaper. Fly for genuinely long distances such as Beijing to Kunming, anywhere to Urumqi, or the leg to Lhasa. [Which legs fall on which side of the line](/answers/should-i-fly-or-take-the-train-between-chinese-cities/), and what tips a marginal case.
 
 ### How do I pay for the metro in China?
 

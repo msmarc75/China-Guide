@@ -112,7 +112,7 @@ Two nights covers the Bund, the former French Concession, Yu Garden and a museum
 
 ### Is Shanghai worth visiting?
 
-Yes, though for different reasons than Beijing. Shanghai is modern, cosmopolitan and easy — the best food scene in mainland China, the most walkable historic streets, and the strongest concentration of English. It is not where you go for imperial history.
+Yes, though for different reasons than Beijing. Shanghai is modern, cosmopolitan and easy — the best food scene in mainland China, the most walkable historic streets, and the strongest concentration of English. It is not where you go for imperial history, which is why [it works better at the end of a trip than the start](/answers/should-i-visit-beijing-or-shanghai-first/).
 
 ### What is the best time to visit Shanghai?
 

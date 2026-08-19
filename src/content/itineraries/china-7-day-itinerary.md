@@ -20,7 +20,7 @@ related:
   - /destinations/shanghai/
 ---
 
-Seven days in China means choosing. The temptation is Beijing, Xi'an, Shanghai and maybe Chengdu; the reality is that four cities in a week means three travel days and a permanent feeling of being late.
+Seven days in China means choosing. The temptation is Beijing, Xi'an, Shanghai and maybe Chengdu; the reality is that four cities in a week means three travel days and a permanent feeling of being late. Two cities, and [Beijing before Shanghai](/answers/should-i-visit-beijing-or-shanghai-first/), is the shape that works.
 
 **Beijing and Shanghai** is the right pairing for a first trip: imperial China and modern China, four and a half hours apart by train, both with direct international flights so you can fly into one and out of the other.
 

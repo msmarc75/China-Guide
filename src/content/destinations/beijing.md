@@ -115,7 +115,7 @@ The metro is excellent, bilingual, ¥3–10 a ride, and covers everything except
 
 Beijing is enormous and its blocks are long — a "short walk" on the map is regularly 1.5 km. Shared bikes are the best way to cover the gaps.
 
-Two airports: **Capital (PEK)**, closer, served by the Airport Express (¥25, 20 min to Dongzhimen); **Daxing (PKX)**, the Zaha Hadid-designed starfish 46 km south, served by its own express line (¥35, 20 min to Caoqiao). Check which one your flight uses — they are 70 km apart. For the options from Capital in detail, see [getting from Beijing Capital airport to the city](/answers/how-do-i-get-from-beijing-capital-airport-to-the-city/).
+Two airports: **Capital (PEK)**, closer, served by the Airport Express (¥25, 20 min to Dongzhimen); **Daxing (PKX)**, the Zaha Hadid-designed starfish 46 km south, served by its own express line (¥35, 20 min to Caoqiao). [Check which one your flight uses](/answers/which-beijing-airport-will-i-fly-into/) — they are 70 km apart. For the options from Capital in detail, see [getting from Beijing Capital airport to the city](/answers/how-do-i-get-from-beijing-capital-airport-to-the-city/).
 
 ## Frequently asked questions
 

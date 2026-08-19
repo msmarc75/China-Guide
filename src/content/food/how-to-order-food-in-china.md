@@ -91,6 +91,7 @@ Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely norma
 
 ## Dietary requirements
 
+- **Ordering too much is the norm**, not a mistake — a host who orders exactly enough looks mean, which is why [leaving food on the plate](/answers/is-it-rude-to-leave-food-on-your-plate-in-china/) worries visitors more than it worries anyone else at the table.
 - **Vegetarian:** 我吃素 (*wǒ chī sù*) is the clearest phrase and is understood as Buddhist vegetarianism. Even then, chicken stock and oyster sauce are common; see [vegetarian and vegan travel in China](/food/vegetarian-vegan-in-china/).
 - **No chilli:** 不要辣 (*bú yào là*). In Sichuan and Hunan this may be interpreted generously; 一点辣都不要 ("not even a little spice") is more emphatic.
 - **No coriander:** 不要香菜 (*bú yào xiāng cài*). Worth knowing — it appears in a great deal.
@@ -124,7 +125,7 @@ No. Tipping is not customary anywhere in mainland China and can cause confusion 
 
 ### How do I say I am vegetarian in Chinese?
 
-我吃素 (wǒ chī sù). It is understood as Buddhist vegetarianism and is the clearest formulation. Be aware that chicken stock, lard and oyster sauce still appear in nominally vegetable dishes, so specify 不要肉 (no meat) and consider eating at Buddhist temple restaurants.
+我吃素 (wǒ chī sù). It is understood as Buddhist vegetarianism and is the clearest formulation. Be aware that chicken stock, lard and oyster sauce still appear in nominally vegetable dishes, so specify 不要肉 (no meat) and consider eating at Buddhist temple restaurants. [How well vegetarians actually eat in China](/answers/can-vegetarians-eat-in-china/) is more encouraging than that caveat makes it sound.
 
 ### What is malatang?
 

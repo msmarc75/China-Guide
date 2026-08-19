@@ -22,7 +22,7 @@ related:
 
 ## Baijiu
 
-**白酒** — "white spirit" — is distilled from sorghum and other grains, bottled at 40–60% ABV, and consumed in greater volume than any other spirit category in the world. It is also the drink most likely to defeat a visitor.
+**白酒** — "white spirit" — is distilled from sorghum and other grains, bottled at 40–60% ABV, and consumed in greater volume than any other spirit category in the world. It is also the drink most likely to defeat a visitor, and [whether you actually have to drink it](/answers/what-is-baijiu-and-do-i-have-to-drink-it/) is the question every guest ends up asking.
 
 The flavour is not like Western spirits. It is intensely aromatic, often described as funky, fermented, or reminiscent of overripe fruit, soy sauce and blue cheese. Reactions among first-time drinkers range from fascination to genuine horror.
 

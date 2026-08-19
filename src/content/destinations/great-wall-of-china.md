@@ -113,4 +113,4 @@ October, for clear air, autumn colour and comfortable temperatures, followed by 
 
 ### Can you see the Great Wall from space?
 
-No. The claim is a persistent myth — the Wall is long but only a few metres wide and made of materials the same colour as the surrounding terrain, and it is not visible to the naked eye from low Earth orbit.
+No. The claim is a persistent myth — the Wall is long but only a few metres wide and made of materials the same colour as the surrounding terrain, and it is not visible to the naked eye from low Earth orbit. [China's own first astronaut looked for it and said so on television](/answers/can-you-see-the-great-wall-of-china-from-space/), which is where the claim lost its standing at home.

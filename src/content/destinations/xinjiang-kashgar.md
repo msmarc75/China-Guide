@@ -93,7 +93,7 @@ For the wider picture — the classification behind the term "minority", where e
 
 ### Can foreigners travel to Xinjiang?
 
-Yes. No special permit is needed for the main routes, and independent travel is possible. Expect frequent passport checks, security screening at markets and stations, a restricted list of hotels licensed to take foreign guests, and the possibility of areas closing at short notice.
+Yes. No special permit is needed for the main routes, and independent travel is possible. Expect frequent passport checks, security screening at markets and stations, a restricted list of hotels licensed to take foreign guests, and the possibility of areas closing at short notice. [What the security environment means in practice](/answers/can-foreigners-travel-to-xinjiang/) sets out the checkpoints, the hotel rule and the two clocks.
 
 ### Is Kashgar worth visiting?
 

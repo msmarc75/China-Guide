@@ -97,7 +97,7 @@ Yes. Hong Kong's internet is not filtered, so Google, WhatsApp, Instagram, Faceb
 
 ### What is an Octopus card?
 
-Hong Kong's stored-value transport and payment card, used on the MTR, buses, trams, ferries and in convenience stores and many restaurants. Buy one at any MTR station for about HK$150 including deposit, or add it to your phone.
+Hong Kong's stored-value transport and payment card, used on the MTR, buses, trams, ferries and in convenience stores and many restaurants. The tourist version costs HK$39 with no deposit and no stored value included; the standard on-loan card takes a HK$50 refundable deposit plus an initial HK$150 of stored value for an adult. You can also add Octopus to an iPhone and skip the counter — [which card to buy and where](/answers/what-is-an-octopus-card-in-hong-kong/) sets out the difference.
 
 ### How many days do you need in Hong Kong?
 

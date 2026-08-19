@@ -164,6 +164,7 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 6. **Skip cable cars where a path exists.** Walking up Huangshan takes 3 hours and saves ¥90.
 7. **Refill your bottle.** Boiling-water dispensers are in every station, train and hotel corridor.
 8. **Buy a transport QR pass inside Alipay** instead of queueing for single tickets — no fee, and often a small discount.
+9. **Claim the VAT back on a serious purchase.** Silk, tea, jade and electronics qualify, and the threshold [fell to ¥200 in one shop in one day](/answers/can-i-get-a-tax-refund-in-china/), which is far lower than most guidance still says. Ask for the form at the till; it cannot be issued later.
 
 :::slot product:planner
 :::

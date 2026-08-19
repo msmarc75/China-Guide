@@ -106,4 +106,4 @@ Mutianyu, for almost everyone. Both are about 70 km from central Beijing, but Mu
 
 ### How early should I get to a Chinese train station?
 
-Forty minutes. Stations are airport-sized with security screening, and boarding gates close three to five minutes before departure. Chinese trains leave exactly on time and will not wait.
+Forty minutes. Stations are airport-sized with security screening, and boarding gates close three to five minutes before departure. Chinese trains leave exactly on time and will not wait — [what each part of that forty minutes buys you](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) breaks it down.

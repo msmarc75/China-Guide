@@ -25,7 +25,7 @@ The Silk Road was never one road. It was a shifting network of routes carrying s
 Most of it is now covered by high-speed rail, which makes what was once a punishing expedition into a comfortable and genuinely extraordinary three weeks.
 
 :::warn Before you commit
-The western half of this route runs through **Xinjiang**, where foreign travellers face frequent identity checks, security screening to enter markets and stations, a restricted list of hotels licensed to accept foreigners, and the possibility of areas closing at short notice. No special permit is required for the main route. Read our [Xinjiang guide](/destinations/xinjiang-kashgar/) and check current conditions before booking.
+The western half of this route runs through **Xinjiang**, where foreign travellers face frequent identity checks, security screening to enter markets and stations, a restricted list of hotels licensed to accept foreigners, and the possibility of areas closing at short notice. No special permit is required for the main route — [this is not Tibet, and the difference is large](/answers/can-foreigners-travel-to-xinjiang/). Read our [Xinjiang guide](/destinations/xinjiang-kashgar/) and check current conditions before booking.
 :::
 
 ## The route

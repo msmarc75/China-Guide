@@ -109,7 +109,7 @@ Tea, silk, porcelain, Yixing teapots, calligraphy supplies and a carved name sea
 
 ### Can I get a tax refund in China?
 
-Yes. Spend ¥200 or more in one day at a licensed refund store, keep the goods unused, and claim an 11% rebate at the airport before check-in within 90 days of purchase. You need the refund form issued at the till and your passport. The threshold was ¥500 until April 2025, so older guidance sets the bar too high.
+Yes. Spend ¥200 or more in one day at a licensed refund store, keep the goods unused, and claim an 11% rebate at the airport before check-in within 90 days of purchase. You need the refund form issued at the till and your passport. The threshold was ¥500 until April 2025, so older guidance sets the bar too high. [What to do in the shop and at the airport](/answers/can-i-get-a-tax-refund-in-china/) goes through it step by step.
 
 ### Can I take antiques out of China?
 

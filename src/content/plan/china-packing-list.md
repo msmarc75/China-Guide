@@ -135,4 +135,4 @@ Bring ¥500–1,000 as a backup for rural buses, temple donations and the occasi
 
 ### Is toilet paper provided in China?
 
-Often not, in public toilets and at many tourist sites. Carry a pack of tissues at all times, and expect squat toilets outside hotels and modern shopping malls.
+Often not, in public toilets and at many tourist sites. Carry a pack of tissues at all times, and expect squat toilets outside hotels and modern shopping malls. [Where paper is and is not provided, and why it often goes in the bin](/answers/is-toilet-paper-provided-in-china/) covers the rest of it.

@@ -118,14 +118,25 @@ export const SCHEMES = {
  * ------------------------------------------------------------------ */
 
 export const SCHEME_MEMBERS = {
-  // Checked against the National Immigration Administration's own list
-  // (nia.gov.cn/n741440/n741577/c1731154), which stood at 50 countries as
-  // last revised on 17 February 2026 — the revision that added Canada and
-  // the United Kingdom. Czechia and Lithuania are the only Schengen states
-  // still off it; they get 240-hour transit only. Thailand, Malaysia,
-  // Singapore, Qatar and the UAE reach the same 30-day outcome through
-  // mutual exemption agreements rather than the unilateral scheme, so they
-  // sit here for the traveller's answer rather than for taxonomic tidiness.
+  // 55 codes: the National Immigration Administration's own 50-country
+  // unilateral list (nia.gov.cn/n741440/n741577/c1731154, last revised
+  // 17 February 2026 — the revision that added Canada and the United
+  // Kingdom), plus five countries that reach the same 30-day outcome
+  // through MUTUAL exemption agreements rather than the unilateral scheme:
+  // Thailand, Malaysia, Singapore, Qatar and the UAE. Those five sit here
+  // for the traveller's answer rather than for taxonomic tidiness — the
+  // question this tool answers is "do I need a visa", not "under which
+  // instrument".
+  //
+  // The list is easy to under-count. Eight of the fifty are neither EU nor
+  // Schengen and are routinely dropped from secondary sources: Andorra,
+  // Monaco, Liechtenstein, Montenegro, North Macedonia, and the Gulf trio
+  // of Oman, Kuwait and Bahrain, whose entry began as a June 2025 trial and
+  // now runs to 31 December 2026. Cross-checked against the Chinese
+  // consulate in San Francisco's visa-free FAQ, updated June 2026.
+  //
+  // Czechia and Lithuania are the only Schengen states still off the list;
+  // they get 240-hour transit only.
   unilateral30: {
     checked: '2026-08-19',
     codes: [
@@ -133,7 +144,7 @@ export const SCHEME_MEMBERS = {
       'HU', 'IE', 'IT', 'LV', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
       'SI', 'ES', 'SE', 'CH', 'NO', 'IS', 'GB', 'CA', 'RU', 'AU', 'NZ',
       'JP', 'KR', 'SG', 'MY', 'TH', 'BN', 'BR', 'AR', 'CL', 'PE', 'UY',
-      'AE', 'QA', 'SA',
+      'AE', 'QA', 'SA', 'OM', 'KW', 'BH', 'AD', 'MC', 'LI', 'ME', 'MK',
     ],
   },
   // The 55-country list as expanded on 12 June 2025, when Indonesia was
@@ -163,9 +174,11 @@ export const SCHEME_MEMBERS = {
  * ------------------------------------------------------------------ */
 
 export const COUNTRIES = [
+  { code: 'AD', name: 'Andorra', note: 'On China’s 30-day unilateral visa-free list in its own right. Small European states are routinely dropped from secondary lists that summarise the policy as “the EU and Schengen”.' },
   { code: 'AR', name: 'Argentina' },
   { code: 'AU', name: 'Australia' },
   { code: 'AT', name: 'Austria' },
+  { code: 'BH', name: 'Bahrain', note: 'Visa-free entry for Saudi Arabia, Oman, Kuwait and Bahrain began as a trial on 9 June 2025 and has been extended to 31 December 2026, completing visa-free coverage of all six GCC states.' },
   { code: 'BE', name: 'Belgium' },
   { code: 'BR', name: 'Brazil' },
   { code: 'BN', name: 'Brunei' },
@@ -190,15 +203,21 @@ export const COUNTRIES = [
   { code: 'IT', name: 'Italy' },
   { code: 'JP', name: 'Japan' },
   { code: 'KZ', name: 'Kazakhstan' },
+  { code: 'KW', name: 'Kuwait', note: 'Visa-free entry for Saudi Arabia, Oman, Kuwait and Bahrain began as a trial on 9 June 2025 and has been extended to 31 December 2026, completing visa-free coverage of all six GCC states.' },
   { code: 'LV', name: 'Latvia' },
+  { code: 'LI', name: 'Liechtenstein', note: 'On China’s 30-day unilateral visa-free list in its own right. Small European states are routinely dropped from secondary lists that summarise the policy as “the EU and Schengen”.' },
   { code: 'LT', name: 'Lithuania', note: 'Lithuania and Czechia are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — the 240-hour transit scheme applies instead.' },
   { code: 'LU', name: 'Luxembourg' },
   { code: 'MY', name: 'Malaysia' },
   { code: 'MT', name: 'Malta' },
   { code: 'MX', name: 'Mexico' },
+  { code: 'MC', name: 'Monaco', note: 'On China’s 30-day unilateral visa-free list in its own right. Small European states are routinely dropped from secondary lists that summarise the policy as “the EU and Schengen”.' },
+  { code: 'ME', name: 'Montenegro', note: 'Montenegro and North Macedonia are on the 30-day unilateral list despite being outside the EU and the Schengen area.' },
   { code: 'NL', name: 'Netherlands' },
   { code: 'NZ', name: 'New Zealand' },
+  { code: 'MK', name: 'North Macedonia', note: 'Montenegro and North Macedonia are on the 30-day unilateral list despite being outside the EU and the Schengen area.' },
   { code: 'NO', name: 'Norway' },
+  { code: 'OM', name: 'Oman', note: 'Visa-free entry for Saudi Arabia, Oman, Kuwait and Bahrain began as a trial on 9 June 2025 and has been extended to 31 December 2026, completing visa-free coverage of all six GCC states.' },
   { code: 'PE', name: 'Peru' },
   { code: 'PH', name: 'Philippines' },
   { code: 'PL', name: 'Poland' },
@@ -216,10 +235,10 @@ export const COUNTRIES = [
   { code: 'SE', name: 'Sweden' },
   { code: 'CH', name: 'Switzerland' },
   { code: 'TH', name: 'Thailand' },
+  { code: 'UA', name: 'Ukraine' },
   { code: 'AE', name: 'United Arab Emirates' },
   { code: 'GB', name: 'United Kingdom' },
   { code: 'US', name: 'United States', note: 'Not on the unilateral visa-free list. A 10-year multiple-entry L visa is standard when applying.' },
-  { code: 'UA', name: 'Ukraine' },
   { code: 'UY', name: 'Uruguay' },
 ];
 

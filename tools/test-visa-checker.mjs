@@ -8,6 +8,7 @@
  *   CHROMIUM_PATH=/path/to/chromium node tools/test-visa-checker.mjs
  */
 
+import fsSync from 'node:fs';
 import { chromium } from 'playwright';
 
 const BASE = process.env.AUDIT_BASE || 'http://localhost:4321';
@@ -99,6 +100,41 @@ await plain.goto(PAGE, { waitUntil: 'domcontentloaded' });
 const rows = await plain.locator('.visa-tool__table tbody tr').count();
 check(`the full rules table renders without JavaScript (${rows} countries)`, rows > 50);
 await noJs.close();
+
+// ---------------------------------------------------------------------------
+// The headline counts in the guide's prose, and the arrays behind the checker,
+// must agree.
+//
+// Three times now the prose has been right and the data wrong: the guide said
+// 50 unilateral nationalities while the checker offered 42 (PR #63), and 55
+// transit and 59 Hainan while it carried 48 and 36 (freshness pass, round one).
+// The totals get checked when the guide is edited; the arrays do not, because
+// nothing reads them but the tool. So compare them here.
+// ---------------------------------------------------------------------------
+
+const rulesSrc = await import('../src/content/visa-rules.mjs');
+const guide = fsSync.readFileSync('src/content/guides/china-visa-guide.md', 'utf8');
+
+const statedIn = (label) => {
+  const line = guide.split('\n').find((l) => l.trim().startsWith(`- ${label}`));
+  const m = line && /(\d+)\s+nationalities/.exec(line);
+  return m ? Number(m[1]) : null;
+};
+
+for (const [id, label] of [
+  ['unilateral30', 'Unilateral visa-free'],
+  ['transit240', 'Transit visa-free'],
+  ['hainan30', 'Hainan'],
+]) {
+  const member = rulesSrc.SCHEME_MEMBERS[id];
+  const stated = statedIn(label);
+  const extra = (member.alsoVisaFreeByMutualAgreement ?? []).length;
+  check(
+    `${id}: guide says ${stated}, data holds ${member.codes.length - extra} official + ${extra} by mutual agreement`,
+    stated !== null && stated === member.officialCount && member.codes.length - extra === member.officialCount,
+    `stated ${stated} · officialCount ${member.officialCount} · codes ${member.codes.length} · mutual ${extra}`
+  );
+}
 
 check('no console errors', consoleErrors.length === 0, consoleErrors.join(' | '));
 

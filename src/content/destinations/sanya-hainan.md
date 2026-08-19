@@ -10,7 +10,7 @@ region: Hainan, South China
 lat: 18.2528
 lon: 109.5119
 order: 20
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [hainan travel guide, sanya beaches, hainan visa free, china tropical island, duty free hainan]
 facts:
   - Visa-free | 30 days, 59 nationalities, direct arrival

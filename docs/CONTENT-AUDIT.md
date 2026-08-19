@@ -140,3 +140,81 @@ to be wrong.
 The pattern is explained by when pages were written. Everything produced from
 Phase 4 onward carries the verification discipline and is holding up. The
 audit's job was the pages that predate it, and those are now done.
+
+---
+
+# Freshness pass, round one
+
+The nine-pass audit above is closed and stays closed. This is a different job:
+re-verifying claims that were correct when the audit passed over them and may
+not be now. The audit's own largest defect category was "claims that were true
+when written and expired", and its own conclusion was that nothing about those
+looks wrong on re-reading — they can only be caught by re-checking against a
+current source. Nothing had done that since.
+
+## How the tranche was chosen
+
+Every page carries an `updated:` date, and there were only two: 59 pages at
+2026-08-01 and 118 at 2026-08-19. So "oldest" is one tranche of 59, and age
+alone could not rank it.
+
+Ranked by decay risk instead — regulatory rules first, then prices and fees,
+then schedules and opening hours, then institution names, then transport
+times, then venue existence, with history and culture last. That put the visa
+material at the top, and it is where both defects were.
+
+## What was wrong
+
+**The 240-hour transit list was missing seven nationalities.** The data behind
+the interactive checker carried 48 codes against an official 55: Monaco,
+Serbia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania and
+Belarus. A Serbian or Belarusian passport holder was told they needed a visa
+when they qualified for ten days visa-free.
+
+**The Hainan list was missing twenty-three.** 36 codes against an official 59 —
+most of the 2004-and-later EU accession states, the Balkans, Brunei, Monaco and
+Belarus.
+
+One consequence worth recording: Czechia and Lithuania are the only Schengen
+states off the 30-day unilateral list, and the file told them so while omitting
+that they are on the Hainan list. A Czech planning a Hainan beach trip was told
+to get a visa they did not need. Their notes now say both things.
+
+Sources: the full country lists published by the Chinese embassy in Suriname
+and the consulate in Montreal for the transit scheme — which agree once
+Indonesia's June 2025 addition is accounted for, 54 then and 55 now — and the
+Chinese embassy in Canada with 海口本地宝 (Hǎikǒu Běndìbǎo) for Hainan. Both
+diffs were clean subsets: nothing in the file was wrong, only absent, and the
+additions land on exactly 55 and 59.
+
+## The pattern, and it is the same one as PR #63
+
+Three times now the *prose* has been right and the *data* wrong. The visa guide
+said 50 unilateral nationalities while the checker offered 42 (#63); it said 55
+transit and 59 Hainan while the checker carried 48 and 36 (this round). The
+totals are checked when the guide is written; the arrays are not, because
+nothing reads them but the tool.
+
+Both times the missing entries were the same kind — small European states and
+the Balkans, the ones secondary sources drop when they summarise a policy as
+"the EU and the usual suspects". That is a predictable failure mode and worth
+checking first next time.
+
+**A count in prose and a list in code should be asserted against each other.**
+Neither round would have needed a human eye if a test compared them.
+
+## What came back clean
+
+Re-verified and correct: the 55 and 59 totals in the visa guide, the Hainan
+page, the first-time guide and the checker page; the 60 designated ports and 24
+permitted provinces; Canada's 17 February 2026 addition; the Chinese New Year
+dates for 2026 and 2027 on the best-time page.
+
+## What this implies about cadence
+
+Two real defects in the highest-decay category, both in machine-readable data
+rather than prose, three weeks after the corpus was last touched wholesale.
+Entry rules have moved roughly quarterly since 2023, so the visa data is worth
+re-checking on that cadence rather than annually. The rest of the tranche —
+prices, schedules, institution names, transport times — is untouched and is
+where round two should go.

@@ -119,15 +119,15 @@ Verify Alipay with your passport and bind a card **at home**, because verificati
 
 ### What kind of power plug does China use?
 
-China uses 220 V, 50 Hz with socket types A (flat two-pin, as in the US), C (European round two-pin) and I (Australian angled three-pin). Most Chinese sockets are combination units that accept flat two-pin and Australian plugs directly. UK plugs need an adaptor, and US devices need to be dual-voltage.
+China uses 220 V, 50 Hz with socket types A (flat two-pin, as in the US), C (European round two-pin) and I (Australian angled three-pin). Most Chinese sockets are combination units that accept flat two-pin and Australian plugs directly. UK plugs need an adaptor, and US devices need to be dual-voltage. [Which adapter you actually need](/answers/what-plug-adapter-do-i-need-for-china/).
 
 ### Can I bring a power bank to China?
 
-Yes in hand luggage, never in checked baggage. Since 2025 Chinese airlines require power banks on domestic flights to carry a valid CCC certification mark, and uncertified units are confiscated at security. Check your unit before flying domestically.
+Yes in hand luggage, never in checked baggage. Since 2025 Chinese airlines require power banks on domestic flights to carry a valid CCC certification mark, and uncertified units are confiscated at security. Check your unit before flying domestically. [The airline capacity rules](/answers/can-i-bring-a-power-bank-to-china/) are stricter than most travellers expect.
 
 ### What should I not bring to China?
 
-Politically sensitive printed material, drones you intend to fly casually, large amounts of foreign cash, and bulk toiletries. Also skip towels, guidebooks and umbrellas — all cheap and available everywhere.
+Politically sensitive printed material, drones you intend to fly casually, large amounts of foreign cash, and bulk toiletries. Also skip towels, guidebooks and umbrellas — all cheap and available everywhere. Drones are the common surprise — [what the rules are](/answers/can-i-take-a-drone-to-china/).
 
 ### Do I need to bring cash to China?
 

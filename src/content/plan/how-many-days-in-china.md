@@ -66,7 +66,7 @@ Alternative for repeat visitors: **Chengdu → Chongqing → Zhangjiajie**, or a
 
 ### 14 days — the sweet spot
 
-**Beijing → Xi'an → Chengdu → Shanghai** is the standard, and it is standard because it works: imperial history, ancient capital, pandas and Sichuan food, then contemporary China. Fourteen days absorbs one bad-weather day and one slow morning without wrecking the plan. Full detail in the [14-day itinerary](/itineraries/china-14-day-itinerary/).
+**Beijing → Xi'an → Chengdu → Shanghai** is the standard, and it is standard because it works: imperial history, ancient capital, pandas and Sichuan food, then contemporary China. Fourteen days absorbs one bad-weather day and one slow morning without wrecking the plan. Full detail in the [14-day itinerary](/itineraries/china-14-day-itinerary/). With three weeks you can add the southwest or the Silk Road without rushing — see the [21-day itinerary](/itineraries/china-21-day-itinerary/).
 
 ### 21 days — add scenery or go west
 

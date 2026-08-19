@@ -110,7 +110,7 @@ Scan the QR code on the table or at the counter with Alipay or WeChat, enter the
 
 ### How do I order food in China without speaking Chinese?
 
-Point at a photo menu, a display case or another table and say 这个 (zhè ge, "this one"). Use Pleco's camera OCR or Google Translate's camera mode on a text-only menu. Many restaurants now use QR-code menus inside WeChat or Alipay, some with an English toggle.
+Point at a photo menu, a display case or another table and say 这个 (zhè ge, "this one"). Use Pleco's camera OCR or Google Translate's camera mode on a text-only menu. Many restaurants now use QR-code menus inside WeChat or Alipay, some with an English toggle. There is a [step-by-step version](/answers/how-do-i-order-food-in-china-without-speaking-chinese/) with the phrases and apps that actually work.
 
 ### How much food should I order in a Chinese restaurant?
 

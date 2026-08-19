@@ -126,6 +126,10 @@ If you have been to China before or want scenery over monuments, look at [Guilin
 :::slot ad:mid-article
 :::
 
+## The mistakes first-timers actually make
+
+Most first trips go wrong in the same few ways — underestimating distances, over-packing the schedule, and arriving without payments set up. The [common China travel mistakes](/plan/china-travel-mistakes/) page collects them so you can skip the tuition.
+
 ## When to go
 
 Broadly: **late April to early June** and **mid-September to early November** are the two good windows nationwide — mild, dry-ish, and outside the punishing summer heat. July and August are hot, humid and crowded with domestic school-holiday travel, though they are the only sensible season for Tibet, Xinjiang and the Northeast.
@@ -181,7 +185,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 
 ### Is China safe for tourists?
 
-Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. See [health and safety in China](/guides/health-and-safety-in-china/).
+Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. See [health and safety in China](/guides/health-and-safety-in-china/). Worth pairing with [what not to do in China](/answers/what-should-i-not-do-in-china/), which is more about causing offence than danger.
 
 ### Can I use my credit card in China?
 
@@ -197,7 +201,7 @@ Ten days is the practical minimum for a first trip covering two or three cities 
 
 ### Is English spoken in China?
 
-Not widely. Expect English at international hotels, airports, major museums and among younger people in Beijing and Shanghai — and almost none elsewhere, including taxis and restaurants. Translation apps and screenshots of addresses in Chinese characters close the gap effectively.
+Not widely. Expect English at international hotels, airports, major museums and among younger people in Beijing and Shanghai — and almost none elsewhere, including taxis and restaurants. Translation apps and screenshots of addresses in Chinese characters close the gap effectively. [The realistic answer](/answers/is-english-spoken-in-china/), and how far translation apps get you.
 
 ### What is the best time of year to visit China?
 

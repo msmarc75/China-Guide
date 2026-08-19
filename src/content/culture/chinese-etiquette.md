@@ -68,6 +68,8 @@ Where most of the visible etiquette lives.
 
 More at [how to order food in China](/food/how-to-order-food-in-china/).
 
+For the specific question everyone arrives with, see [do people bow in China?](/answers/do-people-bow-in-china/) — the answer is not what most visitors expect.
+
 ## Gifts
 
 - **Refuse twice, accept on the third offer.** Immediate acceptance looks greedy; the ritual refusal is expected on both sides.
@@ -76,6 +78,8 @@ More at [how to order food in China](/food/how-to-order-food-in-china/).
 - **Good gifts:** something from your own country, quality tea, spirits, chocolates, small branded items.
 - **Avoid:** clocks (送钟 *sòng zhōng* sounds like attending a funeral), sharp objects like knives or scissors (severing a relationship), umbrellas (伞 *sǎn* sounds like "to separate"), pears (梨 *lí* sounds like "to leave"), white or black wrapping (funeral colours), and anything in a set of four (四 *sì* sounds like 死 *sǐ*, death).
 - **Red and gold** wrapping is auspicious. Eight is the luckiest number.
+
+On the perennial worry about clearing your plate, see [is it rude to leave food on your plate in China?](/answers/is-it-rude-to-leave-food-on-your-plate-in-china/)
 
 ## Temples and religious sites
 
@@ -114,7 +118,7 @@ Vertical chopsticks in a bowl of rice resemble incense sticks burned as an offer
 
 ### Do you tip in China?
 
-No. Tipping is not customary in restaurants, cafés, bars or taxis, and offering one can cause confusion. Private tour guides and drivers are the exception, where ¥50–100 a day is now a common courtesy.
+No. Tipping is not customary in restaurants, cafés, bars or taxis, and offering one can cause confusion. Private tour guides and drivers are the exception, where ¥50–100 a day is now a common courtesy. See [do you tip in China?](/answers/do-you-tip-in-china/) for the cases where it has started to change.
 
 ### What gifts should you avoid giving in China?
 
@@ -122,7 +126,7 @@ Clocks, knives and scissors, umbrellas, pears, anything in a set of four, and an
 
 ### Is it rude to refuse a drink in China?
 
-Not if you decline early and clearly. Toasting with tea instead of alcohol is widely accepted. What is awkward is accepting several toasts and then stopping, so state your position at the start of the meal.
+Not if you decline early and clearly. Toasting with tea instead of alcohol is widely accepted. What is awkward is accepting several toasts and then stopping, so state your position at the start of the meal. Baijiu is usually what is being poured — [what it is and whether you have to drink it](/answers/what-is-baijiu-and-do-i-have-to-drink-it/).
 
 ### How do I complain politely in China?
 

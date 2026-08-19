@@ -124,7 +124,7 @@ Street food in China is generally safe, and the rules are the universal ones:
 
 ### Is street food safe in China?
 
-Generally yes, if you eat where locals queue, choose stalls that cook to order over pre-cooked trays, and favour food that comes off high heat in front of you. Avoid lukewarm cold dishes and pre-cut unpeeled fruit, and never drink tap water.
+Generally yes, if you eat where locals queue, choose stalls that cook to order over pre-cooked trays, and favour food that comes off high heat in front of you. Avoid lukewarm cold dishes and pre-cut unpeeled fruit, and never drink tap water. The [fuller answer](/answers/is-street-food-safe-in-china/) explains which stalls to read and which to walk past.
 
 ### What is the best street food in China?
 

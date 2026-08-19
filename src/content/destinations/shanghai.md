@@ -97,7 +97,7 @@ Zhujiajiao is reachable by metro, which makes it the easy option. Wuzhen and Xit
 
 The metro is vast, cheap (¥3–9), fully bilingual and the best in China. Pay by Alipay transport QR. Line 2 connects both airports and the main sights.
 
-- **Pudong (PVG)**: 45 min by metro line 2, or the **Maglev** — 430 km/h, 7.5 minutes, ¥50 — which is a tourist attraction in itself and only takes you as far as Longyang Road.
+- **Pudong (PVG)**: 45 min by metro line 2, or the **Maglev** — 430 km/h, 7.5 minutes, ¥50 — which is a tourist attraction in itself and only takes you as far as Longyang Road — so [whether the maglev is worth it](/answers/is-the-shanghai-maglev-worth-it/) depends on where you are staying.
 - **Hongqiao (SHA)**: 30 min to the centre, and adjacent to Hongqiao railway station, which is where most high-speed trains leave from.
 
 Shanghai is far more walkable than Beijing, and the concession streets are genuinely pleasant to be in.

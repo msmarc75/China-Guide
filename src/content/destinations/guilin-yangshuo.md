@@ -85,6 +85,8 @@ The wet season runs April to September; the region gets over 1,900 mm of rain a 
 
 Summer is hot and humid. Winter is mild, grey and quiet — cheap, and with bare terraces.
 
+Guilin pairs naturally with Zhangjiajie into a single southern loop; the [south China karst itinerary](/itineraries/south-china-karst-itinerary/) routes the two together.
+
 ## Getting there
 
 - **Guilin North** railway station: 2h20 from Guangzhou, 3h from Shenzhen, 5h from Kunming, 10h from Shanghai

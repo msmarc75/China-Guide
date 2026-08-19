@@ -2,7 +2,7 @@
   "name": "china-trip-compass",
   "version": "1.0.0",
   "private": true,
-  "description": "China Trip Compass \u2014 a complete, SEO-optimised English travel guide to China for foreign visitors.",
+  "description": "China Trip Compass — a complete, SEO-optimised English travel guide to China for foreign visitors.",
   "type": "module",
   "scripts": {
     "build": "node src/build.mjs",
@@ -11,10 +11,11 @@
     "check": "node src/check.mjs",
     "audit:mobile": "node tools/mobile-audit.mjs",
     "test:nesting": "node tools/test-nesting.mjs",
-    "test": "node tools/test-nesting.mjs && node src/build.mjs && node tools/test-linking.mjs && node tools/test-aside-partner.mjs",
+    "test": "node tools/test-nesting.mjs && node src/build.mjs && node tools/test-linking.mjs && node tools/test-aside-partner.mjs && node tools/audit-discoverability.mjs",
     "test:linking": "node tools/test-linking.mjs",
     "test:visa": "node tools/test-visa-checker.mjs",
-    "test:aside": "node tools/test-aside-partner.mjs"
+    "test:aside": "node tools/test-aside-partner.mjs",
+    "audit:links": "node tools/audit-discoverability.mjs"
   },
   "engines": {
     "node": ">=18"

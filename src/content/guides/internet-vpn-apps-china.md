@@ -11,7 +11,7 @@ asidePartner: esim
 keywords: [vpn for china, internet in china, is google blocked in china, china sim card for tourists, apps to use in china, esim china]
 facts:
   - Blocked | Google, WhatsApp, Instagram, Facebook, X, YouTube
-  - Works | Apple services, Microsoft, Bing, Wikipedia (partly)
+  - Works | Apple services, Microsoft, Bing, Zoom
   - Roaming SIM | Usually reaches the open internet
   - Chinese SIM | Firewalled
   - Install VPN | Before arrival — provider sites are blocked
@@ -25,9 +25,13 @@ related:
 
 Mainland China filters a large part of the foreign internet. As of 2026 the practical list of things that will not load on an ordinary Chinese connection:
 
-**Blocked:** Google in all forms (Search, Gmail, Maps, Drive, Photos, Play Store), YouTube, Facebook, Instagram, WhatsApp, X/Twitter, Signal, Telegram, Reddit, Twitch, Slack, Dropbox, Wikipedia (intermittently, varies by language), the New York Times, BBC, Reuters, Bloomberg, most Western news, Netflix (also geo-blocked), Spotify, Pinterest, Medium, Discord.
+**Blocked:** Google in all forms (Search, Gmail, Maps, Drive, Photos, Play Store), YouTube, Facebook, Instagram, WhatsApp, X/Twitter, Signal, Telegram, Reddit, Twitch, Slack, Dropbox, **Wikipedia in every language**, the New York Times, BBC, Reuters, Bloomberg, most Western news, Netflix (also geo-blocked), Spotify, Pinterest, Medium, Discord.
 
-**Works normally:** Apple services (iMessage, iCloud, Apple Maps, App Store, FaceTime), Microsoft (Outlook, Teams, OneDrive, Bing), LinkedIn's Chinese presence, Zoom, Amazon, most airline and hotel sites, Booking.com, Trip.com, Wise, most banking apps, Wikipedia's Chinese-hosted mirrors, and — importantly — **your bank's app**, which almost always works.
+Wikipedia is worth spelling out because older guidance still describes it as a partial block. Between 2015 and 2019 only the Chinese-language edition was blocked and the others mostly worked; since April 2019 every language edition has been blocked outright. Do not plan on reaching it without a VPN.
+
+**Works normally:** Apple services (iMessage, iCloud, Apple Maps, App Store, FaceTime), Microsoft (Outlook, Teams, OneDrive, Bing), Zoom, Amazon, most airline and hotel sites, Booking.com, Trip.com, Wise, most banking apps, and — importantly — **your bank's app**, which almost always works.
+
+LinkedIn no longer has a China operation to rely on: the localised social network closed in 2021 and its replacement job app, InCareer, shut down in August 2023. Treat access as something to test on your own connection rather than assume.
 
 Hong Kong and Macau are **not** filtered. Everything works normally there.
 

@@ -12,8 +12,8 @@ facts:
   - Bargain | Tourist markets, antique streets, hawkers
   - Never bargain | Shops, chains, restaurants, taxis, tickets
   - Opening offer | Counter at ~30% of asking price
-  - Tax refund | Available at licensed stores, 11% rebate
-  - Customs | Pre-1911 antiques cannot be exported
+  - Tax refund | 11% rebate, from ¥200 in one store
+  - Customs | Antiques barred pre-1911, mostly to 1949
 related:
   - /guides/money-and-payments-in-china/
   - /culture/tea-culture-in-china/
@@ -83,11 +83,13 @@ Tour guides who take you to a "government-approved jade factory" or "silk worksh
 
 ## Tax refunds
 
-China operates a departure VAT refund scheme: purchases of ¥500 or more in a single day from a **licensed refund store**, taken out of the country within 90 days, qualify for an **11% rebate** (net of a service fee). Ask for the refund form at the till, keep the receipt and the goods unused, and process the claim at the airport before check-in. It is worth doing on a large purchase and not worth the queue on a small one.
+China operates a departure VAT refund scheme: purchases of **¥200 or more** in a single day at one **licensed refund store**, taken out of the country within 90 days, qualify for an **11% rebate** (net of a service fee). Ask for the refund form at the till, keep the receipt and the goods unused, and process the claim at the airport before check-in.
+
+The threshold used to be ¥500 and a great deal of published advice still says so. It was cut to ¥200 in April 2025, alongside a rise in the cash refund ceiling from ¥10,000 to ¥20,000, as part of a push to increase spending by inbound visitors. The practical effect is that far more ordinary purchases now qualify than most guidance suggests — though a small claim may still not be worth the airport queue.
 
 ## Customs: what you cannot take home
 
-- **Antiques made before 1911** cannot be exported. Genuinely old items sold legally carry a red wax seal from the cultural relics bureau; without it, an item that is actually old will be confiscated.
+- **Antiques** are governed by a graduated rule, not the single 1911 cut-off most guidance quotes. Anything made **in or before 1911** is flatly prohibited from export. Items from **1912 to 1949** with historical, artistic or scientific value are prohibited in principle too, which is the part usually left out. Beyond that, works by named deceased artists after 1911 — across calligraphy and painting, ceramics, sculpture, fans, embroidery, seals, snuff bottles and lacquer — sit on restricted lists of their own. Genuinely old items sold legally carry a red wax seal from the cultural relics bureau; without it, an item that is actually old will be confiscated.
 - **Ivory, rhino horn, tortoiseshell, tiger products** — illegal to buy and illegal to import into essentially every country. This includes items sold openly in some markets.
 - **Traditional medicine containing endangered species** — check the ingredients.
 - **Large quantities of tea or single products** may attract questions on the way out and duty on the way in; check your home country's allowances.
@@ -105,11 +107,11 @@ Tea, silk, porcelain, Yixing teapots, calligraphy supplies and a carved name sea
 
 ### Can I get a tax refund in China?
 
-Yes. Spend ¥500 or more in one day at a licensed refund store, keep the goods unused, and claim an 11% rebate at the airport before check-in within 90 days of purchase. You need the refund form issued at the till and your passport.
+Yes. Spend ¥200 or more in one day at a licensed refund store, keep the goods unused, and claim an 11% rebate at the airport before check-in within 90 days of purchase. You need the refund form issued at the till and your passport. The threshold was ¥500 until April 2025, so older guidance sets the bar too high.
 
 ### Can I take antiques out of China?
 
-Only items made after 1911, and genuinely antique pieces must carry the official red wax seal from the cultural relics authority. Anything older is prohibited from export and will be confiscated at customs.
+Rarely, and the common advice that anything after 1911 is fine is wrong. Items made in or before 1911 are flatly prohibited. Items from 1912 to 1949 carrying historical, artistic or scientific value are prohibited in principle as well, and separate lists restrict works by named deceased artists after 1911. Genuinely antique pieces that may leave must carry the official red wax seal from the cultural relics authority; without it, anything actually old will be confiscated at customs.
 
 ### Is shopping in China cheap?
 

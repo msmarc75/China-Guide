@@ -28,6 +28,8 @@ related:
 
 **Pinyin** is the romanisation system. It is not English phonetics — `q` is roughly "ch", `x` is roughly "sh", `zh` is "j", `c` is "ts", and `i` after `zh/ch/sh/r/z/c/s` is a buzzing sound rather than "ee".
 
+How far you get without any of this is a fair question, and [the honest answer on English in China](/answers/is-english-spoken-in-china/) is that it varies enormously by city and by setting.
+
 ## Tones
 
 Mandarin has four tones plus a neutral one, and they are part of the word rather than an expressive layer on top.
@@ -84,6 +86,8 @@ Beyond ten, the system is transparently logical: 11 is 十一 (ten-one), 20 is �
 **Hand signs** for 6 to 10 are one-handed and distinctive — worth learning, since vendors use them constantly in noisy markets. Six is thumb and little finger extended; eight is thumb and index like a gun.
 
 ## Food and restaurants
+
+These cover most of what you need at a table; [ordering without any Chinese at all](/answers/how-do-i-order-food-in-china-without-speaking-chinese/) covers the photo-menu and pointing strategies for when they run out.
 
 | English | Chinese | Pinyin |
 | --- | --- | --- |

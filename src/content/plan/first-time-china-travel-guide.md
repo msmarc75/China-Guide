@@ -152,7 +152,7 @@ China is not the bargain it was in 2010, but it remains excellent value compared
 | Mid-range | ¥600–900 (US$85–125) | 3–4★ hotel, restaurant meals, all sights, second-class rail |
 | Comfortable | ¥1,200–2,000 (US$165–280) | 4–5★ hotel, private guide days, business-class rail |
 
-Entry tickets are the surprise line item: major sights run ¥40–150 each and add up fast. See [what a China trip really costs](/plan/china-trip-cost-budget/).
+Entry tickets are the surprise line item: major sights run ¥40–150 each and add up fast. See [what a China trip really costs](/plan/china-trip-cost-budget/), and [how China compares with other destinations](/answers/is-china-expensive-to-visit/) if you are deciding between trips.
 
 ## Ten things nobody tells you
 

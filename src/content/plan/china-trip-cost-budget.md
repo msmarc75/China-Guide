@@ -174,7 +174,7 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 - **Card payments:** work at international hotels and upmarket restaurants only. Assume otherwise.
 - **Alipay/WeChat:** bind a Visa or Mastercard before you leave home. Alipay currently charges around 3% on transactions above ¥200 and nothing below it, so smaller purchases are effectively free.
 - **Tipping:** not customary and not expected. Do not tip in restaurants or taxis. Tipping a private guide or driver ¥50–100 a day is now common but still optional.
-- **Bargaining:** expected in tourist markets and never in shops, chains or restaurants. Start at about 30% of the asking price in a market and walk away once.
+- **Bargaining:** expected in tourist markets and never in shops, chains or restaurants. Start at about 30% of the asking price in a market and walk away once. [Where haggling is and is not expected](/answers/is-bargaining-expected-in-china/) is worth knowing before you try it in the wrong place.
 
 For why things cost what they do — the scale of the rail network, the new districts, the cashless default — see [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/).
 

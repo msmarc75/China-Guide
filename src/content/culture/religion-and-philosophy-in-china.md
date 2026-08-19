@@ -62,7 +62,7 @@ This is where most everyday religious activity happens: incense for exam results
 
 ## Islam and Christianity
 
-**Islam** arrived by sea and by the Silk Road in the 7th century. There are roughly 20–25 million Muslims in China, principally the **Hui** (Chinese-speaking, dispersed nationwide) and the **Uyghurs** (Turkic, in Xinjiang). The Great Mosque of Xi'an, built entirely in Chinese architectural style, and Id Kah Mosque in Kashgar are the most notable sites.
+**Islam** arrived by sea and by the Silk Road in the 7th century. There are roughly 20–25 million Muslims in China, principally the **Hui** (Chinese-speaking, dispersed nationwide) and the **Uyghurs** (Turkic, in Xinjiang). The Great Mosque of Xi'an, built entirely in Chinese architectural style, and Id Kah Mosque in Kashgar are the most notable sites. The oldest evidence sits on the coast: the Qingjing Mosque in [Quanzhou](/destinations/quanzhou/) dates to 1009 and was built in stone by Persian and Arab merchants, in a city that also holds the only surviving Manichaean statue in the world.
 
 **Christianity** has a long and intermittent history — the Nestorian stele in Xi'an records a community from 781 — and grew substantially from the 1980s. Estimates of the current Christian population vary widely. Cathedrals in Shanghai, Guangzhou, Qingdao and Harbin are architecturally interesting.
 

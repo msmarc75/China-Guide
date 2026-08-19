@@ -96,7 +96,7 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 
 - **Fares** are distance-based, typically ¥3–10.
 - **Pay** by opening the transport QR code inside Alipay (*Transport* → select city) and scanning at the gate on entry and exit. This works in almost every major city and needs no local card.
-- **Security screening** on entry: bags go through a scanner. Allow an extra two minutes at rush hour.
+- **Security screening** on entry: bags go through a scanner. Allow an extra two minutes at rush hour. It applies to [every metro system in the country](/answers/do-i-need-to-go-through-security-on-the-chinese-metro/), not just the capital.
 - **Rush hours** (07:30–09:30, 17:30–19:30) in Beijing, Shanghai and Guangzhou are genuinely crowded.
 
 ### Taxis and DiDi
@@ -148,7 +148,7 @@ Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mou
 
 ### How do I book train tickets in China as a foreigner?
 
-Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate.
+Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate. For how far ahead the booking window opens and what to do when a train sells out, see [can I book Chinese train tickets in advance?](/answers/can-i-book-chinese-train-tickets-in-advance/)
 
 ### Do I need to print my Chinese train ticket?
 
@@ -156,7 +156,7 @@ No. Chinese rail is fully paperless. You scan your passport at the station gate 
 
 ### How early should I arrive at a Chinese train station?
 
-Forty minutes. Stations are airport-sized, entry requires security screening, and boarding gates close three to five minutes before departure. Trains leave exactly on time and do not wait.
+Forty minutes. Stations are airport-sized, entry requires security screening, and boarding gates close three to five minutes before departure. Trains leave exactly on time and do not wait. The [full timing breakdown](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) covers rush hour, big-city termini and what happens if you miss the gate.
 
 ### Is it better to fly or take the train in China?
 
@@ -164,7 +164,7 @@ Take the train for journeys under about five hours of rail time — it is faster
 
 ### How do I pay for the metro in China?
 
-Open the transport QR code inside Alipay, choose your city, and scan the code at the gate on the way in and again on the way out. It works in nearly every major Chinese city with no local transit card needed. Fares are ¥3–10 depending on distance.
+Open the transport QR code inside Alipay, choose your city, and scan the code at the gate on the way in and again on the way out. It works in nearly every major Chinese city with no local transit card needed. Fares are ¥3–10 depending on distance. See [how to pay for the metro in China](/answers/how-do-i-pay-for-the-metro-in-china/) for the setup steps and the cities where a local card is still easier.
 
 ### Is DiDi available in English?
 

@@ -977,7 +977,9 @@ function build() {
   write('.nojekyll', '');
   copyAssets();
 
-  const total = allArticles.length + standalonePages.length + SECTIONS.length + 3;
+  // The four pages written outside the article/standalone/section loops:
+  // the homepage, /search/, /sitemap-page/ and 404.html.
+  const total = allArticles.length + standalonePages.length + SECTIONS.length + 4;
   console.log(`✓ Built ${total} pages into dist/`);
   console.log(`  ${allArticles.length} articles · ${SECTIONS.length} section indexes · ${standalonePages.length} site pages`);
   console.log(`  Canonical origin: ${SITE.url}`);

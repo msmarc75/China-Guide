@@ -108,7 +108,7 @@ Honey appears in some sauces and pastries. Gelatine is uncommon in Chinese desse
 
 ### Is it hard to be vegetarian in China?
 
-Harder than the abundance of vegetables suggests, because lard, chicken stock, oyster sauce and small amounts of minced pork are added to dishes that appear vegetarian. Saying 我吃素 (wǒ chī sù) and carrying a written card listing exclusions solves most of it, and Buddhist restaurants solve all of it.
+Harder than the abundance of vegetables suggests, because lard, chicken stock, oyster sauce and small amounts of minced pork are added to dishes that appear vegetarian. Saying 我吃素 (wǒ chī sù) and carrying a written card listing exclusions solves most of it, and Buddhist restaurants solve all of it. The [short version for first-timers](/answers/can-vegetarians-eat-in-china/) covers what to expect before you arrive.
 
 ### How do you say vegetarian in Chinese?
 

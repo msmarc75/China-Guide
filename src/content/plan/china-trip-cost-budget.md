@@ -170,7 +170,7 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 
 ## Money mechanics
 
-- **Cash withdrawal:** ATMs at Bank of China, ICBC and China Construction Bank accept foreign cards. Expect a ¥100–500 per-transaction fee from your own bank plus a possible local fee. Withdraw larger amounts less often.
+- **Cash withdrawal:** ATMs at Bank of China, ICBC and China Construction Bank accept foreign cards — though [not every foreign debit card works at every machine](/answers/will-my-debit-card-work-at-chinese-atms/). Expect a ¥100–500 per-transaction fee from your own bank plus a possible local fee. Withdraw larger amounts less often.
 - **Card payments:** work at international hotels and upmarket restaurants only. Assume otherwise.
 - **Alipay/WeChat:** bind a Visa or Mastercard before you leave home. Alipay currently charges around 3% on transactions above ¥200 and nothing below it, so smaller purchases are effectively free.
 - **Tipping:** not customary and not expected. Do not tip in restaurants or taxis. Tipping a private guide or driver ¥50–100 a day is now common but still optional.
@@ -180,15 +180,15 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 
 ### Is China expensive for tourists?
 
-Not particularly. Food, intercity transport and city transport are cheap by Western standards; hotels are comparable to Southern Europe; entry tickets are more expensive than most visitors expect. A mid-range traveller spends around ¥600–900 (US$85–125) a day excluding international flights.
+Not particularly. Food, intercity transport and city transport are cheap by Western standards; hotels are comparable to Southern Europe; entry tickets are more expensive than most visitors expect. A mid-range traveller spends around ¥600–900 (US$85–125) a day excluding international flights. The [longer answer](/answers/is-china-expensive-to-visit/) breaks it down by what actually surprises people.
 
 ### How much money should I bring to China per day?
 
-Budget ¥250–400 per day as a backpacker, ¥600–900 mid-range and ¥1,200+ for comfort. Bring only ¥500–1,000 in physical cash — everything else runs through Alipay or WeChat Pay.
+Budget ¥250–400 per day as a backpacker, ¥600–900 mid-range and ¥1,200+ for comfort. Bring only ¥500–1,000 in physical cash — everything else runs through Alipay or WeChat Pay. See [how much cash to bring to China](/answers/how-much-cash-should-i-bring-to-china/) for where cash is still genuinely needed.
 
 ### Are credit cards accepted in China?
 
-Only in international hotel chains, airports and upmarket restaurants. The practical answer is to link your Visa or Mastercard inside Alipay or WeChat Pay before you travel and pay by QR code like everyone else.
+Only in international hotel chains, airports and upmarket restaurants. The practical answer is to link your Visa or Mastercard inside Alipay or WeChat Pay before you travel and pay by QR code like everyone else — see [using a credit card in China](/answers/can-i-use-my-credit-card-in-china/), and [whether foreigners can use Alipay](/answers/can-i-use-alipay-as-a-foreigner-in-china/) for the registration steps.
 
 ### How much is a high-speed train ticket in China?
 
@@ -196,4 +196,4 @@ Roughly ¥0.45–0.55 per kilometre in second class. Beijing to Shanghai (1,300 
 
 ### Do you tip in China?
 
-No. Tipping is not part of the culture in restaurants, cafés or taxis, and offering one can cause confusion. The exception is private tour guides and drivers, where ¥50–100 per day is now a common courtesy.
+No. Tipping is not part of the culture in restaurants, cafés or taxis, and offering one can cause confusion. The exception is private tour guides and drivers, where ¥50–100 per day is now a common courtesy. [The fuller answer](/answers/do-you-tip-in-china/) covers hotels, spas and the awkward cases.

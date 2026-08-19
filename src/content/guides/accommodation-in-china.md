@@ -115,15 +115,15 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 
 ### Can foreigners stay in any hotel in China?
 
-No. Hotels need a specific licence to register foreign guests with the police, and smaller or budget hotels — particularly outside major cities — often do not have one. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely.
+No. Hotels need a specific licence to register foreign guests with the police, and smaller or budget hotels — particularly outside major cities — often do not have one. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely. [The fuller answer](/answers/can-foreigners-stay-in-any-hotel-in-china/) covers what to do when a hotel turns you away.
 
 ### Do I need to register with the police in China?
 
-Yes, within 24 hours of arriving in each place. A licensed hotel does this automatically when it scans your passport at check-in. If you stay in a private home or apartment, you must register in person at the local police station with your host and proof of address.
+Yes, within 24 hours of arriving in each place. A licensed hotel does this automatically when it scans your passport at check-in. If you stay in a private home or apartment, you must register in person at the local police station with your host and proof of address. See [registering with the police in China](/answers/do-i-need-to-register-with-police-in-china/) for the timing and what a hotel does on your behalf.
 
 ### Is Airbnb available in China?
 
-Not for mainland stays. Airbnb shut down its domestic Chinese listings in 2022 and now handles only outbound travel for Chinese users. Hong Kong and Macau listings are unaffected. Use Trip.com or Booking.com for the mainland.
+Not for mainland stays. Airbnb shut down its domestic Chinese listings in 2022 and now handles only outbound travel for Chinese users. Hong Kong and Macau listings are unaffected. Use Trip.com or Booking.com for the mainland. [The current position](/answers/is-airbnb-available-in-china/) and what to use instead.
 
 ### How much does a hotel cost in China?
 

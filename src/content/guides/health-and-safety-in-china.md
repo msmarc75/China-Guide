@@ -45,6 +45,8 @@ Chinese road behaviour follows rules that are not the ones on the signs.
 - **Cross with a group of locals** whenever you can. It is the single most effective technique.
 - **Look both ways twice**, including on one-way streets, because a scooter will be coming the wrong way.
 
+Travellers on their own, and women travelling alone in particular, have a further set of practical questions — the [solo and female travel guide](/guides/solo-and-female-travel-china/) covers them properly.
+
 ## Scams that target foreigners
 
 These are concentrated in a small number of tourist locations and follow scripts. Recognising the opening line is enough.
@@ -169,7 +171,7 @@ The larger practical difficulty for solo travellers is the food: Chinese restaur
 
 ### Is China safe for tourists?
 
-Yes, notably so. Violent crime against visitors is rare and Chinese cities are safe to walk in at night. The real risks are traffic, a set of well-known scams targeting foreigners near major sights, seasonal air quality in the north, and altitude on the Tibetan plateau.
+Yes, notably so. Violent crime against visitors is rare and Chinese cities are safe to walk in at night. The real risks are traffic, a set of well-known scams targeting foreigners near major sights, seasonal air quality in the north, and altitude on the Tibetan plateau. [The longer answer](/answers/is-china-safe-for-tourists/) covers the specific risks that do exist.
 
 ### What is the tea house scam in China?
 
@@ -177,11 +179,11 @@ Friendly English-speaking strangers — often claiming to be students — invite
 
 ### Can you drink the tap water in China?
 
-No. Tap water is not potable anywhere in mainland China. Drink bottled or boiled water; hotels provide kettles and free bottles, and boiling-water dispensers are standard in stations and on trains.
+No. Tap water is not potable anywhere in mainland China. Drink bottled or boiled water; hotels provide kettles and free bottles, and boiling-water dispensers are standard in stations and on trains. See [is tap water safe in China?](/answers/is-tap-water-safe-in-china/) for hotels, kettles and brushing your teeth.
 
 ### Do I need travel insurance for China?
 
-Yes. Chinese public hospitals require payment before treatment, and Western-standard international clinics charge Western prices. If you are going to Tibet or Shangri-La, check that your policy covers altitudes above 3,000 m and medical evacuation.
+Yes. Chinese public hospitals require payment before treatment, and Western-standard international clinics charge Western prices. If you are going to Tibet or Shangri-La, check that your policy covers altitudes above 3,000 m and medical evacuation. On the medical side, [which vaccinations are actually advised](/answers/do-i-need-vaccinations-for-china/) is worth checking well before you fly.
 
 ### What are the emergency numbers in China?
 

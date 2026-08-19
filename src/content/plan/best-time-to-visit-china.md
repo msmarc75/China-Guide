@@ -79,7 +79,7 @@ These have a genuinely short season. **June to September** is when the passes ar
 
 ### The northeast — Harbin, Changbaishan
 
-Brutally cold from November to March, which is exactly the point: the **Harbin Ice and Snow Festival runs from late December to late February**, with temperatures around −20°C. Summer is short, green and pleasantly cool, and is the local escape from the southern heat.
+Brutally cold from November to March, which is exactly the point: the **Harbin Ice and Snow Festival runs from late December to late February**, with temperatures around −20°C. Summer is short, green and pleasantly cool, and is the local escape from the southern heat. See the [Harbin guide](/destinations/harbin/) for what the festival actually involves at that temperature.
 
 :::slot ad:mid-article
 :::
@@ -116,7 +116,7 @@ Dates shift because several follow the lunar calendar, and the State Council pub
 Beijing's air is dramatically better than its 2013 reputation, thanks to coal restrictions and industrial relocation, but winter still produces multi-day episodes where the AQI passes 150. In general:
 
 - **Worst:** the northern plain (Beijing, Xi'an, Shijiazhuang) from November to March, when heating comes on.
-- **Best:** Kunming, coastal Fujian and Guangdong, Hainan, the plateau — clean nearly year-round.
+- **Best:** Kunming, coastal Fujian and Guangdong, [Hainan](/destinations/sanya-hainan/), the plateau — clean nearly year-round.
 - **Practical response:** check an AQI app daily, keep an N95 in your bag if you are asthmatic, and reschedule outdoor days rather than cancelling them. Bad days are usually followed by a wind that clears everything within 24 hours.
 
 ## Frequently asked questions

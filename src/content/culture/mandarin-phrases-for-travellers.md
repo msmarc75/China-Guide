@@ -132,6 +132,7 @@ Note that **我吃素 (wǒ chī sù)** is understood as Buddhist vegetarianism a
 ## Tools that do the work
 
 - **Pleco** — the best Chinese dictionary by a wide margin. Free, works entirely offline, and its camera OCR reads characters from a menu or sign in real time. Install it even if you learn nothing else.
+- Our [survival Mandarin pack](/shop/survival-mandarin-pack/) — the phrases above as a printable card and offline audio, for when your phone is dead or has no signal.
 - **Google Translate** with the **offline Chinese pack** downloaded — conversation mode and camera translation. The offline pack works without any connection.
 - **Baidu Translate** or **Youdao** — work on any Chinese connection and handle photo-menu translation well.
 - **Screenshots.** Save your hotel's name and address in characters, plus any destination you plan to reach by taxi. This is the highest-value five minutes of preparation you can do.

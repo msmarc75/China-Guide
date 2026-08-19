@@ -129,7 +129,7 @@ They are separate currency zones. **Hong Kong uses the Hong Kong dollar (HKD)**;
 
 ### Can foreigners use Alipay in China?
 
-Yes. Since 2023 Alipay accepts foreign Visa, Mastercard, JCB, Diners and Discover cards from visitors. Register with your phone number, verify your identity with your passport, then bind the card. Do this before you arrive, because verification may require an SMS code.
+Yes. Since 2023 Alipay accepts foreign Visa, Mastercard, JCB, Diners and Discover cards from visitors. Register with your phone number, verify your identity with your passport, then bind the card. Do this before you arrive, because verification may require an SMS code. [Step by step](/answers/can-i-use-alipay-as-a-foreigner-in-china/), including the verification that catches people out.
 
 ### Does WeChat Pay work with a foreign credit card?
 
@@ -141,11 +141,11 @@ Alipay currently charges roughly 3% on transactions above ¥200 and nothing belo
 
 ### Should I bring cash to China?
 
-Bring ¥500–1,000 as a backup for rural buses, donation boxes, cash-only windows and a dead phone battery. Merchants are legally required to accept cash, but many small ones cannot make change for a ¥100 note.
+Bring ¥500–1,000 as a backup for rural buses, donation boxes, cash-only windows and a dead phone battery. Merchants are legally required to accept cash, but many small ones cannot make change for a ¥100 note. [How much cash to bring](/answers/how-much-cash-should-i-bring-to-china/) and where it is still genuinely needed.
 
 ### Can I use my credit card in China?
 
-Only at international hotel chains, airports, department stores and upmarket restaurants. Elsewhere, QR-code payment through Alipay or WeChat Pay is the practical answer. Hong Kong is the exception, where contactless cards work everywhere.
+Only at international hotel chains, airports, department stores and upmarket restaurants. Elsewhere, QR-code payment through Alipay or WeChat Pay is the practical answer. Hong Kong is the exception, where contactless cards work everywhere. [The fuller answer](/answers/can-i-use-my-credit-card-in-china/), and separately [whether your debit card will work at an ATM](/answers/will-my-debit-card-work-at-chinese-atms/).
 
 ### What is the currency in China?
 

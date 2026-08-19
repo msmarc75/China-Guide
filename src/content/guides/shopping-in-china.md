@@ -97,7 +97,7 @@ China operates a departure VAT refund scheme: purchases of ¥500 or more in a si
 
 ### How do you bargain in China?
 
-Counter at roughly 30% of the asking price in a tourist market, negotiate up over two or three rounds, and walk away once — if the price was inflated you will be called back. Use a calculator to exchange numbers. Never bargain in shops, chains, restaurants or for taxis and tickets.
+Counter at roughly 30% of the asking price in a tourist market, negotiate up over two or three rounds, and walk away once — if the price was inflated you will be called back. Use a calculator to exchange numbers. Never bargain in shops, chains, restaurants or for taxis and tickets. See [is bargaining expected in China?](/answers/is-bargaining-expected-in-china/) for where it applies and where it does not.
 
 ### What should I buy in China?
 

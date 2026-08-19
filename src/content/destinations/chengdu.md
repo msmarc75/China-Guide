@@ -73,7 +73,7 @@ Beyond hotpot:
 
 **Hotpot** is the social institution. Choose a chain like Shu Daxia or Xiaolongkan for reliability. Order the *yuanyang* split pot if you want a non-spicy half — the spicy side is genuinely spicy, and the oil is rendered beef tallow. Dip in sesame oil with garlic, which cools the heat.
 
-**Cooking classes** in Chengdu are among the best travel activities in China: a market visit, then learning mapo tofu and kung pao chicken properly. Several English-language schools operate near the centre.
+**Cooking classes** in Chengdu are among the best travel activities in China: a market visit, then learning mapo tofu and kung pao chicken properly. Several English-language schools operate near the centre. If the chilli worries you, note that Sichuan's numbing 麻 and its heat 辣 are [separate dials you can adjust separately](/answers/how-do-i-order-hotpot-if-i-cant-handle-spice/).
 
 ## In the city
 

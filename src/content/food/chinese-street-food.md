@@ -105,7 +105,7 @@ The Beijing street that made them famous — the Wangfujing snack street, opened
 
 Street food in China is generally safe, and the rules are the universal ones:
 
-1. **Eat where locals queue.** Turnover means fresh ingredients.
+1. **Eat where locals queue.** Turnover means fresh ingredients, and a queue is [the most reliable restaurant signal in China](/answers/how-do-i-find-good-restaurants-in-china/).
 2. **Choose stalls that cook to order** over trays sitting pre-cooked at ambient temperature.
 3. **Favour high-heat cooking** — wok, griddle, deep fry, charcoal — that you can see happening.
 4. **Be cautious with cold dishes**, pre-cut unpeeled fruit and anything lukewarm.

@@ -36,7 +36,7 @@ Lard as the cooking fat, chicken or pork stock as the liquid, oyster sauce as th
 
 ## Regional odds
 
-Sichuan and Yunnan are comparatively easy — enormous vegetable variety, tofu everywhere, and mushroom cooking taken seriously. Buddhist mountain sites are easy for obvious reasons. The north-west, with its lamb-centred cooking, is harder. Coastal regions hide seafood in more places than you would guess.
+Sichuan and Yunnan are comparatively easy — enormous vegetable variety, tofu everywhere, and mushroom cooking taken seriously. Buddhist mountain sites are easy for obvious reasons, and [the temple restaurants around them are strictly plant-based](/answers/are-there-vegan-restaurants-in-china/) rather than merely accommodating. The north-west, with its lamb-centred cooking, is harder. Coastal regions hide seafood in more places than you would guess.
 
 ## Practical tactics
 

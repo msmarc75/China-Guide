@@ -39,7 +39,7 @@ If someone photographs you without asking and you would rather they did not, a c
 
 This is the genuine practical difficulty, and nobody warns people about it.
 
-Chinese restaurant dining is built around shared dishes. A menu is designed for a table of four ordering six plates. A solo diner ordering two dishes will get a strange look and enough food for three people.
+Chinese restaurant dining is built around shared dishes. A menu is designed for a table of four ordering six plates, and [the ordering convention assumes a table rather than a person](/answers/how-much-food-should-i-order-in-a-chinese-restaurant/). A solo diner ordering two dishes will get a strange look and enough food for three people.
 
 Solutions, in ascending order of usefulness:
 

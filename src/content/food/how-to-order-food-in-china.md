@@ -22,7 +22,7 @@ related:
 
 ## The five things to know
 
-1. **Dishes are shared.** A menu is designed for a table ordering several plates to the middle. Order roughly one dish per person plus one, and a rice or noodle to share.
+1. **Dishes are shared.** A menu is designed for a table ordering several plates to the middle. Order roughly [one dish per person plus one](/answers/how-much-food-should-i-order-in-a-chinese-restaurant/), and a rice or noodle to share.
 2. **You order everything at once**, at the start. There is no starter–main sequence; food arrives as it is ready, often with the "starter" last.
 3. **Rice usually comes separately** and is ordered by the bowl. It is not automatic.
 4. **You pay at the end**, usually by scanning a QR code with Alipay or WeChat, or at the counter. Say 买单 (*mǎi dān*) to ask for the bill.

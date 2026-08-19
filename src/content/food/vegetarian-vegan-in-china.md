@@ -24,11 +24,13 @@ related:
 
 **Good:** China has a serious vegetarian tradition rooted in Mahayana Buddhism, going back over a millennium. Tofu, gluten and mushroom "mock meat" cookery is highly developed and genuinely delicious. Vegetables are treated as dishes in their own right, not garnishes. Dairy is rare in traditional cooking, so much of what you eat is incidentally vegan.
 
+**Good, if you avoid dairy too:** butter, cream and cheese are [essentially absent from Chinese cooking](/answers/is-dairy-used-in-chinese-cooking/), so the usual vegan minefield barely exists here.
+
 **Bad:** the concept of vegetarianism as a secular lifestyle choice is not widely understood outside big cities. A dish described as vegetable will frequently contain lard, a few slivers of pork "for flavour", chicken stock, oyster sauce or dried shrimp — and the cook will not consider that meat.
 
 ## The phrases that work
 
-**我吃素 (wǒ chī sù)** — "I eat vegetarian". This is the phrase to use, because it maps onto Buddhist vegetarianism, which is a recognised category. Say it first.
+**我吃素 (wǒ chī sù)** — "I eat vegetarian". This is the phrase to use, because it maps onto Buddhist vegetarianism, which is a recognised category. Say it first. In [a Buddhist vegetarian restaurant](/answers/are-there-vegan-restaurants-in-china/) you will not need it at all.
 
 Then be specific, because *chī sù* is understood as a religious practice and may be assumed not to apply to a foreigner:
 

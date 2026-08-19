@@ -79,6 +79,10 @@ The National Museum of China, the Shanghai Museum, the Suzhou Museum, the Forbid
 
 Public toilets in China frequently have no paper and no soap, and squat toilets are the norm outside hotels and modern malls. A pack of tissues and a small bottle of hand sanitiser solve a problem you will otherwise encounter within 48 hours.
 
+## 16. Buying the wrong plug adaptor, or one you did not need
+
+Chinese sockets are combination units that already take flat two-pin and Australian plugs, so [whether you need an adaptor at all depends on where you are from](/answers/what-plug-adapter-do-i-need-for-china/). British and earthed German plugs do need one; a great many travellers buy a universal adaptor they never take out of the bag.
+
 :::slot product:planner
 :::
 

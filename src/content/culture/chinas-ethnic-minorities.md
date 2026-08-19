@@ -41,7 +41,7 @@ What a traveller actually notices is narrower than the constitutional language s
 
 ## Where you actually encounter this
 
-**Yunnan** is the most ethnically diverse province and the one most travellers meet first — Bai around Dali, Naxi around Lijiang, Dai in Xishuangbanna near the Laos border, Hani on the Yuanyang terraces, and many more. See the [Yunnan guide](/destinations/yunnan/).
+**Yunnan** is the most ethnically diverse province and the one most travellers meet first — Bai around Dali, Naxi around Lijiang, Dai in Xishuangbanna near the Laos border, Hani on the Yuanyang terraces, and many more. The Bai are also why [Yunnan is the one part of China with a cheese tradition](/answers/is-dairy-used-in-chinese-cooking/). See the [Yunnan guide](/destinations/yunnan/).
 
 **Guizhou** has large Miao and Dong populations and far fewer foreign visitors than Yunnan, which is much of its appeal.
 

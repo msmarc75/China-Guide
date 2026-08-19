@@ -12,7 +12,7 @@ keywords: [chinese regional cuisine, eight great cuisines of china, sichuan food
 facts:
   - Eight great cuisines | Lu, Chuan, Yue, Su, Min, Zhe, Xiang, Hui
   - Best known abroad | Cantonese (Yue)
-  - Spiciest | Hunan (Xiang) and Sichuan (Chuan)
+  - Spiciest | Hunan (Xiang), then Sichuan (Chuan)
   - Most refined | Cantonese and Huaiyang
   - Rule of thumb | Eat the local speciality, everywhere
 related:
@@ -31,7 +31,7 @@ The most influential regional cuisine in modern China and the one that has conqu
 
 Defined by **málà (麻辣)** — the numbing tingle of Sichuan peppercorn combined with the heat of chilli. Crucially, Sichuan cooking recognises around twenty-four distinct flavour profiles, and only a minority are hot: *yúxiāng* (fish-fragrant, sweet-sour-garlicky, containing no fish), *guàiwèi* (strange flavour), *chénpí* (dried tangerine peel), and plenty of mild.
 
-**Order:** mapo tofu, twice-cooked pork, fish-fragrant aubergine, kung pao chicken (the real one, with a light vinegar edge), dan dan noodles, fuqi feipian, water-boiled fish.
+**Order:** mapo tofu, twice-cooked pork, fish-fragrant aubergine, kung pao chicken (the real one, with a light vinegar edge — [not much like the export version](/answers/is-chinese-food-in-china-different-from-chinese-food-abroad/)), dan dan noodles, fuqi feipian, water-boiled fish.
 
 **Eat it in:** [Chengdu](/destinations/chengdu/), [Chongqing](/destinations/chongqing/).
 
@@ -133,7 +133,7 @@ Substantially. Most Chinese food served abroad derives from Cantonese cooking ad
 
 ### Which Chinese cuisine is the spiciest?
 
-Hunan (Xiang) uses the most raw chilli heat, while Sichuan (Chuan) combines chilli with the numbing tingle of Sichuan peppercorn, called málà. Guizhou cooking is intense in a different direction, favouring sourness and fermentation over pure heat.
+Hunan (Xiang) uses the most raw chilli heat, while Sichuan (Chuan) combines chilli with the numbing tingle of Sichuan peppercorn, called málà — [two different sensations, adjustable separately](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/). Guizhou cooking is intense in a different direction, favouring sourness and fermentation over pure heat.
 
 ### What is the most famous Chinese dish?
 
@@ -141,4 +141,4 @@ Depends where you ask. Internationally, sweet and sour pork and kung pao chicken
 
 ### How do I find good restaurants in China?
 
-Use Dianping (大众点评), the Chinese restaurant review app — it is photo-driven and navigable even without Chinese. Otherwise, follow queues of locals, favour places specialising in one dish, and eat the regional speciality of wherever you are.
+Use Dianping (大众点评), the Chinese restaurant review app — it is photo-driven and navigable even without Chinese. [How to read its ratings](/answers/how-do-i-find-good-restaurants-in-china/), and the three rules that need no app at all. Otherwise, follow queues of locals, favour places specialising in one dish, and eat the regional speciality of wherever you are.

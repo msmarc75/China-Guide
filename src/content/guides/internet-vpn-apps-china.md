@@ -88,6 +88,7 @@ A VPN routes your traffic through a server outside China, which restores access 
 | Deliveroo / UberEats | **Meituan** or **Ele.me** | Cheap and everywhere; needs a Chinese address |
 | Booking.com | **Trip.com** (Ctrip) | Lists domestic chains that international OTAs miss |
 | Google Flights | **Trip.com** or **Umetrip** | Umetrip is excellent for real-time domestic flight status |
+| Google reviews / TripAdvisor | **Dianping** (大众点评) or **Meituan** | Where the actual reviewing happens — [how to use it without Chinese](/answers/how-do-i-find-good-restaurants-in-china/) |
 | — | **12306** | Official rail booking, has English mode, accepts passports |
 | — | **Pleco** | The best Chinese-English dictionary; works fully offline; camera OCR |
 | — | **Alipay** | Payments plus a huge set of mini-programs: metro QR, bike share, museum tickets |

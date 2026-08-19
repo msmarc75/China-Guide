@@ -46,7 +46,7 @@ Chongqing is a municipality of 32 million people built across steep hills at the
 
 ## Hotpot
 
-Chongqing hotpot is not Sichuan hotpot with more chilli — it is a distinct tradition, oilier, using rendered beef tallow, and considerably hotter. The classic order includes tripe, duck intestine, luncheon meat, lotus root, potato slices and beef.
+Chongqing hotpot is not Sichuan hotpot with more chilli — it is a distinct tradition, oilier, using rendered beef tallow, and considerably hotter. It is also the birthplace of the split pot, so [not eating chilli is no reason to skip it](/answers/how-do-i-order-hotpot-if-i-cant-handle-spice/). The classic order includes tripe, duck intestine, luncheon meat, lotus root, potato slices and beef.
 
 - Order the *yuanyang* (split) pot if you want an escape route
 - Dip in **sesame oil with garlic**, not the sesame paste used in Beijing

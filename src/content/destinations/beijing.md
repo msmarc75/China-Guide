@@ -26,7 +26,7 @@ related:
   - /itineraries/china-7-day-itinerary/
 ---
 
-Beijing has been the capital of China, on and off, since Kublai Khan built Dadu here in 1267. The consequence is a city planned as a diagram of political cosmology: a north–south axis running through the Bell and Drum Towers, the Forbidden City, Tiananmen and out to the Temple of Heaven, with the emperor at the exact centre and everything else arranged around him in descending order of rank.
+Beijing has been the capital of China, on and off, since Kublai Khan built Dadu here in 1267. The consequence is a city planned as a diagram of political cosmology: a north–south axis running from the Bell and Drum Towers down through Jingshan, the Forbidden City, Tiananmen and Zhengyangmen to Yongdingmen, with the emperor at the exact centre and everything else arranged around him in descending order of rank. The great ritual altars do not sit on the line but flank it in matched pairs — the Temple of Heaven to the east, the Altar of Agriculture to the west. UNESCO inscribed the axis and its fifteen component sites as World Heritage in July 2024.
 
 Almost all of it survives. That is what makes Beijing unlike any other capital.
 
@@ -77,13 +77,13 @@ The unrestored Jiankou section is spectacular and genuinely dangerous — loose 
 
 **Temple of Heaven** (¥34 through-ticket). Go at 07:00, when the surrounding park fills with retired Beijingers doing tai chi, ballroom dancing, jianzi, calligraphy with water brushes and — memorably — group opera singing. The Hall of Prayer for Good Harvests is the postcard; the park is the experience.
 
-**Summer Palace** (¥30–60). The Qing imperial retreat: a huge lake, a 728 m painted corridor, and Cixi's marble boat, built with money earmarked for the navy. Half a day. Best in autumn.
+**Summer Palace** (¥30–60). The Qing imperial retreat: a huge lake, a 728 m painted corridor, and the marble boat — which, contrary to the story every guide tells, was not built by Cixi at all. It dates from Qianlong's garden on this site; Cixi rebuilt it in 1893, giving it the Western-style upper deck and paddle wheels it has now. Naval funds were diverted into the wider restoration, but how much is genuinely disputed by historians, and the boat itself is a rebuild rather than the emblem of the scandal. Half a day. Best in autumn.
 
 **Lama Temple (Yonghegong)** (¥25). The most important Tibetan Buddhist temple outside Tibet, active, full of incense smoke, and home to an 18 m Maitreya carved from a single sandalwood trunk.
 
 **Tiananmen Square.** Requires advance booking and a passport, and security is thorough. Worth crossing once for the scale. Mao's mausoleum has its own queue and its own rules (no bags, no cameras).
 
-**798 Art District.** A decommissioned Bauhaus-designed East German factory complex turned contemporary art quarter. Uneven, commercialised in parts, and still the best contemporary art concentration in China.
+**798 Art District.** A decommissioned East German-built factory complex in a Bauhaus-influenced style turned contemporary art quarter. Uneven, commercialised in parts, and still the best contemporary art concentration in China.
 
 **National Museum of China** (free, book ahead, closed Mondays). The *Ancient China* permanent exhibition in the basement is a complete material history of the country and is the single best museum visit in Beijing.
 

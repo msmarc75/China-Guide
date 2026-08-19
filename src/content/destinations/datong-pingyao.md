@@ -78,6 +78,12 @@ Pingyao is heavily commercialised on its two main streets and quiet everywhere e
 - **Combining:** Beijing → Datong → Pingyao → Xi'an is a natural and rewarding route that adds two days to the classic itinerary and takes you completely off the standard track.
 - **Season:** May, June, September and October. Shanxi winters are cold and dry, and air quality can be poor in winter.
 
+:::warn If you are entering on 240-hour visa-free transit, this route splits in two
+Shanxi is one of the provinces where the transit scheme admits you to named cities only — Taiyuan and Datong — rather than the whole province. Datong is therefore fine. **Pingyao is not**: it lies in Jinzhong, outside both permitted cities, so pairing the two on a visa-free transit entry would put the second half of the trip outside your permitted area.
+
+This affects nobody travelling on a tourist visa, and nobody entering under the 30-day unilateral visa-free scheme, both of which cover the whole country. It applies only to the transit route — see the [visa guide](/guides/china-visa-guide/) for which case you are in.
+:::
+
 ## Frequently asked questions
 
 ### Are the Yungang Grottoes worth visiting?

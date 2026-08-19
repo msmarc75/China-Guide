@@ -92,7 +92,7 @@ Alternative: **Hangzhou** (45 min) for West Lake, or **Zhujiajiao** water town (
 
 ### Day 10 — Last morning, fly
 
-**Shanghai Tower** floor 118 if the day is clear (¥180), or a final walk through the concession streets. Pudong airport is 45 minutes by metro line 2 or 7.5 minutes by Maglev from Longyang Road. Allow three hours before an international flight.
+**Shanghai Tower** floor 118 if the day is clear (¥180), or a final walk through the concession streets. Getting out to Pudong airport takes an hour or more on metro line 2, or roughly eight minutes by Maglev if you first make your way to Longyang Road. Allow three hours before an international flight.
 
 :::slot partner:trains
 :::

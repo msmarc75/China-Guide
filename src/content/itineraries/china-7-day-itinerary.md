@@ -89,7 +89,7 @@ Hire a car and driver for the day (¥600–800) if there are two or more of you 
 
 **Option B — Suzhou** (25 minutes by train, ¥40). One classical garden at opening — the **Master of the Nets** is the most perfectly composed — plus a walk along **Pingjiang Road**. Back in Shanghai by mid-afternoon.
 
-**Then:** Pudong airport is 45 minutes by metro line 2, or 7.5 minutes and ¥50 by Maglev from Longyang Road. Allow three hours for an international flight.
+**Then:** the run out to Pudong airport is an hour or more on metro line 2, or about eight minutes and ¥50 by Maglev from Longyang Road. Allow three hours for an international flight.
 
 :::slot partner:trains
 :::

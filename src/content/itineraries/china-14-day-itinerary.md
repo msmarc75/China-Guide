@@ -81,7 +81,7 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 **Day 13 — Suzhou or Hangzhou.** **Suzhou** (25 min, ¥40) for one classical garden at opening plus Pingjiang Road and the I. M. Pei museum, or **Hangzhou** (45 min) for West Lake at dawn and the Longjing tea villages.
 
-**Day 14 — Last morning, fly.** **Shanghai Tower** floor 118 if clear, or a final wander. Pudong is 45 minutes by metro or 7.5 minutes by Maglev. Allow three hours.
+**Day 14 — Last morning, fly.** **Shanghai Tower** floor 118 if clear, or a final wander. Pudong is a long way east — reckon on an hour or more on metro line 2, or about eight minutes by Maglev once you reach Longyang Road. Allow three hours.
 
 :::slot partner:hotels
 :::

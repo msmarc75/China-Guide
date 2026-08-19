@@ -96,7 +96,7 @@ export const MONETISATION = {
     esim: {
       enabled: false,
       name: 'Airalo / Holafly China eSIM',
-      blurb: 'Data eSIM that works in mainland China with a VPN-friendly foreign route — activate before you fly.',
+      blurb: 'Data eSIM activated before you fly. Check the provider routes its China plan internationally rather than through a local partner — that routing is what decides whether you get the open internet.',
       cta: 'Compare China eSIMs',
       href: '#',
       note: 'Typical commission: 10–15% of order value.',

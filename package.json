@@ -16,7 +16,8 @@
     "test:visa": "node tools/test-visa-checker.mjs",
     "test:aside": "node tools/test-aside-partner.mjs",
     "audit:links": "node tools/audit-discoverability.mjs",
-    "audit:transit": "node tools/extract-transit-claims.mjs"
+    "audit:transit": "node tools/extract-transit-claims.mjs",
+    "audit:inbound": "node tools/audit-inbound-links.mjs"
   },
   "engines": {
     "node": ">=18"

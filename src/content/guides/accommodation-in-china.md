@@ -135,4 +135,4 @@ North of the Qinling–Huaihe line, yes — central heating runs roughly from mi
 
 ### Is tap water safe to drink in China?
 
-No, not anywhere in mainland China. Every hotel provides a kettle and free bottled water, and boiling-water dispensers are available in stations, trains and hotel corridors. Carrying an insulated flask is the standard local solution.
+No, not anywhere in mainland China. Every hotel provides a kettle and free bottled water, and boiling-water dispensers are available in stations, trains and hotel corridors. Carrying an insulated flask is the standard local solution — see [is tap water safe in China?](/answers/is-tap-water-safe-in-china/) for what locals actually drink and whether ice is a problem.

@@ -36,6 +36,7 @@ const PAGES = [
   '/destinations/chengdu/nightlife/',
   '/destinations/chengdu/massage-and-spa/',
   '/destinations/quanzhou/',
+  '/destinations/kaifeng/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

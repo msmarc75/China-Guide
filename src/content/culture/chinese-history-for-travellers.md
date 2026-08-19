@@ -60,7 +60,7 @@ The **Dunhuang** cave temples on the Silk Road preserve the era's Buddhist art. 
 
 ### Song: the sophisticated one, 960–1279
 
-Militarily weak, culturally extraordinary. Movable-type printing, paper money, gunpowder weapons, the magnetic compass, monumental landscape painting, and a refinement in ceramics that has never been bettered. The capital moved to **Hangzhou** after the north was lost to the Jurchen.
+Militarily weak, culturally extraordinary. Movable-type printing, paper money, gunpowder weapons, the magnetic compass, monumental landscape painting, and a refinement in ceramics that has never been bettered. The first capital was [Kaifeng](/destinations/kaifeng/), then called Dongjing and by most reckonings the largest city on earth; after the Jurchen took the north in 1127 the court fled south and the capital moved to **Hangzhou**.
 
 ### Yuan: the Mongols, 1271–1368
 

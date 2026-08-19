@@ -11,7 +11,7 @@ badge: Most important
 asidePartner: visa
 keywords: [china visa, china visa free, 240 hour visa free transit china, china tourist visa, l visa china, do i need a visa for china]
 facts:
-  - Unilateral visa-free | 30 days, 40+ nationalities
+  - Unilateral visa-free | 30 days, 50 nationalities
   - Transit visa-free | 240 hours (10 days), 55 nationalities
   - Hainan | 30 days visa-free, 59 nationalities
   - Tourist visa (L) | 30–60 days, single or multiple entry
@@ -35,7 +35,7 @@ Our [China visa checker](/tools/china-visa-checker/) asks four questions and tel
 
 Since late 2023 China has unilaterally waived visa requirements for ordinary passport holders from a growing list of countries, for stays of up to **30 days** for tourism, business, family visits, exchanges and transit.
 
-Countries covered include most of the European Union (France, Germany, Italy, Spain, the Netherlands, Belgium, Luxembourg, Austria, Ireland, Hungary, Poland, Portugal, Greece, the Czech Republic, Slovakia, Slovenia, Croatia, Bulgaria, Romania, Estonia, Latvia, Lithuania, Malta, Cyprus, Finland, Sweden, Denmark), plus Switzerland, Norway, Iceland, the United Kingdom, Australia, New Zealand, Japan, South Korea, Singapore, Brunei, Malaysia, Thailand, Brazil, Argentina, Chile, Peru, Uruguay, the UAE, Qatar, Saudi Arabia and others. The list has grown roughly every quarter.
+Countries covered include most of the European Union (France, Germany, Italy, Spain, the Netherlands, Belgium, Luxembourg, Austria, Ireland, Hungary, Poland, Portugal, Greece, Slovakia, Slovenia, Croatia, Bulgaria, Romania, Estonia, Latvia, Malta, Cyprus, Finland, Sweden, Denmark), plus Switzerland, Norway, Iceland, Russia, the United Kingdom, Canada, Australia, New Zealand, Japan, South Korea, Singapore, Brunei, Malaysia, Thailand, Brazil, Argentina, Chile, Peru, Uruguay, the UAE, Qatar, Saudi Arabia and others. The list has grown roughly every quarter and stood at 50 countries as of February 2026.
 
 **What it means in practice:** book a flight, land, present your passport and a completed arrival card, get a stamp. No application, no fee, no invitation letter, no itinerary to submit.
 
@@ -46,7 +46,9 @@ Countries covered include most of the European Union (France, Germany, Italy, Sp
 - An address for your first night
 - The Chinese customs/health declaration, completed online or via the airport QR code shortly before arrival
 
-**Notable exclusions:** The United States, Canada, India, Israel and most African nations are **not** currently on the unilateral list. Americans and Canadians should use Route 2.
+**Canada was added on 17 February 2026**, in the same revision that added the United Kingdom, bringing the list to 50 countries. This is recent enough that most published guidance — and a good deal of airline ground staff's understanding — has not caught up, so Canadians are still widely told they need a visa. They do not, for stays up to 30 days.
+
+**Notable exclusions:** The United States, India, Israel and most African nations are **not** currently on the unilateral list, and Americans should use Route 2. Within Europe, **Czechia and Lithuania are the only Schengen states still off it** — the one case where "all of Schengen is visa-free" gives the wrong answer.
 
 :::tip Fingerprints and the arrival card
 Nearly all foreign visitors aged 14–70 give fingerprints at immigration; there are self-service kiosks before the desks in most airports. The paper arrival card has been replaced by an online form at many ports — look for the QR code on the jet bridge and fill it in while you queue.
@@ -54,7 +56,7 @@ Nearly all foreign visitors aged 14–70 give fingerprints at immigration; there
 
 ## Route 2: 240-hour visa-free transit (10 days)
 
-This is the route for Americans, Canadians and other nationals not covered above — and it is far more generous than the word "transit" suggests.
+This is the route for Americans and other nationals not covered above — and it is far more generous than the word "transit" suggests. Canadians can still use it, but since February 2026 they no longer need to.
 
 **The scheme:** citizens of **55 countries** may enter China without a visa for up to **240 hours (10 days)** when transiting to a third country or region, entering and exiting through any of more than **60 designated ports** across 24 provinces and municipalities.
 
@@ -160,7 +162,7 @@ Every foreign visitor must be registered with the local police within **24 hours
 
 ### Do I need a visa to visit China?
 
-It depends on your passport. More than 40 nationalities — including most of Europe, the UK, Australia, New Zealand, Japan, South Korea, Malaysia and Brazil — currently enter visa-free for 30 days. US and Canadian citizens are not on that list but can use the 240-hour visa-free transit scheme, or apply for an L tourist visa. Always confirm with your local Chinese embassy before booking.
+It depends on your passport. Fifty nationalities — including most of Europe, the UK, Canada, Australia, New Zealand, Japan, South Korea, Malaysia and Brazil — currently enter visa-free for 30 days. Canada was added on 17 February 2026, so older guidance saying Canadians need a visa is out of date. US citizens are still not on the list but can use the 240-hour visa-free transit scheme, or apply for an L tourist visa. Always confirm with your local Chinese embassy before booking.
 
 ### How does the 240-hour visa-free transit work?
 

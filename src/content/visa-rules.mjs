@@ -118,22 +118,34 @@ export const SCHEMES = {
  * ------------------------------------------------------------------ */
 
 export const SCHEME_MEMBERS = {
+  // Checked against the National Immigration Administration's own list
+  // (nia.gov.cn/n741440/n741577/c1731154), which stood at 50 countries as
+  // last revised on 17 February 2026 — the revision that added Canada and
+  // the United Kingdom. Czechia and Lithuania are the only Schengen states
+  // still off it; they get 240-hour transit only. Thailand, Malaysia,
+  // Singapore, Qatar and the UAE reach the same 30-day outcome through
+  // mutual exemption agreements rather than the unilateral scheme, so they
+  // sit here for the traveller's answer rather than for taxonomic tidiness.
   unilateral30: {
     checked: '2026-08-19',
     codes: [
-      'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
-      'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
-      'SI', 'ES', 'SE', 'CH', 'NO', 'IS', 'GB', 'AU', 'NZ', 'JP', 'KR', 'SG',
-      'MY', 'TH', 'BN', 'BR', 'AR', 'CL', 'PE', 'UY', 'AE', 'QA', 'SA',
+      'AT', 'BE', 'BG', 'HR', 'CY', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
+      'HU', 'IE', 'IT', 'LV', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
+      'SI', 'ES', 'SE', 'CH', 'NO', 'IS', 'GB', 'CA', 'RU', 'AU', 'NZ',
+      'JP', 'KR', 'SG', 'MY', 'TH', 'BN', 'BR', 'AR', 'CL', 'PE', 'UY',
+      'AE', 'QA', 'SA',
     ],
   },
+  // The 55-country list as expanded on 12 June 2025, when Indonesia was
+  // added (NIA announcement; Xinhua). The Asian seven are South Korea,
+  // Japan, Singapore, Brunei, the UAE, Qatar and Indonesia.
   transit240: {
     checked: '2026-08-19',
     codes: [
       'US', 'CA', 'GB', 'IE', 'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE',
       'FI', 'FR', 'DE', 'GR', 'HU', 'IS', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL',
       'NO', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'CH', 'AU', 'NZ', 'JP',
-      'KR', 'SG', 'BR', 'AR', 'CL', 'MX', 'RU', 'UA', 'QA', 'AE',
+      'KR', 'SG', 'BN', 'ID', 'BR', 'AR', 'CL', 'MX', 'RU', 'UA', 'QA', 'AE',
     ],
   },
   hainan30: {
@@ -158,11 +170,11 @@ export const COUNTRIES = [
   { code: 'BR', name: 'Brazil' },
   { code: 'BN', name: 'Brunei' },
   { code: 'BG', name: 'Bulgaria' },
-  { code: 'CA', name: 'Canada', note: 'Not on the unilateral visa-free list. Canadians commonly receive 10-year multiple-entry visas when applying.' },
+  { code: 'CA', name: 'Canada', note: 'Added to the unilateral visa-free list on 17 February 2026. A great deal of published advice still says Canadians need a visa; they do not, for stays up to 30 days.' },
   { code: 'CL', name: 'Chile' },
   { code: 'HR', name: 'Croatia' },
   { code: 'CY', name: 'Cyprus' },
-  { code: 'CZ', name: 'Czechia' },
+  { code: 'CZ', name: 'Czechia', note: 'Czechia and Lithuania are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — the 240-hour transit scheme applies instead.' },
   { code: 'DK', name: 'Denmark' },
   { code: 'EE', name: 'Estonia' },
   { code: 'FI', name: 'Finland' },
@@ -179,7 +191,7 @@ export const COUNTRIES = [
   { code: 'JP', name: 'Japan' },
   { code: 'KZ', name: 'Kazakhstan' },
   { code: 'LV', name: 'Latvia' },
-  { code: 'LT', name: 'Lithuania' },
+  { code: 'LT', name: 'Lithuania', note: 'Lithuania and Czechia are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — the 240-hour transit scheme applies instead.' },
   { code: 'LU', name: 'Luxembourg' },
   { code: 'MY', name: 'Malaysia' },
   { code: 'MT', name: 'Malta' },

@@ -37,12 +37,12 @@ Solve four problems before you fly and the country opens up completely.
 
 This is the question that changed most in the last two years, and the one where old blog posts will actively mislead you.
 
-Since 2023 China has rolled out **unilateral visa-free entry** to a growing list of countries — most of the EU, Switzerland, Norway, the UK (added 2025), Australia, New Zealand, Japan, South Korea, Malaysia, Brazil, Argentina and others — normally allowing stays of **30 days** for tourism, business, family visits and transit. Separately, the **240-hour (10-day) visa-free transit** scheme covers 55 nationalities, including the United States and Canada, arriving at more than 60 ports, provided you hold an onward ticket to a *third* country or region and stay inside the permitted provinces.
+Since 2023 China has rolled out **unilateral visa-free entry** to a growing list of countries — most of the EU, Switzerland, Norway, the UK and Canada (both added in February 2026), Australia, New Zealand, Japan, South Korea, Malaysia, Brazil, Argentina and others — normally allowing stays of **30 days** for tourism, business, family visits and transit. Separately, the **240-hour (10-day) visa-free transit** scheme covers 55 nationalities, including the United States and Canada, arriving at more than 60 ports, provided you hold an onward ticket to a *third* country or region and stay inside the permitted provinces.
 
 Two consequences worth internalising:
 
 - If your country is on the unilateral list, a two-week China trip now involves **no paperwork at all**. Book a flight, land, get a stamp.
-- If you are American or Canadian, you can still travel visa-free by routing your trip as a transit: for example London → Beijing → Seoul. This is a legitimate, heavily used scheme, not a loophole — but the onward ticket must be to a *different* country than the one you came from.
+- If you are American, you can still travel visa-free by routing your trip as a transit: for example London → Beijing → Seoul. This is a legitimate, heavily used scheme, not a loophole — but the onward ticket must be to a *different* country than the one you came from. Canadians no longer need this route, having been added to the 30-day visa-free list in February 2026.
 
 :::warn Verify before you book
 China's visa-free lists have been extended, expanded and adjusted roughly every six months since 2023, and the trial periods carry expiry dates. Confirm your specific nationality on the website of the Chinese embassy in your country before booking anything non-refundable. Our [visa checker](/tools/china-visa-checker/) tells you which route applies to your passport in one click, and the [full China visa guide](/guides/china-visa-guide/) explains what "onward third country" means in practice.

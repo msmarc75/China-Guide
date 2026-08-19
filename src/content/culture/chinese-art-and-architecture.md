@@ -102,6 +102,8 @@ What connoisseurs look at is the movement: the speed of the brush, whether the i
 
 It helps to know the five broad script types, since a gallery will mix them: **seal script (篆书)**, ancient and used now for seals; **clerical (隶书)**, broad and flat; **regular (楷书)**, the clear standard form; **running (行书)**, fluent and semi-joined; and **cursive (草书)**, so abbreviated that many Chinese readers cannot read it either. If you cannot read a piece and a Chinese visitor beside you also cannot, it is probably cursive, and that is not a failure of either of you.
 
+Film is the other way into this material: several of the best-known Chinese films were shot in buildings you can visit, which [Chinese literature and film for travellers](/culture/chinese-literature-and-film/) maps out.
+
 ## In a provincial museum
 
 Provincial museums are free, consistently excellent and under-visited by foreigners. Two categories reward attention.

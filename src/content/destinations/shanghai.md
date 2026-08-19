@@ -102,6 +102,8 @@ The metro is vast, cheap (¥3–9), fully bilingual and the best in China. Pay b
 
 Shanghai is far more walkable than Beijing, and the concession streets are genuinely pleasant to be in.
 
+Shanghai has more good fiction written about it than anywhere else in China — Eileen Chang on the 1940s, Wang Anyi across five decades. See [Chinese literature and film for travellers](/culture/chinese-literature-and-film/).
+
 ## Frequently asked questions
 
 ### How many days should I spend in Shanghai?

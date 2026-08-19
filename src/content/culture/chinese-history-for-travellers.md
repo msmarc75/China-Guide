@@ -87,6 +87,8 @@ The end came from an army mutiny. On 10 October 1911 New Army soldiers rose at W
 
 Republic, warlord fragmentation, the Japanese invasion of 1937 and the **Nanjing Massacre**, civil war between Nationalists and Communists, and the founding of the **People's Republic** on 1 October 1949. Then the Great Leap Forward, the Cultural Revolution of 1966–76, Deng Xiaoping's reforms from 1978, and the fastest large-scale economic transformation in recorded history.
 
+For fiction and film that put a face on all of this — and which translations are worth your time — see [Chinese literature and film for travellers](/culture/chinese-literature-and-film/).
+
 This period is presented in Chinese museums within a specific official framework. It is worth reading independently before you go, and worth not arguing about while you are there.
 
 ## Reading before you travel

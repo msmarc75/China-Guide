@@ -113,7 +113,7 @@ Its cosmopolitanism and its poetry. Between 618 and 907 the capital Chang'an —
 
 ### Where can I see ancient China as a tourist?
 
-Xi'an for the Qin and Tang, Beijing for the Ming and Qing, Pingyao and Datong in Shanxi for surviving Ming and earlier architecture, Dunhuang for Tang Buddhist art, and Hangzhou and Kaifeng for the Song. Provincial museums, which are free, are consistently excellent.
+To tell one dynasty's building from another's on sight, see [Chinese art and architecture](/culture/chinese-art-and-architecture/) — bracket-set proportions are the most reliable cue. Xi'an for the Qin and Tang, Beijing for the Ming and Qing, Pingyao and Datong in Shanxi for surviving Ming and earlier architecture, Dunhuang for Tang Buddhist art, and Hangzhou and Kaifeng for the Song. Provincial museums, which are free, are consistently excellent.
 
 ### When did China's last emperor abdicate?
 

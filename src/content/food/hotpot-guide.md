@@ -32,6 +32,8 @@ A pot of simmering broth sits in a recess in the table, over an induction or gas
 4. **Cook it.** Thin meat takes 10–20 seconds; leafy vegetables under a minute; root vegetables, tofu and dumplings several minutes. Meatballs float when done.
 5. **Order more.** You are meant to order in waves rather than all at once.
 
+Hotpot is the exception to how a Chinese meal is normally structured — see [beyond the eight cuisines](/food/beyond-the-eight-cuisines/) for the usual pattern it departs from.
+
 ## Regional styles
 
 **Chongqing (重庆火锅).** The original and the most intense: rendered beef tallow, a large volume of dried chilli and Sichuan peppercorn, and a thick layer of red oil. Genuinely very hot. Dip in **sesame oil with raw garlic**, which cools the burn and coats the mouth. Classic orders: tripe (*maodu*), duck intestine (*yachang*), luncheon meat, lotus root, potato slices, beef.

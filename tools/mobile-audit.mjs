@@ -44,6 +44,7 @@ const PAGES = [
   '/destinations/changsha/',
   '/destinations/xiamen/',
   '/culture/chinese-art-and-architecture/',
+  '/food/beyond-the-eight-cuisines/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

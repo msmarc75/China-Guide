@@ -386,7 +386,7 @@ function renderHome() {
 
 <section class="wrap home-section">
   <header class="section-header">
-    <h2>Start here: the five things that trip people up</h2>
+    <h2>Start here: the things that trip people up</h2>
     <p>If you read nothing else, read these. They are the difference between a smooth trip and standing outside a hotel at midnight with a card nobody can process.</p>
   </header>
   ${cardGrid(essentials.slice(0, 6))}

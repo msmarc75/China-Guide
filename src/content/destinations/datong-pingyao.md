@@ -92,7 +92,7 @@ Yes — they are among the finest Buddhist cave sculptures in the world, with 51
 
 ### How do I get to Pingyao?
 
-Pingyao Ancient City station is on the high-speed rail network: about 3 hours from Beijing, 3 hours from Xi'an and 45 minutes from Taiyuan. The old city is a short taxi ride from the station.
+Pingyao Ancient City station is on the high-speed rail network: about 3 hours from Beijing, 3 hours from Xi'an and 45 minutes from Taiyuan. The old city is a short taxi ride from the station. [Getting to Pingyao](/answers/how-do-i-get-to-pingyao/) covers the two stations and the transit-visa catch.
 
 ### How much is the Pingyao ticket?
 

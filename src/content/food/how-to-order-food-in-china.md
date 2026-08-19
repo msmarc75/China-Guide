@@ -43,7 +43,7 @@ In descending order of reliability:
 **Learn ten dish names.** Knowing that 面 is noodles, 饭 is rice, 汤 is soup, 牛肉 is beef, 猪肉 is pork, 鸡 is chicken, 鱼 is fish, 虾 is prawn, 豆腐 is tofu and 青菜 is green vegetables lets you read half of most menus.
 
 :::tip Dish names are frequently poetic
-"Ants Climbing a Tree" is minced pork with glass noodles. "Lion's Head" is a large pork meatball. "Husband and Wife Lung Slices" contains no lung. "Fish-fragrant aubergine" contains no fish. A literal translation app will produce alarming results; do not be alarmed.
+You can eat extremely well [without any Chinese at all](/answers/do-i-need-to-speak-chinese-to-travel-in-china/), though the menu translations will test you. "Ants Climbing a Tree" is minced pork with glass noodles. "Lion's Head" is a large pork meatball. "Husband and Wife Lung Slices" contains no lung. "Fish-fragrant aubergine" contains no fish. A literal translation app will produce alarming results; do not be alarmed.
 :::
 
 ## Reading a menu

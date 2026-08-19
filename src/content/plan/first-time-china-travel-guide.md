@@ -103,6 +103,8 @@ Before you leave the hotel, screenshot your hotel's name and address **in Chines
 
 ## Language: how far English actually gets you
 
+The short version: [you do not need Chinese](/answers/do-i-need-to-speak-chinese-to-travel-in-china/), but you do need preparation.
+
 Honestly: not far. In Beijing and Shanghai you will find English in hotels, at major sights and among younger people in international districts. In Chengdu, Xi'an and everywhere smaller, assume none — including at train stations, in restaurants and among taxi drivers.
 
 This matters much less than it used to, because translation apps now work well:

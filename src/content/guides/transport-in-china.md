@@ -71,7 +71,7 @@ Chinese railway stations are the size of airports and run on the same logic.
 
 Chinese trains depart to the minute. So do the gates.
 
-**Check which station your ticket names.** Large cities routinely have several — [Wuhan](/destinations/wuhan/) has three main ones — and booking apps sort by journey time, not by convenience. The worst version of this is a station that shares a city's name without being near it: the high-speed stop for [Dunhuang](/destinations/dunhuang/) is about 130 km from the town.
+**Check which station your ticket names.** Large cities routinely have several — [Wuhan](/destinations/wuhan/) has three main ones — and booking apps sort by journey time, not by convenience. The worst version of this is a station that shares a city's name without being near it: [the high-speed stop for Dunhuang](/answers/which-train-station-should-i-book-for-dunhuang/) is about 130 km from the town.
 
 :::slot partner:trains
 :::

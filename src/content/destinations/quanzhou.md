@@ -46,6 +46,8 @@ Then the harbour silted, the Ming turned inward, and Quanzhou spent six hundred 
 
 **Qingjing Mosque** on Tumen Street dates to 1009 and is among the oldest surviving mosques in China, built in stone by merchants from Persia and the Arab world.
 
+Xiamen is an hour down the coast, where [the university campus needs booking days ahead](/answers/do-i-need-to-book-to-visit-xiamen-university/) if you want to see it.
+
 **Cao'an** is the one that should be famous. It holds **the only surviving Manichaean statue in the world** — a stone Mani carved in 1339, in a small hall on the southern slope of Mount Huabiao. Manichaeism was extinguished almost everywhere; this is the physical evidence that it reached the Chinese coast and survived there in hiding.
 
 **Luoyang Bridge**, built 1053–1059, runs 834 metres on 46 stone piers across the river mouth and was China's first sea-crossing stone beam bridge. It is still walkable.

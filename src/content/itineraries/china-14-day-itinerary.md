@@ -92,7 +92,7 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 **Swap Chengdu for Zhangjiajie.** The Avatar mountains. Spectacular, and logistically more demanding.
 
-**Add [Datong and Pingyao](/destinations/datong-pingyao/)** between Beijing and Xi'an, dropping a Shanghai night. The Yungang Grottoes and a complete Ming walled city, and almost no other foreign visitors.
+**Add [Datong and Pingyao](/destinations/datong-pingyao/)** between Beijing and Xi'an, dropping a Shanghai night — [both are on the line](/answers/how-do-i-get-to-pingyao/) rather than a detour. The Yungang Grottoes and a complete Ming walled city, and almost no other foreign visitors.
 
 **Add Hong Kong** at the end. A 50-minute train from Guangzhou or a direct flight from Shanghai, and a useful third-region exit if you are travelling under the 240-hour visa-free transit scheme.
 

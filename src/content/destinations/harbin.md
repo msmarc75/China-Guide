@@ -91,4 +91,4 @@ Yes, if modestly. Summer is mild and green — a domestic escape from southern h
 
 ### How do I get to Harbin from Beijing?
 
-By high-speed rail in about 4 hours 30 minutes, or by air in roughly two hours. Rail is comfortable and drops you in the city centre.
+By high-speed rail in about 4 hours 33 minutes, or by air in roughly two hours. Rail is comfortable and drops you in the city centre — though [the departure station is Beijing Chaoyang](/answers/how-do-i-get-to-harbin-from-beijing/), not Beijing South.

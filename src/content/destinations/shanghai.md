@@ -86,7 +86,7 @@ Shanghai food (*běnbāng cài*) is sweeter and more soy-forward than most Chine
 | Destination | Time | Why |
 | --- | --- | --- |
 | **Suzhou** | 25 min by train | Classical gardens, canals, silk. The best day trip in China |
-| **Hangzhou** | 45 min by train | West Lake, tea villages |
+| **Hangzhou** | [45 min by train](/answers/how-do-i-get-from-shanghai-to-hangzhou/) | West Lake, tea villages |
 | **Zhujiajiao** | 1 h by metro line 17 | The closest water town; crowded but charming early |
 | **Tongli / Wuzhen / Xitang** | 1.5–2 h | Better-preserved water towns; Wuzhen is the most polished |
 | **Nanjing** | 1 h 15 by train | Ming tombs, city walls, Republican history |

@@ -145,7 +145,7 @@ Note that **我吃素 (wǒ chī sù)** is understood as Buddhist vegetarianism a
 
 ### Do I need to speak Chinese to travel in China?
 
-No, but you should not expect English outside hotels, major museums and international districts of Beijing and Shanghai. Translation apps, screenshots of addresses in Chinese characters, and the word 这个 ("this one") cover the great majority of situations.
+No, but you should not expect English outside hotels, major museums and international districts of Beijing and Shanghai. Translation apps, screenshots of addresses in Chinese characters, and the word 这个 ("this one") cover the great majority of situations. [The fuller answer](/answers/do-i-need-to-speak-chinese-to-travel-in-china/) sets out where the barrier actually bites.
 
 ### What are the most useful Chinese phrases for tourists?
 

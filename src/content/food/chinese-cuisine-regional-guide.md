@@ -75,7 +75,7 @@ Coastal and mountainous: seafood, mushrooms, soups, and a distinctive use of red
 
 **Order:** Buddha Jumps Over the Wall (an extravagant, expensive layered soup), fish ball soup, oyster omelette, sha cha noodles, and the peanut-heavy street food of Xiamen.
 
-**Eat it in:** Fuzhou, Xiamen, Quanzhou.
+**Eat it in:** Fuzhou, Xiamen, Quanzhou. If Xiamen is on the route, [the university campus needs booking days ahead](/answers/do-i-need-to-book-to-visit-xiamen-university/) — it is next to Nanputuo Temple and its vegetarian restaurant.
 
 ### Hunan (湘菜, Xiang)
 

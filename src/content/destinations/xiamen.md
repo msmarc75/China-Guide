@@ -98,7 +98,7 @@ Yes. UNESCO inscribed the island in 2017 as "Kulangsu, a Historic International 
 
 ### Do I need to book to visit Xiamen University?
 
-Yes. Entry to the Siming campus must be booked in advance through the university's official channel, one to three days ahead, in timed slots. On normal working days visitors are admitted only between 12:30 and 14:00. The rules change, so check the university's own channel before relying on them.
+Yes. Entry to the Siming campus must be booked in advance through the university's official channel, one to three days ahead, in timed slots. On normal working days visitors are admitted only between 12:30 and 14:00. The rules change, so check the university's own channel before relying on them — [booking a campus visit](/answers/do-i-need-to-book-to-visit-xiamen-university/) covers what to do if you cannot get a slot.
 
 ### Does Xiamen have a metro?
 

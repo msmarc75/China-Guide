@@ -42,7 +42,7 @@ If your dates are fixed and land in one of these, go anyway — but book absolut
 
 | Month | Weather | Crowds | Verdict |
 | --- | --- | --- | --- |
-| January | Cold and dry in the north; damp and chilly in the south; sub-zero in the northeast | Low, then extreme at CNY | Harbin Ice Festival; skip elsewhere |
+| January | Cold and dry in the north; damp and chilly in the south; sub-zero in the northeast | Low, then extreme at CNY | [Harbin Ice Festival](/answers/how-do-i-get-to-harbin-from-beijing/); skip elsewhere |
 | February | Cold; CNY often falls here | Extreme around CNY | Avoid unless you want the festival itself |
 | March | Warming, unsettled; sandstorm risk in Beijing | Low | Cheap; south is pleasant |
 | April | Excellent from mid-month; blossom in the north | Rising | Very good, one of the best |
@@ -57,7 +57,7 @@ If your dates are fixed and land in one of these, go anyway — but book absolut
 
 ## Region by region
 
-### North China — Beijing, Xi'an, Datong, Pingyao
+### North China — Beijing, Xi'an, Datong, [Pingyao](/answers/how-do-i-get-to-pingyao/)
 
 Continental: freezing dry winters, hot humid summers, short glorious shoulder seasons. **September to early November is the best period of the year here**, with clear skies and comfortable temperatures. April and May are good but carry a spring dust risk from the Gobi. Winter is genuinely cold (Beijing regularly hits −8°C) but has one real advantage: the Great Wall and the Forbidden City under snow, almost empty.
 

@@ -25,7 +25,7 @@ Solo travellers, including women, consistently report that Chinese cities feel s
 
 Concretely: walking alone at 11 p.m. through central Beijing, Shanghai, Chengdu or Xi'an is normal and unremarkable.
 
-That said, apply the usual habits: use DiDi rather than unlicensed cars at night, watch your drink in nightlife districts in Sanlitun or the Bund, and be alert to the [scams that target foreigners](/guides/health-and-safety-in-china/) — which are non-violent but designed around isolating you.
+That said, apply the usual habits: use DiDi rather than unlicensed cars at night, watch your drink in nightlife districts in Sanlitun or the Bund, and be alert to the [scams that target foreigners](/guides/health-and-safety-in-china/) — which are non-violent but designed around isolating you. Massage parlours are the one category where the signage genuinely needs reading first, particularly for a woman on her own: [what the shopfronts mean](/destinations/shanghai/massage-and-spa/).
 
 ## Attention, staring and photos
 

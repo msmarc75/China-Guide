@@ -38,7 +38,7 @@ The best street food in China is served between 06:00 and 10:00, not at night. N
 
 ### Xi'an
 
-The best street-food city in China, concentrated in the Muslim Quarter.
+The best street-food city in China, concentrated in the Muslim Quarter. The sit-down counterpart is a run of century-old houses around the Bell Tower, [named with their addresses in characters and the nearest metro](/destinations/xian/restaurants/).
 
 - **Roujiamo** — braised beef or lamb in a crisp flatbread
 - **Biangbiang noodles** — hand-slapped belt noodles
@@ -47,6 +47,8 @@ The best street-food city in China, concentrated in the Muslim Quarter.
 - **Persimmon cakes** — fried, hot, from a griddle
 
 ### Chengdu and Chongqing
+
+Chengdu's street eating and its restaurant scene overlap more than most cities' do, and [the sit-down end is worth booking a night for](/destinations/chengdu/restaurants/).
 
 - **Dan dan noodles**, **sweet water noodles**, **chao shou** (Sichuan wontons in chilli oil)
 - **Bingfen** — a chilled jelly dessert with brown sugar, ideal in summer
@@ -66,10 +68,14 @@ The best street-food city in China, concentrated in the Muslim Quarter.
 
 ### Shanghai
 
+Breakfast is where Shanghai street food is strongest; [the rest of the day belongs to the restaurants](/destinations/shanghai/restaurants/).
+
 - **Shengjianbao** — pan-fried pork buns with a crisp base
 - **Scallion oil noodles**, **cong you bing** (spring onion pancake)
 
 ### Beijing
+
+Beijing's street food is thinner than its restaurant tradition, and [the century-old houses are where the city actually delivers](/destinations/beijing/restaurants/).
 
 - **Jianbing**, **zhajiangmian**, **lamb skewers**
 - **Douzhi** — fermented mung bean drink. Locals love it; almost no visitor does. Try it once

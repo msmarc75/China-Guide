@@ -34,6 +34,8 @@ They cluster around a handful of tourist locations and open the same way: a frie
 
 Other common ones: taxi drivers refusing the meter, counterfeit ¥100 notes in change, and someone outside an attraction telling you it is closed today.
 
+A related judgement rather than a scam: some premises under massage signage are fronts for sex work, and the distinction is readable from the street. Chengdu adds a second question, because [ear cleaning at the teahouses carries a documented infection risk](/destinations/chengdu/massage-and-spa/) that the tourist write-ups leave out.
+
 ## Air quality and altitude
 
 Northern China from November to March can exceed AQI 150 for days at a stretch when winter heating comes on. Check an app, move museum visits forward on a bad day, and carry an N95 if you have a respiratory condition.

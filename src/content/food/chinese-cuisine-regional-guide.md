@@ -55,7 +55,7 @@ The oldest of the eight and the foundation of northern Chinese and imperial cour
 
 ### Jiangsu (苏菜, Su) and Huaiyang
 
-Refined, delicate, precise. Emphasises knife skills, soups, braising, and a subtle sweetness. Huaiyang cooking, its most famous branch, is regarded as one of the four great traditions in its own right and was the cuisine of state banquets.
+Refined, delicate, precise. Emphasises knife skills, soups, braising, and a subtle sweetness. Huaiyang cooking, its most famous branch, is regarded as one of the four great traditions in its own right and was the cuisine of state banquets. Shanghai is the easiest place to meet it, and [the institutions serving it are still trading](/destinations/shanghai/restaurants/).
 
 **Order:** lion's head meatballs, squirrel-shaped mandarin fish, salted duck (Nanjing), crystal pork, wensi tofu — a soup in which a block of tofu is cut into thousands of hair-fine threads.
 
@@ -99,7 +99,7 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 
 **Xinjiang / Uyghur** — Central Asian: lamb kebabs, *laghman* hand-pulled noodles, *polo* pilaf, tandoor-baked nan. One of the most distinctive food cultures in China and completely unlike Han cuisine. See [Xinjiang](/destinations/xinjiang-kashgar/).
 
-**Shaanxi** — wheat country: roujiamo, biangbiang noodles, yangrou paomo, liangpi. Concentrated in [Xi'an](/destinations/xian/)'s Muslim Quarter.
+**Shaanxi** — wheat country: roujiamo, biangbiang noodles, yangrou paomo, liangpi. Concentrated in [Xi'an](/destinations/xian/)'s Muslim Quarter, where [the old-guard restaurants](/destinations/xian/restaurants/) cluster tightly enough to walk between.
 
 **Yunnan** — the most ingredient-diverse region in China: wild mushrooms (a summer obsession, with a genuine annual toll of hallucinations and poisonings), crossing-the-bridge noodles, Dai sour and herbal cooking, goat cheese.
 
@@ -107,7 +107,7 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 
 **Chaoshan (Teochew)** — from eastern Guangdong: beef hotpot with astonishingly precise cuts, marinated goose, oyster omelette, and a cult following among Chinese food enthusiasts.
 
-**Beijing** — Shandong-derived, but with its own imperial and Manchu layer: Peking duck, instant-boiled mutton, zhajiangmian.
+**Beijing** — Shandong-derived, but with its own imperial and Manchu layer: Peking duck, instant-boiled mutton, zhajiangmian. Several of the houses serving them have been [trading for a century or more](/destinations/beijing/restaurants/).
 
 ## How to eat well anywhere
 

@@ -36,7 +36,7 @@ Hangzhou is [under an hour from Shanghai](/answers/how-do-i-get-from-shanghai-to
 
 ### Day 1 — Arrival
 
-Airport Express into the city, check in near Qianmen or Dongsi. Walk the neighbourhood, eat Peking duck (**Siji Minfu**, book ahead), sleep early.
+Airport Express into the city, check in near Qianmen or Dongsi. Walk the neighbourhood, eat Peking duck (**Siji Minfu**, book ahead), sleep early. If jet lag has you awake anyway, a foot treatment is the standard local remedy — [how to read a Beijing massage shopfront](/destinations/beijing/massage-and-spa/) matters more than picking a name.
 
 ### Day 2 — The imperial axis
 
@@ -56,7 +56,7 @@ Airport Express into the city, check in near Qianmen or Dongsi. Walk the neighbo
 
 ### Day 5 — Terracotta Army
 
-**Morning.** Out to the **Terracotta Army** (¥120) on [tourist bus 5/306 from the railway station east square](/answers/how-do-i-get-to-the-terracotta-army-from-xian/) (¥8, one hour) or by DiDi. Go at opening. Visit in reverse order — the bronze chariots hall, then Pit 3, then Pit 2, then Pit 1 last, once the tour groups have thinned. Allow three hours plus transit.
+**Morning.** Out to the **Terracotta Army** (¥120) on [tourist bus 5/306 from the railway station east square](/answers/how-do-i-get-to-the-terracotta-army-from-xian/) (¥8, one hour) or by DiDi. Go at opening. Visit in reverse order — the bronze chariots hall, then Pit 3, then Pit 2, then Pit 1 last, once the tour groups have thinned. Allow three hours plus transit. It is a long day on your feet, and Xi'an is a good city to end one with a foot treatment — [read the signage first](/destinations/xian/massage-and-spa/).
 
 **Afternoon.** **Shaanxi History Museum** (free, booked) — one of the best museums in China. Or **Han Yang Ling**, the Han emperor's tomb with its glass-floored excavation and third-scale figures, which is quieter and, for some, more atmospheric.
 

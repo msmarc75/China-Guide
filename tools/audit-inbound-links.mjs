@@ -96,3 +96,46 @@ for (const [slug, count] of scored.filter(([, c]) => c <= maxShown)) {
   if (count > 0) console.log(`      from: ${sources.get(slug).join(', ')}`);
 }
 console.log();
+
+// ---------------------------------------------------------------------------
+// Cluster isolation — the thing the totals above hide.
+//
+// /destinations/beijing/restaurants/ sat at two inbound editorial links, which
+// is on the section's median and looks entirely healthy. Both came from
+// /destinations/beijing/ and /destinations/beijing/things-to-do/ — its own
+// parent and its own sibling. A reader who never lands on the Beijing city
+// page has no editorial route to it at all.
+//
+// Eight sub-pages were in that state and the count-based view could not show
+// it, because a link's VALUE depends on where it comes from and a total throws
+// that away. So: for any page nested under a parent (/destinations/<city>/…),
+// count how many of its referrers come from outside that cluster.
+// ---------------------------------------------------------------------------
+
+const clusterOf = (slug) => {
+  const m = slug.match(/^\/([^/]+)\/([^/]+)\/.+/);
+  return m ? `/${m[1]}/${m[2]}/` : null;
+};
+
+const nested = scored
+  .map(([slug, count]) => {
+    const c = clusterOf(slug);
+    if (!c) return null;
+    const outside = sources.get(slug).filter((s) => clusterOf(s) !== c && s !== c);
+    return { slug, count, outside };
+  })
+  .filter(Boolean)
+  .sort((a, b) => a.outside.length - b.outside.length || a.count - b.count);
+
+if (nested.length) {
+  const isolated = nested.filter((n) => n.outside.length === 0);
+  console.log(`Cluster isolation${section ? ` — /${section}/` : ''}`);
+  console.log(`  nested pages     ${nested.length}`);
+  console.log(`  reachable only from inside their own cluster    ${isolated.length}\n`);
+  for (const n of nested.filter((x) => x.outside.length <= 1)) {
+    const label = n.outside.length === 0 ? 'ISOLATED' : `${n.outside.length} outside`;
+    console.log(`  ${String(n.count).padStart(2)} in · ${label.padEnd(10)} ${n.slug}`);
+    if (n.outside.length) console.log(`      outside: ${n.outside.join(', ')}`);
+  }
+  console.log();
+}

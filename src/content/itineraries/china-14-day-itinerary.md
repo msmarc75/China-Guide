@@ -63,7 +63,7 @@ Fourteen days is the sweet spot for a first China trip. It absorbs a rainy day a
 
 *G-train Xi'an → Chengdu, 3h, ¥263.*
 
-**Day 8 — Arrive and slow down.** Check in near Chunxi Road or the Wide & Narrow Alleys. Afternoon in a **teahouse** — Heming in People's Park, or the quieter courtyard at Wenshu Monastery. Look in on the **matchmaking corner** of People's Park. **Hotpot** in the evening; order the split pot.
+**Day 8 — Arrive and slow down.** Check in near Chunxi Road or the Wide & Narrow Alleys. Afternoon in a **teahouse** — Heming in People's Park, or the quieter courtyard at Wenshu Monastery. Look in on the **matchmaking corner** of People's Park. **Hotpot** in the evening; order the split pot. Chengdu takes slowness seriously, and a foot treatment fits the day — though [the signage needs reading](/destinations/chengdu/massage-and-spa/) before you pick a door.
 
 **Day 9 — Pandas and the city.** **Chengdu Panda Base at 07:30 opening** — non-negotiable, since pandas sleep from about 10:00. Take the shuttle to the nursery first and walk back. Afternoon: **Jinsha Site Museum** (a 3,000-year-old Shu civilisation site, excellent and under-visited) or the **Wuhou Shrine** and **Jinli Street**. Evening: Sichuan opera and face-changing.
 
@@ -75,7 +75,7 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 *Fly Chengdu → Shanghai (2h30) or take the G-train (7–8h). Flying makes sense on this leg.*
 
-**Day 11 — Arrive, the Bund.** Check in in the **former French Concession**. Afternoon walking **Wukang Road** and **Anfu Road**. **The Bund at dusk**, then the ¥2 ferry across the river and back.
+**Day 11 — Arrive, the Bund.** Check in in the **former French Concession**. Afternoon walking **Wukang Road** and **Anfu Road**. **The Bund at dusk**, then the ¥2 ferry across the river and back. After ten days of walking, [a Shanghai foot treatment](/destinations/shanghai/massage-and-spa/) is the correct decision — the page explains which shopfronts to walk past.
 
 **Day 12 — Old Shanghai.** **Yu Garden** at opening, soup dumplings, then the **Shanghai Museum** (free, booked, closed Mondays). Afternoon: **Tianzifang**, **Xintiandi** and the CPC First Congress site, or the **Shanghai Jewish Refugees Museum**.
 

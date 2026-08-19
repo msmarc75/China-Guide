@@ -20,7 +20,7 @@ Xi'an is unusually easy to choose a base in, because the old city is still enclo
 
 The Bell Tower sits at the centre, where the two main axes meet. Staying nearby puts the Drum Tower, the Muslim Quarter and the wall itself within walking distance, and Lines 1 and 2 intersect at Beidajie just north.
 
-This is the answer for a first visit, and there is little reason to complicate it.
+This is the answer for a first visit, and there is little reason to complicate it. It also puts you within walking distance of the old restaurants and, after a day on the wall, of a foot treatment — though [the shopfront signage needs reading first](/destinations/xian/massage-and-spa/).
 
 ## The Muslim Quarter edge
 

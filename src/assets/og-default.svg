@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdfbf7"/>
+      <stop offset="1" stop-color="#fbeceb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="14" fill="#b3202c"/>
+  <text x="80" y="230" font-family="Georgia, serif" font-size="76" fill="#16130f">China Travel Compass</text>
+  <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#4a443c">The complete China travel guide</text>
+  <text x="80" y="366" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#4a443c">for foreign visitors</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#b3202c" letter-spacing="4">VISAS · PAYMENTS · TRAINS · FOOD · ITINERARIES</text>
+  <circle cx="1010" cy="300" r="150" fill="none" stroke="#b8860b" stroke-width="8" opacity=".5"/>
+  <path d="M1010 180 1042 300 1010 400 978 300Z" fill="#b3202c"/>
+  <path d="M890 300 1010 272 1130 300 1010 328Z" fill="#b8860b"/>
+</svg>

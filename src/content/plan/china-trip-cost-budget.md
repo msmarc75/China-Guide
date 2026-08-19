@@ -176,6 +176,8 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 - **Tipping:** not customary and not expected. Do not tip in restaurants or taxis. Tipping a private guide or driver ¥50–100 a day is now common but still optional.
 - **Bargaining:** expected in tourist markets and never in shops, chains or restaurants. Start at about 30% of the asking price in a market and walk away once.
 
+For why things cost what they do — the scale of the rail network, the new districts, the cashless default — see [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/).
+
 ## Frequently asked questions
 
 ### Is China expensive for tourists?

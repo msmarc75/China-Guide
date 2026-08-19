@@ -127,6 +127,8 @@ They are separate currency zones. **Hong Kong uses the Hong Kong dollar (HKD)**;
 
 ## Frequently asked questions
 
+For why the country went straight from cash to phones, and why cash is still legal tender despite appearances, see [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/).
+
 ### Can foreigners use Alipay in China?
 
 Yes. Since 2023 Alipay accepts foreign Visa, Mastercard, JCB, Diners and Discover cards from visitors. Register with your phone number, verify your identity with your passport, then bind the card. Do this before you arrive, because verification may require an SMS code. [Step by step](/answers/can-i-use-alipay-as-a-foreigner-in-china/), including the verification that catches people out.

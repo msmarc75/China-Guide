@@ -21,6 +21,7 @@ const PAGES = [
   '/destinations/beijing/',
   '/destinations/beijing/things-to-do/',
   '/destinations/beijing/restaurants/',
+  '/destinations/beijing/nightlife/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

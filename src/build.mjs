@@ -60,7 +60,7 @@ const SECTIONS = [
     title: 'Practical China Travel Guides',
     heading: 'Practical guides',
     description:
-      'The mechanics of travelling in China: visas and visa-free entry, mobile payments, SIM cards and VPNs, high-speed rail, hotels that accept foreigners, health and safety.',
+      'The mechanics of travelling in China: visas and visa-free entry, mobile payments, SIM cards, VPNs, high-speed rail, hotels and health advice.',
     intro:
       'These are the pages you will actually open while you are in China. Each one is written from the perspective of a foreign passport holder with a foreign phone number and a foreign bank card — the three things that make China different.',
     priority: 0.9,
@@ -70,7 +70,7 @@ const SECTIONS = [
     title: 'China Destinations',
     heading: 'Where to go in China',
     description:
-      'City and region guides to China for foreign travellers: Beijing, Shanghai, Xi’an, Chengdu, Guilin, Zhangjiajie, Yunnan, Hong Kong and more — with routes, costs and timing.',
+      'City and region guides to China for foreign travellers: Beijing, Shanghai, Xi’an, Chengdu, Guilin, Yunnan, Hong Kong and 20 more destinations.',
     intro:
       'China has 22 provinces, five autonomous regions and four direct-administered municipalities. You will not see them all. These guides tell you what each place is genuinely good at, how many days it deserves and how to reach the next stop.',
     priority: 0.9,
@@ -80,7 +80,7 @@ const SECTIONS = [
     title: 'Chinese Culture & Etiquette',
     heading: 'Culture, etiquette & history',
     description:
-      'Understand Chinese culture before you arrive: etiquette and face, festivals, religion and philosophy, tea culture, history in a nutshell and the language basics that open doors.',
+      'Understand Chinese culture before you arrive: etiquette and face, festivals, religion, tea culture, history and the language basics that help.',
     intro:
       'Travelling well in China is mostly about reading the room. This section covers the cultural logic behind what you will see — why people queue the way they do, why the banquet has rules, and what 3,000 years of history left on the ground.',
     priority: 0.8,
@@ -100,7 +100,7 @@ const SECTIONS = [
     title: 'Chinese Food & Drink Guide',
     heading: 'Food & drink',
     description:
-      'A regional guide to Chinese food for travellers: the eight great cuisines, what to order, how to order it, street food safety, tea and baijiu, and eating with dietary restrictions.',
+      'A regional guide to Chinese food for travellers: the eight great cuisines, what to order and how, street food, hotpot, drinks and vegetarian tips.',
     intro:
       '"Chinese food" is not a cuisine — it is a dozen of them, and the version you know abroad is mostly Cantonese filtered through emigration. This section maps the real thing region by region and tells you exactly what to say to get it.',
     priority: 0.8,
@@ -448,9 +448,9 @@ ${newsletterBlock()}`;
   return layout(
     {
       title: `${SITE.name} — ${SITE.tagline}`,
-      metaTitle: `China Travel Guide 2026: Visas, Costs, Itineraries & Tips | ${SITE.name}`,
+      metaTitle: 'China Travel Guide 2026: Visas, Costs & Itineraries',
       description:
-        'The complete China travel guide for foreigners: 2026 visa and visa-free rules, mobile payments, VPNs, high-speed rail, 20+ city guides, itineraries, food and etiquette. Free and independent.',
+        'The complete China travel guide for foreigners: 2026 visa rules, mobile payments, VPNs, high-speed rail, 20+ city guides, itineraries and food.',
       url: '/',
       section: 'home',
       bodyClass: 'is-home',

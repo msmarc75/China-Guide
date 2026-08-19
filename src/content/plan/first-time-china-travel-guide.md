@@ -2,7 +2,7 @@
 title: China Travel Guide for First-Time Visitors
 navTitle: First trip to China
 metaTitle: "China Travel Guide for First-Timers (2026): Everything You Need"
-description: A complete first-timer's guide to travelling in China — entry rules, mobile payments, connectivity, trains, language and culture, in the order you actually need them.
+description: A complete first-timer's guide to China — entry rules, mobile payments, connectivity, trains, language and culture, in the order you need them.
 standfirst: China is one of the easiest countries in the world to travel once you have solved four specific problems. This guide solves them in order, so nothing surprises you at the airport.
 eyebrow: Start here
 order: 1

@@ -44,12 +44,21 @@ const knownFiles = new Set(files.map((f) => `/${path.relative(DIST, f).replace(/
 const titles = new Map();
 const descriptions = new Map();
 
+/** Character counts must reflect what a search engine renders, not the escaped source. */
+const decode = (s = '') =>
+  s
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+
 for (const file of htmlFiles) {
   const url = urlOf(file);
   const html = fs.readFileSync(file, 'utf8');
 
-  const title = /<title>([\s\S]*?)<\/title>/.exec(html)?.[1]?.trim();
-  const desc = /<meta name="description" content="([^"]*)"/.exec(html)?.[1]?.trim();
+  const title = decode(/<title>([\s\S]*?)<\/title>/.exec(html)?.[1]?.trim());
+  const desc = decode(/<meta name="description" content="([^"]*)"/.exec(html)?.[1]?.trim());
   const canonical = /<link rel="canonical" href="([^"]*)"/.exec(html)?.[1];
   const h1s = html.match(/<h1[\s>]/g) || [];
 
@@ -58,8 +67,12 @@ for (const file of htmlFiles) {
   if (!canonical) errors.push(`${url} — missing canonical`);
   if (h1s.length !== 1) errors.push(`${url} — expected exactly 1 <h1>, found ${h1s.length}`);
 
-  if (title && title.length > 65) warnings.push(`${url} — title is ${title.length} chars (>65 may truncate in SERPs)`);
-  if (desc && (desc.length < 70 || desc.length > 165)) {
+  // Indexable pages only — noindex utility pages have no SERP snippet to size.
+  const indexable = !/name="robots" content="noindex/.test(html);
+  if (indexable && title.length > 65) {
+    warnings.push(`${url} — title is ${title.length} chars (>65 may truncate in SERPs)`);
+  }
+  if (indexable && desc && (desc.length < 70 || desc.length > 165)) {
     warnings.push(`${url} — meta description is ${desc.length} chars (aim for 120–160)`);
   }
 

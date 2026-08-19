@@ -2,7 +2,7 @@
 title: Where to Stay in China
 navTitle: Accommodation
 metaTitle: "Hotels in China for Foreigners: Booking, Registration & Chains"
-description: How to book accommodation in China as a foreigner — which hotels can legally accept foreign passports, the domestic chains worth knowing, and the police registration rule.
+description: Booking accommodation in China as a foreigner — which hotels can legally accept foreign passports, the best domestic chains, and police registration.
 standfirst: China has a specific accommodation problem that catches visitors out: not every hotel is licensed to register a foreign guest, and the ones that are not will turn you away at the desk.
 eyebrow: Accommodation
 order: 5

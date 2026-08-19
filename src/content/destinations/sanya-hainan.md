@@ -32,12 +32,11 @@ That makes it the easiest part of China to visit on short notice — and, for th
 
 Nationals of 59 countries — most of Europe, the UK, the US, Canada, Australia, New Zealand, Japan, South Korea, Russia and others — may enter Hainan **visa-free for 30 days** when arriving directly at Haikou Meilan or Sanya Phoenix airports for tourism.
 
-Two important limitations:
+The limitation that matters: the permission covers **Hainan province only**. Travelling on to the mainland under this scheme requires a visa or separate visa-free eligibility.
 
-1. The permission covers **Hainan province only**. Travelling on to the mainland requires a visa or separate visa-free eligibility.
-2. Hainan is **outside the 24 provinces covered by the 240-hour transit scheme**, so the two cannot be combined on a single entry.
+What has changed, and what most guidance still gets wrong, is that this is no longer Hainan's only route in. The December 2024 revision added Hainan to the **24 areas open to 240-hour visa-free transit**, so a traveller who qualifies for that scheme can now reach the island under it and move on to the mainland within the permitted zone — something the provincial scheme has never allowed. Which route suits you depends on your passport, your onward ticket and where else you are going; the [visa guide](/guides/china-visa-guide/) sets out both.
 
-Confirm details with your local Chinese embassy — see our [visa guide](/guides/china-visa-guide/).
+Confirm details with your local Chinese embassy before booking anything non-refundable.
 
 ## Sanya
 

@@ -57,7 +57,7 @@ More on ordering in our [guide to ordering food in China](/food/how-to-order-foo
 
 ## Meeting people
 
-**Hostels** are the reliable answer. China's hostel scene is genuinely good, with common rooms, organised day trips and English-speaking staff. The best social hostels are in **Yangshuo, Dali, Lijiang, Chengdu, Pingyao and Yangshuo's countryside**, less so in Beijing and Shanghai, where the scene is more transactional.
+**Hostels** are the reliable answer. China's hostel scene is genuinely good, with common rooms, organised day trips and English-speaking staff. The best social hostels are in **Yangshuo and its surrounding countryside, Dali, Lijiang, Chengdu and Pingyao**, less so in Beijing and Shanghai, where the scene is more transactional.
 
 **Chinese people will talk to you**, particularly younger people wanting English practice, on trains and in queues. Long-distance train journeys are a social environment: shared snacks, shared curiosity, translation apps passed back and forth.
 

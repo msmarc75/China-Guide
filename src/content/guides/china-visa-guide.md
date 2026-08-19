@@ -119,6 +119,8 @@ If none of the above applies — or if you want more than 30 days, or want to vi
 | Express | 2–3 working days | + ~US$25 |
 | Rush | Next day, discretionary | + ~US$40 |
 
+Whether yours is single, double or multiple entry matters more than most people realise: a day trip to Hong Kong or Macau is an exit from the mainland and consumes an entry, as [how China actually works](/culture/how-china-works/) explains.
+
 US citizens pay a reciprocity fee that is significantly higher than most nationalities but receive a **10-year multiple-entry** visa as standard. Canadians and Argentinians also commonly receive 10-year visas. Most other nationalities receive 30- or 60-day single or double entry.
 
 :::tip Apply 4–8 weeks out

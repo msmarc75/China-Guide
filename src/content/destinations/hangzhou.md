@@ -43,7 +43,7 @@ The "Ten Scenes of West Lake" are a canonical list dating to the Song dynasty �
 
 ## Beyond the lake
 
-**Lingyin Temple** (¥45 for the grounds + ¥45 for the temple). One of the largest and wealthiest Buddhist temples in China, founded in 328 CE. The approach passes **Feilai Feng**, a limestone outcrop carved with 300+ Buddhist figures from the 10th to 14th centuries — the finest such grouping in southern China, and more interesting than the temple itself.
+**Lingyin Temple** (¥45 for the grounds + ¥45 for the temple). One of the largest and wealthiest Buddhist temples in China, founded in 326 CE by the Indian monk Huili. The approach passes **Feilai Feng**, a limestone outcrop carved with 300+ Buddhist figures from the 10th to 14th centuries — the finest such grouping in southern China, and more interesting than the temple itself.
 
 **Longjing tea villages.** Longjing (Dragon Well) is China's most famous green tea, grown on the hills west of the lake. Take a bus or taxi to **Meijiawu** or **Longjing Village** and walk between the terraces. Farmers sell direct; a good pre-Qingming (before early April) harvest is expensive and genuinely special. Beware roadside sellers offering "Longjing" at implausible prices — most tea sold as Longjing is not.
 

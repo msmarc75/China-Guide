@@ -62,7 +62,7 @@ Germany held Qingdao as a concession from 1898 to 1914 and built a European town
 
 **Tsingtao Brewery Museum** (¥60) — in the original 1903 brewery. It is well done, ends with fresh unpasteurised beer, and is more interesting than it sounds. Along Dengzhou Road ("Beer Street") outside, the local habit is to buy draught beer in a plastic bag with a straw.
 
-**Badaguan** — a district of eight streets, each planted with a different tree species and lined with villas built in a dozen national styles. The most attractive walking in the city.
+**Badaguan** — a villa district whose streets are each named after a fortified pass and each planted with a different tree species, the buildings running through a dozen national styles. The name means "eight passes" and most English sources duly say eight streets, but there are ten: three more were added after the original naming. The most attractive walking in the city.
 
 **Beaches** — Number One and Number Two bathing beaches, and the quieter Shilaoren further east. Northern China's best urban beaches, though not tropical.
 

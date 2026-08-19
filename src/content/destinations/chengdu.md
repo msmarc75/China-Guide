@@ -63,7 +63,7 @@ Sichuan cuisine is built on *málà* (麻辣) — the numbing tingle of Sichuan 
 
 Beyond hotpot:
 
-- **Mapo tofu** — silken tofu, fermented broad bean paste, minced beef, peppercorn. The best version in the world is in Chengdu, at Chen Mapo Tofu, where the dish was invented.
+- **Mapo tofu** — silken tofu, fermented broad bean paste, minced beef, peppercorn. The best version in the world is in Chengdu, at Chen Mapo Tofu — the restaurant descended from the 19th-century stall where the dish was created, though the flagship no longer stands on the original Wanfu Bridge site.
 - **Dan dan noodles** — small bowls, sesame paste, chilli oil, preserved vegetable, minced pork
 - **Fuqi feipian** — sliced beef and offal in chilli oil, the classic cold starter
 - **Zhong shui jiao** — dumplings in sweet garlic soy

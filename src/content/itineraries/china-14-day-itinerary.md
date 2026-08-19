@@ -55,7 +55,7 @@ Fourteen days is the sweet spot for a first China trip. It absorbs a rainy day a
 
 **Day 6 — Terracotta Army.** Out at opening on bus 5/306 (¥8) or by DiDi. Visit in reverse — bronze chariots, Pit 3, Pit 2, then Pit 1 last. Afternoon: **Shaanxi History Museum**, one of the best in China.
 
-**Day 7 — Choose your day.** Either **Han Yang Ling** (the Han tomb with the glass-floored excavation) plus the **Great Mosque** and the **Forest of Steles**, or a full day at **Mount Hua** (1.5 hours by train), one of the five sacred Taoist mountains, with the famous plank walk.
+**Day 7 — Choose your day.** Either **Han Yang Ling** (the Han tomb with the glass-floored excavation) plus the **Great Mosque** and the **Forest of Steles**, or a full day at **Mount Hua** (about half an hour by train from Xi'an North), one of the five sacred Taoist mountains, with the famous plank walk.
 
 **Evening:** enjoy Xi'an's Tang-themed night district, Datang Everbright City, which is unashamedly a reconstruction and a genuine spectacle.
 

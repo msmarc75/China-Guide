@@ -91,7 +91,7 @@ The best street-food city in China, concentrated in the Muslim Quarter.
 | Muslim Quarter (Beiyuanmen) | Xi'an | The famous one; go one street back for better prices |
 | Pichaiyuan | Qingdao | Seafood, beer in bags |
 | Jinli & Kuanzhai | Chengdu | Restored streets, tourist-facing but good snacks |
-| Shahe / Baoye Road | Guangzhou | Local, late, excellent |
+| Wenming Road | Guangzhou | Local, late, excellent |
 | Temple Street | Hong Kong | Classic, touristy, fun |
 | Wangfujing snack street | Beijing | Famous for scorpion skewers, which are a tourist prop rather than food anyone eats |
 | Dongmen | Shenzhen | Sprawling and genuinely local |

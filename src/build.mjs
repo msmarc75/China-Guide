@@ -12,6 +12,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { parseFrontmatter } from './lib/frontmatter.mjs';
+import { pickAsidePartner } from './lib/aside-partner.mjs';
 import { renderMarkdown, toPlainText, extractFaq, escapeHtml } from './lib/markdown.mjs';
 import {
   layout,
@@ -464,7 +465,7 @@ function renderArticle(page) {
         ${html}
       </div>
       <aside class="article__aside">
-        ${partnerSlot(page.asidePartner || 'tours', { compact: true })}
+        ${partnerSlot(pickAsidePartner(page), { compact: true })}
         ${productSlot('planner')}
         ${adSlot('sidebar')}
       </aside>

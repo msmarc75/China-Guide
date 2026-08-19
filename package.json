@@ -11,9 +11,10 @@
     "check": "node src/check.mjs",
     "audit:mobile": "node tools/mobile-audit.mjs",
     "test:nesting": "node tools/test-nesting.mjs",
-    "test": "node tools/test-nesting.mjs && node src/build.mjs && node tools/test-linking.mjs",
+    "test": "node tools/test-nesting.mjs && node src/build.mjs && node tools/test-linking.mjs && node tools/test-aside-partner.mjs",
     "test:linking": "node tools/test-linking.mjs",
-    "test:visa": "node tools/test-visa-checker.mjs"
+    "test:visa": "node tools/test-visa-checker.mjs",
+    "test:aside": "node tools/test-aside-partner.mjs"
   },
   "engines": {
     "node": ">=18"

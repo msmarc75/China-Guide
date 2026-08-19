@@ -42,8 +42,8 @@ Three cable cars serve the mountain: **Yungu** (east, to the White Goose Ridge),
 
 The summit area is a network of paved paths connecting viewpoints:
 
-- **Bright Summit (Guangming Ding)**, 1,840 m — the central high point
-- **Lotus Peak** and **Celestial Capital Peak** — the two highest, closed on rotation for vegetation recovery
+- **Bright Summit (Guangming Ding)**, 1,860 m — the central high point, and the second-highest on the mountain
+- **Lotus Peak**, 1,864 m, the true summit, and **Celestial Capital Peak**, 1,810 m — the two famous climbs, closed on rotation for vegetation recovery. Note that Celestial Capital is the third of the three main peaks by height, not the second, despite being the one that looks hardest
 - **Beginning-to-Believe Peak** — the classic pine-and-rock composition
 - **Flying-over Rock** — a balanced boulder that appears on every poster
 - **West Sea Grand Canyon** — the most spectacular section, a plank path cut into a cliff, with a monorail at the bottom. Allow 4–5 hours; check it is open, as it closes in winter and after heavy rain

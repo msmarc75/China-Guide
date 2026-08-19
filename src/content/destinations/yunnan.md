@@ -25,7 +25,7 @@ related:
   - /itineraries/china-21-day-itinerary/
 ---
 
-Yunnan borders Myanmar, Laos and Vietnam and rises from 76 m in the tropical south to over 6,700 m on the Tibetan frontier. It contains more plant species than the rest of the northern hemisphere combined, and 25 of China's 55 officially recognised ethnic minorities. For many repeat visitors it is the best province in China.
+Yunnan borders Myanmar, Laos and Vietnam and rises from 76 m in the tropical south to over 6,700 m on the Tibetan frontier. On 4 per cent of China's land area it holds roughly half its higher plant species — a little over 19,000 of them — along with 25 of China's 55 officially recognised ethnic minorities. For many repeat visitors it is the best province in China.
 
 ## The classic route
 

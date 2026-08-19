@@ -57,7 +57,7 @@ Long enough and successful enough that the ethnic majority of China still calls 
 
 The high point of Chinese cosmopolitanism. Chang'an — modern **Xi'an** — was the largest city in the world, with a million people, foreign quarters, Nestorian Christian and Zoroastrian communities, and Central Asian music and fashion in vogue. Chinese poetry reached a peak that has never been surpassed in the culture's own estimation, with Li Bai and Du Fu.
 
-The **Dunhuang** cave temples on the Silk Road preserve the era's Buddhist art. The Tang legacy is why Chinese communities abroad are often called "Tang people's streets" (唐人街).
+The cave temples at [Dunhuang](/destinations/dunhuang/) on the Silk Road preserve the era's Buddhist art — and remain one of the harder sites in China to get into, since tickets are rationed and must be booked well ahead. The Tang legacy is why Chinese communities abroad are often called "Tang people's streets" (唐人街).
 
 ### Song: the sophisticated one, 960–1279
 

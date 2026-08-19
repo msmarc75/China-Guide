@@ -6,7 +6,7 @@ description: When to travel to China, month by month and region by region — th
 standfirst: China spans 50 degrees of latitude and five climate zones. There is no single best month — there is a best month for the region you want, and three periods you should avoid everywhere.
 eyebrow: Timing
 order: 2
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [best time to visit china, china weather by month, china travel season, golden week china, chinese new year travel]
 facts:
   - Best overall windows | Late Apr–early Jun, mid-Sep–early Nov

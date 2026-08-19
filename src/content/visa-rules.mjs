@@ -139,6 +139,10 @@ export const SCHEME_MEMBERS = {
   // they get 240-hour transit only.
   unilateral30: {
     checked: '2026-08-19',
+    // The official list length, as published by the NIA. `codes` is longer,
+    // because it also carries the mutual-exemption countries below.
+    officialCount: 50,
+    alsoVisaFreeByMutualAgreement: ['SG', 'MY', 'TH', 'QA', 'AE'],
     codes: [
       'AT', 'BE', 'BG', 'HR', 'CY', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
       'HU', 'IE', 'IT', 'LV', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
@@ -147,24 +151,44 @@ export const SCHEME_MEMBERS = {
       'AE', 'QA', 'SA', 'OM', 'KW', 'BH', 'AD', 'MC', 'LI', 'ME', 'MK',
     ],
   },
-  // The 55-country list as expanded on 12 June 2025, when Indonesia was
-  // added (NIA announcement; Xinhua). The Asian seven are South Korea,
-  // Japan, Singapore, Brunei, the UAE, Qatar and Indonesia.
+  // The 55-country list as expanded on 12 June 2025, when Indonesia was added
+  // (NIA announcement; Xinhua). The Asian seven are South Korea, Japan,
+  // Singapore, Brunei, the UAE, Qatar and Indonesia.
+  //
+  // Seven were missing until the August 2026 freshness pass, and they are the
+  // same kind that were missing from unilateral30 before PR #63 — the ones
+  // secondary sources drop when they summarise the policy as "the EU plus the
+  // usual suspects": Monaco, Serbia, Bosnia and Herzegovina, Montenegro, North
+  // Macedonia, Albania and Belarus. Verified against the full lists published
+  // by the Chinese embassy in Suriname and the consulate in Montreal, which
+  // agree once Indonesia's June 2025 addition is accounted for (54 then, 55
+  // now). Adding them brings the array to exactly 55.
   transit240: {
     checked: '2026-08-19',
+    officialCount: 55,
     codes: [
       'US', 'CA', 'GB', 'IE', 'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE',
       'FI', 'FR', 'DE', 'GR', 'HU', 'IS', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL',
       'NO', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'CH', 'AU', 'NZ', 'JP',
       'KR', 'SG', 'BN', 'ID', 'BR', 'AR', 'CL', 'MX', 'RU', 'UA', 'QA', 'AE',
+      'MC', 'RS', 'BA', 'ME', 'MK', 'AL', 'BY',
     ],
   },
+  // Hainan's provincial scheme runs to 59 countries and is the broadest of the
+  // three — broader than the 240-hour transit list, which is easy to assume it
+  // is a subset of. This array held 36 until the August 2026 freshness pass;
+  // the 23 missing were most of the 2004-and-later EU accession states plus the
+  // Balkans, Brunei, Monaco and Belarus. Verified against the list published by
+  // the Chinese embassy in Canada and 海口本地宝 (Hǎikǒu Běndìbǎo), which agree.
   hainan30: {
     checked: '2026-08-19',
+    officialCount: 59,
     codes: [
       'US', 'CA', 'GB', 'IE', 'AT', 'BE', 'DK', 'FI', 'FR', 'DE', 'IT', 'NL',
       'NO', 'PL', 'PT', 'ES', 'SE', 'CH', 'AU', 'NZ', 'JP', 'KR', 'SG', 'MY',
       'TH', 'ID', 'PH', 'BR', 'AR', 'CL', 'MX', 'RU', 'UA', 'KZ', 'AE', 'QA',
+      'CZ', 'EE', 'GR', 'HU', 'IS', 'LV', 'LT', 'LU', 'MT', 'SK', 'SI', 'CY',
+      'BG', 'RO', 'RS', 'HR', 'BA', 'ME', 'MK', 'AL', 'BN', 'MC', 'BY',
     ],
   },
 };
@@ -174,12 +198,15 @@ export const SCHEME_MEMBERS = {
  * ------------------------------------------------------------------ */
 
 export const COUNTRIES = [
+  { code: 'AL', name: 'Albania', note: 'On the 240-hour transit and Hainan lists but not the 30-day unilateral one — a combination secondary sources almost never get right.' },
   { code: 'AD', name: 'Andorra', note: 'On China’s 30-day unilateral visa-free list in its own right. Small European states are routinely dropped from secondary lists that summarise the policy as “the EU and Schengen”.' },
   { code: 'AR', name: 'Argentina' },
   { code: 'AU', name: 'Australia' },
   { code: 'AT', name: 'Austria' },
   { code: 'BH', name: 'Bahrain', note: 'Visa-free entry for Saudi Arabia, Oman, Kuwait and Bahrain began as a trial on 9 June 2025 and has been extended to 31 December 2026, completing visa-free coverage of all six GCC states.' },
+  { code: 'BY', name: 'Belarus', note: 'On the 240-hour transit and Hainan lists but not the 30-day unilateral one.' },
   { code: 'BE', name: 'Belgium' },
+  { code: 'BA', name: 'Bosnia and Herzegovina', note: 'On the 240-hour transit and Hainan lists but not the 30-day unilateral one.' },
   { code: 'BR', name: 'Brazil' },
   { code: 'BN', name: 'Brunei' },
   { code: 'BG', name: 'Bulgaria' },
@@ -187,7 +214,7 @@ export const COUNTRIES = [
   { code: 'CL', name: 'Chile' },
   { code: 'HR', name: 'Croatia' },
   { code: 'CY', name: 'Cyprus' },
-  { code: 'CZ', name: 'Czechia', note: 'Czechia and Lithuania are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — the 240-hour transit scheme applies instead.' },
+  { code: 'CZ', name: 'Czechia', note: 'Czechia and Lithuania are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — but the 240-hour transit scheme applies, and so does Hainan’s separate 30-day provincial scheme.' },
   { code: 'DK', name: 'Denmark' },
   { code: 'EE', name: 'Estonia' },
   { code: 'FI', name: 'Finland' },
@@ -206,7 +233,7 @@ export const COUNTRIES = [
   { code: 'KW', name: 'Kuwait', note: 'Visa-free entry for Saudi Arabia, Oman, Kuwait and Bahrain began as a trial on 9 June 2025 and has been extended to 31 December 2026, completing visa-free coverage of all six GCC states.' },
   { code: 'LV', name: 'Latvia' },
   { code: 'LI', name: 'Liechtenstein', note: 'On China’s 30-day unilateral visa-free list in its own right. Small European states are routinely dropped from secondary lists that summarise the policy as “the EU and Schengen”.' },
-  { code: 'LT', name: 'Lithuania', note: 'Lithuania and Czechia are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — the 240-hour transit scheme applies instead.' },
+  { code: 'LT', name: 'Lithuania', note: 'Lithuania and Czechia are the only Schengen states still off the 30-day unilateral visa-free list. Advice that says "all of Schengen is visa-free" is wrong for you — but the 240-hour transit scheme applies, and so does Hainan’s separate 30-day provincial scheme.' },
   { code: 'LU', name: 'Luxembourg' },
   { code: 'MY', name: 'Malaysia' },
   { code: 'MT', name: 'Malta' },
@@ -226,6 +253,7 @@ export const COUNTRIES = [
   { code: 'RO', name: 'Romania' },
   { code: 'RU', name: 'Russia' },
   { code: 'SA', name: 'Saudi Arabia' },
+  { code: 'RS', name: 'Serbia', note: 'On the 240-hour transit and Hainan lists but not the 30-day unilateral one.' },
   { code: 'SG', name: 'Singapore' },
   { code: 'SK', name: 'Slovakia' },
   { code: 'SI', name: 'Slovenia' },

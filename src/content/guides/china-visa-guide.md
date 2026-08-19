@@ -6,7 +6,7 @@ description: How to enter China in 2026 — which nationalities travel visa-free
 standfirst: China now admits most European, Australasian and many Latin American and Asian passport holders with no visa at all. Everyone else has two viable routes. Here is which one applies to you.
 eyebrow: Entry rules
 order: 1
-updated: 2026-08-01
+updated: 2026-08-19
 badge: Most important
 asidePartner: visa
 keywords: [china visa, china visa free, 240 hour visa free transit china, china tourist visa, l visa china, do i need a visa for china]

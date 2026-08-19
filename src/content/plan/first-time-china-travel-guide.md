@@ -6,7 +6,7 @@ description: A complete first-timer's guide to China — entry rules, mobile pay
 standfirst: China is one of the easiest countries in the world to travel once you have solved four specific problems. This guide solves them in order, so nothing surprises you at the airport.
 eyebrow: Start here
 order: 1
-updated: 2026-08-01
+updated: 2026-08-19
 badge: Read this first
 asidePartner: esim
 keywords: [china travel guide, first time in china, travel to china as a foreigner, china travel tips, visiting china]

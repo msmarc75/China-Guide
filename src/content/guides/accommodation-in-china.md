@@ -75,7 +75,7 @@ Every foreign visitor must be registered with the local police within **24 hours
 - **In a licensed hotel or hostel:** automatic. This is exactly what the receptionist is doing when they scan your passport and take a moment at the terminal. You get a *Registration Form of Temporary Residence* — worth photographing, as it is occasionally requested for permit applications.
 - **In a private home or apartment:** you must register yourself, in person, at the neighbourhood police station (派出所), with your passport, your host, and proof of the address such as the property ownership certificate or lease. It takes twenty minutes and is free.
 
-Enforcement is inconsistent, but the requirement is real, and gaps in your registration history can cause problems when applying for a visa extension or a Tibet permit.
+Enforcement is inconsistent, but the requirement is real, and gaps in your registration history can cause problems when applying for a visa extension or a Tibet permit. For why the registration exists at all and what else the same system touches, see [how China actually works](/culture/how-china-works/).
 
 :::slot partner:hotels
 :::

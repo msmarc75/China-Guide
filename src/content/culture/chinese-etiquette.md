@@ -102,7 +102,7 @@ On the perennial worry about clearing your plate, see [is it rude to leave food 
 
 ## Topics to handle carefully
 
-Taiwan, Tibet, Xinjiang, Hong Kong's protests, the events of 1989 and the Communist Party's record are all sensitive. The risk to you as a tourist is negligible; the risk to the Chinese person you are talking with — particularly in public or on Chinese platforms — is not. Listen if someone raises a subject; do not press it.
+Taiwan, Tibet, Xinjiang, Hong Kong's protests, the events of 1989 and the Communist Party's record are all sensitive. The risk to you as a tourist is negligible; the risk to the Chinese person you are talking with — particularly in public or on Chinese platforms — is not. Listen if someone raises a subject; do not press it. For the administrative side of the country rather than the social one — registrations, ID checks and why some things cannot be bent — see [how China actually works](/culture/how-china-works/).
 
 Comparisons that imply China is backward, or ostentatious sympathy about political conditions, tend to land badly even with people who are themselves critical.
 

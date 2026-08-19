@@ -6,7 +6,7 @@ description: A day-by-day 10-day China itinerary covering Beijing, Xi'an and Sha
 standfirst: Ten days is the shortest trip that shows you both imperial and modern China without spending a third of it in transit. This is the route that does it.
 eyebrow: Itinerary
 order: 2
-updated: 2026-08-01
+updated: 2026-08-19
 badge: Most popular
 keywords: [china 10 day itinerary, beijing xian shanghai itinerary, 10 days in china, china travel route]
 facts:
@@ -28,7 +28,7 @@ Hangzhou is [under an hour from Shanghai](/answers/how-do-i-get-from-shanghai-to
 :::key Book in advance
 - **Forbidden City** — 7 days ahead, passport-linked, sells out
 - **Shaanxi History Museum**, Xi'an — free but booked 7 days ahead, and worth the effort
-- **Shanghai Museum** — free, booked, closed Mondays
+- **Shanghai Museum** — free, booked; People's Square closes Mondays, East closes Tuesdays
 - **Trains** — Beijing→Xi'an and Xi'an→Shanghai on 12306 when the window opens
 :::
 
@@ -80,7 +80,7 @@ Check in around the **former French Concession** or the Bund. Walk **Wukang Road
 
 ### Day 8 — Old Shanghai and museums
 
-**Yu Garden** at opening (¥40) and soup dumplings. **Shanghai Museum** (free, booked, closed Mondays). Afternoon: **Tianzifang**, **Xintiandi**, or the **Shanghai Jewish Refugees Museum** in Hongkou — small, moving and largely unvisited.
+**Yu Garden** at opening (¥40) and soup dumplings. **Shanghai Museum** (free, booked — check which building, they close on different days). Afternoon: **Tianzifang**, **Xintiandi**, or the **Shanghai Jewish Refugees Museum** in Hongkou — small, moving and largely unvisited.
 
 **Evening:** Shanghai's restaurant scene, which is the best in mainland China.
 
@@ -115,7 +115,7 @@ Alternative: **Hangzhou** (45 min) for West Lake, or **Zhujiajiao** water town (
 | Great Wall day (car + tickets) | ¥500 |
 | Entry tickets | ¥800 |
 | City transport | ¥400 |
-| **Total, excl. international flights** | **≈ ¥8,840 (US$1,245)** |
+| **Total, excl. international flights** | **≈ ¥8,840 (US$1,310)** |
 
 ## Frequently asked questions
 
@@ -137,4 +137,4 @@ Only by dropping something else. Chengdu deserves two to three nights and is 3 h
 
 ### How much does a 10-day China trip cost?
 
-Roughly ¥8,800 (US$1,245) per person mid-range, excluding international flights — covering hotels around ¥430 a night, meals, two long train legs, a Great Wall day and entry tickets. A backpacker version runs at about half that.
+Roughly ¥8,800 (US$1,305) per person mid-range, excluding international flights — covering hotels around ¥430 a night, meals, two long train legs, a Great Wall day and entry tickets. A backpacker version runs at about half that.

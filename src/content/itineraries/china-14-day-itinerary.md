@@ -6,7 +6,7 @@ description: The definitive two-week China itinerary — Beijing, Xi'an, Chengdu
 standfirst: Two weeks is the length at which a China trip stops being a sprint. This route covers the Great Wall, the Terracotta Army, pandas, Sichuan food and the Shanghai skyline without a wasted day.
 eyebrow: Itinerary
 order: 3
-updated: 2026-08-01
+updated: 2026-08-19
 badge: Best all-round
 keywords: [china 14 day itinerary, two weeks in china, china itinerary 2 weeks, beijing xian chengdu shanghai]
 facts:
@@ -77,7 +77,7 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 **Day 11 — Arrive, the Bund.** Check in in the **former French Concession**. Afternoon walking **Wukang Road** and **Anfu Road**. **The Bund at dusk**, then the ¥2 ferry across the river and back. After ten days of walking, [a Shanghai foot treatment](/destinations/shanghai/massage-and-spa/) is the correct decision — the page explains which shopfronts to walk past.
 
-**Day 12 — Old Shanghai.** **Yu Garden** at opening, soup dumplings, then the **Shanghai Museum** (free, booked, closed Mondays). Afternoon: **Tianzifang**, **Xintiandi** and the CPC First Congress site, or the **Shanghai Jewish Refugees Museum**.
+**Day 12 — Old Shanghai.** **Yu Garden** at opening, soup dumplings, then the **Shanghai Museum** (free, booked — the People's Square building closes Mondays, the larger East building closes **Tuesdays**). Afternoon: **Tianzifang**, **Xintiandi** and the CPC First Congress site, or the **Shanghai Jewish Refugees Museum**.
 
 **Day 13 — Suzhou or Hangzhou.** **Suzhou** (25 min, ¥40) for one classical garden at opening plus Pingjiang Road and the I. M. Pei museum, or **Hangzhou** (45 min) for West Lake at dawn and the Longjing tea villages.
 
@@ -110,7 +110,7 @@ If the variations are adding up to more than fourteen days, stop patching this r
 | Entry tickets and Leshan day | ¥1,400 |
 | City transport | ¥600 |
 | eSIM, insurance, extras | ¥900 |
-| **Total, excl. international flights** | **≈ ¥13,240 (US$1,865)** |
+| **Total, excl. international flights** | **≈ ¥13,240 (US$1,960)** |
 
 ## Frequently asked questions
 
@@ -132,4 +132,4 @@ Yes. It changes the character of the trip — teahouses, the best regional cuisi
 
 ### How much does two weeks in China cost?
 
-About ¥13,200 (US$1,865) per person mid-range excluding international flights, covering hotels at roughly ¥420 a night, meals, three intercity legs, a Great Wall day and all entry tickets. Backpacker budgets run near ¥6,500; comfortable ones exceed ¥32,000.
+About ¥13,200 (US$1,955) per person mid-range excluding international flights, covering hotels at roughly ¥420 a night, meals, three intercity legs, a Great Wall day and all entry tickets. Backpacker budgets run near ¥6,500; comfortable ones exceed ¥32,000.

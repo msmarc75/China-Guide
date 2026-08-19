@@ -40,6 +40,7 @@ const PAGES = [
   '/destinations/jianshui/',
   '/destinations/yinchuan/',
   '/destinations/dunhuang/',
+  '/destinations/wuhan/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

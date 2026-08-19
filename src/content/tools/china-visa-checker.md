@@ -11,7 +11,7 @@ schemaType: SoftwareApplication
 keywords: [china visa checker, do i need a visa for china, china visa free countries, 240 hour transit china, china entry requirements]
 facts:
   - Routes covered | Visa-free 30 days, 240-hour transit, Hainan, L visa
-  - Nationalities | 58
+  - Nationalities | 66
   - Works offline | Yes, after first load
   - Rules reviewed | August 2026
 related:

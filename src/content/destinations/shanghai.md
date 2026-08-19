@@ -10,7 +10,7 @@ region: East China
 lat: 31.2304
 lon: 121.4737
 order: 2
-updated: 2026-08-01
+updated: 2026-08-19
 badge: Essential
 asidePartner: hotels
 keywords: [shanghai travel guide, things to do in shanghai, the bund, french concession shanghai, shanghai water towns]
@@ -57,7 +57,9 @@ Routes worth walking:
 
 ## Museums and old Shanghai
 
-**Shanghai Museum** — one of China's best. Bronzes, ceramics, painting and calligraphy, presented properly. Free, book ahead, closed Mondays. The painting galleries repay knowing [how a handscroll is meant to be read](/answers/how-should-i-look-at-a-chinese-handscroll/) before you walk in. The new **Shanghai Museum East** in Pudong is larger and increasingly the main site.
+**Shanghai Museum** — one of China's best. Bronzes, ceramics, painting and calligraphy, presented properly. Free, book ahead. The painting galleries repay knowing [how a handscroll is meant to be read](/answers/how-should-i-look-at-a-chinese-handscroll/) before you walk in. The new **Shanghai Museum East** in Pudong is larger and increasingly the main site.
+
+**Check which building you have booked, because they close on different days.** The original People's Square building closes **Mondays** and runs 09:00–17:00; Shanghai Museum East closes **Tuesdays** and runs 10:00–18:00. Almost every guide, including this one until now, says only "closed Mondays".
 
 **Yu Garden and the Old City** — a Ming dynasty scholar's garden (¥40) surrounded by a heavily commercialised bazaar. Go early, do the garden, eat the soup dumplings at Nanxiang, and leave before the crowds.
 

@@ -6,7 +6,7 @@ description: A three-week China itinerary adding Guilin, Yangshuo and Yunnan to 
 standfirst: Three weeks buys the classic route plus real landscape — karst rivers, rice terraces and the Himalayan foothills of Yunnan — without ever feeling rushed.
 eyebrow: Itinerary
 order: 4
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [china 21 day itinerary, three weeks in china, china grand tour, long china trip]
 facts:
   - Route | Beijing → Xi'an → Chengdu → Guilin/Yangshuo → Yunnan → Shanghai
@@ -103,7 +103,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 | Entry tickets and activities | ¥3,000 |
 | City transport and local buses | ¥1,000 |
 | eSIM, insurance, extras | ¥1,200 |
-| **Total, excl. international flights** | **≈ ¥21,250 (US$3,000)** |
+| **Total, excl. international flights** | **≈ ¥21,250 (US$3,150)** |
 
 ## Practical notes for a long trip
 

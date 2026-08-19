@@ -13,7 +13,7 @@ keywords: [china travel guide, first time in china, travel to china as a foreign
 facts:
   - Best for first trips | Beijing, Xi'an, Chengdu, Shanghai
   - Minimum sensible length | 10 days
-  - Daily budget, mid-range | ¥600–900 (US$85–125)
+  - Daily budget, mid-range | ¥600–900 (US$89–133)
   - Language barrier | High outside hotels, solved by apps
   - Safety | Very low violent crime; scams target tourists
 related:
@@ -150,16 +150,16 @@ China is not the bargain it was in 2010, but it remains excellent value compared
 
 | Style | Daily budget (per person) | What that looks like |
 | --- | --- | --- |
-| Backpacker | ¥250–400 (US$35–55) | Hostel dorm, street food, metro, some sights |
-| Mid-range | ¥600–900 (US$85–125) | 3–4★ hotel, restaurant meals, all sights, second-class rail |
-| Comfortable | ¥1,200–2,000 (US$165–280) | 4–5★ hotel, private guide days, business-class rail |
+| Backpacker | ¥250–400 (US$37–59) | Hostel dorm, street food, metro, some sights |
+| Mid-range | ¥600–900 (US$89–133) | 3–4★ hotel, restaurant meals, all sights, second-class rail |
+| Comfortable | ¥1,200–2,000 (US$178–296) | 4–5★ hotel, private guide days, business-class rail |
 
 Entry tickets are the surprise line item: major sights run ¥40–150 each and add up fast. See [what a China trip really costs](/plan/china-trip-cost-budget/), and [how China compares with other destinations](/answers/is-china-expensive-to-visit/) if you are deciding between trips.
 
 ## Ten things nobody tells you
 
 1. **Book the big sights online, days ahead.** The Forbidden City, Terracotta Army, Shanghai Museum and most national museums now use passport-linked timed entry with daily caps, and they sell out. Turning up at the gate frequently does not work.
-2. **Many museums close on Mondays.** Including the National Museum of China and the Shanghai Museum.
+2. **Many museums close on Mondays.** Including the National Museum of China. The Shanghai Museum is the exception worth checking — its People's Square building closes Mondays but its East building closes Tuesdays.
 3. **Hot water is the default drink.** Every hotel, train and airport has a boiling-water dispenser. Bring an insulated flask and you will never buy water again.
 4. **Squat toilets are common** outside hotels, and public toilets often have no paper. Carry tissues.
 5. **Toilet paper goes in the bin** in older buildings and most rural areas.

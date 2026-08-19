@@ -6,7 +6,7 @@ description: How long to spend in China and how to split the days between cities
 standfirst: The most common planning mistake is fitting six cities into ten days. China's sights are enormous and its distances are continental. Here is what each place actually needs.
 eyebrow: Trip length
 order: 5
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [how many days in china, china trip length, days in beijing, how long in shanghai, china itinerary length]
 facts:
   - Absolute minimum worth doing | 5 days, one city
@@ -116,7 +116,7 @@ At this length the question changes from "what can I fit" to "what do I want to 
 
 **Ignoring queue time.** At the Terracotta Army in summer, security plus the shuttle plus the Pit 1 crowd is 90 minutes before you have seen anything.
 
-**Forgetting the closures.** Many museums close Mondays. The Forbidden City closes Mondays outside peak season. Check before you build a day around one.
+**Forgetting the closures.** Many museums close Mondays, and the Forbidden City does outside peak season — but not all of them, and the Shanghai Museum's two buildings differ from each other. Check the specific building before you build a day around one.
 
 ## Frequently asked questions
 

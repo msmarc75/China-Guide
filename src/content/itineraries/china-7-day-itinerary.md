@@ -6,7 +6,7 @@ description: A tested 7-day China itinerary covering Beijing and Shanghai — da
 standfirst: One week is enough for two cities done properly, or four cities done badly. This is the version that works.
 eyebrow: Itinerary
 order: 1
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [china 7 day itinerary, one week in china, beijing shanghai itinerary, short china trip]
 facts:
   - Route | Beijing (4 nights) → Shanghai (3 nights)
@@ -27,7 +27,7 @@ Seven days in China means choosing. The temptation is Beijing, Xi'an, Shanghai a
 :::key Book before you leave
 - **Forbidden City** timed tickets — released about 7 days ahead, passport-linked, sell out
 - **The Beijing–Shanghai train** — book on 12306 when the window opens
-- **Shanghai Museum** — free but requires advance booking, closed Mondays
+- **Shanghai Museum** — free but requires advance booking; People's Square closes Mondays, East closes Tuesdays
 - Fly into Beijing, out of Shanghai (an "open-jaw" ticket), so you never backtrack
 :::
 
@@ -77,7 +77,7 @@ Hire a car and driver for the day (¥600–800) if there are two or more of you 
 
 **Morning.** **Yu Garden** at opening (¥40), then soup dumplings in the bazaar, then out before the crowds arrive.
 
-**Late morning.** **Shanghai Museum** (free, booked, closed Mondays) — bronzes, ceramics, painting, properly presented.
+**Late morning.** **Shanghai Museum** (free, booked) — bronzes, ceramics, painting, properly presented. Check which building you have booked: People's Square closes Mondays, the East building closes Tuesdays.
 
 **Afternoon.** Either **Shanghai Tower**'s floor 118 observation deck (¥180, only on a clear day) or **Tianzifang** and **Xintiandi** for lanes and shopping. If the weather is poor, skip the tower entirely and drink at the Grand Hyatt bar on floor 87 of the Jin Mao instead.
 
@@ -112,7 +112,7 @@ Hire a car and driver for the day (¥600–800) if there are two or more of you 
 | Great Wall car and tickets | ¥500 |
 | Other entry tickets | ¥450 |
 | City transport | ¥300 |
-| **Total, excl. international flights** | **≈ ¥5,900 (US$830)** |
+| **Total, excl. international flights** | **≈ ¥5,900 (US$875)** |
 
 ## Frequently asked questions
 
@@ -126,7 +126,7 @@ Four nights in Beijing (Forbidden City, Great Wall, Temple of Heaven, hutongs) a
 
 ### How much does a week in China cost?
 
-Around ¥5,900 (US$830) per person for a mid-range trip excluding international flights — covering hotels at about ¥450 a night, meals, the Beijing–Shanghai train, a Great Wall day and entry tickets. A backpacker version runs closer to ¥2,800.
+Around ¥5,900 (US$875) per person for a mid-range trip excluding international flights — covering hotels at about ¥450 a night, meals, the Beijing–Shanghai train, a Great Wall day and entry tickets. A backpacker version runs closer to ¥2,800.
 
 ### Should I visit Beijing or Shanghai first?
 

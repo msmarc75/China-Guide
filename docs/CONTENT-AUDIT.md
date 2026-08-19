@@ -218,3 +218,52 @@ Entry rules have moved roughly quarterly since 2023, so the visa data is worth
 re-checking on that cadence rather than annually. The rest of the tranche —
 prices, schedules, institution names, transport times — is untouched and is
 where round two should go.
+
+## Round two
+
+Ranked the remaining 2026-08-01 tranche by price density and took the top of
+it, plus the schedule and institution-name claims. Two defects, both propagated.
+
+**The exchange rate had drifted 5.3%, and twenty conversions with it.** The
+budget page declared ¥7.1 to the US dollar. Spot on 19 August 2026 was ¥6.73
+(Trading Economics and exchange-rate aggregators agreeing), the yuan having
+strengthened about six per cent over the year. Every US dollar figure on the
+site therefore overstated the cost of a China trip by roughly five per cent,
+across six files: the budget page, the first-time guide and all four
+itineraries. Recomputed at ¥6.75 and the euro line corrected to ¥7.8.
+
+**The Shanghai Museum's two buildings close on different days.** The site said
+"closed Mondays" in eight places. That is right for the People's Square
+building (09:00–17:00, closed Monday) and wrong for Shanghai Museum East
+(10:00–18:00, closed **Tuesday**) — which our own Shanghai page describes as
+"larger and increasingly the main site". A reader planning around Monday would
+have been sent to the East building on the one day it is shut. Confirmed
+against 上海本地宝 (Shànghǎi Běndìbǎo) and the museum's own listings.
+
+### The test that came out of it
+
+Twenty derived numbers, one source figure, no link between them — the same
+shape as round one's visa defect. So `npm run test:currency` now checks every
+`¥X (US$Y)` pair in the corpus against one declared rate.
+
+It does not check that the rate is current; no offline test can. It checks that
+if the rate is updated, every conversion is updated with it, and names each one
+that is not.
+
+**Setting the tolerance taught something worth recording.** I chose 10% by
+intuition, then sabotaged a figure to confirm the test worked — and it did not:
+the 5.3% error, the exact defect it was written for, sailed through. Measuring
+the real rounding drift across the corpus gave 0.44%, so the tolerance is now
+2%. A test whose threshold is guessed rather than measured can be decorative
+without anyone noticing.
+
+### The pattern across both rounds
+
+Both rounds found the same failure mode rather than two different ones: **a
+figure stated once in prose, values derived from it by hand, and nothing
+connecting them.** Visa totals against scheme arrays in round one; an exchange
+rate against twenty conversions in round two. Both are now asserted.
+
+Worth looking for more of these than for individually stale facts. The question
+to ask of any number on the site is not "is this still true" but "what else was
+computed from this, and would anything notice if it changed".

@@ -6,7 +6,7 @@ description: The avoidable errors that ruin China trips — from arriving withou
 standfirst: Almost every problem a first-time visitor has in China comes from the same short list. Here it is, in the order it usually bites.
 eyebrow: Avoid these
 order: 6
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [china travel mistakes, what not to do in china, china travel tips, first time china mistakes]
 facts:
   - Most common | Arriving without Alipay set up
@@ -73,7 +73,7 @@ Beijing has two airports 70 km apart. Shanghai has two, one of which is next to 
 
 ## 14. Planning a museum day on a Monday
 
-The National Museum of China, the Shanghai Museum, the Suzhou Museum, the Forbidden City outside peak season, and most municipal museums all close on Mondays. It is the easiest wasted day in China.
+The National Museum of China, the Suzhou Museum, the Forbidden City outside peak season, and most municipal museums all close on Mondays. It is the easiest wasted day in China — with one trap on top: the Shanghai Museum's two buildings close on **different** days, People's Square on Monday and the larger East building on Tuesday.
 
 ## 15. Not carrying tissues
 

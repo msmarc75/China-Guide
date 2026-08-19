@@ -6,11 +6,11 @@ description: What a China trip actually costs in 2026 — real prices for hotels
 standfirst: China sits in a sweet spot: cheaper than Japan or Western Europe for food and transport, comparable for hotels, and more expensive than most travellers expect for entry tickets.
 eyebrow: Budget
 order: 3
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [china trip cost, china travel budget, how much does china cost, china prices for tourists, china daily budget]
 facts:
   - Currency | Renminbi (RMB), unit yuan (¥/CNY)
-  - Rough rate | ¥1 ≈ US$0.14 · US$1 ≈ ¥7.1
+  - Rough rate | ¥1 ≈ US$0.15 · US$1 ≈ ¥6.75
   - Backpacker day | ¥250–400
   - Mid-range day | ¥600–900
   - Typical 14-day mid-range trip | ¥11,000–15,000 + flights
@@ -20,12 +20,12 @@ related:
   - /guides/transport-in-china/
 ---
 
-Prices below are in renminbi (¥, also written CNY or RMB). The exchange rate hovers around **¥7.1 to the US dollar** and **¥7.7 to the euro**, but it moves — treat conversions as indicative. None of it is spendable until your payment apps work, which is [the first of the four things to set up before flying](/plan/first-time-china-travel-guide/).
+Prices below are in renminbi (¥, also written CNY or RMB). The dollar conversions here use **¥6.75 to the US dollar**, and the euro sits near **¥7.8**. Both move — the yuan strengthened about six per cent against the dollar over the past year — so treat every conversion as indicative and check a live rate before budgeting tightly. None of it is spendable until your payment apps work, which is [the first of the four things to set up before flying](/plan/first-time-china-travel-guide/).
 
 :::key The short version
-- **Backpacker:** ¥250–400 a day (US$35–55)
-- **Mid-range:** ¥600–900 a day (US$85–125)
-- **Comfortable:** ¥1,200–2,000 a day (US$165–280)
+- **Backpacker:** ¥250–400 a day (US$37–59)
+- **Mid-range:** ¥600–900 a day (US$89–133)
+- **Comfortable:** ¥1,200–2,000 a day (US$178–296)
 - Add international flights: US$600–1,400 return from Europe or North America
 - Entry tickets are the line item people forget. Budget ¥80–150 per sightseeing day.
 :::
@@ -128,7 +128,7 @@ Almost all state museums — the National Museum of China, Shanghai Museum, Shaa
 | Entry tickets | ¥700 |
 | Data eSIM | ¥180 |
 | Misc / buffer | ¥400 |
-| **Total (excl. international flights)** | **≈ ¥3,850 (US$540)** |
+| **Total (excl. international flights)** | **≈ ¥3,850 (US$570)** |
 
 ### 14 days, mid-range — Beijing, Xi'an, Chengdu, Shanghai
 
@@ -140,11 +140,11 @@ Almost all state museums — the National Museum of China, Shanghai Museum, Shaa
 | City transport and taxis | ¥700 |
 | Entry tickets and two guided days | ¥1,900 |
 | eSIM, insurance, extras | ¥900 |
-| **Total (excl. international flights)** | **≈ ¥13,360 (US$1,880)** |
+| **Total (excl. international flights)** | **≈ ¥13,360 (US$1,980)** |
 
 ### 14 days, comfortable
 
-Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guides in Beijing and Xi'an, and restaurant dining: **¥32,000–40,000 (US$4,500–5,600)**, excluding flights.
+Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guides in Beijing and Xi'an, and restaurant dining: **¥32,000–40,000 (US$4,740–5,930)**, excluding flights.
 
 ## What surprises people
 
@@ -182,7 +182,7 @@ For why things cost what they do — the scale of the rail network, the new dist
 
 ### Is China expensive for tourists?
 
-Not particularly. Food, intercity transport and city transport are cheap by Western standards; hotels are comparable to Southern Europe; entry tickets are more expensive than most visitors expect. A mid-range traveller spends around ¥600–900 (US$85–125) a day excluding international flights. The [longer answer](/answers/is-china-expensive-to-visit/) breaks it down by what actually surprises people.
+Not particularly. Food, intercity transport and city transport are cheap by Western standards; hotels are comparable to Southern Europe; entry tickets are more expensive than most visitors expect. A mid-range traveller spends around ¥600–900 (US$89–133) a day excluding international flights. The [longer answer](/answers/is-china-expensive-to-visit/) breaks it down by what actually surprises people.
 
 ### How much money should I bring to China per day?
 

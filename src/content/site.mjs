@@ -39,6 +39,7 @@ export const FOOTER_LINKS = [
   {
     title: 'Start here',
     links: [
+      { label: 'Do I need a China visa? (tool)', href: '/tools/china-visa-checker/' },
       { label: 'China travel planning hub', href: '/plan/' },
       { label: 'First trip to China', href: '/plan/first-time-china-travel-guide/' },
       { label: 'Best time to visit China', href: '/plan/best-time-to-visit-china/' },

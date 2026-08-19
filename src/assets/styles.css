@@ -507,3 +507,53 @@ tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-sunk) 45%,
   margin: 0 0 .85rem; font-size: .74rem; font-weight: 700;
   letter-spacing: .1em; text-transform: uppercase; color: var(--ink-faint);
 }
+
+/* ------------------------------------------------------------ visa tool */
+
+.visa-tool {
+  margin: 0 0 2.5rem; padding: 1.35rem;
+  background: var(--paper-raised); border: 1px solid var(--line);
+  border-top: 3px solid var(--red); border-radius: var(--radius);
+}
+.visa-tool__form { display: grid; gap: 1rem; }
+.visa-tool__field { display: grid; gap: .35rem; min-width: 0; }
+.visa-tool__field label { font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); }
+.visa-tool select, .visa-tool input[type="number"] {
+  width: 100%; padding: .7rem .8rem; font: inherit; font-size: 1rem;
+  border: 1px solid var(--line); border-radius: 8px;
+  background: var(--paper); color: var(--ink);
+}
+.visa-tool__checks { border: 0; margin: 0; padding: 0; display: grid; gap: .6rem; }
+.visa-tool__check { display: flex; gap: .6rem; align-items: flex-start; font-size: .94rem; color: var(--ink-soft); }
+.visa-tool__check input { margin-top: .28rem; width: 1.05rem; height: 1.05rem; flex: none; }
+.visa-tool .btn { justify-self: start; }
+@media (min-width: 640px) {
+  .visa-tool__form { grid-template-columns: 1fr 1fr; }
+  .visa-tool__checks, .visa-tool .btn { grid-column: 1 / -1; }
+}
+
+.visa-tool__disclaimer { margin: 1.1rem 0 0; font-size: .82rem; color: var(--ink-faint); }
+.visa-tool__table { margin-top: 1.25rem; }
+.visa-tool__table summary { cursor: pointer; font-size: .88rem; font-weight: 600; color: var(--ink-soft); padding: .4rem 0; }
+.visa-tool__table td.yes { color: var(--jade); font-weight: 650; }
+.visa-tool__table td.no { color: var(--ink-faint); }
+.verify-flag {
+  display: inline-block; font-size: .68rem; font-weight: 700; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--gold); border: 1px solid var(--gold);
+  border-radius: 4px; padding: 0 .3rem; vertical-align: middle;
+}
+
+.visa-result { margin-top: 1.35rem; padding: 1.2rem; border-radius: var(--radius); border: 1px solid var(--line); }
+.visa-result--free { background: var(--jade-soft); border-left: 4px solid var(--jade); }
+.visa-result--visa { background: var(--gold-soft); border-left: 4px solid var(--gold); }
+.visa-result__verdict { margin: 0 0 .75rem; font-family: var(--font-serif); font-size: 1.4rem; line-height: 1.2; }
+.visa-result__verdict span { display: block; font-family: var(--font-sans); font-size: .82rem; font-weight: 500; color: var(--ink-faint); margin-top: .2rem; }
+.visa-result h3 { font-size: 1.05rem; margin: 0 0 .3rem; }
+.visa-result h4 { font-size: .76rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-faint); margin: 1rem 0 .35rem; }
+.visa-result ul { margin: 0; padding-left: 1.2rem; font-size: .94rem; }
+.visa-result li { margin-bottom: .35rem; }
+.visa-result p { font-size: .94rem; margin: 0 0 .5rem; }
+.visa-result__warnings { margin-top: 1rem; padding-top: .85rem; border-top: 1px solid var(--line); }
+.visa-result__geo, .visa-result__alt, .visa-result__note { font-size: .88rem; color: var(--ink-soft); margin-top: .75rem; }
+.visa-result__footer { margin-top: 1rem; font-size: .8rem; color: var(--ink-faint); }
+.visa-result__empty { margin: 1rem 0 0; color: var(--ink-faint); font-size: .92rem; }

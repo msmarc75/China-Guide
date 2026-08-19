@@ -148,6 +148,21 @@ export function itemListSchema(items, name) {
   };
 }
 
+/** Interactive tools. Free, browser-based, no account — state all three. */
+export function softwareApplicationSchema(page) {
+  return {
+    '@type': 'SoftwareApplication',
+    name: page.title,
+    description: page.description,
+    url: abs(page.url),
+    applicationCategory: 'TravelApplication',
+    operatingSystem: 'Any modern web browser',
+    isAccessibleForFree: true,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': `${SITE.url}/#organisation` },
+  };
+}
+
 export function graph(nodes) {
   return jsonLd({ '@context': 'https://schema.org', '@graph': nodes.filter(Boolean) });
 }

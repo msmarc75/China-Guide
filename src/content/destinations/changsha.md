@@ -24,7 +24,7 @@ related:
   - /food/chinese-cuisine-regional-guide/
 ---
 
-Changsha is the capital of Hunan, a province with an outsized reputation for chilli, stubbornness and revolutionaries. Foreign visitors have mostly used it as the airport for Zhangjiajie. That undersells it badly, for two quite different reasons.
+Changsha is the capital of Hunan, a province with an outsized reputation for chilli, stubbornness and revolutionaries — and in raw heat [Hunan out-chillies Sichuan](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/), which is not what most visitors expect. Foreign visitors have mostly used it as the airport for Zhangjiajie. That undersells it badly, for two quite different reasons.
 
 ## Mawangdui
 

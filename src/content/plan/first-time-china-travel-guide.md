@@ -146,7 +146,7 @@ The full breakdown, region by region and month by month, is in [when to visit Ch
 
 ## What it costs
 
-China is not the bargain it was in 2010, but it remains excellent value compared with Japan or Western Europe — especially for food and transport.
+China is not the bargain it was in 2010, but it remains excellent value compared with Japan or Western Europe — especially for food and transport. Eat adventurously while you are here: [the food bears little resemblance to Chinese food abroad](/answers/is-chinese-food-in-china-different-from-chinese-food-abroad/), and the cheap end is frequently the best of it.
 
 | Style | Daily budget (per person) | What that looks like |
 | --- | --- | --- |

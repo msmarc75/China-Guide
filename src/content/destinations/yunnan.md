@@ -83,6 +83,8 @@ For the framework behind all of this — where the 56 nationalities came from, a
 
 ## Elsewhere in Yunnan
 
+Yunnan is also [the one part of China with a genuine cheese tradition](/answers/is-dairy-used-in-chinese-cooking/), which is worth knowing before you dismiss a menu item you do not recognise.
+
 **Yuanyang rice terraces** — Hani terraces cut into the mountains of the south, UNESCO-listed, and at their most spectacular from **December to March** when they are flooded and reflect sunrise and sunset. Six hours from Kunming; needs two nights.
 
 **Xishuangbanna** — tropical, culturally Dai (closely related to Thai), with rainforest, Theravada Buddhist temples and a very different feel from the rest of China. Best in the dry season, November to April. The Water Splashing Festival in mid-April is the big event.

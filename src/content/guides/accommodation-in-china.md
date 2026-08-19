@@ -85,6 +85,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 - **Deposit.** Most hotels take a refundable deposit at check-in (¥200–500), by card, Alipay or cash. It is returned at checkout, sometimes 1–3 days later if paid by card.
 - **Slippers, toothbrush, comb, razor, shampoo** — all provided, even at budget level. Do not pack toiletries.
 - **Kettle and free bottled water**, replenished daily. Tap water is not drinkable anywhere in China; boil it or use the bottles.
+- **Sockets that take several plug types**, which is why [the adaptor you need depends on where you are from](/answers/what-plug-adapter-do-i-need-for-china/) rather than on China.
 - **Firm mattresses.** Chinese hotel beds are noticeably harder than Western ones. If it matters, look for Atour, which is specifically known for its bedding.
 - **Heating.** Buildings north of the Qinling–Huaihe line have central heating switched on around mid-November and off around mid-March. South of that line, **buildings traditionally have no central heating at all** — Shanghai, Chengdu, Hangzhou and Guilin in January are damp and cold indoors. Check for air conditioning with a heat mode.
 - **Smoking floors** still exist in domestic hotels. Request a non-smoking room explicitly.

@@ -80,6 +80,8 @@ At most restaurants you build your own. Two default recipes:
 
 ## Surviving the spice
 
+If chilli is genuinely not for you, none of what follows is necessary — [ask for the split pot when you order](/answers/how-do-i-order-hotpot-if-i-cant-handle-spice/) and the problem disappears before the broth arrives.
+
 - **Order the split pot.** No shame in it; plenty of Chinese diners do.
 - **Sesame oil and garlic** in your dip genuinely works.
 - **Drink something cold and sweet** — soy milk, sour plum juice (*suanmeitang*), yoghurt drinks. Beer helps less than you think; water helps not at all. [What to drink in China](/food/chinese-tea-and-drinks/) covers the non-alcoholic options in more depth.

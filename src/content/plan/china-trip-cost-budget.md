@@ -156,7 +156,7 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 
 ## How to spend less without travelling worse
 
-1. **Eat where the plastic stools are.** A ¥20 noodle shop is frequently better than a ¥200 hotel restaurant.
+1. **Eat where the plastic stools are.** A ¥20 noodle shop is frequently better than a ¥200 hotel restaurant. Over-ordering is the other budget leak: [dishes are shared, so order by the table](/answers/how-much-food-should-i-order-in-a-chinese-restaurant/) rather than by the head.
 2. **Take second class on the train.** The seats are comfortable, the difference is legroom, and you save 40% on your largest transport line.
 3. **Use the overnight sleeper** on longer non-high-speed routes: it replaces a hotel night and a travel day at once.
 4. **Book domestic hotels on Trip.com or Meituan** rather than international OTAs — the Chinese platforms list the domestic chains and price them lower.

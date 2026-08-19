@@ -31,7 +31,7 @@ The word **菜系** itself has no pre-modern record. It appears to have entered 
 The eight-cuisine list reached print later still. The earliest known published use is an article titled *Our Country's Eight Great Cuisines* by Wang Shaoquan, in *People's Daily* on **20 June 1980**. Through the 1980s the four-cuisine version remained the official one, used at China's first national cooking competition in 1983 and at the founding of the China Cuisine Association in 1987.
 
 :::note Why the number kept changing
-Once the idea of a canonical list existed, four, five, eight and ten all circulated at once. Inclusion was commercially valuable: being named a great cuisine was excellent advertising for a province's restaurant industry at exactly the moment a market economy was opening up.
+Once the idea of a canonical list existed, four, five, eight and ten all circulated at once. None of the versions matches [what Chinese food looks like abroad](/answers/is-chinese-food-in-china-different-from-chinese-food-abroad/), which descends from one corner of one province. Inclusion was commercially valuable: being named a great cuisine was excellent advertising for a province's restaurant industry at exactly the moment a market economy was opening up.
 
 That is worth knowing not to debunk anything — the eight are real traditions and Chinese people do use the shorthand — but because it explains the list's shape. It is a product of provincial-level lobbying and journalism, not a survey of how China eats. The northwest, the northeast, Yunnan, Guizhou and every minority tradition are absent, and they are not marginal.
 :::
@@ -130,7 +130,7 @@ Order by cooking method rather than by ingredient. Choose one stir-fried or flas
 
 ### What is the difference between Sichuan and Hunan spice?
 
-Sichuan combines chilli heat with the numbing tingle of the Sichuan peppercorn — 麻辣, numbing-spicy. Hunan heat is drier and more direct, chilli without the numbing element, often with fermented and pickled notes.
+Sichuan combines chilli heat with the numbing tingle of the Sichuan peppercorn — 麻辣, numbing-spicy. Hunan heat is drier and more direct, chilli without the numbing element, often with fermented and pickled notes. [The fuller answer](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/) covers which is actually hotter and how to order around either.
 
 ### Is Cantonese food bland?
 

@@ -77,6 +77,8 @@ Shangri-La at 3,200 m and the Jade Dragon cable car at 4,506 m are high enough t
 :::slot partner:hotels
 :::
 
+For the framework behind all of this — where the 56 nationalities came from, and how to tell a ticketed performance village from a place people live — see [China's ethnic minorities](/culture/chinas-ethnic-minorities/).
+
 ## Elsewhere in Yunnan
 
 **Yuanyang rice terraces** — Hani terraces cut into the mountains of the south, UNESCO-listed, and at their most spectacular from **December to March** when they are flooded and reflect sunrise and sunset. Six hours from Kunming; needs two nights.

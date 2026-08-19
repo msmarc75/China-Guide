@@ -52,6 +52,8 @@ All of these occupy buildings arranged to the same rules, and the halls themselv
 
 **Recognising a Buddhist temple:** shaven-headed monks and nuns in ochre, grey or brown robes; a Hall of Heavenly Kings at the entrance with four enormous guardian figures and a laughing Maitreya; a main hall with three Buddhas; and often a Guanyin hall. **Guanyin**, the bodhisattva of compassion, is the most widely worshipped figure in Chinese Buddhism and is depicted as female, having changed gender as the deity travelled from India.
 
+Who practises these traditions is largely a question of which community you are among — see [China's ethnic minorities](/culture/chinas-ethnic-minorities/).
+
 **Tibetan Buddhism** (Vajrayana) is distinct: prayer wheels, prayer flags, butter lamps, wrathful protector deities, and clockwise circumambulation. Found in Tibet, Qinghai, parts of Sichuan and Yunnan, Inner Mongolia and at the Lama Temple in Beijing.
 
 **Where to see it:** the **Yungang** and **Longmen** grottoes, the **Mogao caves** at [Dunhuang](/destinations/dunhuang/) — the richest of them all, and the only one whose tickets need booking a month out — **Leshan** and **Emei** in Sichuan, **Putuoshan** island, and Lingyin Temple in Hangzhou.

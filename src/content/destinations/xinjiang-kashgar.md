@@ -87,6 +87,8 @@ In a basin 154 m below sea level — the second-lowest place on earth — and on
 - **Time:** Xinjiang officially runs on Beijing time, two hours ahead of solar time. Locally, many people use unofficial "Xinjiang time". Always clarify which one an appointment refers to.
 - **Ramadan** affects opening hours and food availability in Uyghur areas.
 
+For the wider picture — the classification behind the term "minority", where else you encounter it, and how to visit well — see [China's ethnic minorities](/culture/chinas-ethnic-minorities/).
+
 ## Frequently asked questions
 
 ### Can foreigners travel to Xinjiang?

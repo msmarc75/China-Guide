@@ -20,6 +20,7 @@ const PAGES = [
   '/guides/transport-in-china/',
   '/destinations/beijing/',
   '/destinations/beijing/things-to-do/',
+  '/destinations/beijing/restaurants/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

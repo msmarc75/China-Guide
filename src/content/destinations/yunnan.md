@@ -85,7 +85,7 @@ Shangri-La at 3,200 m and the Jade Dragon cable car at 4,506 m are high enough t
 
 **Nujiang and Dulong valleys** — deep river gorges near the Myanmar border, remote and stunning, for travellers with time.
 
-**Jianshui and Tuanshan** — a Confucian temple town with superb Qing merchant architecture and very few foreign visitors.
+**[Jianshui](/destinations/jianshui/) and Tuanshan** — a Confucian temple town in the far south with superb Qing merchant architecture, a working metre-gauge tourist train and very few foreign visitors. Around two hours by train from Kunming, and worth two nights.
 
 **Puzhehei and Luoping** — karst lakes, and the vast canola blossom of February and March.
 

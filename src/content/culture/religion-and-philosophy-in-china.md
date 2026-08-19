@@ -30,7 +30,7 @@ Not a religion in the usual sense, but an ethical and social philosophy that has
 
 **What it produced:** the imperial civil service examination system, which for over a thousand years selected officials by written examination on the classics — the first meritocratic bureaucracy in the world, and an idea China exported.
 
-**Where to see it:** Confucian temples (文庙) in most old cities are quiet, symmetrical, and contain no statues of gods — only tablets and often a scholar-tree courtyard. **Qufu** in Shandong, Confucius's birthplace, has the temple, the family mansion and the cemetery, all UNESCO-listed. The temples in Beijing, Nanjing, Suzhou and Jianshui are all worth an hour.
+**Where to see it:** Confucian temples (文庙) in most old cities are quiet, symmetrical, and contain no statues of gods — only tablets and often a scholar-tree courtyard. **Qufu** in Shandong, Confucius's birthplace, has the temple, the family mansion and the cemetery, all UNESCO-listed. Beijing's is second in scale, and third — remarkably, given it stands on what was once the empire's southwestern frontier — is the temple at [Jianshui](/destinations/jianshui/) in Yunnan. Nanjing and Suzhou are worth an hour each.
 
 ## Taoism
 

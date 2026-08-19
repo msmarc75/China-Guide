@@ -59,4 +59,4 @@ It is in Lintong district, well east of the city, with no metro connection. Reac
 
 **Two pagodas, not one.** The Big Wild Goose Pagoda is the famous one. The Small Wild Goose Pagoda is quieter, older in feel, and pairs with the Xi'an Museum — worth it if you have a spare half-day.
 
-For how many days to give the city and where to base yourself, see the [Xi'an travel guide](/destinations/xian/) and [where to stay in Xi'an](/answers/where-should-i-stay-in-xian/).
+Fourteen kilometres of wall leaves a mark; [massage in Xi'an](/destinations/xian/massage-and-spa/) covers choosing somewhere legitimate. For how many days to give the city and where to base yourself, see the [Xi'an travel guide](/destinations/xian/) and [where to stay in Xi'an](/answers/where-should-i-stay-in-xian/).

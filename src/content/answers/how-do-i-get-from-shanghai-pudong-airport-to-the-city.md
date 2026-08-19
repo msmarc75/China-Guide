@@ -42,4 +42,4 @@ Ignore anyone approaching you inside the terminal offering a ride. Licensed driv
 
 Lines 2 and 10 both serve it, and it is much closer in. Hongqiao is also where you catch high-speed trains to Suzhou, Hangzhou, Nanjing and Beijing, which makes it a convenient arrival if you are moving on quickly.
 
-For districts, sights and where to base yourself, see the [Shanghai destination guide](/destinations/shanghai/).
+For districts, sights and where to base yourself, see the [Shanghai destination guide](/destinations/shanghai/), and [things to do in Shanghai](/destinations/shanghai/things-to-do/) for each sight's Chinese address and station.

@@ -66,4 +66,4 @@ It is the section most first-time visitors should pick: restored, dramatic, dens
 
 **Parks open earlier than museums.** Jingshan, Beihai and the Temple of Heaven grounds open early, and the Temple of Heaven in particular is at its best first thing, when the surrounding park fills with people exercising, singing and playing cards. That hour is closer to the real Beijing than anything inside a ticket barrier.
 
-For how many days to allow, where to base yourself and what to eat, see the [Beijing travel guide](/destinations/beijing/).
+After a day of this your feet will have opinions; [massage in Beijing](/destinations/beijing/massage-and-spa/) explains how to pick somewhere legitimate. For how many days to allow, where to base yourself and what to eat, see the [Beijing travel guide](/destinations/beijing/).

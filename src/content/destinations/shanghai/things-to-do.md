@@ -56,4 +56,4 @@ Shanghai's major museums and the First Congress memorial run on advance online r
 
 **Wukang Mansion is a building, not a site.** You look at it from the street corner; there is nothing to enter. The reason to go is Wukang Road itself and the plane-tree streets around it.
 
-For how long to stay, day trips and the food, see the [Shanghai travel guide](/destinations/shanghai/). For where to base yourself, see [where to stay in Shanghai](/answers/where-should-i-stay-in-shanghai/).
+For recovering afterwards, [massage in Shanghai](/destinations/shanghai/massage-and-spa/) covers how to read a shopfront. For how long to stay, day trips and the food, see the [Shanghai travel guide](/destinations/shanghai/). For where to base yourself, see [where to stay in Shanghai](/answers/where-should-i-stay-in-shanghai/).

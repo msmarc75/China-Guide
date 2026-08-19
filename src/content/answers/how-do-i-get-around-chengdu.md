@@ -46,4 +46,4 @@ Chengdu is the base for Leshan and Emeishan, both reached by high-speed rail fro
 
 The centre around Tianfu Square, the Jinli and Kuanzhai alleys and the People's Park teahouse district are all walkable, and walking is how you find the teahouses that make the city what it is. Chengdu is flatter and slower-paced than Beijing or Shanghai, and it suits wandering.
 
-For the sights, the food and how long to stay, see the [Chengdu destination guide](/destinations/chengdu/).
+For the sights, the food and how long to stay, see the [Chengdu destination guide](/destinations/chengdu/). [Things to do in Chengdu](/destinations/chengdu/things-to-do/) gives each sight's Chinese address and the transport that actually serves it — including the panda base, which has no metro station. [Chengdu nightlife](/destinations/chengdu/nightlife/) maps the evening districts onto the same metro lines.

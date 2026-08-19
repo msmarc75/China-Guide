@@ -46,4 +46,4 @@ It is well outside the city to the east, reached by bus or tour from the centre.
 
 Xianyang International is north-west of the city, connected by Metro Line 14 and by airport coaches to several city points. Line 14 links onward to the rail station and the wider network.
 
-For the sights, the day trips and how many days to give it, see the [Xi'an destination guide](/destinations/xian/).
+For the sights, the day trips and how many days to give it, see the [Xi'an destination guide](/destinations/xian/), and [things to do in Xi'an](/destinations/xian/things-to-do/) for each sight's Chinese address and metro stop. [Xi'an nightlife](/destinations/xian/nightlife/) covers the evening streets, which matters here because they are close to where you sleep.

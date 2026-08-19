@@ -46,4 +46,4 @@ Crossing is easy but it is never quick, and doing it twice a day eats your trip.
 
 Worth considering only if you arrive late and leave early by high-speed rail, since the station and airport share a site. Otherwise it is too far west.
 
-For sights, day trips and how long to stay, see the [Shanghai destination guide](/destinations/shanghai/).
+For sights, day trips and how long to stay, see the [Shanghai destination guide](/destinations/shanghai/), and [things to do in Shanghai](/destinations/shanghai/things-to-do/) for each sight's Chinese address and metro stop. [Shanghai nightlife](/destinations/shanghai/nightlife/) maps the going-out districts against these neighbourhoods.

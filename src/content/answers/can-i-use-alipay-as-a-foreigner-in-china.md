@@ -34,7 +34,15 @@ Some mini-programs and third-party merchants accept only Chinese-issued cards, a
 
 ## Fees, honestly
 
-Alipay applies a service fee to foreign-card payments above a small-transaction threshold, and waives it below. Both the threshold and the rate are set by Alipay and have changed more than once, so check the current terms inside the app rather than trusting any figure you read online — including a figure quoted in a guide written months ago.
+Alipay charges **3% on any single transaction above ¥200**, and nothing at or below it. WeChat Pay applies the same rule. Three details are worth knowing:
+
+- The 3% is charged on the **whole transaction**, not just the amount above ¥200. A ¥210 payment costs ¥6.30, not thirty fen.
+- It is assessed **per transaction**, so a large bill split across two payments can fall on the cheap side of the line twice.
+- A **UnionPay** card avoids the fee altogether, if you happen to hold one.
+
+Most everyday spending — meals, metro fares, entry tickets, taxis — sits under ¥200 and costs you nothing. Hotels and long-distance train tickets do not.
+
+Your own bank's foreign-transaction fee applies on top of all of this. And Alipay has changed both the rate and the threshold more than once, so confirm the current terms in the app before assuming any published figure, this one included.
 
 ## Do you need WeChat Pay too
 

@@ -14,7 +14,7 @@ related:
   - /answers/do-i-need-a-vpn-in-china/
 ---
 
-Search this question and you will find a dozen confident pages saying yes. Almost all of them are published by companies selling eSIMs. The honest answer has a condition attached, and the condition is worth understanding before you pay.
+Search this question and you will find a dozen confident pages saying yes. Almost all of them are published by companies selling eSIMs. The honest answer has a condition attached, and the condition is worth understanding before you pay. A [Chinese physical SIM bought in a carrier shop](/answers/can-i-buy-a-sim-card-in-china-as-a-tourist/) carries no such ambiguity, in the other direction: it is behind the filter by design.
 
 ## What actually decides it
 

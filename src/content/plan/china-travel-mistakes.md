@@ -29,7 +29,7 @@ VPN provider websites are blocked from inside China and their apps are removed f
 
 ## 3. Buying a Chinese SIM without understanding what it does
 
-A Chinese SIM puts you behind the national filter — no Google, no WhatsApp, no Instagram. A foreign SIM roaming into China, or a foreign travel eSIM, usually routes through your home network and reaches everything — though [whether an eSIM really gets you past the firewall](/answers/does-an-esim-bypass-the-great-firewall-in-china/) depends on how the provider routes it. Decide deliberately. See [internet, VPN and apps](/guides/internet-vpn-apps-china/).
+A Chinese SIM puts you behind the national filter — no Google, no WhatsApp, no Instagram — and even with a VPN [Google Maps will not navigate for you](/answers/does-google-maps-work-in-china/), because the coordinate problem is not something a VPN can fix. A foreign SIM roaming into China, or a foreign travel eSIM, usually routes through your home network and reaches everything — though [whether an eSIM really gets you past the firewall](/answers/does-an-esim-bypass-the-great-firewall-in-china/) depends on how the provider routes it. Decide deliberately. See [internet, VPN and apps](/guides/internet-vpn-apps-china/).
 
 ## 4. Not booking timed-entry tickets
 

@@ -70,7 +70,7 @@ Read the details in [money and payments in China](/guides/money-and-payments-in-
 
 ## Internet: which SIM you use decides what you can see
 
-Mainland China blocks Google (including Gmail, Maps and Drive), WhatsApp, Instagram, Facebook, X, YouTube, Signal and most Western news sites.
+Mainland China blocks Google — [all of it, Gmail and Drive included](/answers/is-google-blocked-in-china/), which is the part that strands people — along with WhatsApp, Instagram, Facebook, X, YouTube, Signal and most Western news sites.
 
 There is one detail that changes everything: **traffic on a foreign SIM roaming in China is routed back through your home carrier**, so it usually reaches the open internet normally. A Chinese SIM card does not. So:
 

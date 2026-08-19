@@ -52,7 +52,7 @@ Since 2025, Chinese carriers require power banks carried on domestic flights to 
 | Item | Note |
 | --- | --- |
 | Plug adaptor | China uses types A, C and I at 220 V, and [which adaptor you need depends on where you are from](/answers/what-plug-adapter-do-i-need-for-china/). Most sockets accept flat two-pin (US) and Australian three-pin without an adaptor. The slim European Europlug (type C) fits, but the earthed German-style Schuko plug does not. UK three-pin does not either — bring an adaptor for both. |
-| Phone | Unlocked, eSIM-capable if you plan to use a travel eSIM |
+| Phone | Unlocked, eSIM-capable if you plan to use a travel eSIM. [A Chinese SIM needs your original passport and a face scan](/answers/can-i-buy-a-sim-card-in-china-as-a-tourist/) |
 | Power bank | See the CCC warning above |
 | Cables and a multi-port charger | One charger, three cables beats three chargers |
 | Headphones | Trains, flights, and the noise-cancelling case for shared carriages |
@@ -131,7 +131,7 @@ Politically sensitive printed material, drones you intend to fly casually, large
 
 ### Do I need to bring cash to China?
 
-Bring ¥500–1,000 as a backup for rural buses, temple donations and the occasional cash-only ticket window. Everything else should run through Alipay or WeChat Pay with a bound foreign card.
+Bring ¥500–1,000 as a backup for rural buses, temple donations and the occasional cash-only ticket window — [where cash is still genuinely needed](/answers/how-much-cash-should-i-bring-to-china/) is a short and specific list. Everything else should run through Alipay or WeChat Pay with a bound foreign card.
 
 ### Is toilet paper provided in China?
 

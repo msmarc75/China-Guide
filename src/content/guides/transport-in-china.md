@@ -101,7 +101,7 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 
 ### Taxis and DiDi
 
-**DiDi** is China's Uber — [Uber itself does not operate in mainland China](/answers/can-you-use-uber-in-china/) — and it has an English interface and pays automatically through your linked Alipay or WeChat. It is the simplest option for a foreigner because you type the destination rather than pronouncing it. Drivers may call to confirm — if you cannot speak Chinese, use the in-app message templates.
+**DiDi** is China's Uber — [Uber itself does not operate in mainland China](/answers/can-you-use-uber-in-china/), just as [Google Maps does not work usefully here](/answers/does-google-maps-work-in-china/) — and it has an English interface and pays automatically through your linked Alipay or WeChat. It is the simplest option for a foreigner because you type the destination rather than pronouncing it. Drivers may call to confirm — if you cannot speak Chinese, use the in-app message templates.
 
 **Street taxis** are cheap (flag-fall ¥10–14, then about ¥2.5/km) and metered. Drivers essentially never speak English. Show the destination in **Chinese characters** on your phone. Insist on the meter; refusing to use it is illegal and a red flag.
 

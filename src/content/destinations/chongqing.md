@@ -42,7 +42,7 @@ Chongqing is a municipality of 32 million people built across steep hills at the
 
 **Dazu Rock Carvings** — 90 minutes away, UNESCO-listed, and the reason to add a day. More than 50,000 statues carved into cliffs between the 9th and 13th centuries, mixing Buddhist, Taoist and Confucian imagery. The Baoding Mountain grouping is astonishing and far less visited than it deserves.
 
-**Wulong Karst** — the natural bridges used as a location in *Transformers: Age of Extinction*, about three hours away.
+**Wulong Karst** — the natural bridges used as a location in *Transformers: Age of Extinction*, about three hours away. For karst as a trip in its own right rather than a day out, see the [south China karst route](/itineraries/south-china-karst-itinerary/).
 
 ## Hotpot
 

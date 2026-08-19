@@ -58,4 +58,4 @@ Founded in 1923 and inside People's Park, it is where the city's teahouse cultur
 
 **Dujiangyan**, the third-century irrigation system still in use and a UNESCO site, and **Sanxingdui**, the bronze-mask museum whose finds rewrote the region's early history, are both full days out and neither is on the Chengdu metro. Sanxingdui is not even in Chengdu — it is in Guanghan, in Deyang prefecture. Both are reached by suburban or intercity rail and then a local connection. I have not listed street addresses for either, because I could not confirm them to the standard the table holds to.
 
-For how long to stay, the food and getting around, see the [Chengdu travel guide](/destinations/chengdu/) and [how to get around Chengdu](/answers/how-do-i-get-around-chengdu/).
+Chengdu also does something the other cities do not — [massage and ear cleaning](/destinations/chengdu/massage-and-spa/), including an honest account of the risk. For how long to stay, the food and getting around, see the [Chengdu travel guide](/destinations/chengdu/) and [how to get around Chengdu](/answers/how-do-i-get-around-chengdu/).

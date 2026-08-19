@@ -40,4 +40,4 @@ Both airports also have taxi ranks, and DiDi works at both. From Daxing in parti
 
 If you are choosing between flights and the fares are similar, Capital is the more convenient arrival for a first visit to the centre. Daxing is newer and calmer, and better if you are heading south of the city or connecting onward by high-speed rail from Beijing West.
 
-For districts, sights and how long to spend, see the [Beijing destination guide](/destinations/beijing/).
+For districts, sights and how long to spend, see the [Beijing destination guide](/destinations/beijing/), and [things to do in Beijing](/destinations/beijing/things-to-do/) for the sights with their Chinese addresses and metro stops.

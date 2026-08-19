@@ -46,4 +46,4 @@ A hotel that looks central on a map can be a twenty-minute walk from a line. Bei
 
 Only worth it for a genuinely punishing early departure — both airports are far out, and a night near either costs you an evening in the city.
 
-For sights, timing and how many days to give the city, see the [Beijing destination guide](/destinations/beijing/).
+For sights, timing and how many days to give the city, see the [Beijing destination guide](/destinations/beijing/) — and [things to do in Beijing](/destinations/beijing/things-to-do/) for the addresses in Chinese, which is what you will actually show a driver. If evenings matter to the choice, [Beijing nightlife](/destinations/beijing/nightlife/) covers the going-out districts.

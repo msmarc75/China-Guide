@@ -44,4 +44,4 @@ The Maglev is not part of the metro network and needs its own fare, though a dis
 
 Ride it once, ideally on the way *out* to the airport when you are not tired and not deciding anything. Take Line 2 on the way in.
 
-For the full set of airport transfer options, see [how to get from Pudong to the city](/answers/how-do-i-get-from-shanghai-pudong-airport-to-the-city/).
+For the full set of airport transfer options, see [how to get from Pudong to the city](/answers/how-do-i-get-from-shanghai-pudong-airport-to-the-city/); for what to do once you arrive, [things to do in Shanghai](/destinations/shanghai/things-to-do/).

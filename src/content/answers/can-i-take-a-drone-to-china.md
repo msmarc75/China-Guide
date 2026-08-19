@@ -42,6 +42,6 @@ If you are set on aerial footage, licensed operators sell stock and commissioned
 
 ## Other restricted items
 
-Politically sensitive printed material can be confiscated at customs. Satellite phones and some radio equipment require permits. Pre-1911 antiques cannot be exported — genuinely old items legally sold carry a red wax seal from the cultural relics bureau.
+Politically sensitive printed material can be confiscated at customs. Satellite phones and some radio equipment require permits. Antiques face graduated export controls: anything made in or before 1911 is flatly prohibited, and pieces from 1912 to 1949 with historical or artistic value are prohibited in principle as well. Genuinely old items legally sold carry a red wax seal from the cultural relics bureau.
 
 The full pack-and-leave list is in our [China packing list](/plan/china-packing-list/).

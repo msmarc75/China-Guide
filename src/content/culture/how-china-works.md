@@ -83,6 +83,8 @@ This is the pattern that most confuses first-time visitors, and it has a consist
 
 **Anything requiring an exception is close to impossible.** A form that needs a Chinese ID number when you have a passport. A booking system that will not accept your name because it contains a hyphen. A rule applied to a case it was not written for. The staff member in front of you is usually sympathetic and genuinely cannot help, because the discretion to make an exception does not sit with them.
 
+That same pattern — enormous capacity for the designed case, none for the exception — is what produces the physical landscape described in [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/): infrastructure built at a scale that assumes the demand will arrive.
+
 The useful response is not to argue the logic — the logic is not in dispute and the person you are talking to probably agrees with you. It is to ask whether there is a different route to the same outcome. There very often is, and the same person who could not bend the rule will happily help you find the way around it. This is also why a Chinese friend or a hotel concierge can resolve in one phone call something you have failed at for an hour.
 
 ## Where a foreigner's experience genuinely differs

@@ -156,7 +156,7 @@ Visa-free entries generally **cannot be extended** — you leave and, if eligibl
 Every foreign visitor must be registered with the local police within **24 hours of arrival** (72 hours in some rural areas).
 
 - **Staying in a hotel?** Done for you automatically at check-in, which is why the receptionist scans your passport.
-- **Staying in a private home or apartment?** You must go to the neighbourhood police station in person with your passport, your host and proof of the address, and register yourself. Enforcement varies but the requirement does not. Note that Airbnb no longer operates domestic listings in mainland China, so this situation is less common than it used to be.
+- **Staying in a private home or apartment?** You must go to the neighbourhood police station in person with your passport, your host and proof of the address, and register yourself. Enforcement varies but the requirement does not. Note that [Airbnb no longer operates domestic listings in mainland China](/answers/is-airbnb-available-in-china/), so this situation is less common than it used to be.
 
 ## Frequently asked questions
 

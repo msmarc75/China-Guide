@@ -22,7 +22,7 @@ related:
 
 The first thing to understand is that Chinese people do not expect foreigners to know Chinese etiquette, and are generally delighted rather than offended when you get something slightly wrong. Nobody is keeping score.
 
-The second thing is that understanding the underlying logic — rather than memorising rules — makes ordinary interactions go far more smoothly.
+The second thing is that understanding the underlying logic — rather than memorising rules — makes ordinary interactions go far more smoothly. If you want the short version first, [what not to do in China](/answers/what-should-i-not-do-in-china/) collects the handful of things that genuinely land badly.
 
 ## Face
 

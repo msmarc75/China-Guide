@@ -40,6 +40,6 @@ Running out of battery in China is not an inconvenience — it is being unable t
 
 **Plugs.** China uses 220 V with socket types A, C and I. Most sockets are combination units accepting flat two-pin and Australian-style plugs directly. UK three-pin needs an adaptor.
 
-**Drones.** Legal to bring, heavily restricted to fly. Registration is required, and all of Beijing, the vicinity of every airport and most famous scenic areas are permanent no-fly zones.
+**Drones.** Legal to bring, heavily restricted to fly — [the full position on drones](/answers/can-i-take-a-drone-to-china/) is worth reading before you pack one. Registration is required, and all of Beijing, the vicinity of every airport and most famous scenic areas are permanent no-fly zones.
 
 The full list of what to bring and what to leave is in our [China packing list](/plan/china-packing-list/).

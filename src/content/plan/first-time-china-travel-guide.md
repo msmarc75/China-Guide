@@ -163,7 +163,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 5. **Toilet paper goes in the bin** in older buildings and most rural areas.
 6. **Queueing is looser than you are used to**, especially for lifts and buses. It is not personal.
 7. **Nobody tips.** Not in restaurants, not in taxis. Tipping a guide is fine; tipping a waiter causes confusion.
-8. **Your hotel must register you with the police.** Any licensed hotel does this automatically at check-in. If you stay in a private apartment, you are legally required to register at the local police station within 24 hours.
+8. **Your hotel must register you with the police.** Any licensed hotel does this automatically at check-in — and [not every hotel holds that licence](/answers/can-foreigners-stay-in-any-hotel-in-china/), which is why some will turn a foreign guest away. If you stay in a private apartment, you are legally required to register at the local police station within 24 hours.
 9. **Smoking is still widespread** in older restaurants and stairwells, despite indoor bans in major cities.
 10. **Air quality varies enormously** by city and season. Beijing in winter can be bad; Kunming and coastal cities are usually fine. Check an AQI app rather than assuming.
 
@@ -175,7 +175,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 | When | Do this |
 | --- | --- |
 | 8 weeks out | Check visa status for your nationality; apply if needed. Book international flights. |
-| 6 weeks out | Book hotels in the big four cities (they sell out around holidays). Check vaccinations with a travel clinic. |
+| 6 weeks out | Book hotels in the big four cities (they sell out around holidays). [Check vaccinations](/answers/do-i-need-vaccinations-for-china/) with a travel clinic. |
 | 4 weeks out | Buy travel insurance. Decide SIM strategy; order an eSIM if using one. |
 | 2 weeks out | Install and verify Alipay + WeChat, bind a card. Install Amap/Apple Maps, DiDi, 12306, a translation app and a VPN. Book rail tickets when the window opens. |
 | 1 week out | Book timed-entry tickets for the Forbidden City, Terracotta Army and any museum you care about. Download offline maps and the offline Chinese translation pack. |

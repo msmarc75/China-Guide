@@ -34,6 +34,7 @@ China's history is usually told as a sequence of dynasties, each conventionally 
 | **Sui** | 581–618 | Grand Canal | Yangzhou, Hangzhou |
 | **Tang** | 618–907 | The cosmopolitan golden age; poetry | Xi'an; Dunhuang caves |
 | **Song** | 960–1279 | Painting, porcelain, printing, paper money | Kaifeng, Hangzhou, Shanghai Museum |
+| **Western Xia** | 1038–1227 | Tangut empire in the northwest, its own script | [Yinchuan](/destinations/yinchuan/) tombs, Ningxia Museum |
 | **Yuan** | 1271–1368 | Mongol rule; Beijing becomes the capital | Beijing's street grid |
 | **Ming** | 1368–1644 | Forbidden City, the Great Wall you see, blue-and-white porcelain | [Beijing](/destinations/beijing/), [Pingyao](/destinations/datong-pingyao/), Nanjing |
 | **Qing** | 1644–1912 | Manchu rule, maximum territorial extent, then collapse | Summer Palace, Chengde, Shenyang |
@@ -61,6 +62,8 @@ The **Dunhuang** cave temples on the Silk Road preserve the era's Buddhist art. 
 ### Song: the sophisticated one, 960–1279
 
 Militarily weak, culturally extraordinary. Movable-type printing, paper money, gunpowder weapons, the magnetic compass, monumental landscape painting, and a refinement in ceramics that has never been bettered. The first capital was [Kaifeng](/destinations/kaifeng/), then called Dongjing and by most reckonings the largest city on earth; after the Jurchen took the north in 1127 the court fled south and the capital moved to **Hangzhou**.
+
+Worth knowing that "the Song dynasty" was never the whole of China. For most of this period the Song shared the map with rival states that ran their own courts and armies: the Khitan **Liao** and then the Jurchen **Jin** in the northeast, and the Tangut **Western Xia** (1038–1227) across the northwest. The Western Xia had their own script and their own emperors, and the Mongols destroyed them so completely that their imperial tombs outside [Yinchuan](/destinations/yinchuan/) — a UNESCO World Heritage site since 2025 — are most of what is left.
 
 ### Yuan: the Mongols, 1271–1368
 

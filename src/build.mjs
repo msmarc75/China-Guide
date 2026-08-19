@@ -33,6 +33,7 @@ import {
   faqSchema,
   qaPageSchema,
   destinationSchema,
+  softwareApplicationSchema,
   itemListSchema,
   abs,
 } from './lib/seo.mjs';
@@ -116,6 +117,16 @@ const SECTIONS = [
     intro:
       'One question, one page, answered in the first two sentences. These are the things people search three days before flying.',
     priority: 0.7,
+  },
+  {
+    id: 'tools',
+    title: 'China Travel Tools',
+    heading: 'Tools',
+    description:
+      'Free interactive tools for planning a China trip — starting with a visa checker that tells you which entry route applies to your passport.',
+    intro:
+      'Things the guides cannot do on their own: work out which rule applies to you specifically.',
+    priority: 0.9,
   },
   {
     id: 'shop',
@@ -419,6 +430,7 @@ function renderArticle(page) {
     faqs.length ? faqSchema(faqs) : null,
     page.sectionId === 'destinations' ? destinationSchema(page) : null,
     page.sectionId === 'answers' ? qaPageSchema(page, directAnswerOf(page)) : null,
+    page.schemaType === 'SoftwareApplication' ? softwareApplicationSchema(page) : null,
   ];
 
   const facts = Array.isArray(page.facts) && page.facts.length
@@ -923,6 +935,15 @@ function copyAssets() {
   for (const file of fs.readdirSync(ASSETS)) {
     fs.copyFileSync(path.join(ASSETS, file), path.join(target, file));
   }
+  // The browser imports the very same module the build uses, so the tool and
+  // the static table can never disagree about the rules.
+  // Served as .js rather than .mjs: some static hosts do not map .mjs to a
+  // JavaScript MIME type, and a browser refuses to execute a module served as
+  // application/octet-stream.
+  // Canonical path, not CONTENT: templates.mjs imports this module directly, so
+  // it is application code rather than swappable content. Using CONTENT would
+  // break any build run against a fixture directory.
+  fs.copyFileSync(path.join(__dirname, 'content', 'visa-rules.mjs'), path.join(target, 'visa-rules.js'));
 }
 
 function build() {

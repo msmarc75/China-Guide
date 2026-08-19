@@ -1,4 +1,5 @@
 import { SITE, NAV, FOOTER_LINKS, MONETISATION } from '../content/site.mjs';
+import { COUNTRIES, PURPOSES, LAST_REVIEWED, schemesFor } from '../content/visa-rules.mjs';
 import { escapeHtml } from './markdown.mjs';
 import { abs } from './seo.mjs';
 
@@ -65,6 +66,95 @@ export function adSlot(position = 'in-article') {
 </div>`;
 }
 
+/**
+ * The visa checker.
+ *
+ * The form is progressive enhancement over a full static table: with no
+ * JavaScript the reader still gets every rule, and search engines index real
+ * content rather than an empty container. The browser imports the SAME
+ * visa-rules module the build uses, so the two can never drift apart.
+ */
+export function visaCheckerWidget() {
+  const countryOptions = COUNTRIES.map(
+    (c) => `<option value="${c.code}">${escapeHtml(c.name)}</option>`
+  ).join('');
+  const purposeOptions = PURPOSES.map(
+    (p) => `<option value="${p.id}">${escapeHtml(p.label)}</option>`
+  ).join('');
+
+  const rows = COUNTRIES.map((c) => {
+    const schemes = schemesFor(c.code);
+    const cell = (id) =>
+      schemes.includes(id) ? '<td class="yes">Yes</td>' : '<td class="no">No</td>';
+    const flag =
+      c.confidence === 'verify'
+        ? ' <span class="verify-flag" title="Not confirmed against an official source">unconfirmed</span>'
+        : '';
+    return `<tr><th scope="row">${escapeHtml(c.name)}${flag}</th>${cell('unilateral30')}${cell(
+      'transit240'
+    )}${cell('hainan30')}</tr>`;
+  }).join('');
+
+  return `<section class="visa-tool" id="visa-checker">
+  <form class="visa-tool__form" id="visa-form" novalidate>
+    <div class="visa-tool__field">
+      <label for="visa-country">Your passport</label>
+      <select id="visa-country" name="country" required>
+        <option value="">Choose a country…</option>
+        ${countryOptions}
+      </select>
+    </div>
+    <div class="visa-tool__field">
+      <label for="visa-purpose">Reason for the trip</label>
+      <select id="visa-purpose" name="purpose">${purposeOptions}</select>
+    </div>
+    <div class="visa-tool__field">
+      <label for="visa-days">Nights in China</label>
+      <input id="visa-days" name="days" type="number" min="1" max="180" value="14" inputmode="numeric">
+    </div>
+    <fieldset class="visa-tool__checks">
+      <legend class="sr-only">Trip details</legend>
+      <label class="visa-tool__check">
+        <input type="checkbox" id="visa-onward" name="onward">
+        <span>I leave China for a <strong>different</strong> country from the one I arrived from</span>
+      </label>
+      <label class="visa-tool__check">
+        <input type="checkbox" id="visa-hainan" name="hainan">
+        <span>I am only visiting Hainan island</span>
+      </label>
+    </fieldset>
+    <button class="btn btn--primary" type="submit">Check my entry route</button>
+  </form>
+
+  <output class="visa-tool__result" id="visa-result" aria-live="polite"></output>
+
+  <p class="visa-tool__disclaimer">
+    <strong>Indicative only.</strong> China's visa-free schemes carry expiry dates and have been
+    revised roughly every six months since 2023. Confirm your own nationality and routing with the
+    Chinese embassy in your country before booking anything non-refundable. Rules last reviewed
+    ${LAST_REVIEWED}.
+  </p>
+
+  <details class="visa-tool__table" open>
+    <summary>Full table — every nationality and scheme</summary>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Passport</th>
+            <th scope="col">Visa-free 30 days</th>
+            <th scope="col">240-hour transit</th>
+            <th scope="col">Hainan 30 days</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+  </details>
+</section>
+<script type="module" src="/assets/visa-checker.js"></script>`;
+}
+
 /** Renders `:::slot name` containers found in markdown content. */
 export function slotRenderer(name, body) {
   const [kind, key] = name.split(':').map((s) => s.trim());
@@ -72,6 +162,7 @@ export function slotRenderer(name, body) {
   if (kind === 'product') return productSlot(key);
   if (kind === 'ad') return adSlot(key || 'in-article');
   if (kind === 'newsletter') return newsletterBlock();
+  if (kind === 'tool' && key === 'visa-checker') return visaCheckerWidget();
   return body ? `<div class="slot-unknown">${escapeHtml(body)}</div>` : '';
 }
 

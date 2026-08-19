@@ -69,11 +69,11 @@ The eastern terminus. **Terracotta Army**, the **Shaanxi History Museum**, the *
 
 The high point of the route.
 
-**Mogao Caves** (¥238 in high season). 492 surviving cave temples cut into a cliff between the 4th and 14th centuries, containing the greatest collection of Buddhist wall painting in the world — roughly 45,000 m² of murals. Visits are strictly controlled: timed tickets booked in advance, a compulsory film, then a guided visit to a rotating selection of about eight caves. **Book well ahead**; the daily quota is limited and English-language tours are fewer.
+**Mogao Caves.** 735 caves cut into a cliff between the 4th and 14th centuries, 492 of them preserving wall painting and sculpture — the greatest collection of Buddhist wall painting in the world, roughly 45,000 m² of murals. Visits are strictly controlled: real-name timed tickets booked in advance through the official channel only, the Digital Exhibition Centre film, then a guided visit to about eight caves chosen by the Academy rather than by you. **Book well ahead** — tickets open 30 days out, the daily quota is capped, and English-language tours are fewer. See the [Dunhuang guide](/destinations/dunhuang/) for how the ticket types differ and which station to book.
 
 The caves also held the **Library Cave**, sealed around 1000 CE and rediscovered in 1900 with 50,000 manuscripts including the Diamond Sutra of 868 — the world's oldest dated printed book, now in the British Library. The circumstances of its dispersal to European and Japanese expeditions are a live subject in China.
 
-**Mingsha Shan and Crescent Lake** (¥110) — singing sand dunes with a spring-fed lake at their base. Camels, sandboarding, and a genuinely spectacular sunset.
+**Mingsha Shan and Crescent Lake** — singing sand dunes with a spring-fed lake at their base. Camels, sandboarding, and a genuinely spectacular sunset.
 
 **Yumen Guan and Yangguan** — the Han dynasty frontier passes, out in the desert, with surviving rammed-earth wall.
 

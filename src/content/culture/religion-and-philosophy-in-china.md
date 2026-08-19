@@ -52,7 +52,7 @@ Arrived from India along the Silk Road in the 1st century CE and became thorough
 
 **Tibetan Buddhism** (Vajrayana) is distinct: prayer wheels, prayer flags, butter lamps, wrathful protector deities, and clockwise circumambulation. Found in Tibet, Qinghai, parts of Sichuan and Yunnan, Inner Mongolia and at the Lama Temple in Beijing.
 
-**Where to see it:** the **Yungang** and **Longmen** grottoes, the **Mogao caves** at Dunhuang, **Leshan** and **Emei** in Sichuan, **Putuoshan** island, and Lingyin Temple in Hangzhou.
+**Where to see it:** the **Yungang** and **Longmen** grottoes, the **Mogao caves** at [Dunhuang](/destinations/dunhuang/) — the richest of them all, and the only one whose tickets need booking a month out — **Leshan** and **Emei** in Sichuan, **Putuoshan** island, and Lingyin Temple in Hangzhou.
 
 ## Folk religion
 

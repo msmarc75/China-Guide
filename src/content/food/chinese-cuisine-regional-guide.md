@@ -21,7 +21,7 @@ related:
   - /destinations/chengdu/
 ---
 
-The traditional classification is the **八大菜系**, the eight great cuisines, formalised in the Qing dynasty. It is a simplification — every province has traditions the list ignores, and the northwest and the minority regions barely appear — but it is the framework Chinese people themselves use.
+The usual classification is the **八大菜系**, the eight great cuisines. It is far more recent than it is generally said to be — the phrase reached print in 1980, and a four-cuisine scheme preceded it — and it is a simplification, since every province has traditions the list ignores and the northwest and minority regions barely appear. It is nonetheless the framework Chinese people themselves use. For where it came from and what to use instead, see [beyond the eight cuisines](/food/beyond-the-eight-cuisines/).
 
 ## The eight
 
@@ -118,6 +118,10 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 5. **Order across categories.** A good table has something braised, something stir-fried, a vegetable, a soup and a starch. Ordering four meat dishes is a rookie error.
 
 ## Frequently asked questions
+
+### Are the eight great cuisines an old classification?
+
+No, despite how often it is described as one. The eight-cuisine list first appears in print in a *People's Daily* article of 20 June 1980, with a four-cuisine version circulating before that, and the underlying vocabulary is mid-twentieth-century. See [beyond the eight cuisines](/food/beyond-the-eight-cuisines/) for the full account.
 
 ### What are the eight great cuisines of China?
 

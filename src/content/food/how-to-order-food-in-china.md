@@ -63,6 +63,8 @@ Menus are usually grouped by category:
 
 Prices are per dish. A ¥38 dish feeds two to three people as part of a shared meal.
 
+Reading the cooking-method character in a dish name tells you more about what will arrive than the ingredient does — see [beyond the eight cuisines](/food/beyond-the-eight-cuisines/) for the seven worth learning.
+
 ## Common restaurant types
 
 **街边小吃 street stalls and small-eats shops.** One or two dishes done well, ¥8–25, single portions. The best value and often the best food in a neighbourhood.

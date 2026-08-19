@@ -44,6 +44,6 @@ Combining Nanputuo with the coast makes a good half-day whether or not the booki
 
 The campus sits on the Siming side of the city, close to the ferry piers for **Gulangyu** — the UNESCO-inscribed island, listed in 2017 under the spelling **Kulangsu**. Gulangyu has its own booking and pier constraints, and getting the right pier matters as much as getting the right ticket.
 
-An hour up the coast is **Quanzhou**, which was the greatest port in the medieval world and is far less visited than it deserves.
+An hour up the coast is **Quanzhou**, which was the greatest port in the medieval world and is far less visited than it deserves. [Getting there from Xiamen North](/answers/how-do-i-get-to-quanzhou/) takes under an hour; the only trap is that Quanzhou has three stations.
 
 For the ferry piers, the campus and what else the city holds, see the [Xiamen guide](/destinations/xiamen/); for the Song-dynasty port next door, [Quanzhou](/destinations/quanzhou/).

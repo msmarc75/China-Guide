@@ -28,7 +28,7 @@ Hong Kong is part of China but operates as a separate customs, immigration and c
 
 ## Entry rules
 
-Hong Kong maintains its own immigration policy. **Most nationalities enter visa-free**: British citizens for 180 days, EU, US, Canadian, Australian and many other passport holders for 90 days, and many others for 14–30 days. A mainland Chinese visa does **not** cover Hong Kong, and travelling from Hong Kong into the mainland counts as a fresh entry against your Chinese visa or visa-free allowance.
+Hong Kong maintains its own immigration policy. **Most nationalities enter visa-free**: British citizens for 180 days, EU, US, Canadian, Australian and many other passport holders for 90 days, and many others for 14–30 days. A mainland Chinese visa does **not** cover Hong Kong, and travelling from Hong Kong into the mainland counts as a fresh entry against your Chinese visa or visa-free allowance — which is why [politically part of China is not the same as part of China at a border desk](/answers/is-hong-kong-part-of-china-for-visa-purposes/).
 
 Practically, this makes Hong Kong extremely useful for the 240-hour visa-free transit scheme: an onward flight or train from mainland China to Hong Kong satisfies the "third country or region" requirement — and [the 50-minute train from Guangzhou](/answers/how-do-i-get-from-guangzhou-to-hong-kong/) is the usual way to use it. See our [visa guide](/guides/china-visa-guide/).
 

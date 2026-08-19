@@ -38,7 +38,7 @@ The letter prefix tells you the type, and therefore the speed and comfort:
 | **T** | Tèkuài, express | 140 km/h | Older stock, more stops |
 | **K** | Kuàisù, fast | 120 km/h | Slow, cheap, long-distance workhorse |
 
-For a two-week trip you will use G trains almost exclusively, with perhaps one Z sleeper.
+For a two-week trip you will use G trains almost exclusively, with perhaps one Z sleeper. The C prefix is the one worth knowing about beyond that: dedicated intercity lines have quietly made a lot of second cities into day trips, such as [Kaifeng from Zhengzhou in twenty-five minutes](/answers/how-do-i-get-from-zhengzhou-to-kaifeng/).
 
 ### Classes
 

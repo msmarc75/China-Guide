@@ -28,7 +28,7 @@ Book it like any other Chinese high-speed service, through 12306 or an agency, a
 **Hong Kong is a separate immigration zone.** Crossing into it means:
 
 - You **leave mainland China**, using up that entry. Returning to the mainland afterwards requires a fresh entry — a multiple-entry visa, or renewed visa-free eligibility.
-- A **single-entry Chinese visa does not survive the trip**. Go to Hong Kong on one and you cannot come back.
+- A **single-entry Chinese visa does not survive the trip**. Go to Hong Kong on one and you cannot come back — the [full explanation of why Hong Kong is a separate immigration zone](/answers/is-hong-kong-part-of-china-for-visa-purposes/) covers Macau and Taiwan too.
 - **Most nationalities enter Hong Kong visa-free** on arrival — British citizens for 180 days, and EU, US, Canadian and Australian passport holders for 90 — so the Hong Kong side is rarely the problem.
 
 ## Why this is useful under the transit scheme

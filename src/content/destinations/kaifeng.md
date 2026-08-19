@@ -30,7 +30,7 @@ Then the Jurchen took the north in 1127, the court fled to Hangzhou, and the Yel
 
 ## Getting there is now the easy part
 
-The **Zhengzhou–Kaifeng intercity railway** entered full operation in March 2025, putting Kaifeng station within about twenty-five minutes of Zhengzhou East at its fastest. Zhengzhou East is a hub on Henan's high-speed network and connects to Zhengzhou's own metro.
+The **Zhengzhou–Kaifeng intercity railway** entered full operation in March 2025, [putting Kaifeng station within about twenty-five minutes of Zhengzhou East](/answers/how-do-i-get-from-zhengzhou-to-kaifeng/) at its fastest — and, importantly, into the city rather than the suburban stop the line used before. Zhengzhou East is a hub on Henan's high-speed network and connects to Zhengzhou's own metro.
 
 That changes what Kaifeng is for a traveller: not a detour, but a half-day or overnight add-on to a Zhengzhou or Luoyang leg.
 

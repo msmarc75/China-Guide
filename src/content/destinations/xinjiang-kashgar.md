@@ -81,7 +81,7 @@ In a basin 154 m below sea level — the second-lowest place on earth — and on
 
 ## Practicalities
 
-- **Distances are enormous.** Urumqi to Kashgar is 1,500 km — a 3-hour flight or a 22-hour train. Do not underestimate transit time.
+- **Distances are enormous.** Urumqi to Kashgar is 1,500 km — [a two-hour flight, or an overnight train](/answers/how-do-i-get-from-urumqi-to-kashgar/) that leaves at 20:40 and arrives at 08:10. Slower services on the same route take sixteen to twenty hours. Do not underestimate transit time.
 - **Rail** connects Urumqi, Turpan, Korla, Kuqa, Aksu and Kashgar along the southern route. Trains are the pleasant way to travel here.
 - **Season:** May–June and September–October. July and August are brutally hot in the basins; winter is severe in the north.
 - **Time:** Xinjiang officially runs on Beijing time, two hours ahead of solar time. Locally, many people use unofficial "Xinjiang time". Always clarify which one an appointment refers to.
@@ -101,7 +101,7 @@ Yes, for travellers interested in Central Asian culture and the Silk Road. The S
 
 ### How do I get from Urumqi to Kashgar?
 
-By air in about three hours, or by train in roughly 22 hours along the southern Tarim route via Korla, Kuqa and Aksu. The rail journey is comfortable and scenic if you have the time.
+By air in about two hours, or by train along the southern Tarim route via Korla, Kuqa and Aksu. The fastest train is a direct overnight sleeper leaving Urumqi at 20:40 and arriving at 08:10; the other services take sixteen to twenty hours and are the ones to take if you want the daylight scenery.
 
 ### When is the best time to visit Xinjiang?
 

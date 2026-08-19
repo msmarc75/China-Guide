@@ -16,7 +16,7 @@ facts:
   - Days needed | 2 nights
   - Named | National Historical and Cultural City, 1994
   - Metro | None — the old town is walkable
-  - Getting there | About 2 hours by train from Kunming
+  - Getting there | About 2 hours by train from Kunming South
   - Don't miss | The Confucian temple, Tuanshan, the metre-gauge train
 related:
   - /destinations/yunnan/
@@ -77,7 +77,7 @@ Then there is **汽锅鸡**, steam-pot chicken, one of Yunnan's defining dishes 
 
 ## Getting there and around
 
-Jianshui has no metro and does not need one. Trains from Kunming reach Jianshui station (建水站) in around two hours, and the old town is small enough to cross on foot; Tuanshan and the bridge need the little train or a taxi.
+Jianshui has no metro and does not need one. [Intercity trains from Kunming South](/answers/how-do-i-get-to-jianshui-from-kunming/) reach Jianshui station (建水站) in around two hours, and the old town is small enough to cross on foot; Tuanshan and the bridge need the little train or a taxi.
 
 ## Frequently asked questions
 
@@ -91,7 +91,7 @@ That is the usual English claim, but Chinese sources place it third, behind Qufu
 
 ### How do I get to Jianshui from Kunming?
 
-By train to Jianshui station (建水站), in roughly two hours depending on the service. Jianshui is in Honghe prefecture in southern Yunnan.
+By intercity train from **Kunming South** (昆明南站) — not Kunming's central station — to Jianshui station (建水站), in roughly two hours depending on the service, via Yuxi and Tonghai. Jianshui is in Honghe prefecture in southern Yunnan.
 
 ### Is the Jianshui small train still running?
 

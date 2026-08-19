@@ -86,7 +86,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 
 ### Southern landscape
 
-**Shanghai → Huangshan → Hongcun → Zhangjiajie → Fenghuang → Guilin/Yangshuo → Hong Kong.** Mountains, Huizhou villages, the Avatar pillars and karst rivers, ending with an easy exit through Hong Kong.
+**Shanghai → Huangshan → Hongcun → Zhangjiajie → Fenghuang → Guilin/Yangshuo → Hong Kong.** Mountains, Huizhou villages, the Avatar pillars and karst rivers, ending with an easy exit through Hong Kong. Book the Huangshan summit hotel before anything else on this route — [it is the one night that fixes the dates](/answers/how-long-do-you-need-at-huangshan/), and the rooms go months ahead.
 
 ### Slow east
 

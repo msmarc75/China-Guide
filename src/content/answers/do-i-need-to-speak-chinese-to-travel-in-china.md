@@ -27,7 +27,7 @@ The honest position is that the language barrier in China is real and almost ent
 
 **Screenshots in Chinese characters.** Your hotel name and address, saved as an image. This is the single highest-return preparation you can do — it works offline, works on a dying battery, and turns the taxi problem into a two-second exchange. Save it as your lock screen if you are nervous.
 
-**An offline translation pack.** Download the Chinese pack in Google Translate before you fly, so it works without a signal or a VPN. Camera translation on menus and signs is genuinely good now, and Pleco is the better dictionary if you want one.
+**An offline translation pack.** Download the Chinese pack in Google Translate before you fly, so it works without a signal or a VPN. Camera translation on menus and signs is genuinely good now, and Pleco is the better dictionary if you want one — [the two apps are complements rather than alternatives](/answers/what-is-the-best-app-for-translating-chinese/).
 
 **Pointing, and 这个 (*zhège*, "this one").** Between a photo menu, a finger, and one word, most ordering is done. Chinese restaurants overwhelmingly have picture menus for exactly this reason.
 

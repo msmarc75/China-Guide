@@ -31,6 +31,7 @@ import {
   breadcrumbSchema,
   articleSchema,
   faqSchema,
+  qaPageSchema,
   destinationSchema,
   itemListSchema,
   abs,
@@ -105,6 +106,16 @@ const SECTIONS = [
     intro:
       '"Chinese food" is not a cuisine — it is a dozen of them, and the version you know abroad is mostly Cantonese filtered through emigration. This section maps the real thing region by region and tells you exactly what to say to get it.',
     priority: 0.8,
+  },
+  {
+    id: 'answers',
+    title: 'China Travel Questions Answered',
+    heading: 'Answers',
+    description:
+      'Short, direct answers to the questions foreign visitors actually ask about travelling in China — one question per page, no preamble.',
+    intro:
+      'One question, one page, answered in the first two sentences. These are the things people search three days before flying.',
+    priority: 0.7,
   },
   {
     id: 'shop',
@@ -267,6 +278,18 @@ function crumbsFor(page) {
  * Article rendering
  * ------------------------------------------------------------------ */
 
+/**
+ * The accepted answer for an /answers/ page: standfirst plus opening paragraph.
+ * Both sit above the fold, which is what a search snippet extracts.
+ */
+function directAnswerOf(page) {
+  const firstParagraph = page.body
+    .split('\n\n')
+    .map((b) => b.trim())
+    .find((b) => b && !/^[#:|>-]/.test(b));
+  return toPlainText([page.standfirst, firstParagraph].filter(Boolean).join(' '));
+}
+
 function renderArticle(page) {
   const { html, headings } = renderMarkdown(page.body, { slotRenderer });
   const faqs = extractFaq(page.body);
@@ -295,6 +318,7 @@ function renderArticle(page) {
     articleSchema(page),
     faqs.length ? faqSchema(faqs) : null,
     page.sectionId === 'destinations' ? destinationSchema(page) : null,
+    page.sectionId === 'answers' ? qaPageSchema(page, directAnswerOf(page)) : null,
   ];
 
   const facts = Array.isArray(page.facts) && page.facts.length

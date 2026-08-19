@@ -95,12 +95,20 @@ for (const file of htmlFiles) {
   }
 
   // Structured data must parse
+  const schemaTypes = [];
   for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
     try {
-      JSON.parse(m[1].replace(/\\u003c/g, '<'));
+      const parsed = JSON.parse(m[1].replace(/\\u003c/g, '<'));
+      for (const node of parsed['@graph'] || [parsed]) schemaTypes.push(node['@type']);
     } catch (e) {
       errors.push(`${url} — invalid JSON-LD: ${e.message}`);
     }
+  }
+
+  // Google treats a page claiming to be both a single Q&A and an FAQ list as
+  // conflicting markup, and may drop the rich result entirely.
+  if (schemaTypes.includes('QAPage') && schemaTypes.includes('FAQPage')) {
+    errors.push(`${url} — emits both QAPage and FAQPage; an answer page must carry only one`);
   }
 }
 

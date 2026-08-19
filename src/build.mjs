@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Static site generator for China Travel Compass.
+ * Static site generator for China Trip Compass.
  *
  * Reads Markdown + front matter from src/content/<section>/, renders every page
  * with SEO metadata and structured data, then writes sitemap, RSS feed, search
@@ -110,7 +110,7 @@ const SECTIONS = [
     title: 'China Travel Resources & Downloads',
     heading: 'Resources & downloads',
     description:
-      'Downloadable planners, offline phrase packs and checklists that make a China trip easier — built by the team behind China Travel Compass.',
+      'Downloadable planners, offline phrase packs and checklists that make a China trip easier — built by the team behind China Trip Compass.',
     intro:
       'Free guides pay the bills through affiliate links; these paid resources are how we keep the free guides free and independent of any tour operator.',
     priority: 0.5,
@@ -243,7 +243,7 @@ function renderArticle(page) {
         <span aria-hidden="true">·</span>
         <span>${readingTime} min read</span>
         <span aria-hidden="true">·</span>
-        <span>${escapeHtml(page.author || 'China Travel Compass editors')}</span>
+        <span>${escapeHtml(page.author || 'China Trip Compass editors')}</span>
       </p>
     </header>
     ${facts}
@@ -483,7 +483,7 @@ function renderSearchPage(index) {
   const body = `<div class="wrap wrap--article">
   <header class="page-header">
     <h1>Search the guide</h1>
-    <p class="page-header__lede">Every page on China Travel Compass, searchable offline once loaded.</p>
+    <p class="page-header__lede">Every page on China Trip Compass, searchable offline once loaded.</p>
   </header>
   <form class="search-page__form" role="search" onsubmit="return false;">
     <label class="sr-only" for="search-input">Search</label>
@@ -495,7 +495,7 @@ function renderSearchPage(index) {
   return layout(
     {
       title: 'Search',
-      description: 'Search every China travel guide on China Travel Compass.',
+      description: 'Search every China travel guide on China Trip Compass.',
       url: '/search/',
       noindex: true,
       crumbs,
@@ -527,7 +527,7 @@ function renderSitemapPage() {
 
   const body = `<div class="wrap">
   <header class="page-header">
-    <h1>Every page on China Travel Compass</h1>
+    <h1>Every page on China Trip Compass</h1>
     <p class="page-header__lede">A full human-readable index of the guide — ${allArticles.length + standalonePages.length} pages.</p>
   </header>
   <div class="sitemap-grid">${groups}${extras}</div>
@@ -536,7 +536,7 @@ function renderSitemapPage() {
   return layout(
     {
       title: 'All pages',
-      description: 'Complete index of every China travel guide, destination and itinerary on China Travel Compass.',
+      description: 'Complete index of every China travel guide, destination and itinerary on China Trip Compass.',
       url: '/sitemap-page/',
       crumbs,
       schema: graph([organisationSchema(), websiteSchema(), breadcrumbSchema(crumbs)]),

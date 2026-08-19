@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 navTitle: Privacy
-metaTitle: "Privacy Policy — China Travel Compass"
-description: What data China Travel Compass collects, why, how long it is kept, and the rights you have over it.
+metaTitle: "Privacy Policy — China Trip Compass"
+description: What data China Trip Compass collects, why, how long it is kept, and the rights you have over it.
 standfirst: What we collect, why, and how to make us stop.
 eyebrow: Policy
 updated: 2026-08-01

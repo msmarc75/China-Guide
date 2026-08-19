@@ -1,4 +1,4 @@
-/* China Travel Compass — progressive enhancement only. The site works without it. */
+/* China Trip Compass — progressive enhancement only. The site works without it. */
 (function () {
   'use strict';
 

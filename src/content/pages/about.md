@@ -1,17 +1,17 @@
 ---
-title: About China Travel Compass
+title: About China Trip Compass
 navTitle: About
-metaTitle: "About China Travel Compass — Who We Are and How We Work"
-description: Who writes China Travel Compass, how the guides are researched and updated, and how the site is funded — including what we do and do not accept.
+metaTitle: "About China Trip Compass — Who We Are and How We Work"
+description: Who writes China Trip Compass, how the guides are researched and updated, and how the site is funded — including what we do and do not accept.
 standfirst: An independent English-language guide to travelling in China, written for people who do not read Chinese and are visiting for the first time.
 eyebrow: About
 updated: 2026-08-01
-keywords: [about china travel compass, china travel guide about]
+keywords: [about china trip compass, china travel guide about]
 ---
 
 ## What this site is
 
-China Travel Compass is a free, independent travel guide to mainland China, written in English for foreign visitors. It covers the practical mechanics — entry rules, payments, connectivity, transport, accommodation — alongside destination guides, itineraries, food and culture.
+China Trip Compass is a free, independent travel guide to mainland China, written in English for foreign visitors. It covers the practical mechanics — entry rules, payments, connectivity, transport, accommodation — alongside destination guides, itineraries, food and culture.
 
 It exists because most English-language China information falls into one of two categories: promotional content produced by tour operators, or blog posts written before 2019 that are now materially wrong. China changed its visa regime, its payment infrastructure and its rail network substantially in the last five years, and a great deal of what is online has not caught up.
 

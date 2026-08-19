@@ -131,7 +131,7 @@ function header(page) {
   <div class="wrap site-header__inner">
     <a class="brand" href="/">
       <span class="brand__mark" aria-hidden="true">指</span>
-      <span class="brand__text"><strong>China</strong> Travel Compass</span>
+      <span class="brand__text"><strong>China</strong> Trip Compass</span>
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu">
       <span></span><span></span><span></span>

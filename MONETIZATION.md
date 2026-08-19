@@ -1,4 +1,4 @@
-# Monetisation strategy — China Travel Compass
+# Monetisation strategy — China Trip Compass
 
 How this site is designed to make money, in what order to switch each stream on,
 and what each one is realistically worth. Every mechanism described here already

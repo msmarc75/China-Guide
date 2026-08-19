@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="China Travel Compass">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="China Trip Compass">
   <rect width="512" height="512" rx="96" fill="#b3202c"/>
   <circle cx="256" cy="256" r="150" fill="none" stroke="#f6d365" stroke-width="10" opacity=".55"/>
   <path d="M256 128 288 288 256 384 224 288Z" fill="#fdfbf7"/>

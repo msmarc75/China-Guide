@@ -7,19 +7,19 @@
  */
 
 export const SITE = {
-  name: 'China Travel Compass',
+  name: 'China Trip Compass',
   shortName: 'China Compass',
   tagline: 'The complete China travel guide for foreign visitors',
   description:
     'A free, in-depth English guide to travelling in China: visas, payments, trains, food, etiquette, itineraries and city guides written for first-time foreign visitors.',
-  url: (process.env.SITE_URL || 'https://chinatravelcompass.com').replace(/\/$/, ''),
+  url: (process.env.SITE_URL || 'https://chinatripcompass.com').replace(/\/$/, ''),
   locale: 'en_US',
   lang: 'en',
   themeColor: '#b3202c',
-  publisher: 'China Travel Compass',
+  publisher: 'China Trip Compass',
   twitter: '@chinacompass',
   founded: '2026',
-  contactEmail: 'hello@chinatravelcompass.com',
+  contactEmail: 'hello@chinatripcompass.com',
   // Set to a real ID to activate; left empty the tags are simply not emitted.
   analyticsId: process.env.ANALYTICS_ID || '',
   adsenseId: process.env.ADSENSE_ID || '',

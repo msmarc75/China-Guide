@@ -1,12 +1,12 @@
 ---
 title: Editorial Policy
 navTitle: Editorial policy
-metaTitle: "Editorial Policy — China Travel Compass"
-description: How China Travel Compass researches, writes, reviews and updates its guides, and the commercial boundaries we hold to.
+metaTitle: "Editorial Policy — China Trip Compass"
+description: How China Trip Compass researches, writes, reviews and updates its guides, and the commercial boundaries we hold to.
 standfirst: The rules we hold ourselves to, written down so you can hold us to them.
 eyebrow: Policy
 updated: 2026-08-01
-keywords: [editorial policy, china travel compass standards]
+keywords: [editorial policy, china trip compass standards]
 ---
 
 ## Independence

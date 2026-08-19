@@ -1,17 +1,17 @@
 ---
 title: Affiliate Disclosure
 navTitle: Affiliate disclosure
-metaTitle: "Affiliate Disclosure — China Travel Compass"
-description: How affiliate links work on China Travel Compass, which partners we use, and what it means for the advice you read.
+metaTitle: "Affiliate Disclosure — China Trip Compass"
+description: How affiliate links work on China Trip Compass, which partners we use, and what it means for the advice you read.
 standfirst: Some links on this site earn us a commission. Here is exactly how that works and what we do about the conflict of interest it creates.
 eyebrow: Policy
 updated: 2026-08-01
-keywords: [affiliate disclosure, china travel compass affiliate]
+keywords: [affiliate disclosure, china trip compass affiliate]
 ---
 
 ## The short version
 
-Some links on China Travel Compass are affiliate links. If you book or buy through one, we receive a commission from the merchant. **You pay exactly the same price** — the commission comes out of the merchant's margin, not out of your pocket.
+Some links on China Trip Compass are affiliate links. If you book or buy through one, we receive a commission from the merchant. **You pay exactly the same price** — the commission comes out of the merchant's margin, not out of your pocket.
 
 This site is free to read, has no paywall and no registration, and affiliate commission is the main reason that is possible.
 

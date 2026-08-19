@@ -1,4 +1,4 @@
-# China Travel Compass
+# China Trip Compass
 
 A complete, SEO-optimised English travel guide to China for foreign visitors —
 70 pages covering visas, mobile payments, connectivity, high-speed rail, 20+
@@ -122,7 +122,7 @@ Everything commercial and identity-related lives in `src/content/site.mjs`.
 Environment variables, all optional:
 
 ```bash
-SITE_URL=https://yourdomain.com   # canonical origin (default: chinatravelcompass.com)
+SITE_URL=https://yourdomain.com   # canonical origin (default: chinatripcompass.com)
 ANALYTICS_ID=G-XXXXXXXXXX         # emits GA4 tags when set
 ADSENSE_ID=ca-pub-XXXXXXXX        # emits real ad units instead of placeholders
 ```
@@ -227,4 +227,4 @@ booking — because the lists have been revised roughly every six months since
 
 ## Licence
 
-MIT for the code. Content is © China Travel Compass.
+MIT for the code. Content is © China Trip Compass.

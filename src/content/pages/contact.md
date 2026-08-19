@@ -1,12 +1,12 @@
 ---
 title: Contact Us
 navTitle: Contact
-metaTitle: "Contact China Travel Compass"
-description: How to send a correction, ask a question or contact China Travel Compass about partnerships and press.
+metaTitle: "Contact China Trip Compass"
+description: How to send a correction, ask a question or contact China Trip Compass about partnerships and press.
 standfirst: Corrections are the most useful thing you can send us. Prices move, sights close, and rules change faster than we can check them all.
 eyebrow: Contact
 updated: 2026-08-01
-keywords: [contact china travel compass]
+keywords: [contact china trip compass]
 ---
 
 ## Corrections

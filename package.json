@@ -17,7 +17,8 @@
     "test:aside": "node tools/test-aside-partner.mjs",
     "audit:links": "node tools/audit-discoverability.mjs",
     "audit:transit": "node tools/extract-transit-claims.mjs",
-    "audit:inbound": "node tools/audit-inbound-links.mjs"
+    "audit:inbound": "node tools/audit-inbound-links.mjs",
+    "audit:orphans": "node tools/find-orphan-questions.mjs"
   },
   "engines": {
     "node": ">=18"

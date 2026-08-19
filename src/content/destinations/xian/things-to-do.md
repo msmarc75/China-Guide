@@ -22,7 +22,7 @@ Every entry below was cross-checked against at least two independent sources, se
 
 | Sight | Chinese | Address | Metro |
 | --- | --- | --- | --- |
-| Terracotta Army | 秦始皇帝陵博物院 | 西安市临潼区秦陵北路 | None — see below |
+| Terracotta Army | 秦始皇帝陵博物院 | 西安市临潼区秦陵北路 | No station at the site — see below |
 | City Wall (South Gate) | 西安城墙（永宁门） | 西安市碑林区南大街2号 | Line 2, Yongningmen (exit A1 or D1) |
 | Bell Tower | 钟楼 | 西安市碑林区东大街与西大街交汇处 | Lines 2 and 6, Zhonglou (exit C) |
 | Drum Tower | 鼓楼 | 西安市西大街北院门街南端 | Lines 2 and 6, Zhonglou |
@@ -48,7 +48,7 @@ Sources differ on which district Daming Palace sits in — some say Weiyang, oth
 **Daming Palace** is a vast footprint of a Tang palace with very little standing. Rewarding if you like imagining scale from foundations; skippable if you do not.
 
 :::warn The Terracotta Army is a day trip, not an afternoon
-It is in Lintong district, well east of the city, with no metro connection. Reach it by tour bus, hired car, or the public bus from near Xi'an railway station. Allow the full day, and book ahead — entry is by advance reservation tied to your passport.
+It is in Lintong district, well east of the city. Metro **line 9** has run out to Lintong since December 2020, and its terminus is called Qinling West (秦陵西站) — a name that reads like the answer and is not. No station on the line serves the museum; from the end of it you still need a local bus. Take the public bus from near Xi'an railway station instead, or a tour bus or hired car. Allow the full day, and book ahead — entry is by advance reservation tied to your passport.
 :::
 
 ## Practical notes

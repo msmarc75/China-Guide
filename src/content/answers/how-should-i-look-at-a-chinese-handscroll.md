@@ -29,7 +29,7 @@ The scatter of red seals and the blocks of handwriting are **collectors' marks a
 
 The extreme case is the **Qianlong emperor**, who inscribed the paintings he loved. He owned two versions of Huang Gongwang's *Dwelling in the Fuchun Mountains*: he judged the forgery genuine, kept it beside him for over fifty years and covered it with **fifty-five** inscriptions, and he dismissed the real one as a fake and never wrote a single character on it. The real scroll is the better painting and the emptier object.
 
-That scroll is also why you may see only part of one. It was thrown on a fire by its dying owner in 1650, pulled out by his nephew, and survived in two pieces: the short opening fragment is in the **Zhejiang Provincial Museum** in Hangzhou, shown periodically rather than permanently, and the long remainder is in Taipei.
+That scroll is also why you may see only part of one. It was thrown on a fire by its dying owner in 1650, pulled out by his nephew, and survived in two pieces: the short opening fragment is in the **Zhejiang Provincial Museum** in Hangzhou — at its Zhijiang campus rather than the lakeside one, and shown for about a month a year rather than permanently — and the long remainder is in Taipei.
 
 ## Calligraphy, without reading Chinese
 

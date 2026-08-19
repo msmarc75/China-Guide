@@ -10,7 +10,7 @@ region: Southwest China
 lat: 25.0389
 lon: 102.7183
 order: 10
-updated: 2026-08-01
+updated: 2026-08-19
 asidePartner: hotels
 keywords: [yunnan travel guide, dali china, lijiang old town, shangri-la china, tiger leaping gorge, yuanyang rice terraces]
 facts:
@@ -37,7 +37,7 @@ Shangri-La in the northwest is Tibetan country, and [reachable without a Tibet p
 
 The "Spring City", hovering around 15–22°C nearly year-round. Pleasant rather than compelling; most travellers use it as an arrival point.
 
-Worth doing: the **Yunnan Provincial Museum** (free, excellent on minority cultures), **Green Lake Park**, and the **Stone Forest** (Shilin, ¥130, 90 minutes away) — a 300 km² karst formation of limestone pillars that is genuinely strange and heavily visited.
+Worth doing: **Green Lake Park** in the centre, the **Yunnan Provincial Museum** (云南省博物馆, Yunnan sheng bowuguan — free, excellent on minority cultures, but it moved out to 昆明市官渡区广福路6393号 in Guandu district in 2015 and no metro station serves it, so allow a taxi or a line 1 ride plus a bus), and the **Stone Forest** (Shilin, ¥130, 90 minutes away) — a 300 km² karst formation of limestone pillars that is genuinely strange and heavily visited.
 
 ### Dali (2,000 m) — 2 nights
 

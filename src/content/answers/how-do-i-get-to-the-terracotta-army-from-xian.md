@@ -29,6 +29,10 @@ This is one of the few places in China where the scam is not a minor annoyance b
 
 The defence is simple: **walk to the official bus stand and get on the green 306.** Do not buy a ticket from a person holding a clipboard, and do not follow anyone offering a minibus.
 
+## Not by metro, whatever the map suggests
+
+Xi'an metro **line 9** has served Lintong since December 2020 and ends at **Qinling West** (秦陵西站) — Qin Mausoleum West. The name reads like the Terracotta Army and is not it. No station on the line serves the museum, so a metro route means riding to the end and then finding a local bus, which is slower than the 306 and has more places to go wrong. If a mapping app offers you a metro option, that transfer is what it is hiding.
+
 ## By DiDi
 
 A DiDi takes about **50 minutes** and removes the uncertainty, which is worth it if you are short on time or travelling as a group where the per-head cost evens out. Book it in the app rather than accepting a driver who approaches you, and have the destination on screen in Chinese characters.

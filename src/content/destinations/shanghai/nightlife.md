@@ -48,7 +48,7 @@ Friendly strangers practising their English invite you to a tea ceremony, an art
 
 **The metro closes before the bars do.** Last trains run well before the Concession empties. Use DiDi and set the destination in the app before you leave.
 
-**Pay by phone.** Alipay and WeChat Pay work everywhere, including small hutong-scale places.
+**Pay by phone.** Alipay and WeChat Pay work everywhere, including the smallest lane-house bars.
 
 **Rooftops need booking.** The Bund rooftop bars take reservations and turn people away at the door on busy evenings. Book rather than arrive hopefully.
 

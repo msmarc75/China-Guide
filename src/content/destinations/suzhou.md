@@ -10,7 +10,7 @@ region: Jiangsu, East China
 lat: 31.2989
 lon: 120.5853
 order: 8
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [suzhou travel guide, suzhou gardens, humble administrator garden, pingjiang road, day trip from shanghai]
 facts:
   - Days needed | 1–2 nights, or a long day trip

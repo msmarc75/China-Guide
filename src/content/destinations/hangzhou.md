@@ -10,7 +10,7 @@ region: Zhejiang, East China
 lat: 30.2741
 lon: 120.1551
 order: 7
-updated: 2026-08-01
+updated: 2026-08-19
 keywords: [hangzhou travel guide, west lake hangzhou, longjing tea, lingyin temple, day trip from shanghai]
 facts:
   - Days needed | 1–2 nights
@@ -49,7 +49,7 @@ The "Ten Scenes of West Lake" are a canonical list dating to the Song dynasty �
 
 **China National Tea Museum** — free, well done, next to the tea fields.
 
-**Zhejiang Provincial Museum** — free, and holder of the burnt opening fragment of Huang Gongwang's *Dwelling in the Fuchun Mountains*, shown periodically rather than permanently. [The story of how the scroll ended up in two pieces](/answers/how-should-i-look-at-a-chinese-handscroll/) is worth knowing before you go looking for it.
+**Zhejiang Provincial Museum** — free, and split across sites, which matters if you are going for one object. The lakeside **Gushan campus** (孤山馆区, Gushan guanqu, at 杭州市西湖区孤山路25号) is a short walk from the Bai Causeway and is the one most visitors mean. The burnt opening fragment of Huang Gongwang's *Dwelling in the Fuchun Mountains* is **not there**: it belongs to the **Zhijiang campus** (之江馆区, Zhijiang guanqu), which opened in August 2023 inside the Zhijiang Culture Centre (之江文化中心) across the city, on metro **line 6** at Zhijiang Wenhua Zhongxin station (之江文化中心站). Even there the fragment is shown for about a month a year rather than permanently, so do not build a day around it without checking. [The story of how the scroll ended up in two pieces](/answers/how-should-i-look-at-a-chinese-handscroll/) is worth knowing before you go looking for it.
 
 **Six Harmonies Pagoda** (¥20) — a Song-era pagoda above the Qiantang River, which is also where the world's largest tidal bore arrives each autumn (around the 18th day of the 8th lunar month, usually September).
 

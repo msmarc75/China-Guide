@@ -32,7 +32,7 @@ All true tea comes from one plant, *Camellia sinensis*. What separates a Longjin
 
 Brew at 75–85°C. Boiling water scalds green tea and makes it bitter.
 
-**White (白茶).** Barely processed — withered and dried. Delicate, subtly sweet. *Baihao Yinzhen* (Silver Needle) and *Bai Mudan* from Fujian.
+**White (白茶).** Barely processed — withered and dried. Delicate, subtly sweet. *Baihao Yinzhen* (Silver Needle) and *Bai Mudan* from Fujian. Worth knowing that white tea is also aged deliberately: the Chinese saying runs "one year tea, three years medicine, seven years treasure", and aged white sells at a premium accordingly.
 
 **Yellow (黄茶).** Rare, similar to green but with an extra slow-smothering step that removes the grassiness. *Junshan Yinzhen* from Hunan.
 
@@ -48,7 +48,7 @@ Brew at 75–85°C. Boiling water scalds green tea and makes it bitter.
 - *Lapsang Souchong* from Wuyi — pine-smoked, and the ancestor of all black tea
 - *Dianhong* from Yunnan — malty, golden
 
-**Dark / post-fermented (黑茶).** Microbially fermented and aged, the only category that genuinely improves over decades.
+**Dark / post-fermented (黑茶).** Microbially fermented and aged, and the category most associated with improving over decades — though not the only one, since aged white tea is also collected and traded on exactly that basis.
 
 - ***Pu'er*** from Yunnan, the famous one, pressed into cakes. **Sheng** (raw) ages slowly over decades and becomes smooth and complex; **shou** (ripe) is artificially accelerated fermentation, dark and earthy from the start
 - Aged pu'er is a serious collectors' market with prices to match, and a corresponding volume of fakes

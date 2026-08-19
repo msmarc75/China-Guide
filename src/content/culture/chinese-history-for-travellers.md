@@ -30,7 +30,7 @@ China's history is usually told as a sequence of dynasties, each conventionally 
 | **Zhou** | 1046–256 BCE | Confucius, Laozi, the classics | Qufu (Confucius's home town) |
 | **Qin** | 221–206 BCE | First unified empire, standardised script | Terracotta Army, [Xi'an](/destinations/xian/) |
 | **Han** | 206 BCE–220 CE | Silk Road, Confucian bureaucracy, paper | Han Yang Ling, Xi'an; Mawangdui, [Changsha](/destinations/changsha/) |
-| **Three Kingdoms / Six Dynasties** | 220–589 | The stories everyone knows; Buddhism arrives | Wuhou Shrine, Chengdu |
+| **Three Kingdoms / Six Dynasties** | 220–589 | The stories everyone knows; Buddhism takes hold | Wuhou Shrine, Chengdu |
 | **Sui** | 581–618 | Grand Canal | Yangzhou, Hangzhou |
 | **Tang** | 618–907 | The cosmopolitan golden age; poetry | Xi'an; Dunhuang caves |
 | **Song** | 960–1279 | Painting, porcelain, printing, paper money | Kaifeng, Hangzhou, Shanghai Museum |

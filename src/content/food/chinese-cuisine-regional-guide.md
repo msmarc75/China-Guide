@@ -125,7 +125,7 @@ No, despite how often it is described as one. The eight-cuisine list first appea
 
 ### What are the eight great cuisines of China?
 
-Shandong (Lu), Sichuan (Chuan), Cantonese (Yue), Jiangsu (Su), Fujian (Min), Zhejiang (Zhe), Hunan (Xiang) and Anhui (Hui). The classification dates from the Qing dynasty and leaves out several major traditions, including Northeastern, Xinjiang, Shaanxi and Yunnan cooking.
+Shandong (Lu), Sichuan (Chuan), Cantonese (Yue), Jiangsu (Su), Fujian (Min), Zhejiang (Zhe), Hunan (Xiang) and Anhui (Hui). The grouping is far more recent than it is usually said to be — it reached print in 1980, not the Qing dynasty — and it leaves out several major traditions, including Northeastern, Xinjiang, Shaanxi and Yunnan cooking.
 
 ### Is Chinese food in China different from Chinese food abroad?
 

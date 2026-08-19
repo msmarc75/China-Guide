@@ -83,7 +83,7 @@ Still useful for distances the train cannot handle sensibly: Beijing to Kunming,
 - **Book on Trip.com** or directly with China Eastern, Air China or China Southern.
 - **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections.
 - **Umetrip** is the app locals use for real-time status; it is more accurate than the airline apps.
-- **Power bank rules**: since 2025, power banks on Chinese domestic flights must show a valid CCC certification mark, and uncertified units are confiscated at security.
+- **Power bank rules**: since 2025, power banks on Chinese domestic flights must show a valid CCC certification mark, and uncertified units are confiscated at security. [What this means for a power bank bought abroad](/answers/can-i-bring-a-power-bank-to-china/) is worth reading before you fly domestically.
 - **ID at the airport** is your passport, scanned at check-in and again at security.
 
 **Rule of thumb:** under 5 hours by train, take the train. Over 8 hours by train, fly. In between, compare total door-to-door time — the train usually still wins.
@@ -101,7 +101,7 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 
 ### Taxis and DiDi
 
-**DiDi** is China's Uber, has an English interface, and pays automatically through your linked Alipay or WeChat. It is the simplest option for a foreigner because you type the destination rather than pronouncing it. Drivers may call to confirm — if you cannot speak Chinese, use the in-app message templates.
+**DiDi** is China's Uber — [Uber itself does not operate in mainland China](/answers/can-you-use-uber-in-china/) — and it has an English interface and pays automatically through your linked Alipay or WeChat. It is the simplest option for a foreigner because you type the destination rather than pronouncing it. Drivers may call to confirm — if you cannot speak Chinese, use the in-app message templates.
 
 **Street taxis** are cheap (flag-fall ¥10–14, then about ¥2.5/km) and metered. Drivers essentially never speak English. Show the destination in **Chinese characters** on your phone. Insist on the meter; refusing to use it is illegal and a red flag.
 

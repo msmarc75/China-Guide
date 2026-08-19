@@ -137,7 +137,7 @@ Yes, outside the peak summer period. Several other major Beijing museums, includ
 
 ### Where should I stay in Beijing?
 
-Around Qianmen, Dongsi or Nanluoguxiang — all walkable to the Forbidden City, with hutong atmosphere and good metro access. Wangfujing is convenient but characterless; Sanlitun suits nightlife over sightseeing.
+Around Qianmen, Dongsi or Nanluoguxiang — all walkable to the Forbidden City, with hutong atmosphere and good metro access. Wangfujing is convenient but characterless; Sanlitun suits nightlife over sightseeing. [Where to stay in Beijing](/answers/where-should-i-stay-in-beijing/) compares the districts in more detail.
 
 ### What food is Beijing famous for?
 

@@ -191,4 +191,4 @@ Police 110, ambulance 120, fire 119, traffic accidents 122. Operators rarely spe
 
 ### Is street food safe in China?
 
-Generally yes, if you eat where locals queue, choose stalls cooking to order over pre-cooked trays, and stick to food that comes off high heat in front of you. Avoid lukewarm cold dishes and pre-cut unpeeled fruit.
+Generally yes, if you eat where locals queue, choose stalls cooking to order over pre-cooked trays, and stick to food that comes off high heat in front of you. Avoid lukewarm cold dishes and pre-cut unpeeled fruit. [Is street food safe in China?](/answers/is-street-food-safe-in-china/) sets out the rules in full and when to eat.

@@ -109,7 +109,7 @@ If someone tells you to stop, stop and delete it if asked. It ends there.
 
 ### Do I need to register with the police in China?
 
-If you stay in a hotel, the hotel registers you automatically when it scans your passport — you need do nothing. If you stay anywhere else, including with friends or in a privately booked apartment, you or your host must register at the local police station within 24 hours of arrival — longer in some rural areas — under Article 39 of the Exit and Entry Administration Law.
+If you stay in a hotel, the hotel registers you automatically when it scans your passport — you need do nothing. If you stay anywhere else, including with friends or in a privately booked apartment, you or your host must register at the local police station within 24 hours of arrival — longer in some rural areas — under Article 39 of the Exit and Entry Administration Law. [Registering with the police in China](/answers/do-i-need-to-register-with-police-in-china/) covers the timing and what a hotel does on your behalf.
 
 ### What is a neighbourhood committee in China?
 

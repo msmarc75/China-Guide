@@ -78,7 +78,7 @@ Two directions, and it matters which one you are in:
 - **Merchant scans you.** You open *Pay* in Alipay or WeChat, which displays a barcode and QR. The cashier scans it with a handheld scanner. This is the norm in shops and supermarkets.
 - **You scan the merchant.** You tap *Scan*, point at the printed QR on the counter or table, then type the amount yourself and confirm. This is the norm for street stalls, markets and small restaurants. Type carefully — you are entering the amount.
 
-For the metro, open the transport QR inside Alipay (*Transport* → your city) and scan at the gate on the way in and again on the way out.
+For the metro, open the transport QR inside Alipay (*Transport* → your city) and scan at the gate on the way in and again on the way out. [How to pay for the metro in China](/answers/how-do-i-pay-for-the-metro-in-china/) covers the setup and the cities where a local card is still easier.
 
 ## Cash, ATMs and exchange
 

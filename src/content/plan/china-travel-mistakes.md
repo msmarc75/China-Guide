@@ -25,7 +25,7 @@ The single most consequential mistake. China runs on QR payment, your Visa card 
 
 ## 2. Not installing a VPN before arrival
 
-VPN provider websites are blocked from inside China and their apps are removed from the Chinese App Store. You cannot download one after you land. Install and test it at home, even if you plan to roam on a foreign SIM and probably will not need it.
+VPN provider websites are blocked from inside China and their apps are removed from the Chinese App Store. You cannot download one after you land. Install and test it at home, even if you plan to roam on a foreign SIM and [probably will not need it](/answers/do-i-need-a-vpn-in-china/).
 
 ## 3. Buying a Chinese SIM without understanding what it does
 

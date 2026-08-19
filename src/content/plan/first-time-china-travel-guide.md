@@ -85,17 +85,17 @@ If you take a Chinese SIM, install and test a VPN **before you arrive** — VPN 
 
 ## Getting around: the train is almost always the answer
 
-China has more than 48,000 km of high-speed rail, and it has made domestic flying largely irrelevant for journeys under about 1,200 km. Beijing to Shanghai is 4.5 hours city centre to city centre, at 350 km/h, for roughly ¥550 in second class.
+China has more than 48,000 km of high-speed rail, and it has made domestic flying largely irrelevant for journeys under about 1,200 km. Beijing to Shanghai is 4 hours 20 minutes city centre to city centre, at 350 km/h, for roughly ¥550 in second class.
 
 What a first-timer needs to know:
 
 - **Book through the official 12306 app** (it has an English mode and accepts foreign passports and cards) or through Trip.com if you want a simpler interface for a small mark-up.
 - Tickets are **electronic and tied to your passport**. You do not collect anything — you scan the passport itself at the gate.
-- The pre-sale window has changed several times; plan for tickets going on sale roughly **two weeks ahead**, and book popular routes the day they open during holidays.
-- Arrive **40 minutes early**. Chinese stations are airport-scale, with security screening and gates that close 3–5 minutes before departure. They do not wait.
+- The pre-sale window has changed several times; plan for tickets going on sale roughly **two weeks ahead**, and book popular routes the day they open during holidays. [Booking Chinese train tickets in advance](/answers/can-i-book-chinese-train-tickets-in-advance/) covers what to do when a train sells out.
+- Arrive **40 minutes early**. Chinese stations are airport-scale, with security screening and gates that close 3–5 minutes before departure. They do not wait, and [40 minutes is the honest figure](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) rather than a cautious one.
 - **Second class is fine.** First class buys 20 cm of legroom. Business class is a flat-bed seat and costs three times as much.
 
-Inside cities, the metro is cheap (¥3–8), signed in English in every major city, and payable by scanning a QR code from Alipay. For door-to-door, **DiDi** works like Uber and has an English interface; ordinary street taxis are cheap but the driver will not speak English, so show your destination in Chinese characters.
+Inside cities, the metro is cheap (¥3–8), signed in English in every major city, and payable by scanning a QR code from Alipay. Expect [a bag scan at every station entrance](/answers/do-i-need-to-go-through-security-on-the-chinese-metro/), which is routine and adds a few minutes. For door-to-door, **DiDi** works like Uber and has an English interface; ordinary street taxis are cheap but the driver will not speak English, so show your destination in Chinese characters.
 
 :::tip The screenshot trick
 Before you leave the hotel, screenshot your hotel's name and address **in Chinese characters**. Save it as your phone wallpaper if you are worried. It solves the taxi problem entirely, works offline, and works when your battery-saving mode kills your data.
@@ -185,15 +185,15 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 
 ### Is China safe for tourists?
 
-Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. See [health and safety in China](/guides/health-and-safety-in-china/). Worth pairing with [what not to do in China](/answers/what-should-i-not-do-in-china/), which is more about causing offence than danger.
+Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. See [health and safety in China](/guides/health-and-safety-in-china/), and [an honest answer on how safe it actually is](/answers/is-china-safe-for-tourists/). Worth pairing with [what not to do in China](/answers/what-should-i-not-do-in-china/), which is more about causing offence than danger.
 
 ### Can I use my credit card in China?
 
-Rarely, outside international hotels, airports and upmarket restaurants. The practical solution is to bind your Visa or Mastercard inside Alipay or WeChat Pay before you travel, which lets you pay by QR code the way locals do. Carry some cash as a backup.
+Rarely, outside international hotels, airports and upmarket restaurants. The practical solution is to bind your Visa or Mastercard inside Alipay or WeChat Pay before you travel, which lets you pay by QR code the way locals do. Carry some cash as a backup. The [full answer on foreign cards](/answers/can-i-use-my-credit-card-in-china/) covers where they do work and what the fees come to.
 
 ### Do I need a VPN in China?
 
-Only if you are using a Chinese SIM card or hotel Wi-Fi and want Google, WhatsApp, Instagram or Western news. If you roam on your home SIM or a foreign travel eSIM, your traffic usually routes through your home network and reaches everything without a VPN. Install any VPN before arriving, because provider sites are blocked from inside.
+Only if you are using a Chinese SIM card or hotel Wi-Fi and want Google, WhatsApp, Instagram or Western news. If you roam on your home SIM or a foreign travel eSIM, your traffic usually routes through your home network and reaches everything without a VPN. Install any VPN before arriving, because provider sites are blocked from inside. [When you genuinely need one and when you do not](/answers/do-i-need-a-vpn-in-china/) works through the cases.
 
 ### How many days do you need in China?
 

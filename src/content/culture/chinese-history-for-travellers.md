@@ -38,7 +38,7 @@ China's history is usually told as a sequence of dynasties, each conventionally 
 | **Yuan** | 1271–1368 | Mongol rule; Beijing becomes the capital | Beijing's street grid |
 | **Ming** | 1368–1644 | Forbidden City, the Great Wall you see, blue-and-white porcelain | [Beijing](/destinations/beijing/), [Pingyao](/destinations/datong-pingyao/), Nanjing |
 | **Qing** | 1644–1912 | Manchu rule, maximum territorial extent, then collapse | Summer Palace, Chengde, Shenyang |
-| **Republic** | 1912–1949 | Warlords, war with Japan, civil war | Shanghai's Bund, Nanjing |
+| **Republic** | 1912–1949 | Warlords, war with Japan, civil war | [Wuhan](/destinations/wuhan/) (1911 uprising), Shanghai's Bund, Nanjing |
 | **PRC** | 1949– | The modern state | Everywhere |
 
 ## The parts that matter for what you will see
@@ -77,7 +77,9 @@ A Han restoration after Mongol rule, and the source of most of what a visitor se
 
 Manchu conquerors from the northeast who ruled as Chinese emperors while maintaining a distinct identity. Territory reached its greatest extent, including Tibet, Xinjiang and Mongolia. The 18th century under Kangxi and Qianlong was prosperous; the 19th was catastrophic — the **Opium Wars**, the **Taiping Rebellion** (20 million dead), foreign concessions in Shanghai and Guangzhou, and the **Boxer Rebellion**.
 
-The **Summer Palace** in Beijing, rebuilt by the Empress Dowager Cixi with funds diverted from the navy, is the emblematic Qing site. The last emperor, Puyi, abdicated in 1912 at the age of six.
+The **Summer Palace** in Beijing, rebuilt by the Empress Dowager Cixi with funds diverted from the navy, is the emblematic Qing site.
+
+The end came from an army mutiny. On 10 October 1911 New Army soldiers rose at Wuchang, in what is now [Wuhan](/destinations/wuhan/), and declared a provincial military government the next day; province after province followed, and by February 1912 the last emperor, Puyi, had abdicated at the age of six. The building where that government was declared still stands and is open to visitors.
 
 ### The 20th century
 

@@ -99,7 +99,7 @@ Dunhuang has its own airport east of town with flights to Lanzhou, Xi'an, Beijin
 
 ### Do I need to book Mogao Caves tickets in advance?
 
-Yes. Tickets are sold only through the Dunhuang Academy's official booking site and WeChat mini-programme, are real-name — you enter ID or passport details and must carry that document — and are released up to 30 days ahead. There is no walk-up ticket office to rely on, and the Academy states it has authorised no third-party sellers.
+Yes. Tickets are sold only through the Dunhuang Academy's official booking site and WeChat mini-programme, are real-name — you enter ID or passport details and must carry that document — and are released up to 30 days ahead. There is no walk-up ticket office to rely on, and the Academy states it has authorised no third-party sellers. [Booking the Mogao Caves](/answers/do-i-need-to-book-mogao-caves-tickets-in-advance/) explains what a visit consists of and why you cannot pick your caves.
 
 ### What is the difference between the normal and emergency Mogao tickets?
 

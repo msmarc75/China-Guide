@@ -65,7 +65,7 @@ The 55 include the United States, Canada, the United Kingdom, all EU and Schenge
 
 **The rules that matter:**
 
-1. **Third country requirement.** You must hold a confirmed onward ticket to a country or region *different* from the one you arrived from. New York → Beijing → Seoul qualifies. New York → Beijing → New York does not. Hong Kong, Macau and Taiwan count as separate "regions" for this purpose, which makes Beijing → Hong Kong a valid onward leg.
+1. **Third country requirement.** You must hold a confirmed onward ticket to a country or region *different* from the one you arrived from. New York → Beijing → Seoul qualifies. New York → Beijing → New York does not. Hong Kong, Macau and Taiwan count as separate "regions" for this purpose, which makes Beijing → Hong Kong a valid onward leg — and [the 50-minute train from Guangzhou](/answers/how-do-i-get-from-guangzhou-to-hong-kong/) is the cheapest way to take it.
 2. **The clock.** The 240 hours start at **00:00 on the day after arrival**, so you effectively get part of your arrival day plus ten full days.
 3. **Geography.** You may move within the **24 permitted provinces and municipalities**, which cover essentially every destination a first-time visitor cares about — Beijing, Shanghai, Xi'an, Chengdu, Chongqing, Guangzhou, Guilin, Hangzhou, Suzhou, Nanjing, Qingdao, Xiamen and Kunming among them. Seven province-level areas are outside the zone: **Tibet, Xinjiang, Inner Mongolia, Gansu, Qinghai, Ningxia and Jilin**. Note that Heilongjiang and Hainan *are* inside it, which older guidance often gets wrong.
 4. **Entry and exit ports** must be on the designated list. Major international airports all are; some land and sea crossings are.
@@ -140,7 +140,7 @@ Not because processing is slow — it is usually four days — but because visa 
 
 Being admitted to China is not the same as being allowed everywhere in China.
 
-**Tibet Autonomous Region.** Foreign nationals require a **Tibet Travel Permit**, which cannot be applied for individually — it must be arranged by a registered Tibetan travel agency as part of a booked tour with a guide. You need it before boarding the flight or train to Lhasa. Additional Aliens' Travel Permits are needed for areas beyond Lhasa such as Everest Base Camp. Budget three weeks for the paperwork, and note that the region periodically closes to foreigners, usually around March. See our [Tibet guide](/destinations/tibet-lhasa/).
+**Tibet Autonomous Region.** Foreign nationals require a **Tibet Travel Permit**, which cannot be applied for individually — it must be arranged by a registered Tibetan travel agency as part of a booked tour with a guide. You need it before boarding the flight or train to Lhasa. Additional Aliens' Travel Permits are needed for areas beyond Lhasa such as Everest Base Camp. Budget three weeks for [the paperwork](/answers/how-do-i-get-a-tibet-travel-permit/), and note that the region periodically closes to foreigners, usually around March. See our [Tibet guide](/destinations/tibet-lhasa/).
 
 **Xinjiang.** No special permit for the main cities and the Southern Silk Road route, but expect frequent identity checks, security screening at the entrance to markets and stations, and restrictions in border areas.
 

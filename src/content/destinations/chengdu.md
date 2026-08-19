@@ -105,7 +105,7 @@ Chengdu is also the main jumping-off point for **Tibet** — flights to Lhasa ta
 
 ### What time should I arrive at the Chengdu Panda Base?
 
-At 07:30 opening. Pandas are active during their morning feed and mostly asleep by 10:00, and tour groups arrive from about 09:00. Arriving late is the single most common Chengdu mistake, and one of [the errors that most often spoil a China trip](/plan/china-travel-mistakes/).
+At 07:30 opening. Pandas are active during their morning feed and mostly asleep by 10:00, and tour groups arrive from about 09:00. [Why the hour matters](/answers/what-time-should-i-arrive-at-the-chengdu-panda-base/) and what to do first once you are inside. Arriving late is the single most common Chengdu mistake, and one of [the errors that most often spoil a China trip](/plan/china-travel-mistakes/).
 
 ### How many days do you need in Chengdu?
 

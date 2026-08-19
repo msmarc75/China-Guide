@@ -33,11 +33,11 @@ A Chinese SIM puts you behind the national filter — no Google, no WhatsApp, no
 
 ## 4. Not booking timed-entry tickets
 
-The Forbidden City, the Shaanxi History Museum, the Shanghai Museum, the Mogao Caves and most national museums now use passport-linked timed entry with daily caps, released roughly seven days ahead. They sell out. **Turning up at the gate frequently does not work**, and there is no queue to join instead.
+The Forbidden City, the Shaanxi History Museum, the Shanghai Museum, the Mogao Caves and most national museums now use passport-linked timed entry with daily caps, released roughly seven days ahead. They sell out. **Turning up at the gate frequently does not work**, and there is no queue to join instead. The [Forbidden City booking rules](/answers/do-i-need-to-book-forbidden-city-tickets-in-advance/) and the [Mogao Caves' 30-day window](/answers/do-i-need-to-book-mogao-caves-tickets-in-advance/) are the two worth reading before you fix your dates.
 
 ## 5. Choosing Badaling for the Great Wall
 
-Badaling is the closest, the best-served, and by a wide margin the most crowded. **Mutianyu** is the same distance, restored, forested, has a cable car and a toboggan, and lets you walk away from people within fifteen minutes. See our [Great Wall guide](/destinations/great-wall-of-china/).
+Badaling is the closest, the best-served, and by a wide margin the most crowded. **Mutianyu** is [the same 70 km out](/answers/how-far-is-the-great-wall-from-beijing/), restored, forested, has a cable car and a toboggan, and lets you walk away from people within fifteen minutes. See our [Great Wall guide](/destinations/great-wall-of-china/).
 
 ## 6. Trying to see six cities in ten days
 

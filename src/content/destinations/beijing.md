@@ -20,6 +20,7 @@ facts:
   - Airport | PEK (Capital) & PKX (Daxing)
   - Where to stay | Qianmen, Dongsi, Nanluoguxiang
   - Don't miss | Mutianyu Great Wall, Forbidden City, Temple of Heaven
+  - Wall distance | 70 km to Mutianyu, a full day
 related:
   - /destinations/great-wall-of-china/
   - /destinations/xian/
@@ -129,7 +130,7 @@ Mutianyu for most visitors — restored, forested, 1.5 hours from the centre, wi
 
 ### Do I need to book Forbidden City tickets in advance?
 
-Yes. Tickets are released about seven days ahead through the official WeChat mini-program, are tied to your passport number, and sell out — sometimes within minutes for peak weekends. There is no meaningful on-the-day option.
+Yes. Tickets are released seven days ahead at 20:00 Beijing time, are tied to your passport number, and sell out — sometimes within minutes for peak weekends. There is no ticket window at the gate at all. [Booking Forbidden City tickets](/answers/do-i-need-to-book-forbidden-city-tickets-in-advance/) covers the four official channels and the morning and afternoon slot rule, which is the part that catches people out.
 
 ### Is the Forbidden City closed on Mondays?
 

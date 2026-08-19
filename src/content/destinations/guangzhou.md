@@ -93,7 +93,7 @@ Tao Tao Ju and Guangzhou Restaurant for the traditional grand-house experience, 
 
 ### How do I get from Guangzhou to Hong Kong?
 
-High-speed rail from Guangzhou South to Hong Kong West Kowloon takes about 50 minutes, with immigration handled inside the station. Note that Hong Kong is a separate immigration zone, so entering it uses a new entry against your Chinese visa.
+High-speed rail from Guangzhou South to Hong Kong West Kowloon takes about 50 minutes, with immigration handled inside the station. Note that Hong Kong is a separate immigration zone, so entering it uses a new entry against your Chinese visa — [what that means for your visa](/answers/how-do-i-get-from-guangzhou-to-hong-kong/) is the part worth checking before you book the return.
 
 ### What are the Kaiping diaolou?
 

@@ -31,7 +31,7 @@ Foreign nationals **cannot travel independently** in the Tibet Autonomous Region
 
 ## The permit system
 
-**Tibet Travel Permit (TTB permit).** Required to board a flight or train to Lhasa. Applied for on your behalf by a Tibetan agency, which needs scans of your passport and your Chinese visa or visa-free entry documentation. Processing takes roughly **15–20 days**, so begin at least a month out. The original or an accepted copy must be presented at check-in.
+**Tibet Travel Permit (TTB permit).** Required to board a flight or train to Lhasa, and [obtained only through an agency](/answers/how-do-i-get-a-tibet-travel-permit/) rather than by applying yourself. Applied for on your behalf by a Tibetan agency, which needs scans of your passport and your Chinese visa or visa-free entry documentation. Processing takes roughly **15–20 days**, so begin at least a month out. The original or an accepted copy must be presented at check-in.
 
 **Aliens' Travel Permit.** Needed for areas outside Lhasa prefecture — Shigatse, Everest Base Camp, Mount Kailash, Nam Tso in some seasons. Arranged by your guide once you are in Tibet.
 

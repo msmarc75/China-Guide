@@ -49,7 +49,7 @@ Land, take the Airport Express (¥25) to Dongzhimen, check in around Qianmen or 
 
 ## Day 3 — The Great Wall
 
-**Full day.** **Mutianyu**, leaving central Beijing by 07:00. Entry ¥45, shuttle ¥15, cable car ¥120 return, toboggan down ¥100. Walk left (west) from the cable car for the steepest and quietest stretch.
+**Full day.** **Mutianyu**, [about 70 km out and a solid 1.5 hours](/answers/how-far-is-the-great-wall-from-beijing/), leaving central Beijing by 07:00. Entry ¥45, shuttle ¥15, cable car ¥120 return, toboggan down ¥100. Walk left (west) from the cable car for the steepest and quietest stretch.
 
 Hire a car and driver for the day (¥600–800) if there are two or more of you — it is far more flexible than a group tour and comparable in cost. Back in the city by 17:00.
 

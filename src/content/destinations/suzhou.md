@@ -72,6 +72,8 @@ Suzhou has produced silk for over 2,000 years. The **Suzhou Silk Museum** (free)
 - **Getting around:** metro plus shared bikes; the old town is flat and compact.
 - **Best season:** April to May (wisteria and peonies) and October to November. The gardens are designed to look good in every season, including snow.
 
+The gardens repay knowing what they are doing — borrowed views, framed openings, lattice windows and deliberately blocked sightlines are a designed vocabulary, set out in [Chinese art and architecture](/culture/chinese-art-and-architecture/).
+
 ## Frequently asked questions
 
 ### Which Suzhou garden is the best?

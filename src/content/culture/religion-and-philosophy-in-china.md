@@ -48,6 +48,8 @@ Philosophical Taoism became **religious Taoism** in the 2nd century CE, with a p
 
 Arrived from India along the Silk Road in the 1st century CE and became thoroughly Chinese — most importantly through **Chan** (which reached Japan as Zen) and **Pure Land**, the popular devotional school.
 
+All of these occupy buildings arranged to the same rules, and the halls themselves carry rank markers worth learning — see [how to read Chinese art and architecture](/culture/chinese-art-and-architecture/) for the roof forms, bracket sets and courtyard logic.
+
 **Recognising a Buddhist temple:** shaven-headed monks and nuns in ochre, grey or brown robes; a Hall of Heavenly Kings at the entrance with four enormous guardian figures and a laughing Maitreya; a main hall with three Buddhas; and often a Guanyin hall. **Guanyin**, the bodhisattva of compassion, is the most widely worshipped figure in Chinese Buddhism and is depicted as female, having changed gender as the deity travelled from India.
 
 **Tibetan Buddhism** (Vajrayana) is distinct: prayer wheels, prayer flags, butter lamps, wrathful protector deities, and clockwise circumambulation. Found in Tibet, Qinghai, parts of Sichuan and Yunnan, Inner Mongolia and at the Lama Temple in Beijing.

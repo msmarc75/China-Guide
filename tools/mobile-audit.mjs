@@ -43,6 +43,7 @@ const PAGES = [
   '/destinations/wuhan/',
   '/destinations/changsha/',
   '/destinations/xiamen/',
+  '/culture/chinese-art-and-architecture/',
   '/destinations/',
   '/itineraries/china-14-day-itinerary/',
   '/food/chinese-cuisine-regional-guide/',

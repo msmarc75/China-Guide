@@ -29,7 +29,7 @@ China's history is usually told as a sequence of dynasties, each conventionally 
 | **Shang** | c. 1600–1046 BCE | Oracle bones, ritual bronzes, the first writing | Yinxu (Anyang); National Museum, Beijing |
 | **Zhou** | 1046–256 BCE | Confucius, Laozi, the classics | Qufu (Confucius's home town) |
 | **Qin** | 221–206 BCE | First unified empire, standardised script | Terracotta Army, [Xi'an](/destinations/xian/) |
-| **Han** | 206 BCE–220 CE | Silk Road, Confucian bureaucracy, paper | Han Yang Ling, Xi'an; Mawangdui, Changsha |
+| **Han** | 206 BCE–220 CE | Silk Road, Confucian bureaucracy, paper | Han Yang Ling, Xi'an; Mawangdui, [Changsha](/destinations/changsha/) |
 | **Three Kingdoms / Six Dynasties** | 220–589 | The stories everyone knows; Buddhism arrives | Wuhou Shrine, Chengdu |
 | **Sui** | 581–618 | Grand Canal | Yangzhou, Hangzhou |
 | **Tang** | 618–907 | The cosmopolitan golden age; poetry | Xi'an; Dunhuang caves |
@@ -52,6 +52,8 @@ The dynasty collapsed four years after his death. The template of a centralised 
 ### Han: the model, 206 BCE–220 CE
 
 Long enough and successful enough that the ethnic majority of China still calls itself **Han**. Confucianism became the state ideology, the civil service examination system began, the Silk Road opened, and paper was invented.
+
+To see the period rather than read about it, go to the **Mawangdui** material in [Changsha](/destinations/changsha/): a set of tombs sealed around 168 BCE that yielded painted silk, the earliest known copies of several classics, and a body preserved well enough to autopsy two thousand years later. Nothing else gives you the texture of Han life so directly.
 
 ### Tang: the golden age, 618–907
 

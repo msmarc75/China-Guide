@@ -78,7 +78,7 @@ Chinese trains depart to the minute. So do the gates.
 
 ## Domestic flights
 
-Still useful for distances the train cannot handle sensibly: Beijing to Kunming, anywhere to Urumqi, Chengdu to Lhasa, or the leg to Sanya.
+Still useful for distances the train cannot handle sensibly: Beijing to Kunming, anywhere to Urumqi, Chengdu to Lhasa, or the leg to [Sanya](/destinations/sanya-hainan/).
 
 - **Book on Trip.com** or directly with China Eastern, Air China or China Southern.
 - **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections.

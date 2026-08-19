@@ -127,4 +127,4 @@ A family reunion festival on the fifteenth day of the eighth lunar month, celebr
 
 ### Are there Chinese festivals worth planning a trip around?
 
-Yes — the Harbin Ice and Snow Festival from late December to February, the Water Splashing Festival in Xishuangbanna in mid-April, the Torch Festival in Yi areas of Yunnan and Sichuan, and Nadam in Inner Mongolia in summer are all genuine spectacles rather than tourist events.
+Yes — the [Harbin](/destinations/harbin/) Ice and Snow Festival from late December to February, the Water Splashing Festival in Xishuangbanna in mid-April, the Torch Festival in Yi areas of Yunnan and Sichuan, and Nadam in Inner Mongolia in summer are all genuine spectacles rather than tourist events.

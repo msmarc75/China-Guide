@@ -35,7 +35,7 @@ The reason it fails is scale. The Forbidden City complex is 720,000 m². The Ter
 | Zhangjiajie | 3 nights | 4 | Tianmen Mountain plus two days in the forest park |
 | Hangzhou | 1 night | 2 | Longjing tea villages, the canal, Xixi wetlands |
 | Suzhou | 1 night | 2 | Three gardens instead of one, plus Tongli |
-| Hong Kong | 3 nights | 4 | Lantau, Sai Kung, a hiking day |
+| [Hong Kong](/destinations/hong-kong/) | 3 nights | 4 | Lantau, Sai Kung, a hiking day |
 | Yunnan (Kunming–Dali–Lijiang) | 6 nights | 8–10 | Shangri-La, Tiger Leaping Gorge |
 | Tibet (Lhasa + around) | 5 nights | 7–8 | Altitude acclimatisation is not optional |
 | Xinjiang | 7 nights | 10–14 | The distances are enormous |
@@ -101,7 +101,7 @@ At this length the question changes from "what can I fit" to "what do I want to 
 | Li River cruise | Full day (Guilin to Yangshuo) |
 | Longji rice terraces | Full day from Guilin, better with an overnight |
 | Zhangjiajie forest park | Two full days |
-| Huangshan | Two days with a night on the mountain |
+| [Huangshan](/destinations/huangshan/) | Two days with a night on the mountain |
 | Potala Palace | Half a day, with a strictly timed entry slot |
 
 ## Common mistakes about time

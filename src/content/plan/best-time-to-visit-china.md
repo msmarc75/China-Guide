@@ -63,11 +63,11 @@ Continental: freezing dry winters, hot humid summers, short glorious shoulder se
 
 ### The Yangtze and the east — Shanghai, Suzhou, Hangzhou, Nanjing
 
-Humid subtropical. The complication is the *meiyu*, the plum rain season, which drops persistent rain across the lower Yangtze in **mid-June to mid-July**. July and August are hot and sticky — Nanjing, Wuhan and Chongqing are traditionally called the "three furnaces", regularly exceeding 38°C. **April, May, October and November are the good months**; classical gardens in Suzhou are at their best in late spring.
+Humid subtropical. The complication is the *meiyu*, the plum rain season, which drops persistent rain across the lower Yangtze in **mid-June to mid-July**. July and August are hot and sticky — Nanjing, Wuhan and [Chongqing](/destinations/chongqing/) are traditionally called the "three furnaces", regularly exceeding 38°C. **April, May, October and November are the good months**; classical gardens in Suzhou are at their best in late spring.
 
 ### The south — Guangzhou, Hong Kong, Guilin, Yangshuo
 
-Subtropical to tropical, with a distinct wet season from **April to September** and typhoon risk from July to September. Guilin's karst landscape is at its most photogenic in the misty, rainy months of April to June — atmospheric, but you will get wet, and the Li River is at its fullest. **October to December is the driest and most comfortable stretch.**
+Subtropical to tropical, with a distinct wet season from **April to September** and typhoon risk from July to September. [Guilin's karst landscape](/destinations/guilin-yangshuo/) is at its most photogenic in the misty, rainy months of April to June — atmospheric, but you will get wet, and the Li River is at its fullest. **October to December is the driest and most comfortable stretch.**
 
 ### The southwest — Chengdu, Yunnan, Guizhou
 
@@ -75,7 +75,7 @@ Chengdu sits in a basin under near-permanent cloud; it is mild year-round but ra
 
 ### The plateau and the far west — Tibet, Qinghai, Xinjiang
 
-These have a genuinely short season. **June to September** is when the passes are open, the grasslands are green and the weather is workable. Lhasa is technically visitable in winter — it is sunny and the crowds vanish — but transport across the plateau becomes unreliable and many treks close. Xinjiang bakes above 40°C in the Turpan basin in July, so aim for **late May to June or September to October**.
+These have a genuinely short season. **June to September** is when the passes are open, the grasslands are green and the weather is workable. Lhasa is technically visitable in winter — it is sunny and the crowds vanish — but transport across the plateau becomes unreliable and many treks close. [Xinjiang](/destinations/xinjiang-kashgar/) bakes above 40°C in the Turpan basin in July, so aim for **late May to June or September to October**.
 
 ### The northeast — Harbin, Changbaishan
 

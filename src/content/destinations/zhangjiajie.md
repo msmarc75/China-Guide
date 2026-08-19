@@ -93,7 +93,7 @@ Two hours from Zhangjiajie: a Tujia minority town built on a cliff above a water
 
 ## Practicalities
 
-- **Getting there:** Zhangjiajie West station has high-speed rail — 4h30 from Chongqing, 2h30 from Changsha, 5h from Guangzhou. Zhangjiajie Hehua airport (DYG) connects to major cities.
+- **Getting there:** Zhangjiajie West station has high-speed rail — 4h30 from Chongqing, 2h30 from [Changsha](/destinations/changsha/), 5h from Guangzhou. Zhangjiajie Hehua airport (DYG) connects to major cities. Changsha is the usual connection and is worth a night or two in its own right rather than treated purely as an interchange.
 - **Best season:** October and November for clarity and autumn colour; April and May for green and mist. July and August are hot, humid and extremely crowded with domestic school holidays. Winter has occasional snow on the pillars, which is beautiful and cold.
 - **Walking:** expect 15–20 km and a great many stairs each day in the park. Proper shoes matter.
 - **Crowds:** this is one of China's most popular domestic destinations. Weekdays outside holidays are dramatically better than weekends.

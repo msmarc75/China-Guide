@@ -160,44 +160,57 @@ traffic justifies it. All the slots exist in the code and ship disabled.
 
 ## Deployment
 
-The site is static, so anything that serves files works. **Cloudflare Pages is
-the recommended host**: free for this kind of site, global CDN, automatic HTTPS,
-and it rebuilds on every push.
+The site is static, so anything that serves files works. **Cloudflare Workers
+with static assets is the recommended host**: free at this scale, global CDN,
+automatic HTTPS, and it rebuilds on every push.
 
-### Cloudflare Pages (recommended)
+Cloudflare now steers new static sites to Workers rather than Pages, so
+`wrangler.jsonc` in the repo root configures a static-assets-only Worker — no
+Worker script, no bindings.
 
-1. In the Cloudflare dashboard: **Workers & Pages → Create → Pages → Connect to
-   Git**, and select this repository.
-2. Build settings:
-   - **Framework preset:** None
+### Cloudflare Workers (recommended)
+
+1. In the Cloudflare dashboard, go to **Workers & Pages**
+   ([direct link](https://dash.cloudflare.com/?to=/:account/workers-and-pages)).
+2. **Create application → Import a repository**, and select this repository.
+3. **Name the Worker `china-trip-compass`.** It must match `name` in
+   `wrangler.jsonc` exactly or the build fails.
+4. Build settings:
    - **Build command:** `npm run build`
-   - **Build output directory:** `dist`
+   - **Deploy command:** `npx wrangler deploy` (the default)
    - **Node version:** read automatically from `.node-version` (20)
-3. Environment variables (Settings → Environment variables), all optional but
-   `SITE_URL` matters — it sets canonical URLs, the sitemap and Open Graph tags:
+5. Environment variables — all optional, but `SITE_URL` matters because it sets
+   canonical URLs, the sitemap and Open Graph tags:
    ```
-   SITE_URL=https://yourdomain.com
+   SITE_URL=https://chinatripcompass.com
    ANALYTICS_ID=…        # only if using GA4
    ADSENSE_ID=…          # only once ads are switched on
    ```
-4. Deploy. You get a `*.pages.dev` URL immediately.
+6. Deploy. You get a `*.workers.dev` URL immediately.
+
+`wrangler.jsonc` sets `html_handling: "force-trailing-slash"` (one canonical URL
+per page) and `not_found_handling: "404-page"` (serves the generated 404). The
+`_headers` and `_redirects` files emitted into `dist/` are supported natively.
+
+Verify the config locally without deploying:
+
+```bash
+npm run build && npx wrangler deploy --dry-run
+```
 
 ### Custom domain
 
-If the domain is registered with **Cloudflare Registrar**, DNS is already in
-your account and the connection takes one step:
+Because the domain is registered with **Cloudflare Registrar**, DNS is already
+in the account and the connection takes one step:
 
-1. Pages project → **Custom domains → Set up a custom domain**
-2. Enter the apex (`yourdomain.com`) and add `www` as a second custom domain if
-   you want it. Cloudflare creates the DNS records and issues the certificate
-   automatically — no manual CNAME needed.
+1. Open the Worker → **Domains** tab → add `chinatripcompass.com`.
+2. Add `www` as a second domain if you want it. Cloudflare creates the DNS
+   records and issues the certificate automatically — no manual CNAME.
 3. Pick one hostname as canonical and redirect the other (Rules → Redirect
    Rules), so search engines see a single version.
-4. Set `SITE_URL` to that canonical hostname and redeploy, so the sitemap,
-   canonical tags and Open Graph URLs all match.
+4. Make sure `SITE_URL` matches that canonical hostname, then redeploy.
 
-Registering elsewhere works too — point the nameservers at Cloudflare first, or
-add the CNAME the Pages dashboard gives you.
+Registering elsewhere works too — point the nameservers at Cloudflare first.
 
 ### Other hosts
 

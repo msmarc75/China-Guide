@@ -1,0 +1,26 @@
+{
+  // Cloudflare Workers configuration for a static-assets-only site.
+  //
+  // IMPORTANT: `name` must match the Worker name in the Cloudflare dashboard
+  // exactly, or a Workers Build from Git will fail.
+  //
+  // There is no `main` and no assets `binding` here: this Worker serves static
+  // files only and runs no code, which is the simplest and fastest setup.
+  "name": "china-trip-compass",
+  "compatibility_date": "2026-08-19",
+
+  "assets": {
+    "directory": "./dist",
+
+    // Every canonical URL on this site ends in a slash (/guides/china-visa-guide/).
+    // Forcing the trailing slash keeps one URL per page, which matters for SEO.
+    "html_handling": "force-trailing-slash",
+
+    // Serve the generated 404.html for unmatched paths.
+    "not_found_handling": "404-page"
+  },
+
+  "observability": {
+    "enabled": true
+  }
+}

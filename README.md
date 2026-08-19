@@ -12,13 +12,18 @@ build tooling beyond Node itself. It renders to plain HTML that deploys anywhere
 ## Quick start
 
 ```bash
-npm run build     # render the site into dist/
-npm run check     # quality gate: links, metadata, structured data
-npm run serve     # preview at http://localhost:4321
-npm run dev       # build + serve
+npm run build          # render the site into dist/
+npm run check          # quality gate: links, metadata, structured data
+npm run test           # generator test suite (nested URLs, orphan guard)
+npm run serve          # preview at http://localhost:4321
+npm run dev            # build + serve
+npm run audit:mobile   # horizontal-overflow audit at phone widths (needs playwright)
 ```
 
-There are no dependencies to install. Node 18+ is the only requirement.
+`build`, `check` and `test` have no dependencies — Node 18+ is the only
+requirement. `audit:mobile` is the exception and installs Playwright ad hoc; see
+the header of `tools/mobile-audit.mjs`. Set `CHROMIUM_PATH` to reuse a browser
+already present on the machine.
 
 ---
 
@@ -95,6 +100,31 @@ An answer. This section is auto-extracted into FAQPage structured data.
 
 The URL, breadcrumbs, table of contents, structured data, sitemap entry, RSS
 item and search index entry are all derived automatically.
+
+### Nested pages
+
+A subdirectory produces nested URLs. The pillar page for a folder is its
+**sibling file**, so adding children never means moving an existing page:
+
+```
+src/content/destinations/
+├── beijing.md              → /destinations/beijing/            (pillar)
+└── beijing/
+    ├── restaurants.md      → /destinations/beijing/restaurants/
+    └── things-to-do.md     → /destinations/beijing/things-to-do/
+```
+
+What follows automatically:
+
+- Breadcrumbs gain one level per ancestor — `Home › Destinations › Beijing › Restaurants`
+- The pillar page renders a hub linking to its children
+- Section indexes (`/destinations/`) list **pillars only**, keeping the
+  hierarchy legible; children are reached through their pillar
+- Nested pages get sitemap priority `0.7` against `0.8` for pillars
+- A child whose pillar file is missing **fails the build**, naming the file to
+  create, rather than shipping a breadcrumb that 404s
+
+`npm run test` covers all of the above against fixture content.
 
 ### Markdown extensions
 

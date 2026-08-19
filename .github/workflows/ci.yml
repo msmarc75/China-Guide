@@ -23,3 +23,6 @@ jobs:
 
       - name: Quality gate — links, metadata, structured data
         run: npm run check
+
+      - name: Generator test suite
+        run: npm run test

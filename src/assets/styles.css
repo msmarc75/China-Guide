@@ -499,3 +499,11 @@ tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-sunk) 45%,
   body { font-size: 11pt; color: #000; background: #fff; }
   .article__layout { grid-template-columns: 1fr; }
 }
+
+/* ------------------------------------------------------- pillar page hub */
+
+.child-hub { margin: 0 0 2.5rem; }
+.child-hub__title {
+  margin: 0 0 .85rem; font-size: .74rem; font-weight: 700;
+  letter-spacing: .1em; text-transform: uppercase; color: var(--ink-faint);
+}

@@ -9,7 +9,9 @@
     "serve": "node src/serve.mjs",
     "dev": "node src/build.mjs && node src/serve.mjs",
     "check": "node src/check.mjs",
-    "audit:mobile": "node tools/mobile-audit.mjs"
+    "audit:mobile": "node tools/mobile-audit.mjs",
+    "test:nesting": "node tools/test-nesting.mjs",
+    "test": "node tools/test-nesting.mjs"
   },
   "engines": {
     "node": ">=18"

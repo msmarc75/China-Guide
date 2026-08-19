@@ -79,4 +79,4 @@ Ask for less pressure with **轻一点** (*qīng yīdiǎn*). It is a normal requ
 
 **Say no to the card.** Chains push prepaid packages hard. Pay for the one session; you are leaving the country.
 
-For health cover and what to do if something goes wrong, see the [health and safety guide](/guides/health-and-safety-in-china/).
+The wider picture — why foot treatment is a night out rather than a treatment, and the scale of the blind-masseur profession — is in [massage and bodywork in China](/culture/massage-and-bodywork-in-china/). For health cover and what to do if something goes wrong, see the [health and safety guide](/guides/health-and-safety-in-china/).

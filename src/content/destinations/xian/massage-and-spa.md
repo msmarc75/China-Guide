@@ -65,4 +65,4 @@ The phrase for less pressure is **轻一点** (*qīng yīdiǎn*), and asking is 
 
 **Decline the prepaid card.** Chains sell memberships hard. You are not returning next month; pay for the single session.
 
-Travel insurance, pharmacies and how to find an English-speaking doctor are covered in the [health and safety guide](/guides/health-and-safety-in-china/).
+For what separates the medical form from the social one, and why the whole category is undocumented, see [massage and bodywork in China](/culture/massage-and-bodywork-in-china/). Travel insurance, pharmacies and how to find an English-speaking doctor are covered in the [health and safety guide](/guides/health-and-safety-in-china/).

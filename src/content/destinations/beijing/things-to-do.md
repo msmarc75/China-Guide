@@ -23,6 +23,7 @@ Every entry has been cross-checked against at least two independent sources, inc
 | Sight | Chinese | Address | Metro |
 | --- | --- | --- | --- |
 | Palace Museum (Forbidden City) | 故宫博物院 | 北京市东城区景山前街4号 | Line 1, Tiananmen East or Tiananmen West |
+| Tiananmen Square | 天安门广场 | 北京市东城区东长安街 | Line 1, Tiananmen East or West |
 | National Museum of China | 中国国家博物馆 | 北京市东城区东长安街16号 | Line 1, Tiananmen East (exit C or D) |
 | Temple of Heaven | 天坛公园 | 北京市东城区天坛内东里7号 | Line 5, Tiantan Dongmen (exit A) |
 | Summer Palace | 颐和园 | 北京市海淀区新建宫门路19号 | Line 4, Beigongmen (north gate) |
@@ -50,6 +51,12 @@ Beijing punishes zig-zagging. These cluster naturally into days.
 
 :::warn The Forbidden City needs booking ahead, with your passport
 Tickets are sold online in advance and the daily allocation genuinely sells out in peak season. Your passport number is tied to the booking and the passport itself is checked at the gate. This is the single most common way visitors lose a day in Beijing.
+:::
+
+:::warn Tiananmen Square needs booking too, and this catches people
+Entry to the square itself is free but is now by **advance real-name reservation, made one to seven days ahead** through the official Tiananmen Square booking platform, with entry at an assigned time and gate after an ID check. Turning up without one does not work.
+
+The published list of accepted documents names mainland, Hong Kong, Macau and Taiwan identity documents; it does not spell out the route for a foreign passport, and we have not been able to confirm one from a source we trust. Check the official platform before you build a morning around the square — and note that the Palace Museum and the National Museum are booked separately from it, so a booking for one is not a booking for the other.
 :::
 
 ## The Great Wall is not a metro trip

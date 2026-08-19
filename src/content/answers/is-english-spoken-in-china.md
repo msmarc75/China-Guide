@@ -22,7 +22,7 @@ Assume no English in Chengdu, Xi'an, Guilin and everywhere smaller — including
 
 This matters far less than it did a decade ago, and the fixes are practical rather than linguistic.
 
-**Screenshots of addresses in Chinese characters.** The highest-value five minutes of preparation on the whole trip. Save your hotel's name and address in characters before leaving in the morning. It works offline, works on a dying battery, and solves the taxi problem completely.
+**Screenshots of addresses in Chinese characters.** The highest-value five minutes of preparation on the whole trip. Save your hotel's name and address in characters before leaving in the morning. It works offline, works on a dying battery, and solves the taxi problem completely — and because written Chinese is identical nationwide, it works even where [Mandarin itself is the second language](/answers/is-mandarin-spoken-everywhere-in-china/).
 
 **Photo translation.** Pleco's camera OCR reads a menu or a sign in real time and works entirely offline. Google Translate's camera mode does the same if your connection reaches Google. Baidu Translate and Youdao work on any Chinese connection.
 

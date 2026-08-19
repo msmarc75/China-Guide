@@ -31,7 +31,7 @@ Here is the version that actually helps.
 If you can only pick one: **October after the 8th**. The Golden Week crowds have gone home, north China is clear and crisp, the light is exceptional, and you can still travel comfortably from Beijing to Guangzhou.
 
 :::warn The three weeks to avoid
-- **Chinese New Year (Spring Festival)** — the date moves with the lunar calendar (17 February 2026, 6 February 2027). The official holiday is about eight days, but the travel surge — *chunyun* — runs for roughly 40 days around it and is the largest annual human migration on earth. Rail tickets vanish, prices spike, and small restaurants and shops close for one to two weeks.
+- **Chinese New Year (Spring Festival)** — the date moves with the lunar calendar (17 February 2026, 6 February 2027), and [the rule behind the movement](/answers/when-is-chinese-new-year/) is worth knowing if you are planning further ahead than that. The official holiday is about eight days, but the travel surge — *chunyun* — runs for roughly 40 days around it and is the largest annual human migration on earth. Rail tickets vanish, prices spike, and small restaurants and shops close for one to two weeks.
 - **National Day Golden Week, 1–7 October** — the busiest domestic tourism week of the year. Major sights hit their daily visitor caps within minutes of opening.
 - **Labour Day, roughly 1–5 May** — shorter and slightly less brutal, but the same dynamics.
 

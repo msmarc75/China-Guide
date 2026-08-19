@@ -48,7 +48,7 @@ Notably, it enshrines Buddhist, Taoist and Confucian figures in the same buildin
 
 **Yingxian Wooden Pagoda** — built in 1056 without nails, 67 m tall, the oldest and tallest wooden pagoda in the world. Around 70 km from Datong and usually combined with the Hanging Monastery.
 
-**Huayan Monastery** and **Shanhua Temple** in the city itself contain Liao and Jin dynasty halls with original sculpture — among the oldest surviving timber buildings in China.
+**Huayan Monastery** and **Shanhua Temple** in the city itself contain Liao and Jin dynasty halls with original sculpture — among the oldest surviving timber buildings in China. Look up while you are there: [the beasts along the roof ridges rank the buildings](/answers/what-do-the-small-animals-on-chinese-roofs-mean/), and Shanxi is the best place outside Beijing to practise reading them.
 
 The **old city of Datong** was comprehensively rebuilt in the 2010s: new walls, new "ancient" streets. It is a reconstruction, and locals will tell you so.
 

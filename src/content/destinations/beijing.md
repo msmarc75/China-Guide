@@ -37,7 +37,7 @@ Almost all of it survives. That is what makes Beijing unlike any other capital.
 
 ## The Forbidden City
 
-The largest surviving palace complex on earth — 720,000 m², 980 buildings, home to 24 emperors of the Ming and Qing from 1420 to 1912.
+The largest surviving palace complex on earth — 720,000 m², 980 buildings, home to 24 emperors of the Ming and Qing from 1420 to 1912. The Hall of Supreme Harmony at its centre carries [the only roof in China with ten ridge beasts](/answers/what-do-the-small-animals-on-chinese-roofs-mean/), which is the complex saying what it is.
 
 **Booking is mandatory and it sells out.** Tickets are released roughly seven days ahead through the official WeChat mini-program (search 故宫博物院) and are tied to your passport number. Peak season slots for weekends disappear within minutes. Book the moment they open.
 

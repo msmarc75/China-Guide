@@ -20,7 +20,7 @@ related:
   - /plan/first-time-china-travel-guide/
 ---
 
-China uses the Gregorian calendar for civil purposes and the traditional **lunisolar calendar** for festivals. That is why Chinese New Year moves between late January and late February, and why Mid-Autumn wanders across September and October.
+China uses the Gregorian calendar for civil purposes and the traditional **lunisolar calendar** for festivals. That is why [Chinese New Year moves between 21 January and 21 February](/answers/when-is-chinese-new-year/), and why Mid-Autumn wanders across September and October.
 
 The State Council publishes the official holiday arrangement — including the compensating working weekends that surround each break — in the autumn of the preceding year. Check it before finalising travel dates.
 
@@ -30,7 +30,7 @@ The State Council publishes the official holiday arrangement — including the c
 
 **When:** first day of the first lunar month, between 21 January and 20 February. 17 February 2026; 6 February 2027; 26 January 2028.
 
-The most important festival in the Chinese year, and a family holiday rather than a public one. People return to their home towns, eat a reunion dinner on New Year's Eve, give red envelopes (*hongbao*) of money to children, set off fireworks where permitted, and visit relatives for days.
+The most important festival in the Chinese year, and a family holiday rather than a public one. People return to their home towns, eat a reunion dinner on New Year's Eve, give red envelopes (*hongbao*) of money to children, set off fireworks where permitted, and visit relatives for days. Cash in a red envelope is normal here in a way that [most other gifts are not](/answers/what-gifts-should-you-avoid-giving-in-china/).
 
 **Travel impact: extreme.** The 40-day *chunyun* travel period around it involves billions of individual trips and is the largest annual human migration on earth. Rail tickets sell out the moment they are released, flight prices spike, and many small restaurants and shops close for one to two weeks. Major sights stay open and are extremely busy.
 

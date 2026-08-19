@@ -33,7 +33,7 @@ Practical consequences for a traveller:
 - **Public criticism, anger or confrontation is far more damaging than in the West.** Raising your voice at a hotel receptionist over a genuine problem will make the problem harder to solve, not easier, because it forces them to defend their dignity rather than help you.
 - **"No" is often expressed indirectly.** "It might be difficult", "we will see", "maybe later" and a sharp intake of breath frequently mean no. Pushing for an explicit refusal makes the other person uncomfortable.
 - **Praise is given generously and deflected ritually.** Compliment someone's English and they will say it is terrible. This is form, not modesty; the correct response is to insist.
-- **Calmly and privately** is how a complaint gets resolved. A quiet word, a smile, and giving the other person a way to fix it without admitting fault will get you almost anything.
+- **Calmly and privately** is how a complaint gets resolved. A quiet word, a smile, and giving the other person a way to fix it without admitting fault will get you almost anything — [the mechanics of doing that](/answers/how-do-i-complain-politely-in-china/) are worth having straight before you need them.
 
 ## Greetings and address
 
@@ -78,6 +78,7 @@ For the specific question everyone arrives with, see [do people bow in China?](/
 - **Good gifts:** something from your own country, quality tea, spirits, chocolates, small branded items.
 - **Avoid:** clocks (送钟 *sòng zhōng* sounds like attending a funeral), sharp objects like knives or scissors (severing a relationship), umbrellas (伞 *sǎn* sounds like "to separate"), pears (梨 *lí* sounds like "to leave"), white or black wrapping (funeral colours), and anything in a set of four (四 *sì* sounds like 死 *sǐ*, death).
 - **Red and gold** wrapping is auspicious. Eight is the luckiest number.
+- The full list, and [why almost every taboo is a pun](/answers/what-gifts-should-you-avoid-giving-in-china/), including the green hat and the shoes.
 
 On the perennial worry about clearing your plate, see [is it rude to leave food on your plate in China?](/answers/is-it-rude-to-leave-food-on-your-plate-in-china/)
 

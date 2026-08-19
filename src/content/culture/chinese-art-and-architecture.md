@@ -28,7 +28,7 @@ This page gives you the apparatus. The [religion pillar](/culture/religion-and-p
 
 ## Four things to check on any building
 
-**1. Count the little animals on the roof ridge.** At the lower end of each sloping ridge you will see a line of small figures, led by a man riding a bird. The count is not decorative whim — it signals rank. The numbers run in odds: one, three, five, seven, nine, with more meaning more important.
+**1. Count the little animals on the roof ridge.** At the lower end of each sloping ridge you will see a line of small figures, led by a man riding a bird. The count is not decorative whim — [it signals rank](/answers/what-do-the-small-animals-on-chinese-roofs-mean/). The numbers run in odds: one, three, five, seven, nine, with more meaning more important.
 
 Nine is the maximum. There is exactly one building in China with ten, and it is the Hall of Supreme Harmony in the Forbidden City. Within the palace the gradient is legible: the Palace of Heavenly Purity has nine, the Palace of Earthly Tranquility seven, the consorts' palaces five, minor side halls one. Learn to count them and you can rank any imperial or temple building at a glance.
 
@@ -86,7 +86,7 @@ Walk a Suzhou garden slowly and stop at every opening, and it works. March throu
 
 Chinese painting asks for a different habit than European painting. Three things help.
 
-**Scrolls are read, not viewed.** A handscroll was designed to be unrolled a section at a time, right to left, at arm's width — a sequence in time, closer to reading than to standing in front of a canvas. Museums display them fully unrolled, which is convenient and misrepresents them completely. Move along it from right to left rather than taking it in at once.
+**Scrolls are read, not viewed.** A handscroll was designed to be unrolled a section at a time, right to left, at arm's width — a sequence in time, closer to reading than to standing in front of a canvas. Museums display them fully unrolled, which is convenient and misrepresents them completely. [Move along it from right to left](/answers/how-should-i-look-at-a-chinese-handscroll/) rather than taking it in at once, and read the red seals as a chain of owners rather than as decoration.
 
 **Landscape is not scenery.** In the monumental landscapes of the Northern Song the mountain dominates and the human figures are tiny, often needing a search to find. That relation is the subject, and finding the traveller on the path is part of looking.
 

@@ -34,7 +34,7 @@ Those are road times in normal conditions. Weekend and holiday traffic out of Be
 
 Mutianyu and Badaling are the same distance from the city, which makes the choice between them entirely about what you want from the day rather than travel time.
 
-**Badaling** is the most developed, has a direct rail link, and is by a wide margin the most crowded — on a bad day the parapet is shoulder to shoulder. It is the right answer if mobility is a constraint, because the access is the easiest.
+**Badaling** is the most developed, has a direct rail link, and is by a wide margin the most crowded — on a bad day the parapet is shoulder to shoulder. It is the right answer if mobility is a constraint, because the access is the easiest. It is also where tours that will not name a section usually take you, which is a consequence of [the Wall being the most over-promised sight in China](/answers/can-you-see-the-great-wall-of-china-from-space/).
 
 **Mutianyu** is the same drive, fully restored, on a forested ridge, with a cable car up and a toboggan run down. Walk fifteen minutes in either direction from the arrival point and the crowds thin out. For most visitors this is simply the better day.
 

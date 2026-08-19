@@ -109,7 +109,7 @@ A guided Tibet trip is not cheap. A typical **8-day Lhasa plus Everest Base Camp
 
 ### Can foreigners travel to Tibet independently?
 
-No. Foreign nationals must have a Tibet Travel Permit obtained through a registered Tibetan travel agency, and must be accompanied by a licensed guide on an arranged itinerary. Independent travel through the Tibet Autonomous Region is not permitted.
+No. Foreign nationals must have a Tibet Travel Permit obtained through a registered Tibetan travel agency, and must be accompanied by a licensed guide on an arranged itinerary. Independent travel through the Tibet Autonomous Region is not permitted — [how the permit is actually obtained](/answers/how-do-i-get-a-tibet-travel-permit/), and [which Tibetan areas need no permit at all](/answers/can-i-visit-tibetan-areas-without-a-tibet-permit/).
 
 ### How do I get a Tibet Travel Permit?
 

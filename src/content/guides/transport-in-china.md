@@ -152,7 +152,7 @@ Use the official **12306** app, which has an English interface, accepts foreign 
 
 ### Do I need to print my Chinese train ticket?
 
-No. Chinese rail is fully paperless. You scan your passport at the station gate and at the platform. Older guidance about collecting a paper ticket at a window is out of date for foreign passport holders on the main network.
+No. Chinese rail is fully paperless. You scan your passport at the station gate and at the platform. Older guidance about collecting a paper ticket at a window is out of date for foreign passport holders on the main network — [what the forty minutes at the station is actually for](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) covers the gate, the carriage markers and what happens if you miss it.
 
 ### How early should I arrive at a Chinese train station?
 
@@ -168,4 +168,4 @@ Open the transport QR code inside Alipay, choose your city, and scan the code at
 
 ### Is DiDi available in English?
 
-Yes. DiDi has a full English interface, lets you enter destinations in English, and charges your linked Alipay or WeChat automatically. It is the easiest ride option for a visitor who does not speak Chinese.
+Yes. DiDi has a full English interface, lets you enter destinations in English, and charges your linked Alipay or WeChat automatically. It is the easiest ride option for a visitor who does not speak Chinese — [setting it up before you fly](/answers/can-you-use-uber-in-china/) is the version of this worth doing at home.

@@ -132,7 +132,7 @@ A hostel dorm is ¥50–110, a clean mid-range chain room ¥250–450, a good 4�
 
 ### Do Chinese hotels have heating?
 
-North of the Qinling–Huaihe line, yes — central heating runs roughly from mid-November to mid-March. South of that line, including Shanghai, Chengdu and Guilin, buildings traditionally have no central heating, so winter interiors are cold and damp. Check that the room's air conditioner has a heating mode.
+North of the Qinling–Huaihe line, yes — central heating runs roughly from mid-November to mid-March. South of that line, including Shanghai, Chengdu and Guilin, buildings traditionally have no central heating, so winter interiors are cold and damp. Check that the room's air conditioner has a heating mode. [Why a 4°C southern winter is harder to sit through than a −10°C northern one](/answers/do-chinese-hotels-have-heating/) explains where the line came from and what to pack for each side of it.
 
 ### Is tap water safe to drink in China?
 

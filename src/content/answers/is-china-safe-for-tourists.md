@@ -46,4 +46,4 @@ Altitude is the one genuinely dangerous physical risk on standard tourist routes
 
 Pickpocketing exists in crowded markets, on packed buses and around major stations. Front pockets, a zipped bag worn in front in crowds, no phone in a back pocket. Standard precautions are sufficient.
 
-Emergency numbers, medical care and what to do if you lose your passport are covered in our [health and safety guide](/guides/health-and-safety-in-china/).
+Medical care and what to do if you lose your passport are covered in our [health and safety guide](/guides/health-and-safety-in-china/). China splits emergencies across four different numbers rather than one, and [getting a Chinese speaker to make the call matters more than knowing the digits](/answers/what-are-the-emergency-numbers-in-china/).

@@ -161,7 +161,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 1. **Book the big sights online, days ahead.** The Forbidden City, Terracotta Army, Shanghai Museum and most national museums now use passport-linked timed entry with daily caps, and they sell out. Turning up at the gate frequently does not work.
 2. **Many museums close on Mondays.** Including the National Museum of China. The Shanghai Museum is the exception worth checking — its People's Square building closes Mondays but its East building closes Tuesdays.
 3. **Hot water is the default drink.** Every hotel, train and airport has a boiling-water dispenser. Bring an insulated flask and you will never buy water again.
-4. **Squat toilets are common** outside hotels, and public toilets often have no paper. Carry tissues.
+4. **Squat toilets are common** outside hotels, and [public toilets often have no paper at all](/answers/is-toilet-paper-provided-in-china/). Carry tissues.
 5. **Toilet paper goes in the bin** in older buildings and most rural areas.
 6. **Queueing is looser than you are used to**, especially for lifts and buses. It is not personal.
 7. **Nobody tips.** Not in restaurants, not in taxis. Tipping a guide is fine; tipping a waiter causes confusion.

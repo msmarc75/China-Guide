@@ -177,7 +177,7 @@ Yes, notably so. Violent crime against visitors is rare and Chinese cities are s
 
 ### What is the tea house scam in China?
 
-Friendly English-speaking strangers — often claiming to be students — invite you to a traditional tea ceremony near a major tourist site, then present a bill of several thousand yuan and make leaving difficult. It operates around Tiananmen, Wangfujing, the Bund and Xi'an's Bell Tower. Never follow a stranger to a venue they choose.
+Friendly English-speaking strangers — often claiming to be students — invite you to a traditional tea ceremony near a major tourist site, then present a bill of several thousand yuan and make leaving difficult. It operates around Tiananmen, Wangfujing, the Bund and Xi'an's Bell Tower. Never follow a stranger to a venue they choose. [How the approach is built, and the one rule that defeats it](/answers/what-is-the-tea-house-scam-in-china/) sets out the whole sequence.
 
 ### Can you drink the tap water in China?
 
@@ -189,7 +189,7 @@ Yes. Chinese public hospitals require payment before treatment, and Western-stan
 
 ### What are the emergency numbers in China?
 
-Police 110, ambulance 120, fire 119, traffic accidents 122. Operators rarely speak English, so ask hotel staff or a bystander to call. The multilingual tourist hotline 12301 can help in English.
+Police 110, ambulance 120, fire 119, traffic accidents 122. Operators rarely speak English, so ask hotel staff or a bystander to call. The multilingual tourist hotline 12301 can help in English. [Which number does what, and why a bystander beats a translation app](/answers/what-are-the-emergency-numbers-in-china/) covers the calls in full.
 
 ### Is street food safe in China?
 

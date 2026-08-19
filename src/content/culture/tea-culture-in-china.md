@@ -77,7 +77,7 @@ Tea is the best thing to take home from China, and also one of the easiest thing
 3. **Buy by origin.** "Longjing" from anywhere is a category; **West Lake Longjing** from a named village is a specific thing. Genuine pre-Qingming (picked before roughly 5 April) Longjing is expensive for a reason.
 4. **Expect real prices.** A good 100 g of a named tea runs ¥100–400. Anything sold as premium at ¥30 is not what it claims.
 5. **Beware the tour-guide "tea ceremony".** Commission arrangements are the norm, and the mark-up is structural.
-6. **Beware the teahouse scam.** Friendly English-speaking strangers who invite you to a tea ceremony near a tourist site are running a well-established fraud — see our [safety guide](/guides/health-and-safety-in-china/).
+6. **Beware the teahouse scam.** Friendly English-speaking strangers who invite you to a tea ceremony near a tourist site are running a well-established fraud — [the approach is built over twenty pleasant minutes before any venue is mentioned](/answers/what-is-the-tea-house-scam-in-china/).
 7. **Packing:** tea absorbs odour. Keep it sealed, away from spices and coffee. Check your home country's import allowance for plant products.
 
 ## Practical tea in daily travel

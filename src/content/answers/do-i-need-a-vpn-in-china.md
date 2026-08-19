@@ -16,7 +16,7 @@ related:
 
 This is the question most often answered badly, because the honest answer is conditional and most guides give a flat yes.
 
-The condition is your SIM card. Mainland China filters a large part of the foreign internet — Google, WhatsApp, Instagram, Facebook, X, YouTube, most Western news. But that filtering applies to traffic on a **Chinese** network. A foreign SIM roaming into China generally tunnels its data back to your home carrier, and therefore reaches everything normally.
+The condition is your SIM card. Mainland China filters a large part of the foreign internet — [Google in every form](/answers/is-google-blocked-in-china/), WhatsApp, Instagram, Facebook, X, YouTube, most Western news. But that filtering applies to traffic on a **Chinese** network. A foreign SIM roaming into China generally tunnels its data back to your home carrier, and therefore reaches everything normally.
 
 ## The decision, laid out
 

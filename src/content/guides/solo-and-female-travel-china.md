@@ -61,7 +61,7 @@ More on ordering in our [guide to ordering food in China](/food/how-to-order-foo
 
 **Chinese people will talk to you**, particularly younger people wanting English practice, on trains and in queues. Long-distance train journeys are a social environment: shared snacks, shared curiosity, translation apps passed back and forth.
 
-**WeChat is the social infrastructure.** Adding people you meet is the norm and is how any follow-up happens.
+**WeChat is the social infrastructure.** Adding people you meet is the norm and is how any follow-up happens — and it is not optional, because [WhatsApp does not work here](/answers/does-whatsapp-work-in-china/). Register the account before you fly; new sign-ups sometimes need an existing user to vouch for you.
 
 **Structured options:** cooking classes in Chengdu and Yangshuo, tai chi in park mornings, calligraphy workshops, and day tours where the group is the point.
 

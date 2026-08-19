@@ -25,11 +25,11 @@ related:
 
 Mainland China filters a large part of the foreign internet. As of 2026 the practical list of things that will not load on an ordinary Chinese connection:
 
-**Blocked:** Google in all forms (Search, Gmail, Maps, Drive, Photos, Play Store), YouTube, Facebook, Instagram, WhatsApp, X/Twitter, Signal, Telegram, Reddit, Twitch, Slack, Dropbox, **Wikipedia in every language**, the New York Times, BBC, Reuters, Bloomberg, most Western news, Netflix (also geo-blocked), Spotify, Pinterest, Medium, Discord.
+**Blocked:** [Google in all forms](/answers/is-google-blocked-in-china/) (Search, Gmail, Maps, Drive, Photos, Play Store), YouTube, Facebook, Instagram, WhatsApp, X/Twitter, Signal, Telegram, Reddit, Twitch, Slack, Dropbox, **Wikipedia in every language**, the New York Times, BBC, Reuters, Bloomberg, most Western news, Netflix (also geo-blocked), Spotify, Pinterest, Medium, Discord.
 
 Wikipedia is worth spelling out because older guidance still describes it as a partial block. Between 2015 and 2019 only the Chinese-language edition was blocked and the others mostly worked; since April 2019 every language edition has been blocked outright. Do not plan on reaching it without a VPN.
 
-**Works normally:** Apple services (iMessage, iCloud, Apple Maps, App Store, FaceTime), Microsoft (Outlook, Teams, OneDrive, Bing), Zoom, Amazon, most airline and hotel sites, Booking.com, Trip.com, Wise, most banking apps, and — importantly — **your bank's app**, which almost always works.
+**Works normally:** Apple services (iMessage, iCloud, Apple Maps, App Store, FaceTime), Microsoft (Outlook, Teams, OneDrive, and Bing — which reaches you but returns censored results inside China), Zoom, Amazon, most airline and hotel sites, Booking.com, Trip.com, Wise, most banking apps, and — importantly — **your bank's app**, which almost always works.
 
 LinkedIn no longer has a China operation to rely on: the localised social network closed in 2021 and its replacement job app, InCareer, shut down in August 2023. Treat access as something to test on your own connection rather than assume.
 
@@ -38,7 +38,7 @@ Hong Kong and Macau are **not** filtered. Everything works normally there.
 :::key The one detail that matters most
 **Traffic on a foreign SIM roaming in China is routed back through your home carrier's network**, and therefore usually reaches the open internet — Google, WhatsApp, Instagram and all — without a VPN.
 
-A **Chinese SIM card** connects you to the Chinese internet, behind the filter.
+A **Chinese SIM card** connects you to the Chinese internet, behind the filter. [Buying one takes your passport and a face scan](/answers/can-i-buy-a-sim-card-in-china-as-a-tourist/), so it is a carrier-shop errand rather than a corner-shop one.
 
 So the connectivity decision *is* the internet-access decision.
 :::
@@ -80,9 +80,9 @@ A VPN routes your traffic through a server outside China, which restores access 
 
 | Instead of | Use | Notes |
 | --- | --- | --- |
-| Google Maps | **Amap** (高德地图) or **Apple Maps** | Amap is the most accurate; it has an English mode but Chinese search terms work better. Apple Maps is surprisingly good in China and fully English |
+| Google Maps | **Amap** (高德地图) or **Apple Maps** | [Google Maps fails here even over a VPN](/answers/does-google-maps-work-in-china/). Amap is the most accurate; it has an English mode but Chinese search terms work better. Apple Maps is surprisingly good in China and fully English |
 | Uber | **DiDi** (滴滴出行) | Has an English interface; pays through Alipay/WeChat |
-| WhatsApp | **WeChat** | Everybody in China is on it |
+| WhatsApp | **WeChat** | Everybody in China is on it, and [WhatsApp has been blocked since 2017](/answers/does-whatsapp-work-in-china/) |
 | Google Translate | **Google Translate** (offline pack) + **Baidu Translate** or **Youdao** | Download the offline Chinese pack regardless; the Chinese apps do photo-menu translation well |
 | Yelp / TripAdvisor | **Dianping** (大众点评) | The definitive restaurant database; Chinese-only but photo-driven and navigable |
 | Deliveroo / UberEats | **Meituan** or **Ele.me** | Cheap and everywhere; needs a Chinese address |

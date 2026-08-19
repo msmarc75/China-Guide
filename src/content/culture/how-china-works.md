@@ -57,7 +57,7 @@ Article 39 puts the obligation on the hotel when you stay in one. When you stay 
 Failure to do so is an offence carrying a warning and a fine. In practice a great many people staying with friends never do it and nothing happens; that is not the same as it being optional, and it becomes a problem if you later need to prove where you were. Enforcement varies by city and has tightened at various points. If you are staying privately, do it — the police station handles these constantly and the process is routine.
 :::
 
-The same principle runs through everything else. Buying a SIM card requires your passport. Buying a train ticket requires your passport, and your passport is then the ticket. Payment apps require identity verification. There is no anonymous layer to daily life for a resident or a visitor.
+The same principle runs through everything else. Buying a SIM card requires your passport. Buying a train ticket requires your passport, and your passport is then the ticket. Payment apps require identity verification. There is no anonymous layer to daily life for a resident or a visitor — which is also why the encrypted foreign messengers are gone, and [WhatsApp cannot even be downloaded here](/answers/does-whatsapp-work-in-china/).
 
 ## The neighbourhood level
 

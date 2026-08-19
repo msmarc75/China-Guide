@@ -96,6 +96,8 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 **Add Hong Kong** at the end. A 50-minute train from Guangzhou or a direct flight from Shanghai, and a useful third-region exit if you are travelling under the 240-hour visa-free transit scheme.
 
+If the variations are adding up to more than fourteen days, stop patching this route and look at [the 21-day itinerary](/itineraries/china-21-day-itinerary/), which is built for the extra week rather than stretched into it.
+
 ## Budget
 
 | Item | Mid-range, per person |

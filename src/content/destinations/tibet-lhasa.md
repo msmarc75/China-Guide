@@ -37,7 +37,7 @@ Foreign nationals **cannot travel independently** in the Tibet Autonomous Region
 
 **Military Permit.** For border and restricted regions such as Ngari (western Tibet) and parts of eastern Tibet.
 
-**The rules in practice:** you must have a guide with you at sights and on the road, and a licensed driver for anything outside Lhasa. In the city itself you can walk around independently. Group size requirements have varied over the years; a solo traveller can normally join a small group tour to keep costs reasonable.
+**The rules in practice:** you must have a guide with you at sights and on the road, and a licensed driver for anything outside Lhasa. In the city itself you can walk around independently. Group size requirements have varied over the years; a solo traveller can normally join a small group tour to keep costs reasonable — one of the few places in China where [travelling alone](/guides/solo-and-female-travel-china/) means joining a group rather than avoiding one.
 
 **Journalists and diplomats** apply through separate channels and are frequently refused; note that the permit application asks your occupation.
 

@@ -197,7 +197,7 @@ Only if you are using a Chinese SIM card or hotel Wi-Fi and want Google, WhatsAp
 
 ### How many days do you need in China?
 
-Ten days is the practical minimum for a first trip covering two or three cities without rushing. Fourteen days lets you do Beijing, Xi'an, Chengdu and Shanghai comfortably. Anything under a week is best spent in a single city plus a day trip.
+Ten days is the practical minimum for a first trip covering two or three cities without rushing, and [a worked ten-day route](/itineraries/china-10-day-itinerary/) shows how that divides up. Fourteen days lets you do Beijing, Xi'an, Chengdu and Shanghai comfortably. Anything under a week is best spent in a single city plus a day trip.
 
 ### Is English spoken in China?
 

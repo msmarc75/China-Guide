@@ -107,7 +107,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 
 - **Book the big four cities early** — Beijing and Shanghai fill during holidays and conferences, and the good hutong courtyards are small.
 - **Everywhere else can be booked days ahead** outside holiday periods; China has enormous hotel supply.
-- **Prices triple during Golden Week and Chinese New Year.** If you travel then, book months ahead.
+- **Prices triple during Golden Week and Chinese New Year.** If you travel then, book months ahead — [the festival calendar](/culture/chinese-festivals-and-holidays/) sets out which dates move each year.
 - **Free cancellation is common** on Trip.com; take it and re-book if prices drop.
 - **Check the metro distance, not the map distance.** Chinese cities are vast; a hotel 3 km from the sights but 400 m from a metro station beats one 1 km away with no line.
 

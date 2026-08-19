@@ -82,7 +82,7 @@ At most restaurants you build your own. Two default recipes:
 
 - **Order the split pot.** No shame in it; plenty of Chinese diners do.
 - **Sesame oil and garlic** in your dip genuinely works.
-- **Drink something cold and sweet** — soy milk, sour plum juice (*suanmeitang*), yoghurt drinks. Beer helps less than you think; water helps not at all.
+- **Drink something cold and sweet** — soy milk, sour plum juice (*suanmeitang*), yoghurt drinks. Beer helps less than you think; water helps not at all. [What to drink in China](/food/chinese-tea-and-drinks/) covers the non-alcoholic options in more depth.
 - **Bingfen** or a chilled dessert at the end.
 - **The peppercorn tingle is not chilli.** Sichuan peppercorn produces a physical numbing vibration, unrelated to heat. It fades in a few minutes. It is not an allergic reaction.
 - **The following morning** may be memorable. This is normal and widely joked about in China.

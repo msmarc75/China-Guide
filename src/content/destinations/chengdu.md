@@ -49,7 +49,7 @@ Take the metro to Panda Avenue station (line 3) plus the shuttle, or a DiDi (¥5
 
 ## Teahouses
 
-Sichuan teahouse culture is not a performance for tourists — it is how people spend afternoons. Bamboo chairs, a lidded *gaiwan* cup topped up endlessly, mahjong, ear cleaning with long metal picks, and hours passing.
+Sichuan teahouse culture is not a performance for tourists — it is how people spend afternoons, and it is the most accessible version of [Chinese tea culture](/culture/tea-culture-in-china/) anywhere in the country. Bamboo chairs, a lidded *gaiwan* cup topped up endlessly, mahjong, ear cleaning with long metal picks, and hours passing.
 
 - **Heming Teahouse** in People's Park — the famous one, in a lakeside pavilion, ¥25–60 for a cup and unlimited refills. Touristy but genuinely full of locals.
 - **Wenshu Monastery teahouse** — quieter, in the courtyard of a working Buddhist monastery, with excellent vegetarian food next door.
@@ -105,7 +105,7 @@ Chengdu is also the main jumping-off point for **Tibet** — flights to Lhasa ta
 
 ### What time should I arrive at the Chengdu Panda Base?
 
-At 07:30 opening. Pandas are active during their morning feed and mostly asleep by 10:00, and tour groups arrive from about 09:00. Arriving late is the single most common Chengdu mistake.
+At 07:30 opening. Pandas are active during their morning feed and mostly asleep by 10:00, and tour groups arrive from about 09:00. Arriving late is the single most common Chengdu mistake, and one of [the errors that most often spoil a China trip](/plan/china-travel-mistakes/).
 
 ### How many days do you need in Chengdu?
 

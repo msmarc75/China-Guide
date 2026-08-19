@@ -85,7 +85,7 @@ export const SCHEMES = {
     ],
     caveats: [
       'The permission covers Hainan province ONLY. Travelling on to the mainland needs a visa or separate eligibility.',
-      'Hainan sits outside the 24 provinces covered by the 240-hour transit scheme, so the two cannot be combined on one entry.',
+      'Hainan is also one of the 24 areas open to 240-hour visa-free transit, added in December 2024. If you qualify for that scheme it is the more flexible route, because it lets you continue to the mainland.',
     ],
   },
 
@@ -218,16 +218,24 @@ export const PURPOSES = [
   { id: 'transit', label: 'Passing through' },
 ];
 
-/** The 240-hour scheme is limited to these provinces and municipalities. */
+/**
+ * The 24 province-level areas open to the 240-hour scheme, as set by the
+ * December 2024 revision. Three of them admit transit visitors to named
+ * cities only rather than the whole province, which is the detail almost
+ * every English summary drops — so it is carried in the label itself,
+ * because these strings are rendered straight to the user by the checker.
+ */
 export const PERMITTED_PROVINCES_240H = [
-  'Beijing', 'Tianjin', 'Hebei', 'Liaoning', 'Shanghai', 'Jiangsu', 'Zhejiang',
-  'Anhui', 'Fujian', 'Jiangxi', 'Shandong', 'Henan', 'Hubei', 'Hunan',
-  'Guangdong', 'Guangxi', 'Chongqing', 'Sichuan', 'Guizhou', 'Yunnan',
-  'Shanxi', 'Shaanxi', 'Hainan (transit ports only)', 'Inner Mongolia (designated ports)',
+  'Beijing', 'Tianjin', 'Hebei', 'Liaoning', 'Heilongjiang', 'Shanghai',
+  'Jiangsu', 'Zhejiang', 'Anhui', 'Fujian', 'Jiangxi (Nanchang and Jingdezhen only)',
+  'Shandong', 'Henan', 'Hubei', 'Hunan', 'Guangdong',
+  'Guangxi (12 named cities, including Nanning, Guilin and Beihai)',
+  'Hainan', 'Chongqing', 'Sichuan', 'Guizhou', 'Yunnan',
+  'Shanxi (Taiyuan and Datong only)', 'Shaanxi',
 ];
 
-/** Regions outside the 240-hour scheme, and the reason it matters. */
-export const EXCLUDED_FROM_240H = ['Tibet', 'Xinjiang', 'Qinghai', 'Gansu', 'Ningxia', 'Heilongjiang', 'Jilin'];
+/** The seven province-level areas outside the 240-hour scheme. */
+export const EXCLUDED_FROM_240H = ['Tibet', 'Xinjiang', 'Inner Mongolia', 'Gansu', 'Qinghai', 'Ningxia', 'Jilin'];
 
 /* ------------------------------------------------------------------ *
  * Resolver — a pure function, shared by the build and the browser.

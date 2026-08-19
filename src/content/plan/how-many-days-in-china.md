@@ -23,6 +23,8 @@ There is a reliable formula for a China trip that fails: pick the six famous cit
 
 The reason it fails is scale. The Forbidden City complex is 720,000 m². The Terracotta Army sits in three separate hangars 40 km outside Xi'an. Zhangjiajie National Forest Park is 4,800 hectares with four separate entrances. These are not morning stops.
 
+How many days you need is the second question, though. [The first is whether you have solved the four infrastructural problems](/plan/first-time-china-travel-guide/) — payment, connectivity, navigation and entry — because a visitor who has not cannot use the days they book.
+
 ## Minimum nights per destination
 
 | Destination | Minimum | Comfortable | What the extra day buys |

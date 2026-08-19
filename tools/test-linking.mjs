@@ -4,12 +4,20 @@
  * rather than hand-maintained, and no page is left without inbound editorial
  * links as the site grows.
  *
+ * The counting lives in tools/lib/inbound-links.mjs, which is shared with
+ * audit-inbound-links.mjs and audit-discoverability.mjs. This file used to
+ * carry its own copy, and that copy was wrong in three ways — see the module
+ * header. The upshot was an assertion that read "at least 2 inbound editorial
+ * links" while accepting two links from a single article, plus links from the
+ * generated related block. One page passed on that basis for three batches.
+ *
  * Run: npm run test:linking   (expects dist/ to be built)
  */
 
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { inboundSources, clusterIsolation, isArticle, urlOf } from './lib/inbound-links.mjs';
 
 const DIST = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'dist');
 
@@ -18,38 +26,25 @@ if (!fs.existsSync(DIST)) {
   process.exit(1);
 }
 
-const walk = (dir, out = []) => {
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) walk(full, out);
-    else out.push(full);
-  }
-  return out;
-};
+const { files: htmlFiles, sources, urls } = inboundSources(DIST);
+const countOf = (url) => (sources.get(url) ?? []).length;
 
-const htmlFiles = walk(DIST).filter((f) => f.endsWith('.html'));
-const urlOf = (file) => {
-  const rel = path.relative(DIST, file).replace(/\\/g, '/');
-  return rel === 'index.html' ? '/' : `/${rel.replace(/index\.html$/, '')}`;
-};
+// The two shop pages are deliberately not promoted from editorial prose:
+// pushing Marc's own products inside the guides is a commercial decision that
+// is his to make, not a linking oversight. They are the only pages exempt, and
+// the exemption is written down here rather than hidden behind a loose count —
+// which is exactly how it stayed invisible before.
+//
+// /shop/china-trip-planner/ has zero editorial inbound links and always did.
+// The old count hid that by counting the related block, where the other shop
+// page points at it via `related:` front matter. That is generated topic
+// overlap, not an editorial route.
+const COMMERCIAL_PAGES = new Set(['/shop/china-trip-planner/', '/shop/survival-mandarin-pack/']);
 
-const isListing = (url) => url === '/' || url === '/sitemap-page/' || /^\/[^/]+\/$/.test(url);
-const isArticle = (url) => !isListing(url) && !url.endsWith('404.html') && url !== '/search/';
-
-// Count only editorial links: inside <main>, and not from an automatic listing.
-const inbound = new Map();
-for (const file of htmlFiles) {
-  const url = urlOf(file);
-  if (isListing(url)) continue;
-  const html = fs.readFileSync(file, 'utf8');
-  const main = /<main id="main">([\s\S]*)<\/main>/.exec(html)?.[1] || '';
-  for (const m of main.matchAll(/href="(\/[^"#?]*)"/g)) {
-    if (m[1] !== url) inbound.set(m[1], (inbound.get(m[1]) || 0) + 1);
-  }
-}
-
-const articles = htmlFiles.map(urlOf).filter(isArticle);
-const counts = articles.map((u) => inbound.get(u) || 0);
+const articles = urls.filter(isArticle);
+// Report across the asserted set, so a deliberately unlinked commercial page
+// does not make the floor look like a defect.
+const counts = articles.filter((u) => !COMMERCIAL_PAGES.has(u)).map(countOf);
 
 let failures = 0;
 const check = (label, condition, detail = '') => {
@@ -62,16 +57,30 @@ const check = (label, condition, detail = '') => {
 
 console.log('Internal link graph');
 
-const orphans = articles.filter((u) => !inbound.get(u));
+const orphans = articles.filter((u) => !COMMERCIAL_PAGES.has(u) && countOf(u) === 0);
 check('no article is an orphan', orphans.length === 0, orphans.join(', '));
 
-const thin = articles.filter((u) => (inbound.get(u) || 0) < 2);
-check('every article has at least 2 inbound editorial links', thin.length === 0, thin.join(', '));
+const thin = articles.filter((u) => !COMMERCIAL_PAGES.has(u) && countOf(u) < 2);
+check(
+  'every article has at least 2 DISTINCT source articles linking to it',
+  thin.length === 0,
+  thin.map((u) => `${u} (${countOf(u)})`).join(', ')
+);
+
+// A page linked only from its own parent and sibling is unreachable to anyone
+// who never lands on that parent. A count cannot show this, because the value
+// of a link depends on where it comes from.
+const isolated = clusterIsolation(sources, urls).filter((n) => n.outside.length === 0);
+check(
+  'no nested page is reachable only from inside its own cluster',
+  isolated.length === 0,
+  isolated.map((n) => n.url).join(', ')
+);
 
 check(
   'every article renders a related block',
   htmlFiles
-    .filter((f) => isArticle(urlOf(f)))
+    .filter((f) => isArticle(urlOf(DIST, f)))
     .every((f) => fs.readFileSync(f, 'utf8').includes('class="related"'))
 );
 

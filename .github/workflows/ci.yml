@@ -1,0 +1,25 @@
+name: CI
+
+# Runs on every push and pull request. Cloudflare Pages builds the site itself
+# from the repo, so this workflow exists to catch a broken build or a failed
+# quality gate before Cloudflare publishes it.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build site
+        run: npm run build
+
+      - name: Quality gate — links, metadata, structured data
+        run: npm run check

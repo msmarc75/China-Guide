@@ -57,7 +57,7 @@ This is the most likely thing to go wrong on a Tibet trip, and it has nothing to
 
 ## Lhasa
 
-**Potala Palace** (¥200 in high season). The winter residence of the Dalai Lamas from the 17th century, 13 storeys and over 1,000 rooms rising 300 m above the valley floor. Entry is by strictly timed slot booked by your agency a day in advance, visits are limited to **one hour inside**, and photography is prohibited in the chapels. The climb from the entrance to the palace proper is substantial at this altitude.
+**Potala Palace** (¥200 in high season). The winter residence of the Dalai Lamas from the 17th century, and a building most English descriptions get wrong in two ways. It is usually called thirteen storeys: it *reads* as thirteen from outside, but only nine are habitable floors — the lowest four are solid rubble-filled retaining walls holding the structure to the rock. And it is usually credited with "over a thousand rooms", which undersells it by an order of magnitude; Chinese sources put the complex at close to ten thousand. The main building stands 117 m high. Entry is by strictly timed slot booked by your agency a day in advance, visits are limited to **one hour inside**, and photography is prohibited in the chapels. The climb from the entrance to the palace proper is substantial at this altitude.
 
 **Jokhang Temple** — founded in the 7th century and the holiest temple in Tibetan Buddhism. Pilgrims prostrate themselves at the entrance continuously. Go early, when the pilgrim traffic rather than the tourist traffic dominates.
 

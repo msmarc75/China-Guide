@@ -639,6 +639,44 @@ ${items}
 `;
 }
 
+/**
+ * Cloudflare Pages reads `_headers` and `_redirects` from the build output.
+ * Both are ignored by other hosts, so they are safe to emit unconditionally.
+ */
+function renderHeaders() {
+  return `/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+# Fingerprint-free assets: short cache, revalidated.
+/assets/*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/search-index.json
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+
+/feed.xml
+  Cache-Control: public, max-age=3600
+`;
+}
+
+function renderRedirects() {
+  // Trailing-slash canonicalisation: /guides/china-visa-guide -> /guides/china-visa-guide/
+  const paths = [
+    ...SECTIONS.map((s) => `/${s.id}`),
+    ...allArticles.map((p) => p.url.replace(/\/$/, '')),
+    ...standalonePages.map((p) => p.url.replace(/\/$/, '')),
+    '/search',
+    '/sitemap-page',
+  ];
+  return `${paths.map((p) => `${p} ${p}/ 301`).join('\n')}\n`;
+}
+
 function renderManifest() {
   return JSON.stringify(
     {
@@ -704,6 +742,8 @@ function build() {
   write('feed.xml', renderFeed());
   write('site.webmanifest', renderManifest());
   write('search-index.json', renderSearchIndex());
+  write('_headers', renderHeaders());
+  write('_redirects', renderRedirects());
   write('.nojekyll', '');
   copyAssets();
 

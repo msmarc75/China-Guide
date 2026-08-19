@@ -160,16 +160,55 @@ traffic justifies it. All the slots exist in the code and ship disabled.
 
 ## Deployment
 
-The site is static, so anything that serves files works. A GitHub Pages workflow
-is included at `.github/workflows/deploy.yml`.
+The site is static, so anything that serves files works. **Cloudflare Pages is
+the recommended host**: free for this kind of site, global CDN, automatic HTTPS,
+and it rebuilds on every push.
 
-**GitHub Pages** — enable Pages with "GitHub Actions" as the source, set the
-`SITE_URL` repository variable, and push to the default branch.
+### Cloudflare Pages (recommended)
 
-**Netlify / Vercel / Cloudflare Pages** — build command `npm run build`, publish
-directory `dist`.
+1. In the Cloudflare dashboard: **Workers & Pages → Create → Pages → Connect to
+   Git**, and select this repository.
+2. Build settings:
+   - **Framework preset:** None
+   - **Build command:** `npm run build`
+   - **Build output directory:** `dist`
+   - **Node version:** read automatically from `.node-version` (20)
+3. Environment variables (Settings → Environment variables), all optional but
+   `SITE_URL` matters — it sets canonical URLs, the sitemap and Open Graph tags:
+   ```
+   SITE_URL=https://yourdomain.com
+   ANALYTICS_ID=…        # only if using GA4
+   ADSENSE_ID=…          # only once ads are switched on
+   ```
+4. Deploy. You get a `*.pages.dev` URL immediately.
 
-**Any static host** — run `npm run build` and upload `dist/`.
+### Custom domain
+
+If the domain is registered with **Cloudflare Registrar**, DNS is already in
+your account and the connection takes one step:
+
+1. Pages project → **Custom domains → Set up a custom domain**
+2. Enter the apex (`yourdomain.com`) and add `www` as a second custom domain if
+   you want it. Cloudflare creates the DNS records and issues the certificate
+   automatically — no manual CNAME needed.
+3. Pick one hostname as canonical and redirect the other (Rules → Redirect
+   Rules), so search engines see a single version.
+4. Set `SITE_URL` to that canonical hostname and redeploy, so the sitemap,
+   canonical tags and Open Graph URLs all match.
+
+Registering elsewhere works too — point the nameservers at Cloudflare first, or
+add the CNAME the Pages dashboard gives you.
+
+### Other hosts
+
+- **Netlify / Vercel** — build command `npm run build`, publish directory `dist`.
+  The generated `_headers` and `_redirects` are Netlify-compatible too.
+- **GitHub Pages** — `.github/workflows/deploy.yml` is included but runs only on
+  manual dispatch. Enable Pages with "GitHub Actions" as the source first.
+- **Any static host** — run `npm run build` and upload `dist/`.
+
+`.github/workflows/ci.yml` runs the build and the quality gate on every push
+regardless of host, so a broken build is caught before it is published.
 
 ---
 

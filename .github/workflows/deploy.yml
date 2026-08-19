@@ -1,8 +1,10 @@
-name: Build & deploy
+name: Deploy to GitHub Pages
+
+# Optional alternative host. If you deploy via Cloudflare Pages (the default —
+# see README), leave this workflow alone: it only runs when triggered by hand,
+# and requires GitHub Pages to be enabled with "GitHub Actions" as the source.
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

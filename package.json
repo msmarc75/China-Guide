@@ -2,13 +2,14 @@
   "name": "china-trip-compass",
   "version": "1.0.0",
   "private": true,
-  "description": "China Trip Compass — a complete, SEO-optimised English travel guide to China for foreign visitors.",
+  "description": "China Trip Compass \u2014 a complete, SEO-optimised English travel guide to China for foreign visitors.",
   "type": "module",
   "scripts": {
     "build": "node src/build.mjs",
     "serve": "node src/serve.mjs",
     "dev": "node src/build.mjs && node src/serve.mjs",
-    "check": "node src/check.mjs"
+    "check": "node src/check.mjs",
+    "audit:mobile": "node tools/mobile-audit.mjs"
   },
   "engines": {
     "node": ">=18"

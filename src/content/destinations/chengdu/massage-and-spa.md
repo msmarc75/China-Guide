@@ -80,4 +80,4 @@ If you want the experience, watch the practitioner work on someone else first, l
 
 **Decline prepaid membership cards** — you are not coming back next month.
 
-Insurance, pharmacies and finding an English-speaking doctor are covered in the [health and safety guide](/guides/health-and-safety-in-china/); for the teahouses themselves, see [things to do in Chengdu](/destinations/chengdu/things-to-do/).
+Ear cleaning is the local addition to a national practice — [what tuina and foot treatment actually are](/culture/massage-and-bodywork-in-china/) covers the rest of it. Insurance, pharmacies and finding an English-speaking doctor are covered in the [health and safety guide](/guides/health-and-safety-in-china/); for the teahouses themselves, see [things to do in Chengdu](/destinations/chengdu/things-to-do/).

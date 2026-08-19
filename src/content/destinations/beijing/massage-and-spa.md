@@ -79,4 +79,4 @@ You may be offered cupping (拔罐) or gua sha (刮痧) as extras. Both leave ma
 
 **Membership cards.** Chains push prepaid cards hard, and this is the most-complained-about practice in the industry. Decline politely and pay for the single session — you are not coming back next week.
 
-For health, hygiene and what to do if something goes wrong, see the [health and safety guide](/guides/health-and-safety-in-china/).
+For what tuina is as a medical tradition, and the national programme behind the blind-masseur sign, see [massage and bodywork in China](/culture/massage-and-bodywork-in-china/). For health, hygiene and what to do if something goes wrong, see the [health and safety guide](/guides/health-and-safety-in-china/).

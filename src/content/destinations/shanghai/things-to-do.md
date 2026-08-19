@@ -32,6 +32,7 @@ Every entry below was cross-checked against at least two independent sources, in
 | Xintiandi | 新天地 | 上海市黄浦区太仓路181弄 | Lines 10 and 13, Yidahuizhi·Xintiandi |
 | Tianzifang | 田子坊 | 上海市黄浦区泰康路210弄 | Line 9, Dapuqiao (exit 1) |
 | Wukang Mansion | 武康大楼 | 上海市徐汇区淮海中路1842-1858号 | Lines 10 and 11, Jiaotong University |
+| Shanghai Jewish Refugees Museum | 上海犹太难民纪念馆 | 上海市虹口区长阳路62号 | Line 12, Tilanqiao (exit 2, then east) |
 | Zhujiajiao water town | 朱家角古镇 | 上海市青浦区朱家角镇课植园路555号 | Line 17, Zhujiajiao |
 
 ## How to group them

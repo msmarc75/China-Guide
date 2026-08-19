@@ -267,3 +267,101 @@ rate against twenty conversions in round two. Both are now asserted.
 Worth looking for more of these than for individually stale facts. The question
 to ask of any number on the site is not "is this still true" but "what else was
 computed from this, and would anything notice if it changed".
+
+## Round three
+
+Round one went at machine-readable data and round two at derived numbers.
+Round three went at the category no test can reach: **named institutions,
+venues and stations, where the world changes and the file does not.** Twenty-one
+named museums across the destination and itinerary pages, every "no metro"
+claim in the corpus, and a sample of the named establishments in the four city
+restaurant and nightlife pages.
+
+Two defects, both about *where a thing is* rather than whether it exists — and
+both of a shape the earlier rounds could not have found, because every
+individual fact in them was true.
+
+**The Fuchun Mountains fragment is not at the museum by the lake.** The
+Hangzhou page listed the Zhejiang Provincial Museum under "Beyond the lake",
+between Lingyin Temple and the Six Harmonies Pagoda, as the holder of the burnt
+opening fragment of Huang Gongwang's scroll. Every clause was true and the
+placement was wrong. The museum has been split across campuses since the
+Zhijiang campus (之江馆区) opened inside the Zhijiang Culture Centre on
+29 August 2023, across the river from West Lake; the lakeside Gushan campus
+(孤山馆区, 杭州市西湖区孤山路25号) is the one a visitor walking the Bai Causeway
+will reach, and the fragment is not in it. Nor is it on permanent display
+anywhere — since the new building opened it has been shown for about a month a
+year (30 August–end September 2024; 11 November–7 December 2025). Confirmed
+against 杭州本地宝 (Hángzhōu Běndìbǎo) campus guides and Chinese Wikipedia's
+之江文化中心 entry, which also records that metro line 6's 之浦路站 was renamed
+之江文化中心站 on 1 February 2024. Fixed on the Hangzhou page and on
+/answers/how-should-i-look-at-a-chinese-handscroll/.
+
+**Lintong has had a metro since 2020; our page said it had none.** The Xi'an
+things-to-do page told readers the Terracotta Army is "in Lintong district,
+well east of the city, with no metro connection". Xi'an metro **line 9** opened
+on 28 December 2020, runs 纺织城 to 秦陵西 across fifteen stations, and serves
+Lintong — including a station called Qinling West, Qin Mausoleum West, which
+reads exactly like the destination and is not it. The practical advice on the
+page (take bus 5/306) was right; the reason given for it was wrong, in a way
+that a reader looking at a metro map would catch and disbelieve. No station on
+line 9 serves the museum and every route from the line needs a local bus, so
+the corrected text names the line, names the trap and keeps the bus. Confirmed
+against 西安本地宝 (Xī'ān Běndìbǎo) and Chinese Wikipedia's 西安地铁9号线 entry.
+The two sources disagree on the distance from 秦陵西站 to the museum (5.8 km
+against about 3 km), so no distance is stated. Fixed on the things-to-do page,
+its table row, and /answers/how-do-i-get-to-the-terracotta-army-from-xian/.
+
+**One placement note rather than a defect.** The Yunnan page listed the Yunnan
+Provincial Museum alongside Green Lake Park as a Kunming afternoon. The museum
+moved to 昆明市官渡区广福路6393号 in Guandu district on 18 May 2015 and no metro
+station serves it — the transfer is line 1 plus a bus. Travellers are given one
+night in Kunming, so the location now appears with the recommendation.
+Confirmed against 昆明本地宝 (Kūnmíng Běndìbǎo) and Chinese Wikipedia.
+
+### What came back clean
+
+- **Quanzhou still has no metro.** The six planned lines were never built; the
+  厦漳泉 R1 intercity line began construction in 2025 and is not open.
+  (泉州本地宝 and Tencent News.)
+- **Nanputuo Temple still has no metro.** The Xiamen line 3 southern extension
+  through 沙坡尾 and 厦大 is under construction with an expected end-2026
+  opening, so the claim holds — and is the next one to expire.
+- **Kaifeng, Jianshui, Kashgar, Dunhuang and Yinchuan.** All still without
+  metro; the Yinchuan monorail note is still accurate.
+- **The Shaanxi History Museum** is still at 小寨东路91号 on lines 2 and 3. Its
+  秦汉馆 branch, opened 18 May 2024, is a separate site in 西咸新区, which does
+  not affect the entry.
+- **The Suzhou Silk Museum** is still free (since 1 October 2013) at 人民路2001号.
+- **The 老字号 restaurants** sampled — 上海老饭店 at 福佑路242号 (reopened January
+  2023 after a ten-month refit) and 老孙家 at 北院门86号 — are trading at the
+  addresses given.
+
+### Why the venue category came back clean, and what that means
+
+Three defunct venues were caught in the nine-pass audit, so venues were ranked
+second this round. They yielded nothing, and the reason is structural rather
+than lucky: the restaurant pages were built on 老字号 (lǎozìhào) time-honoured
+brands and the Shanghai nightlife page names districts instead of bars, on the
+explicit ground that "a bar list written a year ago is a list of places that may
+not exist". The earlier defects were what forced that choice. A page built to
+decay slowly does not need re-checking as often — which is an argument for
+writing them that way, not for checking them harder.
+
+(One slip fixed in passing: the Shanghai nightlife page said Alipay works "in
+small hutong-scale places". Hutong are Beijing; Shanghai has lane houses.)
+
+### Is round four worth running?
+
+Not on this seam. Three rounds have now found six defects, and the yield has
+changed character rather than falling off: rounds one and two found figures
+that were flatly wrong, round three found only facts that were true and
+misplaced. Institutions and transport are where the remaining decay is, and
+both were swept corpus-wide this round rather than page by page — every "no
+metro" claim and every named museum, not a sample. A fourth round over the same
+ground would be re-reading what was just read.
+
+The cadences worth keeping are the ones round one established: visa data
+quarterly, the exchange rate whenever `test-currency.mjs` is touched, and the
+metro claims annually — with Xiamen's flagged for end-2026, because that one
+has a known expiry date rather than an unknown one.

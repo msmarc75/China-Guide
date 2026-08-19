@@ -29,6 +29,9 @@ The condition is your SIM card. Mainland China filters a large part of the forei
 
 So the practical answer for most short-trip visitors is: buy a foreign travel eSIM, and the firewall stops being your problem.
 
+:::slot partner:esim
+:::
+
 ## Install one anyway, before you fly
 
 Even if you do not expect to need it, set one up at home. This is the part that catches people out: **VPN provider websites are themselves blocked from inside China, and the apps are removed from the Chinese app stores.** You cannot download or purchase one after you land. A working installation costs you nothing to carry and saves the trip if your roaming fails or you end up on hotel Wi-Fi.

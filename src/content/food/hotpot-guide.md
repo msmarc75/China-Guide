@@ -76,6 +76,7 @@ At most restaurants you build your own. Two default recipes:
 - **Haidilao** — the famous one, known for extreme service: free snacks and manicures while you queue, noodle-pulling performances, and a soft toy seated opposite solo diners. The food is good rather than transcendent; the experience is the product. English menus available
 - **Xiaolongkan**, **Shu Daxia**, **Banu** — solid, spicy, widely available
 - **Chongqing's street hotpot (*jiudujiao*)** — communal tables, pay by the skewer, and the most authentic version
+- **Chengdu's long-established houses** — [named, with addresses and metro stops](/destinations/chengdu/restaurants/), if you would rather not gamble on a shopfront
 - **Local speciality places** — Chaoshan beef in Shantou, mushroom hotpot in Kunming, sour fish in Guizhou
 
 ## Surviving the spice

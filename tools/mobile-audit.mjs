@@ -33,7 +33,11 @@ try {
   process.exit(2);
 }
 
-const browser = await chromium.launch();
+// CHROMIUM_PATH lets the audit reuse a browser that is already on the machine
+// (CI images and sandboxes often ship one) instead of downloading another.
+const browser = await chromium.launch(
+  process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {}
+);
 let failures = 0;
 
 for (const width of WIDTHS) {

@@ -39,9 +39,10 @@ import { SITE } from './content/site.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const CONTENT = path.join(__dirname, 'content');
+// CONTENT_DIR / DIST_DIR let the generator run against fixture content in tests.
+const CONTENT = process.env.CONTENT_DIR ? path.resolve(process.env.CONTENT_DIR) : path.join(__dirname, 'content');
 const ASSETS = path.join(__dirname, 'assets');
-const DIST = path.join(ROOT, 'dist');
+const DIST = process.env.DIST_DIR ? path.resolve(process.env.DIST_DIR) : path.join(ROOT, 'dist');
 
 /** Section registry — order drives navigation and the sitemap priority. */
 const SECTIONS = [
@@ -123,38 +124,90 @@ const SECTION_BY_ID = Object.fromEntries(SECTIONS.map((s) => [s.id, s]));
  * Content loading
  * ------------------------------------------------------------------ */
 
+/**
+ * Loads a section's Markdown, descending into subdirectories.
+ *
+ * A subdirectory produces nested URLs: `destinations/beijing/restaurants.md`
+ * becomes `/destinations/beijing/restaurants/`. The pillar page for that folder
+ * is its sibling file, `destinations/beijing.md` — so adding children never
+ * requires moving an existing page.
+ */
 function readContentDir(sectionId) {
-  const dir = path.join(CONTENT, sectionId);
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith('.md'))
-    .map((file) => {
-      const slug = file.replace(/\.md$/, '');
-      const raw = fs.readFileSync(path.join(dir, file), 'utf8');
-      const { data, body } = parseFrontmatter(raw);
-      const isStandalone = sectionId === 'pages';
-      return {
+  const root = path.join(CONTENT, sectionId);
+  if (!fs.existsSync(root)) return [];
+  const isStandalone = sectionId === 'pages';
+  const pages = [];
+
+  const urlFor = (segments) =>
+    isStandalone ? `/${segments.join('/')}/` : `/${sectionId}/${segments.join('/')}/`;
+
+  const walk = (dir, prefix) => {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        walk(full, [...prefix, entry.name]);
+        continue;
+      }
+      if (!entry.name.endsWith('.md')) continue;
+
+      const slug = entry.name.replace(/\.md$/, '');
+      const segments = [...prefix, slug];
+      const { data, body } = parseFrontmatter(fs.readFileSync(full, 'utf8'));
+
+      pages.push({
         ...data,
         slug,
+        segments,
+        depth: segments.length,
+        parentUrl: segments.length > 1 ? urlFor(segments.slice(0, -1)) : null,
         section: isStandalone ? 'page' : sectionId,
         sectionId,
-        url: isStandalone ? `/${slug}/` : `/${sectionId}/${slug}/`,
+        url: urlFor(segments),
         body,
         title: data.title || slug,
         description: data.description || toPlainText(body, 155),
         keywords: Array.isArray(data.keywords) ? data.keywords : data.keywords ? [data.keywords] : [],
         updated: data.updated || new Date().toISOString().slice(0, 10),
         order: typeof data.order === 'number' ? data.order : 999,
-      };
-    })
-    .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title));
+      });
+    }
+  };
+
+  walk(root, []);
+  return pages.sort(
+    (a, b) => a.depth - b.depth || a.order - b.order || a.title.localeCompare(b.title)
+  );
 }
 
 const pagesBySection = {};
 for (const section of SECTIONS) pagesBySection[section.id] = readContentDir(section.id);
 const standalonePages = readContentDir('pages');
 const allArticles = SECTIONS.flatMap((s) => pagesBySection[s.id]);
+
+/**
+ * A child page whose pillar is missing would emit a breadcrumb pointing at a
+ * 404, which is invisible until someone clicks it. Fail the build instead.
+ */
+for (const page of [...allArticles, ...standalonePages]) {
+  if (!page.parentUrl) continue;
+  const exists =
+    allArticles.some((p) => p.url === page.parentUrl) ||
+    standalonePages.some((p) => p.url === page.parentUrl);
+  if (!exists) {
+    throw new Error(
+      `Missing pillar page for ${page.url}\n` +
+        `  Create src/content/${page.sectionId}/${page.segments.slice(0, -1).join('/')}.md ` +
+        `so that ${page.parentUrl} exists.`
+    );
+  }
+}
+
+/** Direct children of a page, used to turn pillar pages into hubs. */
+const childrenOf = (page) =>
+  allArticles
+    .filter((p) => p.parentUrl === page.url)
+    .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title));
 
 /* ------------------------------------------------------------------ *
  * Helpers
@@ -198,6 +251,14 @@ function crumbsFor(page) {
   const crumbs = [{ label: 'Home', href: '/' }];
   const section = SECTION_BY_ID[page.sectionId];
   if (section) crumbs.push({ label: section.heading, href: `/${section.id}/` });
+
+  // Nested pages get one crumb per ancestor: Home > Destinations > Beijing > Restaurants
+  for (let i = 1; i < (page.segments?.length || 1); i++) {
+    const url = `/${page.sectionId}/${page.segments.slice(0, i).join('/')}/`;
+    const ancestor = allArticles.find((p) => p.url === url);
+    if (ancestor) crumbs.push({ label: ancestor.navTitle || ancestor.title, href: url });
+  }
+
   crumbs.push({ label: page.navTitle || page.title, href: page.url });
   return crumbs;
 }
@@ -211,6 +272,19 @@ function renderArticle(page) {
   const faqs = extractFaq(page.body);
   const crumbs = crumbsFor(page);
   const related = resolveRelated(page);
+  const children = childrenOf(page);
+  const childHub = children.length
+    ? `<nav class="child-hub" aria-label="In this guide">
+      <p class="child-hub__title">${escapeHtml(page.navTitle || page.title)} in detail</p>
+      ${cardGrid(
+        children.map((c) => ({
+          title: c.navTitle || c.title,
+          url: c.url,
+          excerpt: excerptOf(c),
+        }))
+      )}
+    </nav>`
+    : '';
   const words = toPlainText(page.body).split(/\s+/).length;
   const readingTime = Math.max(2, Math.round(words / 220));
 
@@ -247,6 +321,7 @@ function renderArticle(page) {
       </p>
     </header>
     ${facts}
+    ${childHub}
     <div class="article__layout">
       <div class="article__body" itemprop="articleBody">
         ${tableOfContents(headings)}
@@ -279,7 +354,9 @@ ${newsletterBlock()}`;
  * ------------------------------------------------------------------ */
 
 function renderSectionIndex(section) {
-  const pages = pagesBySection[section.id];
+  // Pillars only. Children are surfaced on their pillar page, which keeps the
+  // hierarchy legible to readers and to search engines.
+  const pages = pagesBySection[section.id].filter((p) => p.depth === 1);
   const crumbs = [
     { label: 'Home', href: '/' },
     { label: section.heading, href: `/${section.id}/` },
@@ -510,7 +587,14 @@ function renderSitemapPage() {
     (s) => `<section class="sitemap-group">
     <h2><a href="/${s.id}/">${escapeHtml(s.heading)}</a></h2>
     <ul>${pagesBySection[s.id]
-      .map((p) => `<li><a href="${p.url}">${escapeHtml(p.title)}</a></li>`)
+      .filter((p) => p.depth === 1)
+      .map((p) => {
+        const kids = childrenOf(p);
+        const nested = kids.length
+          ? `<ul>${kids.map((c) => `<li><a href="${c.url}">${escapeHtml(c.title)}</a></li>`).join('')}</ul>`
+          : '';
+        return `<li><a href="${p.url}">${escapeHtml(p.title)}</a>${nested}</li>`;
+      })
       .join('')}</ul>
   </section>`
   ).join('');
@@ -567,7 +651,7 @@ function renderSitemapXml() {
     ...SECTIONS.map((s) => ({ loc: `/${s.id}/`, priority: String(s.priority), changefreq: 'weekly' })),
     ...allArticles.map((p) => ({
       loc: p.url,
-      priority: p.priority ? String(p.priority) : '0.8',
+      priority: p.priority ? String(p.priority) : p.depth > 1 ? '0.7' : '0.8',
       changefreq: 'monthly',
       lastmod: p.updated,
     })),

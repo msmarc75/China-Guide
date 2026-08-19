@@ -43,6 +43,7 @@ const knownFiles = new Set(files.map((f) => `/${path.relative(DIST, f).replace(/
 
 const titles = new Map();
 const descriptions = new Map();
+const inbound = new Map();
 
 /** Character counts must reflect what a search engine renders, not the escaped source. */
 const decode = (s = '') =>
@@ -85,7 +86,21 @@ for (const file of htmlFiles) {
     else descriptions.set(desc, url);
   }
 
-  // Internal links
+  // Editorial inbound links only.
+  //
+  // Two exclusions matter. The header, breadcrumbs and footer sit outside
+  // <main> and appear on every page. And section indexes list every page they
+  // contain automatically — counting those would mean no article could ever be
+  // an orphan, which makes the check worthless. What we want to know is whether
+  // any page's prose or related block actually points here.
+  const isAutomaticListing = url === '/' || url === '/sitemap-page/' || /^\/[^/]+\/$/.test(url);
+  if (!isAutomaticListing) {
+    const main = /<main id="main">([\s\S]*)<\/main>/.exec(html)?.[1] || '';
+    for (const m of main.matchAll(/href="(\/[^"#?]*)"/g)) {
+      if (m[1] !== url) inbound.set(m[1], (inbound.get(m[1]) || 0) + 1);
+    }
+  }
+
   const links = [...html.matchAll(/href="(\/[^"#?]*)"/g)].map((m) => m[1]);
   for (const link of new Set(links)) {
     if (link.startsWith('//')) continue;
@@ -109,6 +124,25 @@ for (const file of htmlFiles) {
   // conflicting markup, and may drop the rich result entirely.
   if (schemaTypes.includes('QAPage') && schemaTypes.includes('FAQPage')) {
     errors.push(`${url} — emits both QAPage and FAQPage; an answer page must carry only one`);
+  }
+}
+
+/**
+ * A page nothing links to is a page search engines discover late and rank
+ * poorly, and readers never reach. Section indexes and utility pages are
+ * exempt: they are reached through the navigation, which lives outside <main>.
+ */
+const EXEMPT_FROM_ORPHAN_CHECK = new Set(['/', '/search/', '/sitemap-page/', '/404.html']);
+for (const file of htmlFiles) {
+  const url = urlOf(file);
+  if (EXEMPT_FROM_ORPHAN_CHECK.has(url)) continue;
+  const isSectionIndex = /^\/[^/]+\/$/.test(url);
+  const html = fs.readFileSync(file, 'utf8');
+  if (/name="robots" content="noindex/.test(html)) continue;
+  if (!inbound.get(url)) {
+    const message = `${url} — orphan: no editorial link points here`;
+    if (isSectionIndex) warnings.push(message);
+    else errors.push(message);
   }
 }
 

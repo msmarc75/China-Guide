@@ -11,7 +11,8 @@
     "check": "node src/check.mjs",
     "audit:mobile": "node tools/mobile-audit.mjs",
     "test:nesting": "node tools/test-nesting.mjs",
-    "test": "node tools/test-nesting.mjs"
+    "test": "node tools/test-nesting.mjs && node src/build.mjs && node tools/test-linking.mjs",
+    "test:linking": "node tools/test-linking.mjs"
   },
   "engines": {
     "node": ">=18"

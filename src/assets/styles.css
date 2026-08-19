@@ -281,6 +281,9 @@ a:hover { color: var(--red-dark); }
 .fact-box dd { margin: .1rem 0 0; font-size: .95rem; font-weight: 500; }
 
 .article__layout { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 3rem; align-items: start; }
+/* Grid children default to min-width:auto and refuse to shrink below their content.
+   A wide table would then stretch the column and defeat .table-wrap's overflow-x. */
+.article__body, .article__aside { min-width: 0; }
 @media (max-width: 980px) { .article__layout { grid-template-columns: 1fr; gap: 2rem; } }
 
 .article__aside { position: sticky; top: 5rem; display: flex; flex-direction: column; gap: 1rem; }
@@ -288,7 +291,7 @@ a:hover { color: var(--red-dark); }
 
 /* -------------------------------------------------------- article prose */
 
-.article__body { font-size: 1.06rem; }
+.article__body { font-size: 1.06rem; overflow-wrap: break-word; }
 .article__body > h2 {
   font-family: var(--font-serif); font-size: clamp(1.5rem, 3vw, 1.95rem);
   line-height: 1.2; letter-spacing: -.015em;
@@ -333,7 +336,7 @@ table { width: 100%; border-collapse: collapse; font-size: .93rem; }
 thead th {
   background: var(--paper-sunk); text-align: left; font-size: .78rem;
   letter-spacing: .04em; text-transform: uppercase; color: var(--ink-soft);
-  padding: .7rem .85rem; border-bottom: 1px solid var(--line); white-space: nowrap;
+  padding: .7rem .85rem; border-bottom: 1px solid var(--line);
 }
 tbody td { padding: .7rem .85rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 tbody tr:last-child td { border-bottom: 0; }

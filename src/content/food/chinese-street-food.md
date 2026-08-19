@@ -93,11 +93,12 @@ The best street-food city in China, concentrated in the Muslim Quarter.
 | Jinli & Kuanzhai | Chengdu | Restored streets, tourist-facing but good snacks |
 | Wenming Road | Guangzhou | Local, late, excellent |
 | Temple Street | Hong Kong | Classic, touristy, fun |
-| Wangfujing snack street | Beijing | Famous for scorpion skewers, which are a tourist prop rather than food anyone eats |
 | Dongmen | Shenzhen | Sprawling and genuinely local |
 
 :::warn The scorpion thing
-The scorpions, starfish and tarantulas on sticks at Wangfujing and similar streets are not Chinese food. They are sold to tourists to photograph. No one in Beijing eats them. Eat the jianbing instead.
+Scorpions, starfish and tarantulas on sticks are not Chinese food. They are sold on tourist streets to be photographed, and no one eats them. Eat the jianbing instead.
+
+The Beijing street that made them famous — the Wangfujing snack street, opened in 2000 — closed in 2019 for redevelopment and its stalls were cleared, so guidance sending you there is out of date. The stunt itself survives on tourist streets elsewhere, which is why the advice still applies.
 :::
 
 ## Eating safely
@@ -140,4 +141,4 @@ By scanning the vendor's QR code with Alipay or WeChat Pay, which is what everyo
 
 ### Do Chinese people really eat scorpions?
 
-No. The scorpions, starfish and tarantulas sold on sticks at Wangfujing in Beijing and similar streets are a tourist attraction, not part of any Chinese cuisine. Local street food is jianbing, baozi, noodles and skewers.
+No. The scorpions, starfish and tarantulas sold on sticks on tourist streets are an attraction to photograph, not part of any Chinese cuisine. The Beijing street best known for them, the Wangfujing snack street, closed in 2019 and was cleared, though the stunt continues elsewhere. Local street food is jianbing, baozi, noodles and skewers.

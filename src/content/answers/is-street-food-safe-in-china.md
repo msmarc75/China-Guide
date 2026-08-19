@@ -51,6 +51,6 @@ Payment is by Alipay or WeChat QR at essentially every stall, including pushcart
 
 ## Where to eat it
 
-Breakfast, not dinner. The best street food in China is served between 06:00 and 10:00 outside residential compounds and then packs up. Night markets are fun and increasingly aimed at tourists — the scorpions on sticks at Wangfujing are a photo prop, not food anyone in Beijing eats.
+Breakfast, not dinner. The best street food in China is served between 06:00 and 10:00 outside residential compounds and then packs up. Night markets are fun and increasingly aimed at tourists — the scorpions on sticks are a photo prop, not food anyone in China eats.
 
 Region-by-region highlights are in our [street food guide](/food/chinese-street-food/).

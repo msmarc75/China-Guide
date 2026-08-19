@@ -3,8 +3,8 @@ title: What Plug Adapter Do I Need for China?
 question: What plug adapter do I need for China?
 navTitle: Plug adapter
 metaTitle: "What Plug Adapter Do I Need for China?"
-description: China uses 220 V with socket types A, C and I. Most sockets accept US flat and Australian plugs directly — only UK plugs need an adapter.
-standfirst: China runs on 220 V, 50 Hz with socket types A, C and I. Most Chinese sockets are combination units that accept flat two-pin (US) and angled three-pin (Australian) plugs directly. UK three-pin plugs are the ones that need an adapter.
+description: China uses 220 V with socket types A, C and I. US flat and Australian plugs fit directly; UK plugs and German-style Schuko plugs need an adapter.
+standfirst: China runs on 220 V, 50 Hz with socket types A, C and I. Most Chinese sockets are combination units that accept flat two-pin (US) and angled three-pin (Australian) plugs directly. UK three-pin plugs need an adapter — and so, less obviously, do the earthed Schuko plugs used across much of continental Europe.
 eyebrow: Answer
 order: 12
 updated: 2026-08-19
@@ -22,9 +22,12 @@ The useful thing to know is that Chinese wall sockets are usually **combination 
 | --- | --- |
 | United States, Canada, Japan | No — flat two-pin fits directly. Check voltage (see below) |
 | Australia, New Zealand | No — the angled pins are the same type I standard |
-| Continental Europe | Usually not — round two-pin type C generally fits the combination sockets |
+| Continental Europe, slim two-pin (type C) | No — the Europlug fits the combination sockets |
+| Continental Europe, earthed Schuko (type F) | **Yes** — thicker pins and side earth clips will not go in |
 | United Kingdom, Ireland | **Yes** — the three rectangular pins do not fit anything |
 | Anywhere else | Bring a universal adapter |
+
+The European row is the one that catches people, because "Europe" is not one plug. The slim unearthed **Europlug** — the flat oval one on phone chargers and small electronics — fits Chinese sockets fine. The earthed **Schuko** plug used in Germany, Austria, the Netherlands, Spain and much of the rest of the continent does not: its pins are thicker and it has earth clips along the sides. Laptop chargers, hairdryers and anything with a metal case are the devices most likely to be Schuko, so check the plugs on your actual kit rather than assuming from the country.
 
 ## Voltage matters more than the plug
 

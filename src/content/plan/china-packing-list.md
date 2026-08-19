@@ -51,7 +51,7 @@ Since 2025, Chinese carriers require power banks carried on domestic flights to 
 
 | Item | Note |
 | --- | --- |
-| Plug adaptor | China uses types A, C and I at 220 V. Most sockets accept flat two-pin (US) and Australian three-pin without an adaptor. European round two-pin (type C) usually fits too. UK three-pin does not — bring an adaptor. |
+| Plug adaptor | China uses types A, C and I at 220 V. Most sockets accept flat two-pin (US) and Australian three-pin without an adaptor. The slim European Europlug (type C) fits, but the earthed German-style Schuko plug does not. UK three-pin does not either — bring an adaptor for both. |
 | Phone | Unlocked, eSIM-capable if you plan to use a travel eSIM |
 | Power bank | See the CCC warning above |
 | Cables and a multi-port charger | One charger, three cables beats three chargers |
@@ -119,7 +119,7 @@ Verify Alipay with your passport and bind a card **at home**, because verificati
 
 ### What kind of power plug does China use?
 
-China uses 220 V, 50 Hz with socket types A (flat two-pin, as in the US), C (European round two-pin) and I (Australian angled three-pin). Most Chinese sockets are combination units that accept flat two-pin and Australian plugs directly. UK plugs need an adaptor, and US devices need to be dual-voltage. [Which adapter you actually need](/answers/what-plug-adapter-do-i-need-for-china/).
+China uses 220 V, 50 Hz with socket types A (flat two-pin, as in the US), C (European round two-pin) and I (Australian angled three-pin). Most Chinese sockets are combination units that accept flat two-pin and Australian plugs directly. UK plugs need an adaptor, as do the earthed Schuko plugs common in Germany, Spain and the Netherlands, and US devices need to be dual-voltage. [Which adapter you actually need](/answers/what-plug-adapter-do-i-need-for-china/).
 
 ### Can I bring a power bank to China?
 

@@ -6,7 +6,11 @@
 :root {
   --ink: #16130f;
   --ink-soft: #4a443c;
-  --ink-faint: #7a7268;
+  /* #7a7268 gave 4.13:1 on --paper-sunk, below the 4.5:1 WCAG AA floor for
+     small text — and breadcrumbs, the footer columns and the newsletter note
+     are all faint text on sunk paper, so that failure was on every page.
+     #706960 is 5.24:1 on --paper and 4.73:1 on --paper-sunk. */
+  --ink-faint: #706960;
   --paper: #fdfbf7;
   --paper-raised: #ffffff;
   --paper-sunk: #f4efe6;
@@ -16,7 +20,11 @@
   --red-soft: #fbeceb;
   --jade: #16736a;
   --jade-soft: #e6f2f0;
-  --gold: #b8860b;
+  /* #b8860b was 2.94:1 on --gold-soft and 3.15:1 on --paper. It is used as
+     TEXT — the :::key and :::local callout titles at .74rem bold, and the
+     promo-slot label at .68rem — so 4.5:1 applies, not 3:1.
+     #8c6608 is 4.72:1 on --gold-soft, 5.06:1 on --paper, 5.22:1 on white. */
+  --gold: #8c6608;
   --gold-soft: #fbf3dd;
 
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
@@ -518,9 +526,13 @@ tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-sunk) 45%,
 .visa-tool__form { display: grid; gap: 1rem; }
 .visa-tool__field { display: grid; gap: .35rem; min-width: 0; }
 .visa-tool__field label { font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); }
+/* A form control's boundary is 'visual information required to identify a
+   user interface component' under WCAG 1.4.11, so it needs 3:1 — and --line
+   is 1.35:1 against paper. Decorative rules elsewhere keep --line; these do
+   not. --ink-faint is 5.24:1. */
 .visa-tool select, .visa-tool input[type="number"] {
   width: 100%; padding: .7rem .8rem; font: inherit; font-size: 1rem;
-  border: 1px solid var(--line); border-radius: 8px;
+  border: 1px solid var(--ink-faint); border-radius: 8px;
   background: var(--paper); color: var(--ink);
 }
 .visa-tool__checks { border: 0; margin: 0; padding: 0; display: grid; gap: .6rem; }

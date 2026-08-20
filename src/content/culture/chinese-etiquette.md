@@ -98,7 +98,7 @@ On the perennial worry about clearing your plate, see [is it rude to leave food 
 - **Spitting** has declined sharply in cities but has not disappeared.
 - **Staring** at foreigners is common outside major cities and is curiosity, not hostility.
 - **Photographs of you** will be requested, especially if you are travelling with children or have unusual hair. Yes and no are both fine.
-- **Smoking** is banned indoors in major cities but enforcement is uneven.
+- **Smoking** is banned indoors in Beijing, Shanghai and Shenzhen and enforced there; elsewhere a no-smoking sign means less. Being offered a cigarette is a courtesy, and [how to decline one without causing offence](/guides/smoking-and-vaping-in-china/) is worth knowing before a hosted dinner.
 - **Public displays of affection** between couples are increasingly common among young people in cities and still uncommon among older generations and in rural areas.
 
 ## Topics to handle carefully

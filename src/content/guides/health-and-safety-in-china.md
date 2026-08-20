@@ -160,8 +160,7 @@ Operators on 110 and 120 rarely speak English. Practical approach: ask a bystand
 - **Photography.** Do not photograph military installations, police, security checkpoints or protests. Airport and station security are also generally off-limits.
 - **Politics.** Discussing sensitive topics (Taiwan, Xinjiang, Tibet, Tiananmen 1989) publicly or on Chinese social media can create problems for the Chinese people you are talking to, more than for you. Read the room.
 - **Drones** require registration, and most cities and scenic areas are no-fly zones.
-- **Smoking** is banned indoors in most major cities but the rule is enforced unevenly.
-- **Vaping** is restricted, and flavoured e-liquids are banned from sale; bringing a personal device is generally tolerated but nicotine liquid is not sold.
+- **Smoking and vaping** are governed city by city rather than nationally, so the same sign means different things in Beijing and in a small provincial city. On a high-speed train the rule is absolute and the penalty severe — [which cities enforce it, and what a train costs you](/guides/smoking-and-vaping-in-china/) sets out both, along with why flavoured e-liquid is not on sale anywhere in the country.
 
 ## Solo and female travellers
 

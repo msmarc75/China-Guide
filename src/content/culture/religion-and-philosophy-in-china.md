@@ -44,6 +44,8 @@ Philosophical Taoism became **religious Taoism** in the 2nd century CE, with a p
 
 **Where to see it:** **Mount Qingcheng** near Chengdu (the birthplace of religious Taoism), **Wudang Mountain** in Hubei (tai chi's spiritual home), **Mount Hua** near Xi'an, **Laoshan** near Qingdao, and the White Cloud Temple in Beijing.
 
+Mount Hua is one of five peaks that Taoism arranges by compass direction as a map of the realm, a scheme with a Buddhist counterpart of four — [which mountain belongs to which system, and which to choose](/culture/sacred-mountains-of-china/).
+
 ## Buddhism
 
 Arrived from India along the Silk Road in the 1st century CE and became thoroughly Chinese — most importantly through **Chan** (which reached Japan as Zen) and **Pure Land**, the popular devotional school.

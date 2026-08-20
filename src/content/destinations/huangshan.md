@@ -26,6 +26,8 @@ related:
 
 Huangshan is the mountain in the paintings. Granite peaks rising abruptly from a valley, pines growing horizontally out of rock faces, and the *yúnhǎi* — the sea of clouds — filling the valleys below the summits after rain. Chinese landscape art has been arguing with this mountain for twelve centuries.
 
+Its standing is artistic rather than religious, which surprises people: Huangshan is not one of [the nine mountains China actually holds sacred](/culture/sacred-mountains-of-china/), and belongs to neither the Taoist nor the Buddhist scheme.
+
 ## How to do it
 
 **Two days with a night on the mountain** is the standard and correct approach. Day trips are possible and mean you miss both sunset and sunrise, which are the entire point — the [longer answer on how the two days actually break down](/answers/how-long-do-you-need-at-huangshan/) covers where the third day goes if you have one.

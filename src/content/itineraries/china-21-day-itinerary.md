@@ -90,7 +90,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 
 ### Slow east
 
-**Beijing → Datong → Pingyao → Xi'an → Luoyang → Nanjing → Suzhou → Hangzhou → Shanghai.** Grottoes, walled cities, Ming tombs and classical gardens, entirely by rail, with almost no other foreign visitors outside the big two cities.
+**Beijing → Datong → Pingyao → Xi'an → Luoyang → Nanjing → Suzhou → Hangzhou → Shanghai.** Grottoes, walled cities, Ming tombs and classical gardens, entirely by rail, with almost no other foreign visitors outside the big two cities. [Written out stop by stop, with the nights each city needs](/itineraries/slow-east-china-itinerary/), it runs to sixteen days — and it goes roughly forward in time, which is the reason to take it in that direction.
 
 ## Budget
 

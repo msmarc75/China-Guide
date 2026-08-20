@@ -28,6 +28,8 @@ Suzhou grew rich on silk and canals, and its wealthy retired officials spent tha
 
 Nine of them are UNESCO World Heritage sites.
 
+Suzhou is usually done as a day trip from Shanghai, and it survives that. It is better as one night on [a route that arrives here from the north](/itineraries/slow-east-china-itinerary/), because the gardens read differently once you have spent a fortnight looking at grottoes and city walls.
+
 ## Which garden to visit
 
 **Do not attempt five.** Garden fatigue is real, and the design vocabulary is subtle enough that the third one in a day stops registering. Pick two — one large, one small.

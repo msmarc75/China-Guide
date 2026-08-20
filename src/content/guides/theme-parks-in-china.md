@@ -32,6 +32,8 @@ Chinese attractions run on real-name booking, and these two run it strictly. A t
 
 Shanghai Disney Resort operates the same way under its Real Name Ticketing Policy: each ticket is linked to a government ID, foreign visitors use their passport, and pricing and admission are tied to a specific date.
 
+The parks are not a special case. Any event in China with more than 5,000 attendees runs on the same regime, which is why [a football or basketball ticket works the same way](/guides/watching-sport-in-china/).
+
 :::warn The original document, not a photograph of it
 This is the single most common way a trip to either park goes wrong. Park staff check the **original physical document** used at the time of purchase. A photocopy, a phone photo or a screenshot is not accepted, which is the opposite of the habit many visitors adopt for everyday use in China.
 

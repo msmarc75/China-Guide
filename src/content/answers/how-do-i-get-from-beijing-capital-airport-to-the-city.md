@@ -1,6 +1,6 @@
 ---
 title: How Do I Get from Beijing Capital Airport to the City?
-question: How do I get from Beijing Capital Airport to the city centre?
+question: How do I get from Beijing Capital Airport to the city?
 navTitle: Capital Airport to the city
 metaTitle: "Getting from Beijing Capital Airport (PEK) to the City"
 description: The Capital Airport Express to Dongzhimen or Sanyuanqiao, or a metered taxi from the official rank. Both are straightforward once you know the interchanges.

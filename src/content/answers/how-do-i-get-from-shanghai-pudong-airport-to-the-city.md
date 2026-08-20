@@ -1,6 +1,6 @@
 ---
 title: How Do I Get from Shanghai Pudong Airport to the City?
-question: How do I get from Shanghai Pudong Airport to the city centre?
+question: How do I get from Shanghai Pudong Airport to the city?
 navTitle: Pudong to the city
 metaTitle: "Getting from Shanghai Pudong Airport to the City"
 description: Metro Line 2, the Maglev to Longyang Road, or a taxi. Pudong is far east of the centre, so the choice matters more than at most airports.

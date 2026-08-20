@@ -99,6 +99,8 @@ One condition decides whether a bulky purchase is worth claiming on at all: the 
 - **Large quantities of tea or single products** may attract questions on the way out and duty on the way in; check your home country's allowances.
 - **Counterfeit goods** are confiscated by customs in the EU, UK, US and Australia, and can carry fines.
 
+That list is about goods. Money is governed by its own rules and its own thresholds — [the renminbi and foreign-currency ceilings, and the declaration that keeps you the right side of them](/answers/how-much-cash-can-i-take-in-and-out-of-china/) — and they apply on the way in as well as the way out.
+
 ## Frequently asked questions
 
 ### How do you bargain in China?

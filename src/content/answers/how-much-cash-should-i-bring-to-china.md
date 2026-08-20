@@ -50,4 +50,6 @@ Notes run ¥1, 5, 10, 20, 50 and 100. The ¥100 is the workhorse and the one sma
 
 Counterfeit ¥100 notes still circulate and are most often passed to tourists in change. Feel for the raised ink on the collar of Mao's jacket, and tilt the note to see the denomination shift colour.
 
+There is a ceiling at the border as well as a sensible amount to carry, and the two are unrelated: banknotes crossing into or out of China are capped at ¥20,000 per person per crossing, with [a separate allowance for foreign currency above which paperwork starts](/answers/how-much-cash-can-i-take-in-and-out-of-china/). Nobody bringing a backup float goes near it; it matters if you exchange a large sum or carry notes home.
+
 The complete payment setup, including what to do when a QR payment fails, is in our [money and payments guide](/guides/money-and-payments-in-china/).

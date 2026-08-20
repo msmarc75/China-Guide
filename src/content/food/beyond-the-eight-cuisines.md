@@ -112,6 +112,8 @@ Seasonality is taken seriously alongside this. Asking what is good right now (**
 
 A useful thing to expect: regional cuisines localise. Sichuan food in Shanghai is sweeter and less numbing than in Chengdu. Cantonese food in Beijing is heavier. Lanzhou beef noodles outside Lanzhou are frequently a franchise product with little relation to the city's own shops.
 
+The Lanzhou case has a specific explanation, and it is not franchising in the ordinary sense: [most of those shops are run by Hui families from Qinghai](/food/chinese-noodles/) rather than by anyone from Lanzhou, trading under the city name because it is the one customers know.
+
 This is not adulteration so much as the normal behaviour of food moving. But it means the strongest single rule for eating well in China is geographic rather than gastronomic: eat what the place you are standing in is known for. The reason the [Chengdu](/destinations/chengdu/), [Xi'an](/destinations/xian/) and [Guangzhou](/destinations/guangzhou/) guides each have their own food sections is that those three cities are eating genuinely different food.
 
 ## Frequently asked questions

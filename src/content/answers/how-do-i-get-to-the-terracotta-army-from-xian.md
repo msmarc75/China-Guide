@@ -25,7 +25,7 @@ Board at the marked stand in the east square, not from anyone approaching you on
 
 ## Why the touts matter here more than elsewhere
 
-This is one of the few places in China where the scam is not a minor annoyance but a wasted day. People working the square sell cheap "Terracotta Army" tours that go somewhere else entirely — a replica exhibition, a jade or lacquer factory with a commission arrangement, or a lesser tomb site — and visitors do not always realise until they are standing in the wrong building.
+This is one of the few places in China where the scam is not a minor annoyance but a wasted day. People working the square sell cheap "Terracotta Army" tours that go somewhere else entirely — a replica exhibition, a jade or lacquer factory with a commission arrangement, or a lesser tomb site — and visitors do not always realise until they are standing in the wrong building. This is the version with no remedy afterwards: [a licensed agency running an unlawful shopping stop owes you a refund](/guides/tour-shopping-stops-in-china/), while a seller on the forecourt has no contract and no licence to lose.
 
 The defence is simple: **walk to the official bus stand and get on the green 306.** Do not buy a ticket from a person holding a clipboard, and do not follow anyone offering a minibus.
 

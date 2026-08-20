@@ -77,7 +77,7 @@ For the specific question everyone arrives with, see [do people bow in China?](/
 - Gifts are usually **not opened in front of the giver**.
 - **Good gifts:** something from your own country, quality tea, spirits, chocolates, small branded items.
 - **Avoid:** clocks (送钟 *sòng zhōng* sounds like attending a funeral), sharp objects like knives or scissors (severing a relationship), umbrellas (伞 *sǎn* sounds like "to separate"), pears (梨 *lí* sounds like "to leave"), white or black wrapping (funeral colours), and anything in a set of four (四 *sì* sounds like 死 *sǐ*, death).
-- **Red and gold** wrapping is auspicious. Eight is the luckiest number.
+- **Red and gold** wrapping is auspicious. Eight is the luckiest number, four the one to avoid — and [that preference is built into the buildings around you](/culture/chinese-lucky-numbers/), not just into gift-giving.
 - The full list, and [why almost every taboo is a pun](/answers/what-gifts-should-you-avoid-giving-in-china/), including the green hat and the shoes.
 
 On the perennial worry about clearing your plate, see [is it rude to leave food on your plate in China?](/answers/is-it-rude-to-leave-food-on-your-plate-in-china/)

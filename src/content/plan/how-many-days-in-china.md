@@ -112,7 +112,7 @@ At this length the question changes from "what can I fit" to "what do I want to 
 
 **Treating Chengdu as a panda stop.** The pandas are a morning. The city — teahouses, Sichuan food, the Wuhou and Qingyang temples, day trips to Leshan and Qingcheng — is the reason to stay.
 
-**Overnight trains as free time.** On non-high-speed routes a sleeper genuinely saves a night. But a 22:00–07:00 sleeper leaves you tired and unable to check in until 14:00, so it costs part of the next day.
+**Overnight trains as free time.** On non-high-speed routes a sleeper genuinely saves a night. But a 22:00–07:00 sleeper leaves you tired and unable to check in until 14:00, so it costs part of the next day. How tired depends on what you booked: in an open hard-sleeper bay the lower bunk is where everyone sits until bedtime, which is [the reason to pay less for an upper berth rather than more for a lower one](/guides/sleeper-trains-in-china/).
 
 **Ignoring queue time.** At the Terracotta Army in summer, security plus the shuttle plus the Pit 1 crowd is 90 minutes before you have seen anything.
 

@@ -36,7 +36,7 @@ Over five hours the arithmetic flips, and the long diagonal legs — Chengdu to 
 
 ## What tips a marginal case
 
-- **An overnight sleeper** turns a long rail leg into a night's accommodation, which is a real saving in both money and daylight. It is the argument for the train on some journeys well beyond five hours.
+- **An overnight sleeper** turns a long rail leg into a night's accommodation, which is a real saving in both money and daylight. It is the argument for the train on some journeys well beyond five hours — provided you book an actual berth, since [a sold-out sleeper quietly becomes a standing ticket](/guides/sleeper-trains-in-china/) rather than a refusal.
 - **Luggage.** Trains have no weight limit worth worrying about; budget airlines do.
 - **Weather.** Summer thunderstorms across eastern China cause cascading flight delays. Rail is barely affected — and a weather delay is the category where [the airline owes you nothing but help finding a room](/guides/flight-delays-in-china/), which is the hidden cost of choosing the flight.
 - **Booking window.** Rail tickets open on a fixed window and popular routes sell out; flights are usually available later, at a price.

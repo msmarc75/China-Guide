@@ -40,6 +40,6 @@ Chinese high-speed rail departs to the minute. The reliability is genuinely exce
 
 ## If you miss it
 
-Go to the ticket counter — 售票处 — with your passport. Depending on the fare type you may be able to change to a later service for a fee, or you may lose the fare. Popular routes can be sold out for the rest of the day.
+Go to the ticket counter — 售票处 — with your passport, and ask for a change rather than a refund. China Railway lets a missed ticket be moved to another train running the same day at no fee, up to 24:00, and the one condition is that it has to be done at the station you were leaving from. [The rules on missed trains, changes and refunds](/guides/missed-trains-and-refunds-in-china/) set out the deadline and the fee ladder if no seat is left. Go immediately either way: popular routes sell out for the rest of the day.
 
 Booking, classes and which routes beat flying are covered in our [transport guide](/guides/transport-in-china/).

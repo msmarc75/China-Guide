@@ -41,7 +41,8 @@ The practical consequence is simple: a habit that costs you a lighter at Beijing
 - **Check the suitcase too**, particularly if you have been travelling by rail and buying things at stations.
 - **Buy them on arrival.** Lighters are sold everywhere in China for a couple of yuan. There is nothing to be gained by transporting one.
 - **Do not hide it.** Concealment turns a mistake into something the police read as deliberate.
-- **Power banks are the other item to check** before a Chinese domestic flight, for an unrelated reason — [they need a Chinese certification mark that foreign-bought units often lack](/answers/can-i-bring-a-power-bank-to-china/).
+- **Power banks are the second item to check** before a Chinese domestic flight, for an unrelated reason — [they need a Chinese certification mark that foreign-bought units often lack](/answers/can-i-bring-a-power-bank-to-china/).
+- **Liquids are the third, and the least expected.** On a domestic leg they are barred from the cabin altogether apart from a short toiletries list — [a tighter rule than the international one, which is the opposite of what travellers assume](/answers/can-i-take-liquids-on-a-chinese-domestic-flight/).
 
 ## Does this apply to international flights?
 

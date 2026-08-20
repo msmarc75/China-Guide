@@ -34,7 +34,7 @@ Dianping is where the actual reviewing happens, at a scale nothing in English ap
 
 ## The three rules that need no app at all
 
-**Follow the queue.** A line of local people at 12:30 is the most reliable signal in China, and it costs nothing to join.
+**Follow the queue.** A line of local people at 12:30 is the most reliable signal in China, and it costs nothing to join. It measures a different thing from [the official hygiene grade on the wall](/food/restaurant-hygiene-ratings-in-china/), which rates premises and process rather than cooking — so the two can disagree without either being wrong.
 
 **Favour the specialist.** A shop that makes one thing — one noodle, one dumpling, one soup — will almost always beat a restaurant with a laminated forty-page menu. The long menu is a warning sign here in a way it is not everywhere.
 

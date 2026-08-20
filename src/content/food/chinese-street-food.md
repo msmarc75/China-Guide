@@ -126,7 +126,7 @@ Street food in China is generally safe, and the rules are the universal ones:
 - **Payment** is by Alipay or WeChat QR at essentially every stall, including carts. Some very small vendors use a personal-account code that foreign cards cannot pay; carry a little cash.
 - **Prices** are ¥5–20 for most items. A full street breakfast is ¥15.
 - **Seating** is often a plastic stool or none at all. Eating standing up in the street is normal.
-- **Hygiene certificates** — licensed stalls display a card with a photo and a rating. Not a guarantee, but a signal.
+- **Hygiene certificates** — licensed stalls display a card with a photo and a rating. Not a guarantee, but a signal. Sit-down premises post a fuller version: [a graded cartoon face whose expression is the whole message](/food/restaurant-hygiene-ratings-in-china/), readable without any Chinese.
 - **Timing** — breakfast stalls close by 10:00 and do not reopen. Night markets run roughly 18:00 to midnight.
 
 ## Frequently asked questions

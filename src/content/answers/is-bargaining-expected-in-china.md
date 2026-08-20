@@ -22,6 +22,8 @@ Tourist-facing markets are the main case — the silk and pearl markets in Beiji
 
 The tell is simple: **no price label means negotiation is expected.** A displayed price means it is not.
 
+And the label is not merely a shop's habit. Displaying the price is a legal duty in China, and [the marked price may not be exceeded or topped up with a fee that was not shown](/guides/marked-prices-in-china/) — which is worth knowing on the day a bill arrives bigger than the sign.
+
 ## Where it is not
 
 Supermarkets, convenience shops, department stores, branded outlets, pharmacies, bookshops, restaurants, cafés, ticket counters and anything with a till. Metered taxis and DiDi are fixed too. Trying to negotiate in these places produces polite confusion, not a discount.

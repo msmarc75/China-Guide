@@ -51,7 +51,7 @@ One thing to expect once you arrive: a Chinese emergency department sorts patien
 
 ## Other numbers worth having
 
-- **12315** — consumer complaints, including overcharging disputes
+- **12315** — consumer complaints, including overcharging disputes. It reaches the market regulator, the body that enforces [the rule that a marked price may not be exceeded](/guides/marked-prices-in-china/)
 - **12308** — the Chinese foreign ministry's consular protection line, for Chinese citizens abroad; your **own** embassy's emergency line is the equivalent for you, and is worth saving before you fly
 - **12367** — the National Immigration Administration's service platform, staffed around the clock in Chinese *and English*, for visa, permit and exit-entry questions
 - **Your embassy or consulate** — for a lost passport, an arrest, or a death. Save the number for the city you are in, not just the capital

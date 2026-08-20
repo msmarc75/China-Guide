@@ -33,7 +33,7 @@ A Chinese SIM puts you behind the national filter — no Google, no WhatsApp, no
 
 ## 4. Not booking timed-entry tickets
 
-The Forbidden City, the Shaanxi History Museum, the Shanghai Museum, the Mogao Caves and most national museums now use passport-linked timed entry with daily caps, released roughly seven days ahead. They sell out. **Turning up at the gate frequently does not work**, and there is no queue to join instead. The [Forbidden City booking rules](/answers/do-i-need-to-book-forbidden-city-tickets-in-advance/) and the [Mogao Caves' 30-day window](/answers/do-i-need-to-book-mogao-caves-tickets-in-advance/) are the two worth reading before you fix your dates.
+The Forbidden City, the Shaanxi History Museum, the Shanghai Museum, the Mogao Caves and most national museums now use passport-linked timed entry with daily caps, released roughly seven days ahead. They sell out. **Turning up at the gate frequently does not work**, and there is no queue to join instead — [the daily cap is a legal ceiling on the site, not a commercial one](/guides/chinese-scenic-areas/), which is why nobody at the barrier has discretion to use. The [Forbidden City booking rules](/answers/do-i-need-to-book-forbidden-city-tickets-in-advance/) and the [Mogao Caves' 30-day window](/answers/do-i-need-to-book-mogao-caves-tickets-in-advance/) are the two worth reading before you fix your dates.
 
 ## 5. Choosing Badaling for the Great Wall
 

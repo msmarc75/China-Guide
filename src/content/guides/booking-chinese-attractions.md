@@ -50,6 +50,8 @@ Which venues require booking is set city by city and changes. The durable rule i
 
 The most counterintuitive part of the Chinese system, and the one that catches visitors from countries where free means unticketed: **most state museums charge nothing and still issue a capped number of timed slots.**
 
+The cap and the payment are simply two different things. Admission is free; the number of people admitted is [a maximum the site is legally obliged to publish and forbidden to exceed](/guides/chinese-scenic-areas/), so the booking exists to allocate that ceiling rather than to take your money.
+
 The National Museum of China, the Shanghai Museum, provincial museums — free to enter, and among the best value in the country, which is why [the budget page](/plan/china-trip-cost-budget/) singles them out. Free also means heavily demanded. Popular morning slots at the busiest museums are reported to clear within minutes of release, particularly at weekends and in holiday periods.
 
 A free ticket you did not book is worth exactly as much as a paid one you did not book.

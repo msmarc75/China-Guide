@@ -70,6 +70,8 @@ A recurring pattern is worth stating once, plainly. Most Chinese accessibility c
 
 So budget for full-price entry everywhere, and treat any English-language page promising free admission for disabled visitors as describing a benefit you will be asked for a Chinese certificate to claim.
 
+The age concession works differently, and better: it rests on national law and on a date of birth your passport already proves, so [it is worth presenting the passport and asking](/answers/do-seniors-get-discounts-at-chinese-attractions/) rather than assuming the same closed door.
+
 ## Practical points that hold generally
 
 **Newer is better, without exception.** A 2020s metro line, a high-speed station, a five-star hotel and a new shopping centre will be level and lifted. A 1990s building, a hutong, a temple and a street market will not.

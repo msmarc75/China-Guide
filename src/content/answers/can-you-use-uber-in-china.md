@@ -43,7 +43,7 @@ Note that many Chinese airports and railway stations funnel ride-hailing cars in
 
 ## The alternatives
 
-- **Street taxis** are cheap — flag-fall ¥10–14, then roughly ¥2.5/km. Insist on the meter (打表, *dǎ biǎo*) and show your destination in Chinese characters.
+- **Street taxis** are cheap — flag-fall ¥10–14, then roughly ¥2.5/km. Insist on the meter (打表, *dǎ biǎo*) and show your destination in Chinese characters. Keep the fare receipt: [it is what makes an anonymous cab traceable if you leave something in it](/guides/taxis-in-china/).
 - **The metro** is faster than any car during rush hour in Beijing, Shanghai and Guangzhou, costs ¥3–10, and is signed in English in every city a visitor is likely to reach.
 - **Shared bikes** unlock by scanning a QR code with Alipay and cost ¥1.5–3 per half hour, which beats a car for anything under about 3 km.
 

@@ -59,7 +59,7 @@ These are concentrated in a small number of tourist locations and follow scripts
 
 **Massage shopfronts** are a separate problem rather than a scam: a share of premises trading under 按摩 (*ànmó*) signage are fronts for sex work, and the signs distinguishing them from a legitimate parlour are readable once you know them — [how to read a massage shopfront](/destinations/beijing/massage-and-spa/) sets them out. [Why the blind-masseur sign is the reliable one](/culture/massage-and-bodywork-in-china/) explains the licensing regime behind it.
 
-**Taxi meter refusal.** A driver quotes a flat fare instead of using the meter, usually at airports and train stations. Insist on the meter (打表 *dǎ biǎo*) or use DiDi, which prices in advance.
+**Taxi meter refusal.** A driver quotes a flat fare instead of using the meter, usually at airports and train stations. Insist on the meter (打表 *dǎ biǎo*) or use DiDi, which prices in advance. Negotiating the fare is itself prohibited rather than merely disadvantageous, and [the complaint line for it is 12328](/guides/taxis-in-china/).
 
 **Fake currency in change.** Mostly ¥100 notes handed back at markets or by taxi drivers. Check the raised ink and the colour-shifting numeral.
 

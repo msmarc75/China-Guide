@@ -32,7 +32,7 @@ It is not covered by an ordinary metro journey, and its last service is earlier 
 
 ## Taxi
 
-Follow the signs to the official rank outside arrivals and join the queue. Insist on the meter — a driver who proposes a fixed price is overcharging you.
+Follow the signs to the official rank outside arrivals and join the queue. Insist on the meter — a driver who proposes a fixed price is overcharging you, and [haggling over the fare is on the prohibited list rather than being a negotiation you can win](/guides/taxis-in-china/).
 
 Have your hotel's name and address **in Chinese characters** ready on your phone. Handing over an English name and address will not get you there; Chinese drivers navigate by characters and district.
 

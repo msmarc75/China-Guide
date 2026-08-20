@@ -151,6 +151,10 @@ Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mou
 
 Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate. For how far ahead the booking window opens and what to do when a train sells out, see [can I book Chinese train tickets in advance?](/answers/can-i-book-chinese-train-tickets-in-advance/) During *chunyun*, the forty-day travel surge around [Chinese New Year](/answers/when-is-chinese-new-year/), book on the day the window opens or not at all.
 
+### How much luggage can I take on a Chinese train?
+
+Twenty kilograms for an adult and ten for a child, with a single item limited to 130 cm for length plus width plus height on high-speed trains. There is no baggage hold and no check-in — every bag goes through the scanner with you and rides in the carriage, which is [the constraint that decides what suitcase to bring](/guides/luggage-and-left-luggage-in-china/).
+
 ### Do I need to print my Chinese train ticket?
 
 No. Chinese rail is fully paperless. You scan your passport at the station gate and at the platform. Older guidance about collecting a paper ticket at a window is out of date for foreign passport holders on the main network — [what the forty minutes at the station is actually for](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) covers the gate, the carriage markers and what happens if you miss it.

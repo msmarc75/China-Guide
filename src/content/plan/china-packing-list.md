@@ -98,6 +98,7 @@ Drone flight in China requires real-name registration of the aircraft, and large
 - **A lot of cash in USD** — exchanging is bureaucratic; use ATMs and Alipay
 - **Anything politically sensitive in print** — material on Tibetan independence, Taiwan independence, Falun Gong or religious proselytising literature can be confiscated at customs
 - **More than 1 kg of loose-leaf tea or excessive quantities of any single product**, which can attract customs attention on the way out
+- **A case you cannot lift over your head** — Chinese trains have no baggage hold, so it goes in the overhead rack yourself, and [the weight and size limits are real numbers](/guides/luggage-and-left-luggage-in-china/) even if they are loosely enforced
 
 ## The pre-departure phone setup
 

@@ -26,7 +26,7 @@ Do all of this at home. Verification occasionally needs a second attempt, and so
 
 Paying merchants works essentially everywhere: restaurants, convenience shops, market stalls, metro gates, taxis, vending machines. You either scan the merchant's QR code or show them yours.
 
-Alipay also carries mini-programs that replace separate apps — DiDi for taxis, metro passes for most large cities, and train and attraction bookings — many of which now have English versions inside the app.
+Alipay also carries mini-programs that replace separate apps — DiDi for taxis, metro passes for most large cities, and train and attraction bookings — many of which now have English versions inside the app. [What a mini-programme actually is, and how you find one](/guides/mini-programmes-in-china/) is worth five minutes before you travel, because it is the mechanism behind almost every booking in China.
 
 :::warn Where a foreign card still gets refused
 Some mini-programs and third-party merchants accept only Chinese-issued cards, and you will hit one occasionally. Transfers to other individuals are also restricted on foreign-card accounts. This is a limitation to plan around, not a reason to skip setup.

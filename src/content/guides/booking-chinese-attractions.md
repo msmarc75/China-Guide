@@ -60,7 +60,7 @@ A free ticket you did not book is worth exactly as much as a paid one you did no
 
 The pattern is consistent enough to learn once.
 
-**The channel is the venue's own.** Bookings run through a museum or site's official WeChat mini-programme or its own website, not through a general marketplace. Where a venue publishes a list of authorised channels, use one of them — the Dunhuang Academy, for instance, states that it has authorised no third-party sellers at all, which makes anything else you find a reseller at best.
+**The channel is the venue's own.** Bookings run through a museum or site's official WeChat mini-programme or its own website, not through a general marketplace. Where a venue publishes a list of authorised channels, use one of them — the Dunhuang Academy, for instance, states that it has authorised no third-party sellers at all, which makes anything else you find a reseller at best. If the phrase is unfamiliar, [a mini-programme is an app that runs inside WeChat or Alipay](/guides/mini-programmes-in-china/) rather than on your phone — and it is also where the real-name requirement below comes from, because the obligation sits on the platform rather than on the museum.
 
 **It is real-name throughout.** You enter the passport number of every visitor at the time of booking, and each person carries that same passport to the gate, where the physical document is checked against the booking. Not a photograph, not a photocopy, and not a friend's booking made in their name. This is the same regime that governs [theme parks and large events](/guides/theme-parks-in-china/), and it is worth internalising once rather than rediscovering at each gate.
 

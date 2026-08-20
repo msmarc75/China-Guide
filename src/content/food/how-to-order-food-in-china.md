@@ -38,7 +38,7 @@ In descending order of reliability:
 
 **Use the camera translator.** Pleco's OCR or Google Translate's camera mode reads a menu in real time. Neither is perfect with regional dish names — many are poetic rather than descriptive — but you will get the main ingredient.
 
-**Scan the QR menu.** Increasingly the default: a QR code on the table opens a mini-program inside WeChat or Alipay where you browse, order and pay. Some have an English toggle; most do not, but the translate function in your browser or a screenshot into a translation app works.
+**Scan the QR menu.** Increasingly the default: a QR code on the table opens a mini-program inside WeChat or Alipay where you browse, order and pay — [the same app-inside-an-app that runs Chinese ticketing and booking](/guides/mini-programmes-in-china/), which is why scanning rather than searching is the normal way in. Some have an English toggle; most do not, but the translate function in your browser or a screenshot into a translation app works.
 
 **Learn ten dish names.** Knowing that 面 is noodles, 饭 is rice, 汤 is soup, 牛肉 is beef, 猪肉 is pork, 鸡 is chicken, 鱼 is fish, 虾 is prawn, 豆腐 is tofu and 青菜 is green vegetables lets you read half of most menus.
 

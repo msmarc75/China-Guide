@@ -216,9 +216,20 @@ ${page.updated ? `<meta property="article:modified_time" content="${page.updated
 <link rel="stylesheet" href="/assets/styles.css?v=${BUILD_ASSET_VERSION}">
 ${page.hreflang || ''}
 ${page.schema || ''}
+<!-- Cloudflare Web Analytics is cookieless: Cloudflare's own engineering
+     write-up states "We don't use any client-side state (like cookies or
+     localStorage) for analytics purposes", and that it does not track users
+     over time via IP or User Agent either. That is why this beacon ships with
+     no consent banner, while the Google Analytics tag above would need one.
+
+     type="module" is REQUIRED here and is not decoration. Cloudflare adds it
+     automatically for dashboard-injected beacons; for a manually embedded one
+     the docs say you must add it yourself, and without it the script throws a
+     syntax error in old browsers. -->
 ${SITE.analyticsId ? `<script defer src="https://www.googletagmanager.com/gtag/js?id=${SITE.analyticsId}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${SITE.analyticsId}');</script>` : ''}
-${SITE.adsenseId ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseId}" crossorigin="anonymous"></script>` : ''}`;
+${SITE.adsenseId ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseId}" crossorigin="anonymous"></script>` : ''}
+${SITE.webAnalyticsToken ? `<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${SITE.webAnalyticsToken}"}'></script>` : ''}`;
 }
 
 function header(page) {

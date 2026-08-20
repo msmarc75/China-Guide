@@ -110,6 +110,8 @@ A sightseeing-heavy day in a major city costs **¥100–200** in tickets alone. 
 
 If anyone in your party is over 65, that arithmetic can change: national law obliges parks, museums and scenic areas to admit older visitors free or at a reduced rate, and [whether a foreign passport claims it](/answers/do-seniors-get-discounts-at-chinese-attractions/) turns on how the province worded its rule.
 
+Older visitors are not the only named category. National pricing policy lists minors, students, disabled people, religious personnel and several military groups alongside them, and [students in particular are usually in the half-price band rather than the free one](/answers/do-students-get-discounts-at-chinese-attractions/) — worth a line in the budget if you are travelling as one.
+
 :::tip Free is genuinely free
 Almost all state museums — the National Museum of China, Shanghai Museum, Shaanxi History Museum, provincial museums everywhere — are free to enter. They still require an advance timed booking with your passport number, and the good ones fill up days in advance. Book them; they are among the best value in the country.
 

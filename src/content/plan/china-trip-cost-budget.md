@@ -112,6 +112,8 @@ If anyone in your party is over 65, that arithmetic can change: national law obl
 
 :::tip Free is genuinely free
 Almost all state museums — the National Museum of China, Shanghai Museum, Shaanxi History Museum, provincial museums everywhere — are free to enter. They still require an advance timed booking with your passport number, and the good ones fill up days in advance. Book them; they are among the best value in the country.
+
+Most other Chinese sights dropped their reservation requirement in 2024, so [what still has to be booked is now a short and specific list](/guides/booking-chinese-attractions/) rather than everything.
 :::
 
 :::slot ad:mid-article

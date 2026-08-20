@@ -65,7 +65,7 @@ Items recovered by the railway are registered, kept and publicised under the rai
 Outside the railway there is no single national desk, and the route is the operator's own.
 
 - **Hotels** are the easiest case and the one most often forgotten. Ring the property directly rather than the booking site.
-- **Ride-hailing and taxis** are handled in the app you booked with, which has the driver and the trip. This is the strongest argument for [booking the car in an app rather than flagging one down](/guides/transport-in-china/): a metered street taxi you cannot identify leaves you with nothing to search.
+- **Ride-hailing and taxis** are handled in the app you booked with, which has the driver and the trip. This is the strongest argument for [booking the car in an app rather than flagging one down](/guides/transport-in-china/). A flagged-down street taxi is not hopeless either, provided you kept the fare receipt the driver is required to give you — [that, the taxi company and the 12328 hotline are the route](/guides/taxis-in-china/), and the driver is separately obliged to try to return what you left.
 - **Metros, museums and attractions** run their own lost-property desks. These are locally administered and the arrangements differ city by city, so ask at the station or the site rather than assuming a national procedure.
 
 Whatever the operator, the Civil Code duty above applies to whoever picked the thing up, which is the reason asking is worth the awkwardness.
@@ -94,7 +94,7 @@ One year from the date the lost-property notice is published, after which unclai
 
 ### What if my phone is left in a Chinese taxi?
 
-Go through the app you booked the ride in, which holds the driver and trip details. This is the practical reason to use ride-hailing rather than a flagged-down street taxi — an unidentifiable metered cab leaves you nothing to trace.
+Go through the app you booked the ride in, which holds the driver and trip details. For a flagged-down street taxi the equivalent is the fare receipt, which the driver is required to issue without being asked; with it you can reach the operator or the 12328 transport hotline. Without it an anonymous cab really is hard to trace.
 
 ### Is losing something the same as reporting a theft in China?
 

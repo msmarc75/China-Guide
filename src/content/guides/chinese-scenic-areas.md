@@ -30,6 +30,10 @@ Chinese scenic areas are graded on a five-level national scale, written as **A**
 
 You will see the grade on the entrance plaque, on the ticket, on road signage and in every Chinese-language listing. It is a real administrative designation, not a marketing badge a site awards itself.
 
+The standard behind it has a name and a date, both worth knowing because most English guidance predates them. It is **GB/T 17775-2024**, 旅游景区质量等级划分 (*lǚyóu jǐngqū zhìliàng děngjí huàfēn*, Division of Quality Grades for Tourist Attractions), published on 23 August 2024 and **in force since 1 March 2025**, with the Ministry of Culture and Tourism as the competent department. It replaced GB/T 17775-2003 outright — a standard whose title, 旅游区（点）质量等级的划分与评定 (*lǚyóuqū (diǎn) zhìliàng děngjí de huàfēn yǔ píngdìng*), covered both the division of grades *and* their assessment. The 2024 revision keeps the five grades from 5A down to 1A, and adds cultural integration and smart-tourism provision to what is assessed.
+
+One change matters for the rest of this page: visitor capacity management and advance booking are now written into the grading standard itself. The two numbers below are not independent of each other — how a site handles its legal ceiling is part of what earns it its A-grade.
+
 Many sites carry a **second** plaque as well, and it is easy to conflate them. The A-grade rates facilities and management; the other one records heritage status, and [it is the plaque that tells you whether what you are looking at is original](/culture/chinese-heritage-protection/). A 5A site can be a reconstruction, and a national-key relic can have almost no visitor facilities at all.
 
 What it tells a visitor is less about beauty than about **scale and infrastructure**. The grading assesses things like transport, visitor facilities, services, safety and management alongside the appeal of the site itself. So:

@@ -92,6 +92,8 @@ Visitors arriving with an idea of China as an ancient country are frequently thr
 
 This has a consequence worth understanding before you start visiting old towns. Surviving pre-modern building is concentrated, deliberately, in protected districts and designated heritage sites — and a great deal of what is presented as historic is reconstruction, sometimes on the original footprint and sometimes not. This is not a swindle and Chinese visitors are generally well aware of it; the expectation that a famous site will be an original structure is more a foreign assumption than a local one.
 
+The designation is a formal one with a plaque attached, and [learning to read that plaque is the quickest way to tell the two apart](/culture/chinese-heritage-protection/). It also explains why the reconstructions exist as a separate category: a relic that has been completely destroyed may not, as a rule, be rebuilt on its own site, so a full-scale "ancient" rebuild is generally standing outside the protection system rather than under it.
+
 The site's city guides say plainly where this applies, because it changes what a visit is for. [Kaifeng](/destinations/kaifeng/) is almost entirely reconstruction over a Song city buried metres underground, and [Wuhan](/destinations/wuhan/)'s Yellow Crane Tower is a 1980s concrete building a kilometre from where the historic tower stood. Both are worth going to; neither is what an unprepared visitor assumes.
 
 The corollary is that the genuinely old survivals — a Tang timber hall, a Song pagoda, an intact Ming street — are rarer and more remarkable than the volume of "ancient" signage suggests.

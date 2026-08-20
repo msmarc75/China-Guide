@@ -57,6 +57,8 @@ So: big, sparse, obviously load-bearing brackets suggest something early. Small,
 Only four timber buildings generally counted as Tang survive, all in Shanxi, and the dating of some is debated. The oldest is the main hall of **Nanchan Temple (南禅寺)**, dated 782 — seventy-five years earlier than the more famous east hall of **Foguang Temple (佛光寺)** of 857, which English sources sometimes wrongly call the oldest.
 
 Everything else is later, rebuilt, or reconstructed, often several times. That is not a scandal; timber burns and China is large and old. But it means a "Tang temple" is almost always a Tang foundation with much later buildings on it. The [economy pillar](/culture/chinese-economy-for-visitors/) covers why so much of what looks historic is recent, and the [Kaifeng](/destinations/kaifeng/) and [Wuhan](/destinations/wuhan/) guides say so about specific famous sites.
+
+The eye test above is not the only one available. Protected sites carry a plaque stating their grade and the year they were listed, and [reading it takes ten seconds and settles what the brackets can only suggest](/culture/chinese-heritage-protection/).
 :::
 
 ## Why everything is arranged the way it is

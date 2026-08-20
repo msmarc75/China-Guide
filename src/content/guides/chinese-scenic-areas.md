@@ -30,6 +30,8 @@ Chinese scenic areas are graded on a five-level national scale, written as **A**
 
 You will see the grade on the entrance plaque, on the ticket, on road signage and in every Chinese-language listing. It is a real administrative designation, not a marketing badge a site awards itself.
 
+Many sites carry a **second** plaque as well, and it is easy to conflate them. The A-grade rates facilities and management; the other one records heritage status, and [it is the plaque that tells you whether what you are looking at is original](/culture/chinese-heritage-protection/). A 5A site can be a reconstruction, and a national-key relic can have almost no visitor facilities at all.
+
 What it tells a visitor is less about beauty than about **scale and infrastructure**. The grading assesses things like transport, visitor facilities, services, safety and management alongside the appeal of the site itself. So:
 
 - **5A** means the full apparatus: large car parks, shuttle buses, boardwalks, signage in English, staff, and the crowds that justify all of it. It is a reliable predictor that the place is well organised and heavily visited.

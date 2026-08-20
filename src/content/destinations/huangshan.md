@@ -38,6 +38,8 @@ Three cable cars serve the mountain: **Yungu** (east, to the White Goose Ridge),
 
 **Walking up** takes about three hours by the eastern steps from Yungu or four hours by the western route — thousands of stone steps, well maintained, and genuinely hard on the knees. Everything on the mountain, including your bags if you pay for a porter, goes up by human labour on shoulder poles.
 
+Staircases rather than trails are the norm on Chinese mountains, and they change what to bring and what the day costs you physically — [why poles beat boots here, and where the marked area legally ends](/guides/hiking-in-china/).
+
 ### The main routes on top
 
 The summit area is a network of paved paths connecting viewpoints:

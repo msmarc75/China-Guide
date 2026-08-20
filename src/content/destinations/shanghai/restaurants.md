@@ -2,7 +2,7 @@
 title: Where to Eat in Shanghai
 navTitle: Restaurants
 metaTitle: "Where to Eat in Shanghai: 9 Old-Guard Restaurants With Addresses"
-description: Nine 老字号 Shanghai institutions with Chinese names, addresses in Chinese characters and nearest metro — xiaolongbao, benbang cuisine, hairy crab and white-cut chicken.
+description: Nine 老字号 Shanghai institutions with Chinese names, addresses in characters and nearest metro — xiaolongbao, benbang cuisine, hairy crab, white-cut chicken.
 standfirst: Nine institutions, most of them state-recognised 老字号, several trading since the Qing. Each carries its Chinese name, its address in Chinese characters and the nearest metro — the details that get you through the door rather than past it.
 eyebrow: Shanghai
 order: 2

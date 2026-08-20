@@ -2,7 +2,7 @@
 title: Quanzhou Travel Guide
 navTitle: Quanzhou
 metaTitle: "Quanzhou Travel Guide: China's Forgotten UNESCO Port City"
-description: A guide to Quanzhou — the Song-dynasty maritime Silk Road port, UNESCO-listed in 2021, with the world's only surviving Manichaean statue and almost no foreign visitors.
+description: A guide to Quanzhou — the Song maritime Silk Road port, UNESCO-listed in 2021, with the world's only surviving Manichaean statue and few foreign visitors.
 standfirst: Marco Polo called it one of the greatest ports in the world. UNESCO listed it in 2021. Almost no English-speaking travellers go. Quanzhou is the most under-visited major heritage city in China.
 eyebrow: Destination
 place: Quanzhou

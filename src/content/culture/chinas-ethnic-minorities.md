@@ -2,7 +2,7 @@
 title: China's Ethnic Minorities
 navTitle: Ethnic Minorities
 metaTitle: "China's Ethnic Minorities: A Traveller's Guide"
-description: Who the 55 recognised minority nationalities are, where the classification came from, where you actually encounter minority regions, and how to visit without treating people as scenery.
+description: Who China's 55 recognised minority nationalities are, where the classification came from, and how to visit minority regions without treating people as scenery.
 standfirst: China recognises 56 nationalities, a number settled only in 1979 after the 1953 census returned more than four hundred names. Knowing how that list was made explains a great deal about what you will see.
 eyebrow: Culture
 order: 10

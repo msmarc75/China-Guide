@@ -2,7 +2,7 @@
 title: How Much Food Should I Order in a Chinese Restaurant?
 question: How much food should I order in a Chinese restaurant?
 navTitle: How much to order
-metaTitle: "How Much Food Should I Order in a Chinese Restaurant? One Dish Each, Plus One"
+metaTitle: "How Much Food Should I Order in China? One Dish Each, Plus One"
 description: One dish per person plus one extra, shared in the middle, with rice ordered separately by the bowl. Portions assume a table, not an individual.
 standfirst: **One dish per person plus one extra**, shared from the middle of the table, with rice ordered separately by the bowl. The mistake foreign diners make is ordering as though each dish were their own main course, which is how four people end up with enough food for ten.
 eyebrow: Answer

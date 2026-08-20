@@ -2,7 +2,7 @@
 title: How Do I Get to Quanzhou?
 question: How do I get to Quanzhou?
 navTitle: Getting to Quanzhou
-metaTitle: "How Do I Get to Quanzhou? High-Speed Rail from Xiamen, Under an Hour"
+metaTitle: "How Do I Get to Quanzhou? High-Speed Rail from Xiamen"
 description: By high-speed rail from Xiamen or Fuzhou, under an hour from either. Quanzhou has three stations — Quanzhou station is the one nearest the old town.
 standfirst: By **high-speed rail from Xiamen or Fuzhou**, under an hour from either, with Xiamen's airport the usual international way in. The catch is that Quanzhou has **three stations in three different places**, and the one called simply "Quanzhou" is the one nearest the UNESCO old town.
 eyebrow: Answer

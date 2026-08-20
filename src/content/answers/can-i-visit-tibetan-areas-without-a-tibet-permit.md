@@ -2,7 +2,7 @@
 title: Can I Visit Tibetan Areas Without a Tibet Permit?
 question: Can I visit Tibetan areas without a Tibet permit?
 navTitle: Tibetan areas without a permit
-metaTitle: "Can I Visit Tibetan Areas Without a Tibet Permit? Yes — Outside the TAR"
+metaTitle: "Can I Visit Tibetan Areas Without a Permit? Yes, Outside the TAR"
 description: Yes. The permit applies only to the Tibet Autonomous Region. Large Tibetan areas in Qinghai, western Sichuan and northwest Yunnan need no permit or tour.
 standfirst: Yes. The Tibet Travel Permit applies only to the **Tibet Autonomous Region** — and substantial Tibetan areas lie outside it, in Qinghai, western Sichuan and northwest Yunnan, where you can travel independently with no permit, no agency and no guide.
 eyebrow: Answer

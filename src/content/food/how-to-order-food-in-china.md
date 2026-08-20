@@ -1,7 +1,7 @@
 ---
 title: How to Order Food in China
 navTitle: How to order
-metaTitle: "How to Order Food in China Without Speaking Chinese"
+metaTitle: "How to Order Food in China: Menus, Portions and Paying"
 description: A practical guide to eating out in China — reading menus, ordering without Chinese, portion sizes, paying, and the mistakes foreign visitors make.
 standfirst: The mechanics of a Chinese restaurant are different enough that the first meal is often stressful. It stops being stressful once you know five things.
 eyebrow: Food

@@ -1,8 +1,8 @@
 ---
 title: Jianshui Travel Guide
 navTitle: Jianshui
-metaTitle: "Jianshui Travel Guide: China's Third-Largest Confucian Temple, in Rural Yunnan"
-description: A guide to Jianshui in southern Yunnan — the country's third-largest Confucian temple, Qing merchant mansions built on tin money, and a metre-gauge train to Tuanshan village.
+metaTitle: "Jianshui Travel Guide: China's Third-Largest Confucian Temple"
+description: A guide to Jianshui in southern Yunnan — China's third-largest Confucian temple, Qing mansions built on tin money, and a metre-gauge train to Tuanshan.
 standfirst: A frontier county 2,000 kilometres from Confucius's birthplace holds the third-largest Confucian temple in China. Jianshui took education more seriously than almost anywhere in the empire, and the buildings are still standing to prove it.
 eyebrow: Destination
 place: Jianshui

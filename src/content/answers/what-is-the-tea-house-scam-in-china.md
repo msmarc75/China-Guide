@@ -3,7 +3,7 @@ title: What Is the Tea House Scam in China?
 question: What is the tea house scam in China?
 navTitle: The tea house scam
 metaTitle: "What Is the Tea House Scam in China? How It Works"
-description: Friendly English-speaking strangers invite you to a tea ceremony near a major sight, then present a bill of thousands of yuan and make leaving difficult. Never follow a stranger to a venue they choose.
+description: Friendly English-speaking strangers invite you to a tea ceremony near a major sight, then present a bill of thousands of yuan and make leaving difficult.
 standfirst: Friendly, fluent English-speaking strangers invite you to a traditional tea ceremony near a major tourist site. The tea is real, the bill is several thousand yuan, and leaving before paying is made difficult. It is the most common serious scam foreign visitors meet in China.
 eyebrow: Answer
 order: 94

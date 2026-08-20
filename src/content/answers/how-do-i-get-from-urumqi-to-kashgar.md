@@ -2,7 +2,7 @@
 title: How Do I Get from Urumqi to Kashgar?
 question: How do I get from Urumqi to Kashgar?
 navTitle: Urumqi to Kashgar
-metaTitle: "How Do I Get from Urumqi to Kashgar? Fly in 2 Hours or Take the Overnight"
+metaTitle: "How Do I Get from Urumqi to Kashgar? Fly, or Take the Overnight"
 description: Fly in about two hours, or take the overnight sleeper across the Tarim basin — the fastest train runs 20:40 to 08:10. Slower services take 16 to 20 hours.
 standfirst: **Fly in about two hours**, or take a train across the southern edge of the Tarim basin. The fastest service is a direct overnight sleeper leaving Urumqi at 20:40 and arriving at 08:10; most of the other trains on the route take between sixteen and twenty hours.
 eyebrow: Answer

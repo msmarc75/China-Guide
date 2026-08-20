@@ -2,7 +2,7 @@
 title: Chinese Art and Architecture
 navTitle: Art & Architecture
 metaTitle: "Chinese Art and Architecture: How to Read What You're Seeing"
-description: How to read a Chinese timber building, count the roof beasts, date a bracket set, understand a classical garden, and look at a scroll painting or calligraphy without reading Chinese.
+description: How to read a Chinese timber building, count the roof beasts, date a bracket set, and look at a scroll painting or calligraphy without reading Chinese.
 standfirst: Chinese buildings encode rank, and Chinese painting rewards a different kind of looking than European painting does. Four or five things to check will change what you notice for the rest of your trip.
 eyebrow: Culture
 order: 9

@@ -1,8 +1,8 @@
 ---
 title: Xiamen Travel Guide
 navTitle: Xiamen
-metaTitle: "Xiamen Travel Guide: Getting the Gulangyu Ferry and Campus Booking Right"
-description: A guide to Xiamen — the UNESCO-listed island of Gulangyu and which pier you actually sail from, Nanputuo Temple, booking Xiamen University, and the rail hop to Quanzhou.
+metaTitle: "Xiamen Travel Guide: Getting the Gulangyu Ferry Right"
+description: A guide to Xiamen — UNESCO-listed Gulangyu and which pier you actually sail from, Nanputuo Temple, booking Xiamen University, and the rail hop to Quanzhou.
 standfirst: Xiamen is the easiest city in Fujian to enjoy and one of the easiest to get logistically wrong. Two things catch visitors out before they see anything: the ferry pier and the university booking window.
 eyebrow: Destination
 place: Xiamen

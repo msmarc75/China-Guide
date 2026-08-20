@@ -3,7 +3,7 @@ title: Can Foreigners Travel to Xinjiang?
 question: Can foreigners travel to Xinjiang?
 navTitle: Travelling to Xinjiang
 metaTitle: "Can Foreigners Travel to Xinjiang? No Permit Needed"
-description: Yes, independently and without a permit on the main routes. Expect frequent passport checks, security screening, a limited list of hotels licensed to take foreigners, and short-notice closures.
+description: Yes, independently and without a permit on the main routes. Expect frequent passport checks, few hotels licensed for foreigners, and short-notice closures.
 standfirst: Yes. No special permit is needed for the main routes and independent travel is entirely possible — this is not Tibet. What differs is the density of security: repeated passport checks, screening at markets and stations, a restricted list of hotels that may take foreign guests, and areas that can close at short notice.
 eyebrow: Answer
 order: 95

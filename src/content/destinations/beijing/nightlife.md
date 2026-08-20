@@ -2,7 +2,7 @@
 title: Beijing Nightlife
 navTitle: Nightlife
 metaTitle: "Beijing Nightlife: Where to Go Out, by Area"
-description: The five durable Beijing going-out districts with Chinese names, street boundaries and metro stops — Sanlitun, Shichahai, Nanluoguxiang, Wudaoying and Fangjia Hutong.
+description: Five durable Beijing going-out districts with Chinese names, street boundaries and metro stops — Sanlitun, Shichahai, Nanluoguxiang, Wudaoying, Fangjia.
 standfirst: Beijing bars open and close constantly, so this page lists the districts rather than the bars. Each area has its Chinese name, its street boundaries and the metro that serves it — pick the neighbourhood, then pick a door once you are standing in it.
 eyebrow: Beijing
 order: 3

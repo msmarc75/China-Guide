@@ -2,8 +2,8 @@
 title: What Do the Small Animals on Chinese Roofs Mean?
 question: What do the small animals on Chinese roofs mean?
 navTitle: Roof animals
-metaTitle: "What Do the Small Animals on Chinese Roofs Mean? They Rank the Building"
-description: They are ridge beasts, and the number tells you the building's rank. The count is always odd — except at the Hall of Supreme Harmony, the only roof in China with ten.
+metaTitle: "What Do the Animals on Chinese Roofs Mean? They Rank the Building"
+description: They are ridge beasts, and the number tells you the building's rank. The count is always odd — except the Hall of Supreme Harmony, the only roof with ten.
 standfirst: They are **ridge beasts** (脊兽, *jǐshòu*), and the number of them tells you how important the building is. The count is always odd — three, five, seven, nine — with a single exception in the whole country: the Hall of Supreme Harmony in the Forbidden City, which has **ten**.
 eyebrow: Answer
 order: 78

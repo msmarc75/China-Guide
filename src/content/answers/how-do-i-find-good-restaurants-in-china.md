@@ -2,7 +2,7 @@
 title: How Do I Find Good Restaurants in China?
 question: How do I find good restaurants in China?
 navTitle: Finding good restaurants
-metaTitle: "How Do I Find Good Restaurants in China? Use Dianping, Not Reviews in English"
+metaTitle: "How Do I Find Good Restaurants in China? Use Dianping"
 description: Use Dianping, the Chinese review app — it is photo-driven and works without Chinese. Then favour places that specialise in one dish and follow local queues.
 standfirst: Use **Dianping** (大众点评, *Dàzhòng Diǎnpíng*), the Chinese restaurant review app. It is photo-driven and navigable without Chinese, its ratings reflect millions of local diners rather than a handful of visitors, and it will find the good places on a street where the English-language internet has nothing at all.
 eyebrow: Answer

@@ -3,7 +3,7 @@ title: What Is an Octopus Card in Hong Kong?
 question: What is an Octopus card in Hong Kong?
 navTitle: Octopus card
 metaTitle: "What Is an Octopus Card? Hong Kong Transport & Payment"
-description: Hong Kong's stored-value card for the MTR, buses, trams, ferries and shops. The tourist version costs HK$39 with no deposit; the standard on-loan card takes a HK$50 deposit.
+description: Hong Kong's stored-value card for the MTR, buses, trams, ferries and shops. The tourist version costs HK$39; the standard on-loan card takes a HK$50 deposit.
 standfirst: A stored-value card that pays for the MTR, buses, trams, ferries and a great deal of everyday shopping in Hong Kong. There are two versions a visitor can buy, they cost very different amounts, and the one most guides describe is not the one most visitors should get.
 eyebrow: Answer
 order: 89

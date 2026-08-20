@@ -1,8 +1,8 @@
 ---
 title: How China Actually Works
 navTitle: How China Works
-metaTitle: "How China Actually Works: A Traveller's Guide to the Chinese State"
-description: Why your hotel registers you with the police, what a neighbourhood committee is, why there are bag scanners everywhere, and why some things in China are frictionless and others impossible.
+metaTitle: "How China Actually Works: A Traveller's Guide to the State"
+description: Why your hotel registers you with the police, what a neighbourhood committee is, and why some things in China are frictionless and others immovable.
 standfirst: Visitors to China spend a fortnight bumping into a system nobody has explained to them — registrations, ID checks, scanners, and the odd combination of astonishing efficiency and total immovability. None of it is mysterious once you know the shape of it.
 eyebrow: Culture
 order: 7

@@ -1,8 +1,8 @@
 ---
 title: Chinese Literature and Film for Travellers
 navTitle: Literature & Film
-metaTitle: "Chinese Literature and Film for Travellers: What to Read and Where It's Set"
-description: What to read or watch before a trip to China, which translations are actually good, which famous books are hard going, and where on the ground the places in them are.
+metaTitle: "Chinese Literature and Film: What to Read and Where It's Set"
+description: What to read or watch before a trip to China, which translations are actually good, which famous books are hard going, and where those places are.
 standfirst: Most reading lists for China are compiled out of reverence and are close to useless for a traveller. This one says which books are a pleasure and which are duty, and maps the good ones to places you can stand in.
 eyebrow: Culture
 order: 11

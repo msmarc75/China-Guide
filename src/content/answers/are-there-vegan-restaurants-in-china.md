@@ -3,7 +3,7 @@ title: Are There Vegan Restaurants in China?
 question: Are there vegan restaurants in China?
 navTitle: Vegan restaurants in China
 metaTitle: "Are There Vegan Restaurants in China? Yes — Look for Sùshí"
-description: Yes. Buddhist vegetarian restaurants near temples are strictly plant-based and often excellent, and the big cities have modern vegan places. Search sùshí on Dianping.
+description: Yes. Buddhist vegetarian restaurants near temples are strictly plant-based, and the big cities have modern vegan places. Search sùshí on Dianping.
 standfirst: Yes, and the most reliable ones are the oldest. **Buddhist vegetarian restaurants** — 素食 (*sùshí*) or 素菜馆 (*sùcàiguǎn*) — are strictly plant-based by doctrine rather than by preference, which makes them safer than asking a general restaurant to adapt a dish.
 eyebrow: Answer
 order: 73

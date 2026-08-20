@@ -2,7 +2,7 @@
 title: How Do I Order Hotpot if I Can't Handle Spice?
 question: How do I order hotpot if I can't handle spice?
 navTitle: Hotpot without the heat
-metaTitle: "How Do I Order Hotpot if I Can't Handle Spice? Ask for the Split Pot"
+metaTitle: "How Do I Order Hotpot if I Can't Take Spice? Ask for a Split Pot"
 description: Ask for the yuanyang split pot — spicy on one side, clear broth on the other. Plenty of Chinese diners order it too, and you can dial the heat down further.
 standfirst: Ask for the **鸳鸯锅** (*yuānyāng guō*), the split pot — a divider down the middle with the chilli broth on one side and a clear, tomato or mushroom broth on the other. It is not a concession made for foreigners; plenty of Chinese diners order it, and there are three further dials you can turn.
 eyebrow: Answer

@@ -2,7 +2,7 @@
 title: How Do I Get from Zhengzhou to Kaifeng?
 question: How do I get from Zhengzhou to Kaifeng?
 navTitle: Zhengzhou to Kaifeng
-metaTitle: "How Do I Get from Zhengzhou to Kaifeng? 25 Minutes by Intercity Rail"
+metaTitle: "How Do I Get from Zhengzhou to Kaifeng? 25 Minutes by Rail"
 description: Take the Zhengzhou–Kaifeng intercity railway from Zhengzhou East — about 25 minutes at its fastest, and since March 2025 it runs into Kaifeng station itself.
 standfirst: Take the **Zhengzhou–Kaifeng intercity railway** from Zhengzhou East. It covers 57 km in about **twenty-five minutes** on the fastest services, and since the full line opened in March 2025 it runs into Kaifeng station in the city centre rather than stopping short of it.
 eyebrow: Answer

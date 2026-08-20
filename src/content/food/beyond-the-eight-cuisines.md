@@ -1,8 +1,8 @@
 ---
 title: Chinese Food Beyond the Eight Cuisines
 navTitle: Beyond the Eight Cuisines
-metaTitle: "Chinese Food Beyond the Eight Cuisines: The Map That Actually Works"
-description: Where the eight great cuisines came from, why the wheat–rice line predicts your dinner better, what each tradition is really built on, and how to order in a cuisine you don't know.
+metaTitle: "Chinese Food Beyond the Eight Cuisines: A Better Map"
+description: Where the eight great cuisines came from, why the wheat–rice line predicts your dinner better, and how to order in a cuisine you don't know.
 standfirst: The eight great cuisines are a useful shorthand and a poor map. They are also far younger than almost anyone assumes — the phrase first reached print in 1980. Here is what actually predicts what you will be eating.
 eyebrow: Food
 order: 7

@@ -22,6 +22,14 @@ export const SITE = {
   contactEmail: 'hello@chinatripcompass.com',
   // Set to a real ID to activate; left empty the tags are simply not emitted.
   analyticsId: process.env.ANALYTICS_ID || '',
+  // Cloudflare Web Analytics site token, from the dashboard under
+  // Analytics & Logs > Web Analytics > Manage site. Cookieless, so it needs no
+  // consent banner — see the note above the beacon in lib/templates.mjs.
+  //
+  // Set this OR enable automatic injection in the Cloudflare dashboard, never
+  // both: Cloudflare's docs are explicit that "only one JS snippet can be
+  // rendered and used per page".
+  webAnalyticsToken: process.env.CF_BEACON_TOKEN || '',
   adsenseId: process.env.ADSENSE_ID || '',
 };
 

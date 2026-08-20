@@ -161,6 +161,24 @@ for (const required of ['sitemap.xml', 'robots.txt', 'feed.xml', 'search-index.j
 //
 // A preconnect is a promise about a request that follows. If the request is
 // gone the promise has to go with it, and nothing was checking.
+// At most one analytics beacon per page.
+//
+// Cloudflare's docs are explicit: "only one JS snippet can be rendered and
+// used per page". Enabling automatic injection in the dashboard AND setting
+// CF_BEACON_TOKEN would produce two, and the second is not merely redundant —
+// it is unsupported. This catches the overlap that a dashboard toggle and an
+// environment variable can otherwise create silently, since only one of the
+// two is visible in this repository.
+for (const file of htmlFiles) {
+  const html = fs.readFileSync(file, 'utf8');
+  const url = `/${path.relative(DIST, file).replace(/\\/g, '/').replace(/index\.html$/, '')}`;
+  const beacons = (html.match(/static\.cloudflareinsights\.com\/beacon\.min\.js/g) || []).length;
+  if (beacons > 1) errors.push(`${url} — ${beacons} Cloudflare beacons; only one per page is supported`);
+  if (beacons === 1 && !/<script type="module"[^>]+cloudflareinsights/.test(html)) {
+    errors.push(`${url} — Cloudflare beacon is missing type="module", which the manual embed requires`);
+  }
+}
+
 const HINT_TAG = /<link[^>]+rel="(?:preconnect|dns-prefetch)"[^>]*>/g;
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');

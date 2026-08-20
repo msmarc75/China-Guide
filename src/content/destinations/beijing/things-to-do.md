@@ -51,6 +51,8 @@ Beijing punishes zig-zagging. These cluster naturally into days.
 
 :::warn The Forbidden City needs booking ahead, with your passport
 Tickets are sold online in advance and the daily allocation genuinely sells out in peak season. Your passport number is tied to the booking and the passport itself is checked at the gate. This is the single most common way visitors lose a day in Beijing.
+
+A step-free route runs the length of the central axis, though the courtyards off it are reached by the steps and raised thresholds the palace was built with — [how far that route actually gets you](/guides/accessible-travel-in-china/).
 :::
 
 :::warn Tiananmen Square needs booking too, and this catches people

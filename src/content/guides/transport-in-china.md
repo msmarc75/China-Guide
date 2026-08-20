@@ -98,6 +98,7 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 - **Pay** by opening the transport QR code inside Alipay (*Transport* → select city) and scanning at the gate on entry and exit. This works in almost every major city and needs no local card.
 - **Security screening** on entry: bags go through a scanner. Allow an extra two minutes at rush hour. It applies to [every metro system in the country](/answers/do-i-need-to-go-through-security-on-the-chinese-metro/), not just the capital.
 - **Rush hours** (07:30–09:30, 17:30–19:30) in Beijing, Shanghai and Guangzhou are genuinely crowded.
+- **Step-free access** varies by the age of the line. Beijing finished upgrading its whole network in 2022, but older stations use staff-operated lift platforms rather than passenger lifts — [what that means in practice, and why the street outside is the harder part](/guides/accessible-travel-in-china/).
 
 ### Taxis and DiDi
 

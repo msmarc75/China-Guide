@@ -41,6 +41,6 @@ Fastest journey time from Zhengzhou East is **about twenty-five minutes**. Servi
 
 Zhengzhou is the transport hub and has the range of hotels, so most people sleep there and come out for the day. That is a reasonable default. But Kaifeng is the more interesting place to be after dark, and the rail link is good enough that basing yourself in Kaifeng and commuting into Zhengzhou for onward trains costs you almost nothing.
 
-Kaifeng also pairs naturally with **Luoyang** — the Longmen Grottoes and the Shaolin Temple are on the other side of Zhengzhou — which turns Henan into a three- or four-day block rather than a stopover between Xi'an and the east coast.
+Kaifeng also pairs naturally with **Luoyang** — the Longmen Grottoes and the Shaolin Temple are on the other side of Zhengzhou — which turns Henan into a three- or four-day block rather than a stopover between Xi'an and the east coast. [What Luoyang holds and how long it needs](/destinations/luoyang/) makes the case for one night there against two.
 
 For what to see in the city and how the Northern Song capital fits into Chinese history, see the [Kaifeng travel guide](/destinations/kaifeng/); for booking Chinese rail tickets as a foreign passport holder, the [guide to transport in China](/guides/transport-in-china/).

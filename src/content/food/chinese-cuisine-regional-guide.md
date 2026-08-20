@@ -95,7 +95,7 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 
 ## The traditions the list leaves out
 
-**Northeastern (东北菜)** — hearty, generous, Russian-influenced. Guobaorou, di san xian, suancai stew, enormous dumplings.
+**Northeastern (东北菜)** — hearty, generous, Russian-influenced. Guobaorou, di san xian, suancai stew, enormous dumplings. It is also where [charcoal barbecue was pushed furthest as a format](/food/chinese-barbecue/), Jinzhou above all, on the principle that anything at all can go on a stick.
 
 **Xinjiang / Uyghur** — Central Asian: lamb kebabs, *laghman* hand-pulled noodles, *polo* pilaf, tandoor-baked nan. One of the most distinctive food cultures in China and completely unlike Han cuisine. See [Xinjiang](/destinations/xinjiang-kashgar/).
 

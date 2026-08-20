@@ -75,6 +75,8 @@ These are concentrated in a small number of tourist locations and follow scripts
 
 Pickpocketing exists in crowded markets, on packed buses and at major tourist sites, particularly in Guangzhou, Shenzhen and around Beijing West railway station. Standard precautions are sufficient: front pockets, a zipped bag worn in front in crowds, no phone in a back pocket. Bag-snatching from scooters is rare but not unknown in southern cities.
 
+Prevention is the easy half. [What to do once something has actually gone](/guides/theft-and-lost-passport-in-china/) — the report your insurer will demand, and the order to approach the police and your embassy in if the passport went with it — is the half worth reading before you need it.
+
 Violent crime, mugging and armed robbery against tourists are genuinely uncommon.
 
 :::slot partner:insurance

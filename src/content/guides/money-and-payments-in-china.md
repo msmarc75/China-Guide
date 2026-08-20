@@ -147,7 +147,7 @@ Bring ¥500–1,000 as a backup for rural buses, donation boxes, cash-only windo
 
 ### Can I use my credit card in China?
 
-Only at international hotel chains, airports, department stores and upmarket restaurants. Elsewhere, QR-code payment through Alipay or WeChat Pay is the practical answer. Hong Kong is the exception, where contactless cards work everywhere. [The fuller answer](/answers/can-i-use-my-credit-card-in-china/), and separately [whether your debit card will work at an ATM](/answers/will-my-debit-card-work-at-chinese-atms/).
+Only at international hotel chains, airports, department stores and upmarket restaurants. Elsewhere, QR-code payment through Alipay or WeChat Pay is the practical answer. Hong Kong is the exception, where contactless cards work everywhere. [Why linking the card inside Alipay beats carrying it](/answers/can-i-use-my-credit-card-in-china/), and separately [whether your debit card will work at an ATM](/answers/will-my-debit-card-work-at-chinese-atms/).
 
 ### What is the currency in China?
 

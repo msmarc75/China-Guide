@@ -130,7 +130,7 @@ Order by cooking method rather than by ingredient. Choose one stir-fried or flas
 
 ### What is the difference between Sichuan and Hunan spice?
 
-Sichuan combines chilli heat with the numbing tingle of the Sichuan peppercorn — 麻辣, numbing-spicy. Hunan heat is drier and more direct, chilli without the numbing element, often with fermented and pickled notes. [The fuller answer](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/) covers which is actually hotter and how to order around either.
+Sichuan combines chilli heat with the numbing tingle of the Sichuan peppercorn — 麻辣, numbing-spicy. Hunan heat is drier and more direct, chilli without the numbing element, often with fermented and pickled notes. [Which of the two is actually hotter](/answers/what-is-the-difference-between-sichuan-and-hunan-spice/) settles it on capsaicin rather than reputation, and covers how to order around either.
 
 ### Is Cantonese food bland?
 

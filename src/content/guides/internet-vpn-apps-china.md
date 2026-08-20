@@ -120,7 +120,7 @@ High-speed trains have Wi-Fi on many services, of variable quality; mobile data 
 
 ### Do I need a VPN in China?
 
-Only if you are using a Chinese SIM card or hotel Wi-Fi and want to reach Google, WhatsApp, Instagram or Western news sites. If you roam on your home SIM or a foreign travel eSIM, your traffic usually routes through your home carrier and reaches everything without a VPN. Install one anyway as a backup — before you arrive. [The fuller answer](/answers/do-i-need-a-vpn-in-china/) explains what still works without one.
+Only if you are using a Chinese SIM card or hotel Wi-Fi and want to reach Google, WhatsApp, Instagram or Western news sites. If you roam on your home SIM or a foreign travel eSIM, your traffic usually routes through your home carrier and reaches everything without a VPN. Install one anyway as a backup — before you arrive. [Why a foreign SIM roaming in China often needs no VPN at all](/answers/do-i-need-a-vpn-in-china/) explains what still works without one.
 
 ### Is Google blocked in China?
 

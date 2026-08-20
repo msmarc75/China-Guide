@@ -116,7 +116,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 
 ### Can foreigners stay in any hotel in China?
 
-No. Hotels need a specific licence to register foreign guests with the police, and smaller or budget hotels — particularly outside major cities — often do not have one. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely. [The fuller answer](/answers/can-foreigners-stay-in-any-hotel-in-china/) covers what to do when a hotel turns you away.
+No. Hotels need a specific licence to register foreign guests with the police, and smaller or budget hotels — particularly outside major cities — often do not have one. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely. [The licence a hotel needs before it can register you](/answers/can-foreigners-stay-in-any-hotel-in-china/) covers what to do when one turns you away.
 
 ### Do I need to register with the police in China?
 

@@ -84,7 +84,7 @@ Shorter than the October break, with the same dynamics on a slightly smaller sca
 
 | Festival | Where | When | What |
 | --- | --- | --- | --- |
-| **Harbin Ice & Snow Festival** | [Harbin](/answers/how-do-i-get-to-harbin-from-beijing/) | Late Dec–late Feb | Illuminated ice architecture at −20°C |
+| **Harbin Ice & Snow Festival** | Harbin — [9 hours by train from Beijing](/answers/how-do-i-get-to-harbin-from-beijing/) | Late Dec–late Feb | Illuminated ice architecture at −20°C |
 | **Water Splashing Festival** | Xishuangbanna, Yunnan | Mid-April | Dai new year; you will get soaked |
 | **Tibetan New Year (Losar)** | Tibetan areas | Feb–Mar | Monastery ceremonies; note Tibet often closes to foreigners in March |
 | **Third Month Fair** | Dali, Yunnan | Lunar 3rd month | Bai trading fair and horse racing |

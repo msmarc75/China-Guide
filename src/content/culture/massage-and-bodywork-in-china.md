@@ -28,7 +28,7 @@ Western visitors tend to arrive with one mental category — massage as a spa tr
 
 What that history means in practice is that tuina is worked on you rather than administered to you. You keep your clothes on, or change into loose cotton the shop provides; the practitioner works dry, through fabric, with thumbs, elbows and forearms; and it is often uncomfortable. It is closer to physiotherapy than to a massage table with whale song.
 
-Hospitals of traditional Chinese medicine run tuina departments, and that is where you go for an actual back problem rather than a tired afternoon. Several of our city pages name the specific hospital and its metro stop — [Shanghai's is a nationally recognised regional centre for the discipline](/destinations/shanghai/massage-and-spa/), and [Chengdu's sits on a metro station named after the hospital itself](/destinations/chengdu/massage-and-spa/).
+Hospitals of traditional Chinese medicine run tuina departments, and that is where you go for an actual back problem rather than a tired afternoon. Several of our city pages name the specific hospital and its metro stop: [the Shanghai hospital recognised nationally for tuina](/destinations/shanghai/massage-and-spa/), and [the Chengdu one with a metro station named after it](/destinations/chengdu/massage-and-spa/).
 
 ## Foot treatment is a social activity
 
@@ -58,7 +58,7 @@ There is no reliable directory of massage shops in China. Places open, change ha
 
 This is why our city pages name no parlours. It is not caution for its own sake — a recommendation we cannot verify is worse than none. What we give instead is the skill: how to read a frontage, what the vocabulary on the sign indicates, and what to do if something other than massage is offered. That last one has a short answer, and it is the same in every city: settle what you owe and leave without arguing. A foreign passport in the room during a raid means detention and probably deportation, whatever you went in for.
 
-The city pages that teach the frontage-reading are [Beijing](/destinations/beijing/massage-and-spa/), [Shanghai](/destinations/shanghai/massage-and-spa/), [Xi'an](/destinations/xian/massage-and-spa/) and [Chengdu](/destinations/chengdu/massage-and-spa/).
+Four city pages teach the frontage-reading with the local licensing detail attached: [reading a Beijing shopfront](/destinations/beijing/massage-and-spa/), [what Shanghai's two-yearly re-registration means for you](/destinations/shanghai/massage-and-spa/), [where to go in Xi'an after a day on the wall](/destinations/xian/massage-and-spa/) and [Chengdu's version, ear cleaning included](/destinations/chengdu/massage-and-spa/).
 
 ## Regional variation worth knowing
 

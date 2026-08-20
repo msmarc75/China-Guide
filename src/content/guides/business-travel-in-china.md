@@ -84,6 +84,8 @@ The spring session runs across April and May and the autumn session across Octob
 
 **Meeting conventions are worth ten minutes of reading.** Business cards exchanged with two hands and read rather than pocketed, seniority reflected in seating and in how glasses meet at a toast, and problems raised privately rather than across a table — [the etiquette guide](/culture/chinese-etiquette/) sets out the ones that are actually noticed, and [what a banquet involves](/answers/what-is-baijiu-and-do-i-have-to-drink-it/) if you are hosted for dinner.
 
+**Do not hand an expensive suit to a dry cleaner without asking a specific question first.** Chinese laundry trade rules cap compensation for an ordinary garment at ¥2,000 unless you agree a declared value in writing at the counter, and courts have applied that cap to garments worth many times more — [how to ask, and what the ticket has to say](/guides/laundry-in-china/) takes two minutes and is the difference between a covered loss and an uncovered one.
+
 **Build in more travel time than the map suggests.** Chinese cities are vast, and the airport or station is rarely near the district you are meeting in. A cross-town meeting is an hour, not twenty minutes.
 
 ## Frequently asked questions

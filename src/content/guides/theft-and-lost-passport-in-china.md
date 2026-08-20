@@ -24,6 +24,8 @@ China is a low-crime place to travel and the honest [answer on how safe it is](/
 
 The useful thing to know is not the prevention advice, which you have already read. It is the sequence — because for a passport, doing the obvious thing first makes everything afterwards harder.
 
+First, be sure which problem you have. A theft goes to the police, as below. Something merely left behind goes to whoever operates the place you left it, because that is where it physically is — and [that has its own route with a much better success rate](/guides/lost-property-in-china/). Taking the wrong one costs you the hours that matter most.
+
 ## An ordinary theft: phone, wallet, bag
 
 Call **110** for police. It is free from any phone, including one with no SIM card, though operators rarely speak English — the [emergency numbers page](/answers/what-are-the-emergency-numbers-in-china/) covers the practical workaround, which is to get a Chinese speaker to make the call rather than to try it alone.

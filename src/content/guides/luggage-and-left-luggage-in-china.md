@@ -67,6 +67,8 @@ For a traveller changing cities with heavy bags, or facing a long gap between ch
 
 Every hotel in China will store your bags before check-in and after checkout, free, without being asked twice. If your onward train leaves in the evening, leave the case at the hotel and collect it on the way to the station rather than paying to store it twice.
 
+Storing a bag deliberately and losing one are separate systems with separate routes. If something has gone missing rather than been left on purpose, [the railway runs a national lost-item service and found property is held for a year](/guides/lost-property-in-china/) — the odds are better than most visitors assume.
+
 That also applies across a whole trip: if you are looping back through a city, most hotels will hold a bag for several days for a returning guest. Ask at the desk rather than assuming, and label the bag.
 
 ## What this means for what you pack

@@ -2,7 +2,7 @@
 title: Accessible Travel in China
 navTitle: Accessible travel
 metaTitle: "Accessible Travel in China: Wheelchair Access, Rail and Metro"
-description: What wheelchair access in China is actually like — the 2023 accessibility law, step-free rail and metro, the discounts foreigners cannot claim, and where the gap between "accessible" and usable still sits.
+description: What wheelchair access in China is really like: the 2023 accessibility law, step-free rail and metro, and the discounts a foreign passport cannot claim.
 standfirst: China's newest infrastructure is genuinely good and its oldest is genuinely not, and the two sit a street apart. This page states only what could be confirmed against two independent sources, because a wrong detail here becomes somebody's stranded afternoon.
 eyebrow: Accessibility
 order: 9

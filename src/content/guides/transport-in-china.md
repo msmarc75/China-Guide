@@ -45,7 +45,7 @@ For a two-week trip you will use G trains almost exclusively, with perhaps one Z
 - **Second class (二等座)** — 3+2 seating, reclining, power sockets, tray tables. Comfortable and what most Chinese travellers use. Take this.
 - **First class (一等座)** — 2+2 seating, more legroom, about 60% more expensive. Nice, not necessary.
 - **Business class (商务座)** — 2+1 lie-flat seats, meal included, roughly three times second class. A genuine luxury on a long run.
-- **Sleepers** on Z/T/K trains: soft sleeper (4-berth compartment with a door), hard sleeper (6 berths, open), hard seat (avoid on long journeys).
+- **Sleepers** on Z/T/K trains: soft sleeper (4-berth compartment with a door), hard sleeper (6 berths, open), hard seat (avoid on long journeys). The class is only half the choice — upper, middle and lower berths are priced differently and you select one at booking, so [which bunk you end up in is a decision rather than an allocation](/guides/sleeper-trains-in-china/).
 
 ### How to book
 

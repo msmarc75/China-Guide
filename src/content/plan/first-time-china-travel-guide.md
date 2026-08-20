@@ -166,7 +166,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 6. **Queueing is looser than you are used to**, especially for lifts and buses. It is not personal.
 7. **Nobody tips.** Not in restaurants, not in taxis. Tipping a guide is fine; tipping a waiter causes confusion.
 8. **Your hotel must register you with the police.** Any licensed hotel does this automatically at check-in — and [not every hotel holds that licence](/answers/can-foreigners-stay-in-any-hotel-in-china/), which is why some will turn a foreign guest away. If you stay in a private apartment, you are legally required to register at the local police station within 24 hours.
-9. **Smoking is still widespread** in older restaurants and stairwells, despite indoor bans in major cities.
+9. **Smoking is still widespread** in older restaurants and stairwells, because there is no national indoor ban — it is set city by city, and Beijing, Shanghai and Shenzhen are the ones where the rule is real. On a high-speed train it is [absolute, and the penalty is severe](/guides/smoking-and-vaping-in-china/).
 10. **Air quality varies enormously** by city and season. Beijing in winter can be bad; Kunming and coastal cities are usually fine. Check an AQI app rather than assuming.
 
 :::slot product:planner
@@ -176,18 +176,28 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 
 | When | Do this |
 | --- | --- |
-| 8 weeks out | Check visa status for your nationality; apply if needed. Book international flights. |
+| 8 weeks out | Check visa status for your nationality; apply if needed. Book international flights. If Tibet is on the route, start the permit now. |
 | 6 weeks out | Book hotels in the big four cities (they sell out around holidays). [Check vaccinations](/answers/do-i-need-vaccinations-for-china/) with a travel clinic. |
 | 4 weeks out | Buy travel insurance. Decide SIM strategy; order an eSIM if using one. |
 | 2 weeks out | Install and verify Alipay + WeChat, bind a card. Install Amap/Apple Maps, DiDi, 12306, a translation app and a VPN. Book rail tickets when the window opens. |
 | 1 week out | Book timed-entry tickets for the Forbidden City, Terracotta Army and any museum you care about. Download offline maps and the offline Chinese translation pack. |
 | Day before | Screenshot hotel addresses in Chinese. Photograph your passport. Withdraw a little cash on arrival at the airport ATM. |
 
+Three things about that table are worth spelling out, because they are the reasons the dates are where they are.
+
+**The visa's bottleneck is the appointment, not the processing.** Standard processing runs to about four working days. What takes weeks is getting a slot: [visa centres in London, New York, Paris and Sydney](/guides/china-visa-guide/) book out well ahead, and worst of all between March and June. Eight weeks is a window for the appointment, not for the decision.
+
+**Tibet is the one item that can delete a leg of the trip.** The permit cannot be applied for by an individual — [a licensed agency arranges it as part of a booked tour](/answers/how-do-i-get-a-tibet-travel-permit/), the paperwork runs to roughly three weeks, and it has to exist before you board the flight or train to Lhasa. Everything else on this list can be improvised late; this cannot.
+
+**The phone block at two weeks has no deadline of its own, which is why it gets skipped.** Do it anyway, and do it before you land, because almost none of it can be installed once you are inside the country: [VPN provider sites are blocked and their apps are gone from the Chinese app stores](/answers/do-i-need-a-vpn-in-china/), WhatsApp cannot be downloaded there at all, and binding a payment card can require an SMS to a working number. Install *and test* — a VPN that fails on arrival cannot be replaced.
+
+Note also that the trains and the visa pull in opposite directions: the visa wants eight weeks, and rail tickets [cannot be bought until roughly a fortnight out](/answers/can-i-book-chinese-train-tickets-in-advance/). They are two jobs on two dates, not one sitting.
+
 ## Frequently asked questions
 
 ### Is China safe for tourists?
 
-Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. See [health and safety in China](/guides/health-and-safety-in-china/), and [an honest answer on how safe it actually is](/answers/is-china-safe-for-tourists/). Worth pairing with [what not to do in China](/answers/what-should-i-not-do-in-china/), which is more about causing offence than danger.
+Yes — violent crime against visitors is rare, and cities are heavily policed and monitored, with women commonly walking alone at night in urban areas. The real risks are mundane: traffic (look both ways twice, e-bikes are silent and everywhere), tourist scams around Wangfujing and the Bund, and pickpocketing in crowded markets. If something does go, [go to the police before your embassy](/guides/theft-and-lost-passport-in-china/) — a replacement passport does not restore the Chinese visa that was inside it. See [health and safety in China](/guides/health-and-safety-in-china/), and [an honest answer on how safe it actually is](/answers/is-china-safe-for-tourists/). Worth pairing with [what not to do in China](/answers/what-should-i-not-do-in-china/), which is more about causing offence than danger.
 
 ### Can I use my credit card in China?
 

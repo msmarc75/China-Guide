@@ -37,7 +37,7 @@ A short list of exceptions genuinely matters.
 8. **Passport photocopies and a passport photo.** Useful for hotel registration issues, permit applications and replacing a lost passport.
 
 :::warn Power bank rules on Chinese flights
-Since 2025, Chinese carriers require power banks carried on domestic flights to display a valid **CCC certification mark**, and uncertified or unmarked units are refused at security. Foreign-bought power banks frequently lack this mark. If you are flying domestically, either check the marking carefully, buy a compliant one locally, or plan to travel by train instead. Power banks are never allowed in checked baggage.
+Since 2025, Chinese carriers require power banks carried on domestic flights to display a valid **CCC certification mark**, and uncertified or unmarked units are refused at security. Foreign-bought power banks frequently lack this mark. If you are flying domestically, either check the marking carefully, buy a compliant one locally, or plan to travel by train instead. Power banks are never allowed in checked baggage. Liquids run the other way: on a domestic flight they belong in the hold, because [China bars them from the cabin apart from a short toiletries list](/answers/can-i-take-liquids-on-a-chinese-domestic-flight/) — so a bag packed for the international leg will not clear security for the internal one.
 :::
 
 ## Documents and admin

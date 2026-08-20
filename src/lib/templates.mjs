@@ -18,7 +18,7 @@ export function partnerSlot(key, { compact = false } = {}) {
   if (!p) return '';
   const live = p.enabled && p.href && p.href !== '#';
   const cta = live
-    ? `<a class="btn btn--primary" href="${p.href}" rel="sponsored noopener" target="_blank">${escapeHtml(p.cta)}</a>`
+    ? `<a class="btn btn--primary" href="${escapeHtml(p.href)}" rel="sponsored noopener" target="_blank">${escapeHtml(p.cta)}</a>`
     : `<span class="btn btn--ghost" aria-disabled="true" title="Partner link not configured yet">${escapeHtml(p.cta)}</span>`;
   return `<aside class="promo-slot${compact ? ' promo-slot--compact' : ''}" data-slot="${key}">
   <p class="promo-slot__label">Partner pick</p>

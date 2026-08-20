@@ -161,6 +161,36 @@ for (const required of ['sitemap.xml', 'robots.txt', 'feed.xml', 'search-index.j
 //
 // A preconnect is a promise about a request that follows. If the request is
 // gone the promise has to go with it, and nothing was checking.
+// A form must go somewhere real.
+//
+// The newsletter shipped on all 199 pages with action="#" and a script that
+// answered a submitted address with a note about ESP endpoints. Every check
+// this project had passed on it: the markup was valid, the page rendered, the
+// input had a label. Nothing looks at whether a form can actually receive
+// what it asks for.
+for (const file of htmlFiles) {
+  const html = fs.readFileSync(file, 'utf8');
+  const url = `/${path.relative(DIST, file).replace(/\\/g, '/').replace(/index\.html$/, '')}`;
+  for (const m of html.matchAll(/<form\b([^>]*)>/g)) {
+    const attrs = m[1];
+    const action = attrs.match(/action="([^"]*)"/)?.[1];
+    const method = (attrs.match(/method="([^"]*)"/)?.[1] || 'get').toLowerCase();
+    // A GET form with no action submits to the page itself, which is how the
+    // site search works and is correct. A POST form with nowhere to post is a
+    // promise the page cannot keep.
+    if (method !== 'post') continue;
+    if (!action || action === '#' || action === '') {
+      errors.push(`${url} — a POST form has no action; a submitted address would go nowhere`);
+    } else if (!/^https:\/\//.test(action)) {
+      errors.push(`${url} — POST form action "${action}" is not an absolute https URL`);
+    }
+  }
+  // One sign-up per page. Two would double-count and confuse a screen reader
+  // moving by landmark.
+  const signups = (html.match(/class="newsletter__form"/g) || []).length;
+  if (signups > 1) errors.push(`${url} — ${signups} newsletter forms on one page`);
+}
+
 // At most one analytics beacon per page.
 //
 // Cloudflare's docs are explicit: "only one JS snippet can be rendered and

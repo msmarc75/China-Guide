@@ -178,6 +178,14 @@ export const MONETISATION = {
     blurb:
       'Visa-free lists, payment app rules and rail booking windows move fast. One email a month, no fluff, unsubscribe in a click.',
     cta: 'Send me the updates',
-    action: '#',
+    // The subscribe endpoint of whichever email provider is in use. Set it as
+    // NEWSLETTER_ACTION in the Cloudflare Pages environment variables — it is
+    // a form target, not a secret, but keeping it out of the repo means
+    // changing provider is a dashboard edit rather than a deploy.
+    //
+    // Empty is a meaningful value: the newsletter section is not rendered at
+    // all. A form that promises a monthly email and drops the address is worse
+    // than no form, and that is exactly what shipped here before.
+    action: process.env.NEWSLETTER_ACTION || '',
   },
 };

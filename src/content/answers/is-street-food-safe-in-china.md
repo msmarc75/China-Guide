@@ -18,7 +18,7 @@ The reflex to avoid street food entirely costs you the best breakfast in the cou
 
 ## The three rules
 
-**Follow the queue.** Turnover is the single best hygiene proxy available to you. A stall with ten people waiting is selling food that was raw twenty minutes ago. An empty one is not.
+**Follow the queue.** Turnover is the best hygiene proxy available at a stall, though at a sit-down restaurant it is not the only instrument — [there is a graded food-safety face on a board by the door](/food/restaurant-hygiene-ratings-in-china/). A stall with ten people waiting is selling food that was raw twenty minutes ago. An empty one is not.
 
 **Cooked to order, in front of you.** Wok, griddle, tandoor, charcoal, deep fryer — high heat applied while you watch. Jianbing is made on a hot griddle in ninety seconds. Lamb skewers come off charcoal. That is the safe category.
 

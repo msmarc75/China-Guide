@@ -69,7 +69,7 @@ Cancellations and serious delays are treated differently and cost you nothing.
 
 Where a train is cancelled, the ticket can be refunded with no fee, and the window runs from the announcement of the cancellation until well after the travel date rather than closing at departure time — China Railway's passenger transport rules put refunds arising from railway responsibility outside the fee schedule entirely. The same applies where a service is cut short and your boarding or alighting station falls in the cancelled section. These refunds can be processed online, at any station counter, or at a self-service machine.
 
-Chinese long-distance rail is punctual to a degree that makes this rare, but weather closes high-speed lines in winter and in typhoon season on the southeast coast, and when it does, whole blocks of services disappear at once. That is the scenario worth having read about — [how the network works](/guides/transport-in-china/) explains why an alternative departure usually exists within the hour.
+Chinese long-distance rail is punctual to a degree that makes this rare, and the contrast with flying is stark: a cancelled train is refunded in full as a matter of course, while [a cancelled flight is governed by the airline's own conditions of carriage](/guides/flight-delays-in-china/) and a weather delay leaves the hotel bill with you. Weather does close high-speed lines in winter and in typhoon season on the southeast coast, and when it does, whole blocks of services disappear at once. That is the scenario worth having read about — [how the network works](/guides/transport-in-china/) explains why an alternative departure usually exists within the hour.
 
 ## Frequently asked questions
 

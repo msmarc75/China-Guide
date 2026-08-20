@@ -83,7 +83,7 @@ The lighter confiscated at security is a clue to the rule that follows: smoking 
 Still useful for distances the train cannot handle sensibly: Beijing to Kunming, anywhere to Urumqi, Chengdu to Lhasa, or the leg to [Sanya](/destinations/sanya-hainan/).
 
 - **Book on Trip.com** or directly with China Eastern, Air China or China Southern.
-- **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections.
+- **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections — and note that a weather delay leaves you paying for your own hotel, while [being diverted or stranded at a stopover puts the bill on the airline](/guides/flight-delays-in-china/) whatever the cause.
 - **Umetrip** is the app locals use for real-time status; it is more accurate than the airline apps.
 - **Power bank rules**: since 2025, power banks on Chinese domestic flights must show a valid CCC certification mark, and uncertified units are confiscated at security. [What this means for a power bank bought abroad](/answers/can-i-bring-a-power-bank-to-china/) is worth reading before you fly domestically.
 - **ID at the airport** is your passport, scanned at check-in and again at security.

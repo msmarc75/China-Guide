@@ -70,7 +70,7 @@ Almost nobody who flies to Sanya sees this, and it is the more interesting half.
 
 ## Practicalities
 
-- **Season:** November to April is dry, sunny and warm (24–28°C) and is peak season. May to October is hot, humid and wet; **September and October carry real typhoon risk**. Chinese New Year is the single most expensive week of the year here — resort rates can quadruple.
+- **Season:** November to April is dry, sunny and warm (24–28°C) and is peak season. May to October is hot, humid and wet; **September and October carry real typhoon risk**. On an island that matters more than on the mainland, because ferries and boat trips are suspended before the city itself closes — [what each warning colour actually stops](/guides/typhoons-in-china/) is worth reading before you build a day around the water. Chinese New Year is the single most expensive week of the year here — resort rates can quadruple.
 - **Getting there:** direct flights from most Chinese cities and a growing number of international ones. A high-speed rail loop circles the island, connecting Haikou and Sanya in about 90 minutes.
 - **Days needed:** four nights for a beach stay, a week to include the interior.
 - **Food:** Wenchang chicken, Hele crab, Dongshan mutton and Jiaji duck are the "four famous dishes". Coconut everything. Excellent, cheap seafood at the night markets — pick your fish and pay for the cooking.

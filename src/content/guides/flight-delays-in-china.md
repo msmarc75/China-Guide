@@ -22,6 +22,8 @@ related:
 
 Summer thunderstorms across eastern China cascade through the network, and Beijing and Shanghai are where the queue backs up. That much every guide says, including [ours](/guides/transport-in-china/), before advising you to build slack into connections and moving on.
 
+One weather cause is different, because you can see it coming for a day or more: a typhoon on the southeast coast is announced on a published four-colour scale, and [moving a flight while the warning is still blue costs you nothing that being re-accommodated after it turns orange will not](/guides/typhoons-in-china/).
+
 What none of them say is that China has a detailed rule governing what happens next, and that the answer is not the one European travellers expect.
 
 ## Whose fault it was decides everything

@@ -67,7 +67,7 @@ Humid subtropical. The complication is the *meiyu*, the plum rain season, which 
 
 ### The south — Guangzhou, Hong Kong, Guilin, Yangshuo
 
-Subtropical to tropical, with a distinct wet season from **April to September** and typhoon risk from July to September. [Guilin's karst landscape](/destinations/guilin-yangshuo/) is at its most photogenic in the misty, rainy months of April to June — atmospheric, but you will get wet, and the Li River is at its fullest. **October to December is the driest and most comfortable stretch.**
+Subtropical to tropical, with a distinct wet season from **April to September** and typhoon risk from July to September. That risk is episodic rather than continuous, and it is announced on a four-colour scale: [orange is the level at which classes, business and boat trips stop](/guides/typhoons-in-china/), and the more severe the warning, the less notice it carries. [Guilin's karst landscape](/destinations/guilin-yangshuo/) is at its most photogenic in the misty, rainy months of April to June — atmospheric, but you will get wet, and the Li River is at its fullest. **October to December is the driest and most comfortable stretch.**
 
 ### The southwest — Chengdu, Yunnan, Guizhou
 

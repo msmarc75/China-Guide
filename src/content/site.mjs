@@ -102,12 +102,15 @@ export const MONETISATION = {
     'Some links on this page are affiliate links. If you book through them we earn a commission at no extra cost to you. We only recommend services we would use ourselves — see our <a href="/affiliate-disclosure/">affiliate disclosure</a>.',
   partners: {
     esim: {
-      enabled: false,
-      name: 'Airalo / Holafly China eSIM',
-      blurb: 'Data eSIM activated before you fly. Check the provider routes its China plan internationally rather than through a local partner — that routing is what decides whether you get the open internet.',
-      cta: 'Compare China eSIMs',
-      href: '#',
-      note: 'Typical commission: 10–15% of order value.',
+      enabled: true,
+      name: 'Saily China eSIM',
+      blurb: 'A data eSIM you install before you fly. It connects through international roaming, so your session leaves China via a foreign gateway and the normally blocked services load without a VPN — a local Chinese SIM or hotel Wi-Fi will not do that.',
+      cta: 'See Saily China plans',
+      // Affiliate deep link from the Saily partner programme; redirects to
+      // saily.com/esim-china/. Not a secret — it is visible in the page HTML —
+      // so it lives here rather than in an environment variable.
+      href: 'https://go.saily.site/aff_c?offer_id=101&aff_id=16218&url_id=632',
+      note: 'Saily partner programme. Commission rate: check the partner dashboard.',
     },
     trains: {
       enabled: false,

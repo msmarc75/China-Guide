@@ -88,6 +88,8 @@ The unrestored Jiankou section is spectacular and genuinely dangerous — loose 
 
 **National Museum of China** (free, book ahead, closed Mondays). The *Ancient China* permanent exhibition in the basement is a complete material history of the country and is the single best museum visit in Beijing.
 
+**Universal Beijing Resort**, in full operation since September 2021, is the city's one big non-historical day out. Like the museums it cannot be walked into — admission is tied to your passport and needs a date reserved in advance, and [the booking rules are stricter than most visitors expect](/guides/theme-parks-in-china/).
+
 ## The hutongs
 
 Beijing's grey-walled alley neighbourhoods, built around courtyard houses (*siheyuan*), are what remains of the pre-modern city. Many were demolished in the 1990s and 2000s; the survivors are protected and, in places, gentrified.

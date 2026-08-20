@@ -11,7 +11,7 @@
   <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#4a443c">The complete China travel guide</text>
   <text x="80" y="366" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#4a443c">for foreign visitors</text>
   <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#b3202c" letter-spacing="4">VISAS · PAYMENTS · TRAINS · FOOD · ITINERARIES</text>
-  <circle cx="1010" cy="300" r="150" fill="none" stroke="#b8860b" stroke-width="8" opacity=".5"/>
+  <circle cx="1010" cy="300" r="150" fill="none" stroke="#8c6608" stroke-width="8" opacity=".5"/>
   <path d="M1010 180 1042 300 1010 400 978 300Z" fill="#b3202c"/>
-  <path d="M890 300 1010 272 1130 300 1010 328Z" fill="#b8860b"/>
+  <path d="M890 300 1010 272 1130 300 1010 328Z" fill="#8c6608"/>
 </svg>

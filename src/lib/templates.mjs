@@ -173,7 +173,13 @@ export function slotRenderer(name, body) {
 function head(page) {
   const title = page.metaTitle || `${page.title} | ${SITE.name}`;
   const canonical = abs(page.url);
-  const ogImage = abs(page.image || '/assets/og-default.svg');
+  // PNG, not the SVG this is rasterised from. Every platform that enumerates
+  // accepted formats for a link preview lists raster types — LinkedIn's help
+  // says "JPG, PNG, or GIF" — and none of them lists SVG. A PNG works
+  // everywhere an SVG might have, so this costs nothing even where SVG would
+  // have been tolerated. src/assets/og-default.svg is kept as the source and
+  // is regenerated with tools/make-og-image.mjs.
+  const ogImage = abs(page.image || '/assets/og-default.png');
   const robots = page.noindex ? 'noindex,follow' : 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1';
 
   return `<meta charset="utf-8">
@@ -191,6 +197,9 @@ ${page.keywords?.length ? `<meta name="keywords" content="${escapeHtml(page.keyw
 <meta property="og:description" content="${escapeHtml(page.description || SITE.description)}">
 <meta property="og:url" content="${canonical}">
 <meta property="og:image" content="${ogImage}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="China Trip Compass — the complete China travel guide for foreign visitors">
 <meta property="og:locale" content="${SITE.locale}">
 ${page.updated ? `<meta property="article:modified_time" content="${page.updated}">` : ''}
 <meta name="twitter:card" content="summary_large_image">
@@ -198,6 +207,7 @@ ${page.updated ? `<meta property="article:modified_time" content="${page.updated
 <meta name="twitter:title" content="${escapeHtml(page.ogTitle || page.title)}">
 <meta name="twitter:description" content="${escapeHtml(page.description || SITE.description)}">
 <meta name="twitter:image" content="${ogImage}">
+<meta name="twitter:image:alt" content="China Trip Compass — the complete China travel guide for foreign visitors">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/logo.svg">
 <link rel="manifest" href="/site.webmanifest">

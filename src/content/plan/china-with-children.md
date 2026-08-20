@@ -95,7 +95,7 @@ Families who have done it tend to say the same thing: **a carrier beats a pushch
 Two more practical points in the same category:
 
 - **Public toilets frequently have no paper, and many are squat toilets.** Carry tissues, always — [where paper is and is not provided](/answers/is-toilet-paper-provided-in-china/) sets out the pattern.
-- **Attraction tickets are often priced by height too**, with the free line commonly at 1.2 m and a child rate above it. The rule is posted at the gate and varies by site, so budget for it rather than assuming.
+- **Attraction tickets are often priced by height too**, with the free line commonly at 1.2 m and a child rate above it. The rule is posted at the gate and varies by site, so budget for it rather than assuming. There is an age-based layer as well: national pricing policy names minors as a category that state-priced sites must give a concession to, and provincial rules commonly put **6 to 18 inclusive** in the half-price band on presentation of valid identification — [the same wording that decides the student and senior concessions](/answers/do-students-get-discounts-at-chinese-attractions/).
 
 ## Where China is better than you expect
 

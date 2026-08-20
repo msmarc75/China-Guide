@@ -49,3 +49,5 @@ Worth knowing if you have read the other side of this: China's disability conces
 - **Concession signs are usually in Chinese only.** If you cannot read the board, show your passport at the ticket window and let them look.
 - **Free entry still often needs the booking.** Many Chinese museums and sights are free but require a timed advance reservation against your passport number, and a concession does not remove that step.
 - **Ask about the shuttle and the cable car separately.** They are priced separately from the gate and are concessioned separately too.
+
+Age is one of several categories in the same national framework. Minors, students, disabled people, religious personnel and a range of military groups are named alongside older visitors, and [the student concession runs into the identical document question](/answers/do-students-get-discounts-at-chinese-attractions/) — with the difference that enrolment is harder to prove at a gate than a date of birth.

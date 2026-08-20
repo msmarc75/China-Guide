@@ -93,6 +93,8 @@ Carry **¥500–1,000**. You will use it for rural buses, temple donation boxes,
 
 **Exchange counters** exist at airports and Bank of China branches but involve forms and a passport, and their rates are poor. Use an ATM.
 
+**There is a ceiling on the notes themselves.** Banknotes crossing the Chinese border are capped at ¥20,000 per person per crossing, with a separate allowance for foreign currency, and [both are counted again on the way out](/answers/how-much-cash-can-i-take-in-and-out-of-china/). Almost nobody paying by QR code goes near either figure, which is exactly why the limits catch out the people who do.
+
 **Notes** come in ¥1, 5, 10, 20, 50 and 100. The ¥100 is the workhorse and the one that small vendors struggle to change; break it at a supermarket or convenience store.
 
 :::warn Counterfeit ¥100 notes

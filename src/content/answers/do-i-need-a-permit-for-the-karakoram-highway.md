@@ -23,6 +23,8 @@ The road south of Kashgar enters a **border zone**, and foreign visitors need a 
 
 In practice this is one of several reasons to travel the route with a **local driver or agency**. They know the current documentation requirements, which move; they can obtain the permit as a matter of routine; and public transport on this road is limited enough that a hired vehicle is the realistic option anyway.
 
+Driving it yourself is not the independent alternative it sounds like, either: [mainland China recognises neither a foreign licence nor an International Driving Permit](/guides/driving-in-china/), so a self-drive plan starts with a separate permit application of its own before it reaches the border-zone one.
+
 ## The road closes, and not on a schedule
 
 Closures are a genuine feature of the route rather than a rare disruption. Weather at altitude, border operations and periodic administrative closures all shut it, sometimes at short notice.

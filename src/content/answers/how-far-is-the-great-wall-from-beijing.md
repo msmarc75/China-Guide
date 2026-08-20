@@ -48,6 +48,6 @@ Coming back, the Wall empties in late afternoon and the light is better, so the 
 
 ## Getting there
 
-A hired car for the day is the sane option for two or more people and removes the return-timing problem. DiDi works outbound but is less reliable for the trip back, since drivers are sparse at the car parks. There are tourist buses from Dongzhimen, which are cheapest and slowest.
+A hired car for the day is the sane option for two or more people and removes the return-timing problem. Note that hiring one to drive yourself is not the cheaper version of this: [a foreign licence and an International Driving Permit are both invalid in mainland China](/guides/driving-in-china/), so the car comes with a driver whether or not you wanted one. DiDi works outbound but is less reliable for the trip back, since drivers are sparse at the car parks. There are tourist buses from Dongzhimen, which are cheapest and slowest.
 
 For which section suits which kind of visitor, the state of restoration on each, and the ones to avoid, see the [Great Wall guide](/destinations/great-wall-of-china/); for how a Wall day fits around the rest of the city, the [Beijing travel guide](/destinations/beijing/).

@@ -89,6 +89,8 @@ China operates a departure VAT refund scheme: purchases of **¥200 or more** in 
 
 The threshold used to be ¥500 and a great deal of published advice still says so. It was cut to ¥200 in April 2025, alongside a rise in the cash refund ceiling from ¥10,000 to ¥20,000, as part of a push to increase spending by inbound visitors. The practical effect is that far more ordinary purchases now qualify than most guidance suggests — though a small claim may still not be worth the airport queue.
 
+One condition decides whether a bulky purchase is worth claiming on at all: the goods have to leave the country with you. [Shipping it home instead is a trade you should make deliberately](/guides/sending-things-home-from-china/), because it forfeits the rebate.
+
 ## Customs: what you cannot take home
 
 - **Antiques** are governed by a graduated rule, not the single 1911 cut-off most guidance quotes. Anything made **in or before 1911** is flatly prohibited from export. Items from **1912 to 1949** with historical, artistic or scientific value are prohibited in principle too, which is the part usually left out. Beyond that, works by named deceased artists after 1911 — across calligraphy and painting, ceramics, sculpture, fans, embroidery, seals, snuff bottles and lacquer — sit on restricted lists of their own. Genuinely old items sold legally carry a red wax seal from the cultural relics bureau; without it, an item that is actually old will be confiscated.

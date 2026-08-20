@@ -29,6 +29,8 @@ This threshold **fell from ¥500 to ¥200 in April 2025**, alongside a package o
 
 **The goods must be unused and with you.** Customs can ask to see them. Anything worn, opened or consumed does not qualify — and food, tobacco and alcohol are generally excluded, as is anything already exempt from VAT.
 
+"With you" is literal: the scheme requires you to carry or check the goods yourself, so [posting a purchase home instead gives up the refund on it](/guides/sending-things-home-from-china/).
+
 ## What to do in the shop
 
 Look for the **退税商店** (*tuì shuì shāng diàn*, tax refund store) sign — department stores, larger brand shops and airport-adjacent retail commonly participate; small independents usually do not.

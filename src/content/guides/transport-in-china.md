@@ -49,7 +49,7 @@ For a two-week trip you will use G trains almost exclusively, with perhaps one Z
 
 ### How to book
 
-**Option 1 — 12306, the official app.** The China Railway app now has a full English interface, accepts foreign passports as ID and takes international cards through Alipay. It is the cheapest route (face value, no mark-up) and gives you the full inventory. Register with your passport number exactly as printed; a mismatch will stop you at the gate.
+**Option 1 — 12306, the official app.** The China Railway app now has a full English interface, accepts foreign passports as ID and takes international cards through Alipay. It is the cheapest route (face value, no mark-up) and gives you the full inventory. Register with your passport number exactly as printed; a mismatch will stop you at the gate. Register each child too — [since 2023 a child's fare depends on their age rather than their height, and is bought against their own passport](/plan/china-with-children/).
 
 **Option 2 — Trip.com or similar.** A small service fee (¥15–30 per ticket) buys a friendlier interface, English customer support and easier refunds. Worth it if 12306's verification gives you trouble.
 

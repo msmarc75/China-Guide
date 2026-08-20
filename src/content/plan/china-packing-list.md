@@ -21,6 +21,8 @@ related:
 
 The general rule: **China manufactures most of the world's consumer goods and sells them to itself at low prices**. Forgetting your shampoo, charger cable, umbrella or a warm layer is a ¥30 problem solved at any convenience store. Do not over-pack.
 
+Nappies and formula follow that rule and need only be packed for the first two days. A car seat does not, and is [the one bulky thing a family genuinely has to carry in](/plan/china-with-children/).
+
 A short list of exceptions genuinely matters.
 
 ## The eight things to bring from home

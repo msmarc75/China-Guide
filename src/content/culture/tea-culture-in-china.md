@@ -103,7 +103,7 @@ Use water below boiling for green and white tea (75–85°C) and near-boiling fo
 
 ### Where can I buy good tea in China?
 
-From specialist shops that let you taste before buying, or direct from growers in producing areas such as the Longjing villages near Hangzhou or the Wuyi Mountains in Fujian. Avoid tourist street stalls and any shopping stop included in a guided tour.
+From specialist shops that let you taste before buying, or direct from growers in producing areas such as the Longjing villages near Hangzhou or the Wuyi Mountains in Fujian. Avoid tourist street stalls and any shopping stop included in a guided tour — [that stop is how a below-cost tour pays for itself, and the law is on your side if you already bought](/guides/tour-shopping-stops-in-china/).
 
 ### What is the tea house scam in China?
 

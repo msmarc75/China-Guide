@@ -28,6 +28,8 @@ related:
 
 The "southern capital" was the seat of the early Ming dynasty, the Taiping Heavenly Kingdom, and the Republic of China. It is a green, walled, university city on the Yangtze, an hour and a quarter from Shanghai — and it carries the weight of the 20th century more visibly than anywhere else in China.
 
+It is also, since 2025, one of the best places in the country to spend an evening at a football match: more than 60,000 filled the Olympic Sports Centre for a fixture in Jiangsu's amateur city league, and [how to get into one as a visitor](/guides/watching-sport-in-china/) turns on booking against your passport.
+
 ### What to see
 
 **Ming Xiaoling Mausoleum** — the tomb of the Hongwu Emperor, founder of the Ming, on Purple Mountain. The **Sacred Way**, lined with stone elephants, camels, lions and officials, is the model that the Ming Tombs near Beijing later copied. UNESCO-listed. ¥70.

@@ -80,7 +80,7 @@ The unrestored Jiankou section is spectacular and genuinely dangerous — loose 
 
 **Summer Palace** (¥30–60). The Qing imperial retreat: a huge lake, a 728 m painted corridor, and the marble boat — which, contrary to the story every guide tells, was not built by Cixi at all. It dates from Qianlong's garden on this site; Cixi rebuilt it in 1893, giving it the Western-style upper deck and paddle wheels it has now. Naval funds were diverted into the wider restoration, but how much is genuinely disputed by historians, and the boat itself is a rebuild rather than the emblem of the scandal. Half a day. Best in autumn.
 
-**Lama Temple (Yonghegong)** (¥25). The most important Tibetan Buddhist temple outside Tibet, active, full of incense smoke, and home to an 18 m Maitreya carved from a single sandalwood trunk.
+**Lama Temple (Yonghegong)** (¥25). The most important Tibetan Buddhist temple outside Tibet, active, full of incense smoke, and home to an 18 m Maitreya carved from a single sandalwood trunk. Buy or take incense inside rather than from anyone working the street outside — [pushing high-priced incense on visitors is prohibited by name](/culture/temples-and-money-in-china/), and a stall outside the gate is not the temple.
 
 **Tiananmen Square.** Requires advance booking and a passport, and security is thorough. Worth crossing once for the scale. Mao's mausoleum has its own queue and its own rules (no bags, no cameras).
 

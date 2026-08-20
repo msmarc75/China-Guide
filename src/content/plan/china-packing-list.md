@@ -74,6 +74,8 @@ Drone flight in China requires real-name registration of the aircraft, and large
 
 **Everywhere:** genuinely comfortable walking shoes. A sightseeing day in Beijing routinely covers 15–20 km.
 
+Packing light only works if you can wash things, and quick-drying fabrics earn their place because [tumble dryers are not something to count on in China](/guides/laundry-in-china/) — clothes are hung out, not heated dry.
+
 **Modesty:** China is relaxed about dress in cities. Shorts, vests and short skirts are unremarkable in Shanghai and Guangzhou. Cover shoulders and knees when visiting active Buddhist or Taoist temples, and dress conservatively in Xinjiang and rural Tibetan areas.
 
 :::slot ad:mid-article

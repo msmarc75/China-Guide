@@ -119,7 +119,7 @@ Verify Alipay with your passport and bind a card **at home**, because verificati
 
 ### What kind of power plug does China use?
 
-China uses 220 V, 50 Hz with socket types A (flat two-pin, as in the US), C (European round two-pin) and I (Australian angled three-pin). Most Chinese sockets are combination units that accept flat two-pin and Australian plugs directly. UK plugs need an adaptor, as do the earthed Schuko plugs common in Germany, Spain and the Netherlands, and US devices need to be dual-voltage. [Which adapter you actually need](/answers/what-plug-adapter-do-i-need-for-china/).
+220 V at 50 Hz, through sockets that usually take several plug shapes at once — types A, C and I. Whether you need an adapter therefore depends on where you are from rather than on China: Americans and Australians mostly plug straight in, British and Schuko-using European travellers do not. Check the voltage rating on anything with a heating element before you pack it. [Which adapter you actually need](/answers/what-plug-adapter-do-i-need-for-china/).
 
 ### Can I bring a power bank to China?
 

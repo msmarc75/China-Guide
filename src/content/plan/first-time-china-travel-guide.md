@@ -203,7 +203,7 @@ Ten days is the practical minimum for a first trip covering two or three cities 
 
 ### Is English spoken in China?
 
-Not widely. Expect English at international hotels, airports, major museums and among younger people in Beijing and Shanghai — and almost none elsewhere, including taxis and restaurants. Translation apps and screenshots of addresses in Chinese characters close the gap effectively. [The realistic answer](/answers/is-english-spoken-in-china/), and how far translation apps get you.
+Assume not, and be pleasantly surprised. The reliable pockets are international hotels, airport desks and the big museums; a taxi driver or a noodle shop is not one of them, anywhere in the country. Plan around it rather than around luck: an offline translation pack, and your hotel's address saved as an image in Chinese characters. [How far a translation app actually gets you](/answers/is-english-spoken-in-china/).
 
 ### What is the best time of year to visit China?
 

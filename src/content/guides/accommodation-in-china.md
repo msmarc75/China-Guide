@@ -124,7 +124,7 @@ Yes, within 24 hours of arriving in each place. A licensed hotel does this autom
 
 ### Is Airbnb available in China?
 
-Not for mainland stays. Airbnb shut down its domestic Chinese listings in 2022 and now handles only outbound travel for Chinese users. Hong Kong and Macau listings are unaffected. Use Trip.com or Booking.com for the mainland. [The current position](/answers/is-airbnb-available-in-china/) and what to use instead.
+No — the mainland listings went in 2022, and what remains of the app there serves Chinese travellers going abroad. Book Trip.com or Booking.com instead; both list the domestic chains and both register you with the police correctly, which a private flat may not. Hong Kong and Macau still work normally. [Why the listings disappeared and what replaces them](/answers/is-airbnb-available-in-china/).
 
 ### How much does a hotel cost in China?
 

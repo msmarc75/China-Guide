@@ -63,7 +63,7 @@ Several major writers are missing here because we could not confirm the settings
 
 Chinese cinema became internationally visible through the **Fifth Generation** — the directors who graduated from the Beijing Film Academy in the early 1980s — and then through the **Sixth Generation**, who worked smaller, rougher and often outside the state system.
 
-**Farewell My Concubine (霸王别姬, 1993)**, directed by Chen Kaige and starring Leslie Cheung, Gong Li and Zhang Fengyi, is the single best introduction. It follows two Peking opera performers across fifty years of upheaval in Beijing, and it shared the Palme d'Or at Cannes in 1993 — the first Chinese-language film to win it.
+**Farewell My Concubine (霸王别姬, 1993)**, directed by Chen Kaige and starring Leslie Cheung, Gong Li and Zhang Fengyi, is the single best introduction. It follows two Peking opera performers across fifty years of upheaval in Beijing, and it shared the Palme d'Or at Cannes in 1993 — the first Chinese-language film to win it. The training and the role types the film turns on make more sense if you know [how the four roles and the painted faces work](/culture/chinese-opera-and-performance/) before you watch.
 
 **Raise the Red Lantern (大红灯笼高高挂, 1991)**, Zhang Yimou with Gong Li, was shot at the **Qiao Family Compound (乔家大院)** at Qiaojiabao village in Qixian, Shanxi — a merchant mansion begun in 1756 that the film turned into the emblematic Shanxi courtyard house. It won the Silver Lion for direction at Venice and was nominated for the Academy Award for best foreign film. If you go to the compound, you are walking the set.
 

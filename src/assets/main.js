@@ -143,13 +143,4 @@
     });
   }
 
-  /* --------------------------------------------------- newsletter stub */
-  var form = document.querySelector('[data-newsletter]');
-  if (form && form.getAttribute('action') === '#') {
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      form.innerHTML =
-        '<p style="margin:0">Newsletter provider not connected yet — point the form action at your ESP endpoint in <code>src/content/site.mjs</code>.</p>';
-    });
-  }
 })();

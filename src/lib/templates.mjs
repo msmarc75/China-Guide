@@ -40,18 +40,42 @@ export function productSlot(id) {
 </aside>`;
 }
 
+/**
+ * The newsletter sign-up, or nothing at all.
+ *
+ * WHY IT CAN RENDER NOTHING
+ *
+ * This block used to ship on all 199 pages with `action="#"`, backed by a
+ * script that replaced the form on submit with "Newsletter provider not
+ * connected yet — point the form action at your ESP endpoint". A reader who
+ * typed their address and pressed the button got a note written for a
+ * developer, and their address went nowhere. Asking for something you cannot
+ * receive is worse than not asking, so with no endpoint configured the section
+ * does not exist.
+ *
+ * WHY IT IS A PLAIN FORM POST AND NOT A FETCH
+ *
+ * Every mailing-list provider accepts an ordinary cross-origin form POST and
+ * answers with its own confirmation page. Almost none of them allow a
+ * cross-origin `fetch`, so a JavaScript submit layer would work on one
+ * provider and fail silently on the next — and silently is how you lose
+ * subscribers without knowing. A native POST needs no JavaScript, no CORS
+ * negotiation and no error handling of ours, and it degrades to exactly the
+ * behaviour the provider designed.
+ */
 export function newsletterBlock() {
   const n = MONETISATION.newsletter;
+  if (!n.action) return '';
   return `<section class="newsletter" id="newsletter">
   <div class="newsletter__inner">
     <h2>${escapeHtml(n.heading)}</h2>
     <p>${escapeHtml(n.blurb)}</p>
-    <form class="newsletter__form" action="${n.action}" method="post" data-newsletter>
+    <form class="newsletter__form" action="${escapeHtml(n.action)}" method="post">
       <label class="sr-only" for="nl-email">Email address</label>
       <input id="nl-email" name="email" type="email" required placeholder="you@example.com" autocomplete="email">
       <button class="btn btn--primary" type="submit">${escapeHtml(n.cta)}</button>
     </form>
-    <p class="newsletter__note">No spam. We never sell your address. Unsubscribe any time.</p>
+    <p class="newsletter__note">One email a month. We never sell your address, and every email has a one-click unsubscribe. See the <a href="/privacy/">privacy policy</a>.</p>
   </div>
 </section>`;
 }

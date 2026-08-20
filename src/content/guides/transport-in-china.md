@@ -71,6 +71,8 @@ Chinese railway stations are the size of airports and run on the same logic.
 
 Chinese trains depart to the minute. So do the gates.
 
+The lighter confiscated at security is a clue to the rule that follows: smoking anywhere on a high-speed train, e-cigarettes included, carries a fine and [a 180-day ban on buying rail tickets](/guides/smoking-and-vaping-in-china/) — the harshest routine penalty a visitor can trigger on the network, and the one most likely to end a trip built around it.
+
 **Check which station your ticket names.** Large cities routinely have several — [Wuhan](/destinations/wuhan/) has three main ones — and booking apps sort by journey time, not by convenience. The worst version of this is a station that shares a city's name without being near it: [the high-speed stop for Dunhuang](/answers/which-train-station-should-i-book-for-dunhuang/) is about 130 km from the town.
 
 :::slot partner:trains

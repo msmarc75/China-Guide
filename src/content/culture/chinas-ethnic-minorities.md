@@ -2,7 +2,7 @@
 title: China's Ethnic Minorities
 navTitle: Ethnic Minorities
 metaTitle: "China's Ethnic Minorities: A Traveller's Guide"
-description: Who the 55 recognised minority nationalities are, where the classification came from, where you actually encounter minority regions, and how to visit without treating people as scenery.
+description: Who China's 55 recognised minority nationalities are, where the classification came from, and how to visit minority regions without treating people as scenery.
 standfirst: China recognises 56 nationalities, a number settled only in 1979 after the 1953 census returned more than four hundred names. Knowing how that list was made explains a great deal about what you will see.
 eyebrow: Culture
 order: 10
@@ -47,7 +47,7 @@ What a traveller actually notices is narrower than the constitutional language s
 
 **Guangxi** is the Zhuang autonomous region, though the Zhuang are sufficiently integrated into surrounding Han society that visitors to Guilin and Yangshuo often do not register that they are in a minority region at all.
 
-**Ningxia and the northwest** are Hui heartland — Chinese-speaking Muslims whose visible difference is religious rather than linguistic. The halal cooking described in the [food pillar](/food/beyond-the-eight-cuisines/) is theirs, and it reaches every large Chinese city. See [Yinchuan](/destinations/yinchuan/).
+**Ningxia and the northwest** are Hui heartland — Chinese-speaking Muslims whose visible difference is religious rather than linguistic. The halal cooking described in the [food pillar](/food/beyond-the-eight-cuisines/) is theirs, and it reaches every large Chinese city. See [Yinchuan](/destinations/yinchuan/). If you observe halal yourself, [what the 清真 sign does and does not certify](/guides/halal-travel-in-china/) has changed since 2017 and is worth reading before you rely on it.
 
 **Xinjiang** is Uyghur, Kazakh and several other Turkic-speaking populations, with a food culture and built environment closer to Central Asia than to eastern China. The Tajik towns along [the Karakoram Highway](/answers/do-i-need-a-permit-for-the-karakoram-highway/) are a different world again, and need a border permit.
 

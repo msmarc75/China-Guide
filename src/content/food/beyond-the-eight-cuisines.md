@@ -1,8 +1,8 @@
 ---
 title: Chinese Food Beyond the Eight Cuisines
 navTitle: Beyond the Eight Cuisines
-metaTitle: "Chinese Food Beyond the Eight Cuisines: The Map That Actually Works"
-description: Where the eight great cuisines came from, why the wheat–rice line predicts your dinner better, what each tradition is really built on, and how to order in a cuisine you don't know.
+metaTitle: "Chinese Food Beyond the Eight Cuisines: A Better Map"
+description: Where the eight great cuisines came from, why the wheat–rice line predicts your dinner better, and how to order in a cuisine you don't know.
 standfirst: The eight great cuisines are a useful shorthand and a poor map. They are also far younger than almost anyone assumes — the phrase first reached print in 1980. Here is what actually predicts what you will be eating.
 eyebrow: Food
 order: 7
@@ -79,7 +79,7 @@ The eight-cuisine descriptions tend to list dishes. What distinguishes the tradi
 
 **Jiangnan cooking** — the Jiangsu and Zhejiang traditions around the lower Yangtze — uses noticeably more sugar than the rest of China, in savoury dishes, deliberately. Shanghai's red-braised dishes taste sweet because they are meant to.
 
-**The 清真 (halal) tradition** runs across the northwest and into every large city, cooked by Hui and Uyghur communities. Lamb and beef, wheat, cumin, no pork. It is the single most widespread food culture the eight-cuisine list ignores completely, and in cities like Xi'an, Lanzhou and Yinchuan it is not a minority option but the main event. The communities behind it are covered in [China's ethnic minorities](/culture/chinas-ethnic-minorities/).
+**The 清真 (halal) tradition** runs across the northwest and into every large city, cooked by Hui and Uyghur communities. Lamb and beef, wheat, cumin, no pork. It is the single most widespread food culture the eight-cuisine list ignores completely, and in cities like Xi'an, Lanzhou and Yinchuan it is not a minority option but the main event. The communities behind it are covered in [China's ethnic minorities](/culture/chinas-ethnic-minorities/), and [eating this way as a Muslim visitor](/guides/halal-travel-in-china/) turns on judging the establishment rather than the label.
 
 :::warn Check what a dish is before assuming
 English food writing about China carries a lot of inherited error. Three examples this site has had to correct: the Sichuan cold dish 夫妻肺片 contains no lung despite its name; classic 麻婆豆腐 is made with beef, not pork; and a famous Chengdu bar street that English guides place on a road called 玉林路 is not where they say it is.

@@ -44,6 +44,6 @@ Altitude is the one genuinely dangerous physical risk on standard tourist routes
 
 ## Petty crime
 
-Pickpocketing exists in crowded markets, on packed buses and around major stations. Front pockets, a zipped bag worn in front in crowds, no phone in a back pocket. Standard precautions are sufficient.
+Pickpocketing exists in crowded markets, on packed buses and around major stations. Front pockets, a zipped bag worn in front in crowds, no phone in a back pocket. Standard precautions are sufficient. If they are not — [the recovery procedure is worth knowing in advance](/guides/theft-and-lost-passport-in-china/), because a stolen passport has to be repaired with the Chinese authorities as well as with your own embassy.
 
 Medical care and what to do if you lose your passport are covered in our [health and safety guide](/guides/health-and-safety-in-china/). China splits emergencies across four different numbers rather than one, and [getting a Chinese speaker to make the call matters more than knowing the digits](/answers/what-are-the-emergency-numbers-in-china/).

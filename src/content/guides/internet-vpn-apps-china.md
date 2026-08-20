@@ -70,6 +70,7 @@ A VPN routes your traffic through a server outside China, which restores access 
 
 - Reliability fluctuates. Connections are throttled or dropped during politically sensitive periods — the annual "Two Sessions" in March, major anniversaries, and party congresses.
 - Have **two providers** installed. When one struggles, the other often works.
+- The same store-region rule catches other categories without warning. Dating apps are the clearest recent case: Grindr left the Chinese store in 2022 and the two largest domestic gay apps were ordered off it in November 2025, which is [the practical half of what an LGBT visitor needs to arrange in advance](/guides/lgbt-travel-in-china/).
 - Prefer protocols marketed as obfuscated, stealth or camouflage modes, which are designed to look like ordinary encrypted traffic.
 - Connect over mobile data as well as Wi-Fi; some hotel networks interfere with VPN traffic specifically.
 - Battery drain is significant. Carry a power bank.

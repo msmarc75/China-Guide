@@ -1,8 +1,8 @@
 ---
 title: Dunhuang Travel Guide
 navTitle: Dunhuang
-metaTitle: "Dunhuang Travel Guide: Booking the Mogao Caves Without Wasting the Trip"
-description: A guide to Dunhuang — the Mogao Caves and how their ticketing actually works, the singing sand dunes, the Han frontier passes, and the station mistake that strands people 130 km away.
+metaTitle: "Dunhuang Travel Guide: Booking the Mogao Caves Properly"
+description: A guide to Dunhuang — the Mogao Caves and how ticketing really works, the singing sand dunes, and the station mistake that strands people 130 km away.
 standfirst: Dunhuang is worth the journey, but two things routinely go wrong before anyone arrives: the Mogao tickets and the train station. Both are avoidable if you know about them a month ahead.
 eyebrow: Destination
 place: Dunhuang

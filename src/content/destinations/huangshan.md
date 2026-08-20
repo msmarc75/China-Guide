@@ -26,6 +26,8 @@ related:
 
 Huangshan is the mountain in the paintings. Granite peaks rising abruptly from a valley, pines growing horizontally out of rock faces, and the *yúnhǎi* — the sea of clouds — filling the valleys below the summits after rain. Chinese landscape art has been arguing with this mountain for twelve centuries.
 
+Its standing is artistic rather than religious, which surprises people: Huangshan is not one of [the nine mountains China actually holds sacred](/culture/sacred-mountains-of-china/), and belongs to neither the Taoist nor the Buddhist scheme.
+
 ## How to do it
 
 **Two days with a night on the mountain** is the standard and correct approach. Day trips are possible and mean you miss both sunset and sunrise, which are the entire point — the [longer answer on how the two days actually break down](/answers/how-long-do-you-need-at-huangshan/) covers where the third day goes if you have one.
@@ -37,6 +39,8 @@ Huangshan is the mountain in the paintings. Granite peaks rising abruptly from a
 Three cable cars serve the mountain: **Yungu** (east, to the White Goose Ridge), **Yuping** (south, to Jade Screen), and **Taiping** (north). Most people go up Yungu and down Yuping, or vice versa.
 
 **Walking up** takes about three hours by the eastern steps from Yungu or four hours by the western route — thousands of stone steps, well maintained, and genuinely hard on the knees. Everything on the mountain, including your bags if you pay for a porter, goes up by human labour on shoulder poles.
+
+Staircases rather than trails are the norm on Chinese mountains, and they change what to bring and what the day costs you physically — [why poles beat boots here, and where the marked area legally ends](/guides/hiking-in-china/).
 
 ### The main routes on top
 

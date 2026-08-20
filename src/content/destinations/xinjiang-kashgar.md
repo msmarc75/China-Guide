@@ -50,7 +50,7 @@ The westernmost city in China, closer to Baghdad than to Beijing, and for two th
 
 **Grand Bazaar** — textiles, hats, knives, dried fruit, spices.
 
-**Food** — lamb kebabs over charcoal, *laghman* hand-pulled noodles, *polo* (pilaf), *nan* bread baked in tandoors, samsa pastries, and tea with rock sugar. Genuinely one of the best food regions in China and completely unlike Han Chinese cuisine.
+**Food** — lamb kebabs over charcoal, *laghman* hand-pulled noodles, *polo* (pilaf), *nan* bread baked in tandoors, samsa pastries, and tea with rock sugar. Genuinely one of the best food regions in China and completely unlike Han Chinese cuisine. The kebabs are the source rather than a local variant: [the barbecue culture the whole country now eats](/food/chinese-barbecue/) took its cumin-and-chilli lamb from here.
 
 ## The Karakoram Highway
 

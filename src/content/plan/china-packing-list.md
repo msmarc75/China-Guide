@@ -21,6 +21,8 @@ related:
 
 The general rule: **China manufactures most of the world's consumer goods and sells them to itself at low prices**. Forgetting your shampoo, charger cable, umbrella or a warm layer is a ¥30 problem solved at any convenience store. Do not over-pack.
 
+Nappies and formula follow that rule and need only be packed for the first two days. A car seat does not, and is [the one bulky thing a family genuinely has to carry in](/plan/china-with-children/).
+
 A short list of exceptions genuinely matters.
 
 ## The eight things to bring from home
@@ -72,6 +74,8 @@ Drone flight in China requires real-name registration of the aircraft, and large
 
 **Everywhere:** genuinely comfortable walking shoes. A sightseeing day in Beijing routinely covers 15–20 km.
 
+Packing light only works if you can wash things, and quick-drying fabrics earn their place because [tumble dryers are not something to count on in China](/guides/laundry-in-china/) — clothes are hung out, not heated dry.
+
 **Modesty:** China is relaxed about dress in cities. Shorts, vests and short skirts are unremarkable in Shanghai and Guangzhou. Cover shoulders and knees when visiting active Buddhist or Taoist temples, and dress conservatively in Xinjiang and rural Tibetan areas.
 
 :::slot ad:mid-article
@@ -96,6 +100,7 @@ Drone flight in China requires real-name registration of the aircraft, and large
 - **A lot of cash in USD** — exchanging is bureaucratic; use ATMs and Alipay
 - **Anything politically sensitive in print** — material on Tibetan independence, Taiwan independence, Falun Gong or religious proselytising literature can be confiscated at customs
 - **More than 1 kg of loose-leaf tea or excessive quantities of any single product**, which can attract customs attention on the way out
+- **A case you cannot lift over your head** — Chinese trains have no baggage hold, so it goes in the overhead rack yourself, and [the weight and size limits are real numbers](/guides/luggage-and-left-luggage-in-china/) even if they are loosely enforced
 
 ## The pre-departure phone setup
 

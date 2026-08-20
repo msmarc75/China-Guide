@@ -84,6 +84,8 @@ More on ordering in our [guide to ordering food in China](/food/how-to-order-foo
 - **Night trains:** soft-sleeper compartments are mixed-gender by default and this is entirely normal. If it makes you uncomfortable, book the top bunk in a hard sleeper (more open, more people around) or take a day train.
 - **Bar and nightlife districts** — Sanlitun in Beijing, the Bund and Found 158 in Shanghai — have the same risks as anywhere: watch your drink, leave with people you came with, take DiDi home.
 
+Travelling alone raises a separate set of questions if you are gay, lesbian, bisexual or trans — none of them about policing, and most of them about apps and paperwork. [What the law actually says, and what has closed since 2016](/guides/lgbt-travel-in-china/) separates the two.
+
 ## Frequently asked questions
 
 ### Is China safe for solo female travellers?

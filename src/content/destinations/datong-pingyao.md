@@ -36,6 +36,8 @@ A coal city near the Inner Mongolian border with two world-class sites nearby, 1
 
 The significance is stylistic as much as devotional: you can watch Gandharan and Central Asian conventions transform into recognisably Chinese ones as you move through the caves chronologically. Caves 5, 6, 9, 10, 12 and 20 are the essential ones; cave 6 in particular is a floor-to-ceiling narrative of the Buddha's life, still carrying traces of pigment.
 
+The carving tails off here for a specific reason: in 493 the Northern Wei moved their capital to Luoyang and the imperial workshops went with them, which is where [the Longmen grottoes take the story up](/destinations/luoyang/). Yungang and Longmen are one undertaking in two places, and whichever you see first sets up the other.
+
 Allow three hours. Go on a weekday.
 
 ### Hanging Monastery (Xuankong Si)
@@ -68,6 +70,8 @@ What to see:
 - **Zhenguo Temple** — a 10th-century hall with original statuary
 
 Pingyao is heavily commercialised on its two main streets and quiet everywhere else. Stay inside the walls in a converted courtyard inn; the atmosphere after the day-trippers leave is the point.
+
+Both cities sit on the rail line between Beijing and Xi'an, which makes them the natural first half of [a slower Beijing-to-Shanghai route](/itineraries/slow-east-china-itinerary/) rather than a detour off the classic one.
 
 **Wang Family Compound** and **Qiao Family Compound** — enormous merchant estates 30–40 km away. The Qiao compound is where *Raise the Red Lantern* was filmed and is consequently busy; the Wang compound is four times larger and quieter.
 

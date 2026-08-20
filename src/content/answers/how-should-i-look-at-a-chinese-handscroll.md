@@ -2,7 +2,7 @@
 title: How Should I Look at a Chinese Handscroll?
 question: How should I look at a Chinese handscroll?
 navTitle: Reading a handscroll
-metaTitle: "How Should I Look at a Chinese Handscroll? Right to Left, in Sections"
+metaTitle: "How Should I Look at a Chinese Handscroll? Right to Left"
 description: Right to left, a section at a time, as a journey rather than a picture. The seals and inscriptions are later owners writing on the work, not part of it.
 standfirst: **Right to left, a section at a time.** A handscroll was never meant to be seen all at once — it was unrolled about a shoulder's width at a time and rolled up behind you, so it unfolds like a journey rather than presenting itself like a framed picture.
 eyebrow: Answer

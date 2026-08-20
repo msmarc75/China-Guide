@@ -1,8 +1,8 @@
 ---
 title: Wuhan Travel Guide
 navTitle: Wuhan
-metaTitle: "Wuhan Travel Guide: The Bells of Marquis Yi, the Yangtze Bridge and Three Cities in One"
-description: A guide to Wuhan — the Hubei Provincial Museum's 2,400-year-old bell set, where the 1911 revolution began, the first bridge over the Yangtze, and an honest account of the Yellow Crane Tower.
+metaTitle: "Wuhan Travel Guide: The Bells of Marquis Yi and Three Cities"
+description: A guide to Wuhan — the Hubei Provincial Museum's 2,400-year-old bell set, where the 1911 revolution began, and an honest account of the Yellow Crane Tower.
 standfirst: Wuhan is three old cities welded into one by the Yangtze, and it holds one of the greatest archaeological finds ever made in China. It is also where the revolution that ended two thousand years of imperial rule began, on a single night in October 1911.
 eyebrow: Destination
 place: Wuhan

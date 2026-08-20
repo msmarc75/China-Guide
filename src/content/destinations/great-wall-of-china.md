@@ -72,6 +72,8 @@ Simatai is steep, dramatic and requires a timed booking. It is the **only sectio
 
 Completely unrestored: collapsing brick, sheer unprotected drops, sections requiring hands-and-feet scrambling on loose masonry. It is spectacular and it is where the famous photographs come from. It is also officially closed, and people have died there. Go only with an experienced guide, in dry weather, with proper footwear — or take Huanghuacheng instead for a ruined-wall feel with far less risk.
 
+"Officially closed" understates the position: climbing non-open sections is prohibited in Beijing and actively monitored, and [what that now costs a visitor who is caught](/guides/hiking-in-china/) is a separate matter from how dangerous the masonry is.
+
 :::slot partner:tours
 :::
 

@@ -75,6 +75,8 @@ These are concentrated in a small number of tourist locations and follow scripts
 
 Pickpocketing exists in crowded markets, on packed buses and at major tourist sites, particularly in Guangzhou, Shenzhen and around Beijing West railway station. Standard precautions are sufficient: front pockets, a zipped bag worn in front in crowds, no phone in a back pocket. Bag-snatching from scooters is rare but not unknown in southern cities.
 
+Prevention is the easy half. [What to do once something has actually gone](/guides/theft-and-lost-passport-in-china/) — the report your insurer will demand, and the order to approach the police and your embassy in if the passport went with it — is the half worth reading before you need it.
+
 Violent crime, mugging and armed robbery against tourists are genuinely uncommon.
 
 :::slot partner:insurance
@@ -86,7 +88,7 @@ Violent crime, mugging and armed robbery against tourists are genuinely uncommon
 
 **International clinics and VIP wings.** In Beijing, Shanghai, Guangzhou, Chengdu and Shenzhen there are Western-standard private clinics — United Family, Raffles Medical, ParkwayHealth, Global Doctor — with English-speaking doctors and direct insurance billing. They are expensive (a consultation runs ¥800–1,500) and they are what your travel insurance is for.
 
-**Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need.
+**Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need — emphatically including adrenaline, which is one of several reasons [a severe food allergy needs planning before you fly](/food/food-allergies-in-china/) rather than after you land.
 
 **Travel insurance is not optional.** A serious problem in a remote area — evacuation from the Tibetan plateau, for instance — costs tens of thousands of dollars. Check that your policy covers altitude above 3,000 m if you are going to Tibet or Shangri-La, and covers scooter riding if you plan to rent one.
 
@@ -160,8 +162,7 @@ Operators on 110 and 120 rarely speak English. Practical approach: ask a bystand
 - **Photography.** Do not photograph military installations, police, security checkpoints or protests. Airport and station security are also generally off-limits.
 - **Politics.** Discussing sensitive topics (Taiwan, Xinjiang, Tibet, Tiananmen 1989) publicly or on Chinese social media can create problems for the Chinese people you are talking to, more than for you. Read the room.
 - **Drones** require registration, and most cities and scenic areas are no-fly zones.
-- **Smoking** is banned indoors in most major cities but the rule is enforced unevenly.
-- **Vaping** is restricted, and flavoured e-liquids are banned from sale; bringing a personal device is generally tolerated but nicotine liquid is not sold.
+- **Smoking and vaping** are governed city by city rather than nationally, so the same sign means different things in Beijing and in a small provincial city. On a high-speed train the rule is absolute and the penalty severe — [which cities enforce it, and what a train costs you](/guides/smoking-and-vaping-in-china/) sets out both, along with why flavoured e-liquid is not on sale anywhere in the country.
 
 ## Solo and female travellers
 

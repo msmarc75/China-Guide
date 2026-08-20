@@ -2,7 +2,7 @@
 title: How Far Is Chongqing from Chengdu?
 question: How far is Chongqing from Chengdu?
 navTitle: Chengdu to Chongqing
-metaTitle: "How Far Is Chongqing from Chengdu? About 300 km, Just Over an Hour"
+metaTitle: "How Far Is Chongqing from Chengdu? 300 km, Just Over an Hour"
 description: About 300 km apart, and just over an hour by high-speed rail with departures all day. The thing to check is which station your ticket names.
 standfirst: About **300 km**, and just over an hour by high-speed rail — the Chengdu–Chongqing line runs 308 km and carries well over a hundred trains a day, so this is a hop rather than a journey. The only thing that catches people out is that both cities have several stations, and they are nowhere near each other.
 eyebrow: Answer

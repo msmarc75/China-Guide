@@ -2,7 +2,7 @@
 title: What Gifts Should You Avoid Giving in China?
 question: What gifts should you avoid giving in China?
 navTitle: Gifts to avoid
-metaTitle: "What Gifts Should You Avoid Giving in China? Clocks, Pears, Umbrellas"
+metaTitle: "What Gifts Should You Avoid in China? Clocks, Pears, Umbrellas"
 description: Avoid clocks, sharp objects, pears, umbrellas, shoes, green hats and white or black wrapping. Most of the taboos are homophones for something unlucky.
 standfirst: Avoid **clocks, knives and scissors, pears, umbrellas, shoes, anything green worn on the head**, and white or black wrapping. Almost every taboo on that list is a pun: the Chinese word for the object sounds like the word for something you would not wish on anyone.
 eyebrow: Answer
@@ -23,7 +23,7 @@ Nobody expects a foreign visitor to know these, and getting one wrong will be fo
 - **Pears.** 梨 (*lí*) sounds like 离 (*lí*), to part or separate. Avoid especially with couples — and note that sharing a pear by cutting it in half is avoided for the same reason.
 - **An umbrella.** 伞 (*sǎn*) sounds like 散 (*sàn*), to scatter or break up.
 - **Shoes.** 鞋 (*xié*) is a near-homophone of 邪 (*xié*), evil, and the phrase 穿小鞋 (*chuān xiǎo xié*) — "to wear tight shoes" — means to be quietly persecuted by someone.
-- **Anything in fours.** 四 (*sì*) sounds like 死 (*sǐ*), death. Give six or eight of a thing, never four.
+- **Anything in fours.** 四 (*sì*) sounds like 死 (*sǐ*), death. Give six or eight of a thing, never four. This is the one number taboo with consequences beyond gifts — [it is why the lift panel skips floors](/culture/chinese-lucky-numbers/).
 
 ## The non-pun ones
 

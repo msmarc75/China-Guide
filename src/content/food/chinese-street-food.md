@@ -24,10 +24,12 @@ related:
 
 The best street food in China is served between 06:00 and 10:00, not at night. Night markets exist and are fun, but they are increasingly aimed at tourists; the morning stalls outside a residential compound are aimed at people going to work, and the food is better.
 
+The one thing genuinely worth eating after dark is not in the night market either. [Charcoal barbecue is a format of its own](/food/chinese-barbecue/), it runs past midnight, and it happens on ordinary residential streets rather than anywhere with a sign in English.
+
 **The core breakfast repertoire:**
 
 - **Jianbing (煎饼)** — a thin batter crêpe cooked on a griddle, egg cracked on top, spread with sauce and chilli, filled with a crisp fried cracker, coriander and spring onion, then folded. ¥8–15. The single best street food in China
-- **Baozi (包子)** — steamed buns filled with pork, vegetables or red bean. ¥2–5 each
+- **Baozi (包子)** — steamed buns filled with pork, vegetables or red bean. ¥2–5 each. Leavened dough, so this is bread rather than a dumpling — [the distinction that sorts out the whole category](/food/chinese-dumplings/)
 - **Youtiao (油条)** — a long fried dough stick, dipped in warm soy milk (*doujiang*). The classic pairing
 - **Congee (粥)** — rice porridge with pickles, preserved egg, pork floss
 - **Shaobing** — layered sesame flatbread, sometimes split and filled

@@ -2,7 +2,7 @@
 title: How Do I Get to Jianshui from Kunming?
 question: How do I get to Jianshui from Kunming?
 navTitle: Kunming to Jianshui
-metaTitle: "How Do I Get to Jianshui from Kunming? Under Two Hours from Kunming South"
+metaTitle: "How Do I Get to Jianshui from Kunming? Under Two Hours by Rail"
 description: Take a C-series intercity train from Kunming South — not Kunming station — to Jianshui, via Yuxi and Tonghai. Under two hours on the fastest service.
 standfirst: Take an intercity train from **Kunming South** (昆明南站), not from Kunming's central station — this trips people up, because the two are on opposite sides of the city. The run to Jianshui goes via Yuxi and Tonghai and takes **under two hours** on the quicker services.
 eyebrow: Answer

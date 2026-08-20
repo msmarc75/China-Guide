@@ -2,7 +2,7 @@
 title: Where to Eat in Shanghai
 navTitle: Restaurants
 metaTitle: "Where to Eat in Shanghai: 9 Old-Guard Restaurants With Addresses"
-description: Nine 老字号 Shanghai institutions with Chinese names, addresses in Chinese characters and nearest metro — xiaolongbao, benbang cuisine, hairy crab and white-cut chicken.
+description: Nine 老字号 Shanghai institutions with Chinese names, addresses in characters and nearest metro — xiaolongbao, benbang cuisine, hairy crab, white-cut chicken.
 standfirst: Nine institutions, most of them state-recognised 老字号, several trading since the Qing. Each carries its Chinese name, its address in Chinese characters and the nearest metro — the details that get you through the door rather than past it.
 eyebrow: Shanghai
 order: 2
@@ -36,7 +36,7 @@ For Xiao Shaoxing and Guangmingcun the metro connection is stated by the sources
 
 ## What to order where
 
-**Xiaolongbao.** Nanxiang, in the Yu Garden bazaar, has been folding them since 1900 to a fixed specification — a set skin weight, a set filling weight, sixteen pleats. The queue is long and splits by counter: takeaway downstairs, sit-down upstairs. It is touristed and still good.
+**Xiaolongbao.** Nanxiang, in the Yu Garden bazaar, has been folding them since 1900 to a fixed specification — a set skin weight, a set filling weight, sixteen pleats. The dumpling itself is older than the shop: it was created in 1871 in Nanxiang town, out in what is now Jiading, and only reached the city god temple around the turn of the century. The queue is long and splits by counter: takeaway downstairs, sit-down upstairs. It is touristed and still good. If you have not eaten one before, [the technique is worth two minutes of reading first](/food/chinese-dumplings/) — they come out of the steamer hot enough to burn.
 
 **Benbang classics.** Shanghai Lao Fandian dates from 1875 and holds national intangible-heritage status for traditional Shanghainese cooking technique. Order 八宝鸭 (eight-treasure duck) or 油爆河虾 (flash-fried river shrimp). Lu Bo Lang, beside the Nine-Bend Bridge, is the one that has fed a long list of visiting heads of state and is known for its pastry as much as its mains.
 

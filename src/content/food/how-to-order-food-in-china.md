@@ -1,7 +1,7 @@
 ---
 title: How to Order Food in China
 navTitle: How to order
-metaTitle: "How to Order Food in China Without Speaking Chinese"
+metaTitle: "How to Order Food in China: Menus, Portions and Paying"
 description: A practical guide to eating out in China — reading menus, ordering without Chinese, portion sizes, paying, and the mistakes foreign visitors make.
 standfirst: The mechanics of a Chinese restaurant are different enough that the first meal is often stressful. It stops being stressful once you know five things.
 eyebrow: Food
@@ -87,6 +87,8 @@ Chinese restaurant portions assume a table. A solo diner ordering two dishes wil
 
 For eating alone, order from the **noodle, rice-bowl, dumpling and small-eats sections**, which are single-serving by design. Malatang and food courts are ideal. Say 一个人 (*yí ge rén*, "one person") at the door and you will be seated appropriately.
 
+The dumpling section has its own unit of measure, which catches people out: in much of the north they are sold by weight of dough rather than by the piece, so [the number on the menu may not be a count](/food/chinese-dumplings/).
+
 Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely normal.
 
 ## Dietary requirements
@@ -95,7 +97,7 @@ Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely norma
 - **Vegetarian:** 我吃素 (*wǒ chī sù*) is the clearest phrase and is understood as Buddhist vegetarianism. Even then, chicken stock and oyster sauce are common; see [vegetarian and vegan travel in China](/food/vegetarian-vegan-in-china/).
 - **No chilli:** 不要辣 (*bú yào là*). In Sichuan and Hunan this may be interpreted generously; 一点辣都不要 ("not even a little spice") is more emphatic.
 - **No coriander:** 不要香菜 (*bú yào xiāng cài*). Worth knowing — it appears in a great deal.
-- **Allergies:** serious ones need a written card in Chinese naming the allergen and the consequence. Peanut oil is used widely, sesame and soy are everywhere, and shellfish appears in sauces. Do not rely on verbal explanation.
+- **Allergies:** serious ones need a written card in Chinese naming the allergen and the consequence. Peanut oil is used widely, sesame and soy are everywhere, and shellfish appears in sauces. Do not rely on verbal explanation — and note that the shared wok, rather than the recipe, is [the risk a clear request cannot remove](/food/food-allergies-in-china/).
 - **Halal:** look for the 清真 (*qīngzhēn*) sign, common in Xi'an, Xinjiang, Gansu, Ningxia and near any mosque.
 
 ## Drinks

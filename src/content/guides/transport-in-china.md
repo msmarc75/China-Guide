@@ -49,7 +49,7 @@ For a two-week trip you will use G trains almost exclusively, with perhaps one Z
 
 ### How to book
 
-**Option 1 — 12306, the official app.** The China Railway app now has a full English interface, accepts foreign passports as ID and takes international cards through Alipay. It is the cheapest route (face value, no mark-up) and gives you the full inventory. Register with your passport number exactly as printed; a mismatch will stop you at the gate.
+**Option 1 — 12306, the official app.** The China Railway app now has a full English interface, accepts foreign passports as ID and takes international cards through Alipay. It is the cheapest route (face value, no mark-up) and gives you the full inventory. Register with your passport number exactly as printed; a mismatch will stop you at the gate. Register each child too — [since 2023 a child's fare depends on their age rather than their height, and is bought against their own passport](/plan/china-with-children/).
 
 **Option 2 — Trip.com or similar.** A small service fee (¥15–30 per ticket) buys a friendlier interface, English customer support and easier refunds. Worth it if 12306's verification gives you trouble.
 
@@ -66,10 +66,12 @@ Chinese railway stations are the size of airports and run on the same logic.
 1. **Arrive 40 minutes early.** Beijing South, Shanghai Hongqiao and Guangzhou South are enormous, and you will queue.
 2. **Security screening at the entrance** — bags through an X-ray, a body scan, and liquids inspected. Lighters and large power banks are confiscated.
 3. **Find your waiting hall and gate** on the departure board. Boards show train number, destination and gate (检票口).
-4. **Gates open ~15 minutes before and close 3–5 minutes before departure.** They close. The train leaves without you.
+4. **Gates open ~15 minutes before and close 3–5 minutes before departure.** They close. The train leaves without you — though [not with your money](/guides/missed-trains-and-refunds-in-china/): a missed ticket can be switched to another train the same day, free, until midnight.
 5. **Scan your passport at the gate**, walk to the platform and find your carriage number, marked on the platform floor.
 
 Chinese trains depart to the minute. So do the gates.
+
+The lighter confiscated at security is a clue to the rule that follows: smoking anywhere on a high-speed train, e-cigarettes included, carries a fine and [a 180-day ban on buying rail tickets](/guides/smoking-and-vaping-in-china/) — the harshest routine penalty a visitor can trigger on the network, and the one most likely to end a trip built around it.
 
 **Check which station your ticket names.** Large cities routinely have several — [Wuhan](/destinations/wuhan/) has three main ones — and booking apps sort by journey time, not by convenience. The worst version of this is a station that shares a city's name without being near it: [the high-speed stop for Dunhuang](/answers/which-train-station-should-i-book-for-dunhuang/) is about 130 km from the town.
 
@@ -81,7 +83,7 @@ Chinese trains depart to the minute. So do the gates.
 Still useful for distances the train cannot handle sensibly: Beijing to Kunming, anywhere to Urumqi, Chengdu to Lhasa, or the leg to [Sanya](/destinations/sanya-hainan/).
 
 - **Book on Trip.com** or directly with China Eastern, Air China or China Southern.
-- **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections.
+- **Delays are common**, especially in summer thunderstorm season and around Beijing and Shanghai. Build slack into connections — and note that a weather delay leaves you paying for your own hotel, while [being diverted or stranded at a stopover puts the bill on the airline](/guides/flight-delays-in-china/) whatever the cause.
 - **Umetrip** is the app locals use for real-time status; it is more accurate than the airline apps.
 - **Power bank rules**: since 2025, power banks on Chinese domestic flights must show a valid CCC certification mark, and uncertified units are confiscated at security. [What this means for a power bank bought abroad](/answers/can-i-bring-a-power-bank-to-china/) is worth reading before you fly domestically.
 - **ID at the airport** is your passport, scanned at check-in and again at security.
@@ -98,6 +100,7 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 - **Pay** by opening the transport QR code inside Alipay (*Transport* → select city) and scanning at the gate on entry and exit. This works in almost every major city and needs no local card.
 - **Security screening** on entry: bags go through a scanner. Allow an extra two minutes at rush hour. It applies to [every metro system in the country](/answers/do-i-need-to-go-through-security-on-the-chinese-metro/), not just the capital.
 - **Rush hours** (07:30–09:30, 17:30–19:30) in Beijing, Shanghai and Guangzhou are genuinely crowded.
+- **Step-free access** varies by the age of the line. Beijing finished upgrading its whole network in 2022, but older stations use staff-operated lift platforms rather than passenger lifts — [what that means in practice, and why the street outside is the harder part](/guides/accessible-travel-in-china/).
 
 ### Taxis and DiDi
 
@@ -119,6 +122,8 @@ Traffic is the biggest genuine physical risk to a visitor in China. Right turns 
 ## Long-distance buses
 
 Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mountain areas, and the last leg to scenic parks. Modern sleeper coaches are reasonable; rural minibuses are not. Buy at the station counter with your passport, or through the local bus mini-program on Alipay. Journeys are slow and roads in the mountains are winding.
+
+Coach travel has its own rulebook, closer to the railway's than to a European bus network's: [tickets are real-name on any route crossing a province or a prefecture](/guides/long-distance-buses-in-china/), a lost ticket must be reissued free, and an overnight coach is legally obliged to stop or change drivers between 02:00 and 05:00.
 
 ## Boats and ferries
 
@@ -149,6 +154,10 @@ Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mou
 ### How do I book train tickets in China as a foreigner?
 
 Use the official **12306** app, which has an English interface, accepts foreign passports as ID and takes international cards through Alipay. Alternatively use Trip.com for a small service fee and English support. Tickets are electronic — your passport is the ticket, scanned at the gate. For how far ahead the booking window opens and what to do when a train sells out, see [can I book Chinese train tickets in advance?](/answers/can-i-book-chinese-train-tickets-in-advance/) During *chunyun*, the forty-day travel surge around [Chinese New Year](/answers/when-is-chinese-new-year/), book on the day the window opens or not at all.
+
+### How much luggage can I take on a Chinese train?
+
+Twenty kilograms for an adult and ten for a child, with a single item limited to 130 cm for length plus width plus height on high-speed trains. There is no baggage hold and no check-in — every bag goes through the scanner with you and rides in the carriage, which is [the constraint that decides what suitcase to bring](/guides/luggage-and-left-luggage-in-china/).
 
 ### Do I need to print my Chinese train ticket?
 

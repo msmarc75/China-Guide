@@ -2,8 +2,8 @@
 title: When Are the Longji Rice Terraces at Their Best?
 question: When are the Longji rice terraces at their best?
 navTitle: Longji terraces timing
-metaTitle: "When Are the Longji Rice Terraces at Their Best? Two Narrow Windows"
-description: Two windows — a fortnight in late spring when the terraces are flooded and mirror the sky, and mid-September until the harvest begins after 1 October, when they turn gold.
+metaTitle: "When Are the Longji Rice Terraces Best? Two Narrow Windows"
+description: Two windows — a fortnight in late spring when the flooded terraces mirror the sky, and mid-September to the harvest after 1 October, when they turn gold.
 standfirst: Two narrow windows, and they look nothing like each other. For about **a fortnight in late spring** the terraces are flooded and unplanted, so they mirror the sky. From **mid-September until the harvest starts after 1 October** they are gold. Between and after those, they are green or bare.
 eyebrow: Answer
 order: 87

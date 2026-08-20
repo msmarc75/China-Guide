@@ -2,7 +2,7 @@
 title: Should I Stay in Guilin or Yangshuo?
 question: Should I stay in Guilin or Yangshuo?
 navTitle: Guilin or Yangshuo
-metaTitle: "Should I Stay in Guilin or Yangshuo? Yangshuo, Almost Without Exception"
+metaTitle: "Should I Stay in Guilin or Yangshuo? Yangshuo, Nearly Always"
 description: Yangshuo. Guilin is where the airport and station are, but the karst landscape you came for is downstream, and Yangshuo sits in the middle of it.
 standfirst: **Yangshuo**, almost without exception. Guilin is a pleasant mid-sized city that happens to hold the airport and the railway station; the landscape everyone comes for is the countryside downstream, and Yangshuo sits in the middle of it rather than an hour away from it.
 eyebrow: Answer

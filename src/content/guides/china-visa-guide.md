@@ -40,6 +40,8 @@ Countries covered include most of the European Union (France, Germany, Italy, Sp
 
 **What it means in practice:** book a flight, land, present your passport and a completed arrival card, get a stamp. No application, no fee, no invitation letter, no itinerary to submit.
 
+Note that **business is a named purpose here**, not a tolerated one, so a week of meetings or a trade fair needs no visa at all if your passport is on the list. Where that stops — and it does stop, sharply, at anything the rules count as work — is set out in [the trip you can and cannot make on this stamp](/guides/business-travel-in-china/).
+
 **What you still need:**
 
 - A passport valid for at least six months

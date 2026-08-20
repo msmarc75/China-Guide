@@ -1,7 +1,7 @@
 ---
 title: Yinchuan Travel Guide
 navTitle: Yinchuan
-metaTitle: "Yinchuan Travel Guide: The Western Xia Tombs, China's Newest World Heritage Site"
+metaTitle: "Yinchuan Travel Guide: The Western Xia Tombs, New World Heritage"
 description: A guide to Yinchuan in Ningxia — the Western Xia imperial tombs inscribed by UNESCO in 2025, Helan Mountain rock art, Tangut history and China's best wine region.
 standfirst: In July 2025 the tombs of a forgotten empire became China's sixtieth World Heritage site. The Tangut state they belonged to was erased so thoroughly by the Mongols that its writing could not be read again for six hundred years.
 eyebrow: Destination

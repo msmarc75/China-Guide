@@ -90,7 +90,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 
 ### Slow east
 
-**Beijing → Datong → Pingyao → Xi'an → Luoyang → Nanjing → Suzhou → Hangzhou → Shanghai.** Grottoes, walled cities, Ming tombs and classical gardens, entirely by rail, with almost no other foreign visitors outside the big two cities.
+**Beijing → Datong → Pingyao → Xi'an → Luoyang → Nanjing → Suzhou → Hangzhou → Shanghai.** Grottoes, walled cities, Ming tombs and classical gardens, entirely by rail, with almost no other foreign visitors outside the big two cities. [Written out stop by stop, with the nights each city needs](/itineraries/slow-east-china-itinerary/), it runs to sixteen days — and it goes roughly forward in time, which is the reason to take it in that direction.
 
 ## Budget
 
@@ -107,7 +107,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 
 ## Practical notes for a long trip
 
-- **Laundry** — most hostels and many hotels offer it for ¥20–40 a load. Pack for a week, not three.
+- **Laundry** — most hostels and many hotels offer it for ¥20–40 a load. Pack for a week, not three. [Which hotels have a machine you can use yourself](/guides/laundry-in-china/) is worth knowing before you book the mid-trip stop, because the cheap Chinese chains are likelier to than the expensive international ones.
 - **Pace** — build one genuinely empty day per week. You will need it.
 - **Rail booking** — the pre-sale window is around two weeks, so book legs progressively as you travel rather than all at once before departure.
 - **Altitude** — Lijiang is 2,400 m and the Jade Dragon cable car reaches 4,506 m. Take it slowly.

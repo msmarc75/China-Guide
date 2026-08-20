@@ -203,7 +203,6 @@ ${page.updated ? `<meta property="article:modified_time" content="${page.updated
 <link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(SITE.name)}" href="/feed.xml">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="/assets/styles.css?v=${BUILD_ASSET_VERSION}">
 ${page.hreflang || ''}
 ${page.schema || ''}

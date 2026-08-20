@@ -150,6 +150,33 @@ for (const required of ['sitemap.xml', 'robots.txt', 'feed.xml', 'search-index.j
   if (!fs.existsSync(path.join(DIST, required))) errors.push(`missing ${required}`);
 }
 
+// No preconnect to a host nothing on the page then loads.
+//
+// Every page carried `<link rel="preconnect" href="https://fonts.googleapis.com">`
+// while the stylesheet used pure system font stacks and no page ever requested
+// a Google font. That is a DNS lookup, a TCP connection and a TLS handshake
+// per page load, to a third party, for nothing — and fonts.googleapis.com is
+// blocked in mainland China, so on a China travel guide a large share of
+// readers were paying for a connection that could only hang.
+//
+// A preconnect is a promise about a request that follows. If the request is
+// gone the promise has to go with it, and nothing was checking.
+const HINT_TAG = /<link[^>]+rel="(?:preconnect|dns-prefetch)"[^>]*>/g;
+for (const file of htmlFiles) {
+  const html = fs.readFileSync(file, 'utf8');
+  const url = `/${path.relative(DIST, file).replace(/\\/g, '/').replace(/index\.html$/, '')}`;
+  // The hint tags must come out before asking whether the host is used — a
+  // preconnect's own href otherwise counts as the request it is promising,
+  // so the check passes on exactly the input it exists to reject. The first
+  // version of this had that bug and sabotage is what surfaced it.
+  const rest = html.replace(HINT_TAG, '');
+  for (const m of html.matchAll(/<link[^>]+rel="(?:preconnect|dns-prefetch)"[^>]+href="(https?:\/\/[^"]+)"/g)) {
+    const host = new URL(m[1]).host;
+    const used = new RegExp(`(?:src|href)="https?://${host.replace(/\./g, '\\.')}`).test(rest);
+    if (!used) errors.push(`${url} — preconnect to ${host}, which the page never requests`);
+  }
+}
+
 console.log(`Checked ${htmlFiles.length} pages.`);
 if (warnings.length) {
   console.log(`\n${warnings.length} warning(s):`);

@@ -25,7 +25,8 @@
     "audit:inbound": "node tools/audit-inbound-links.mjs",
     "audit:orphans": "node tools/find-orphan-questions.mjs",
     "audit:topics": "node tools/audit-topic-coverage.mjs",
-    "audit:anchors": "node tools/audit-anchor-text.mjs"
+    "audit:anchors": "node tools/audit-anchor-text.mjs",
+    "audit:duplication": "node tools/audit-duplication.mjs"
   },
   "engines": {
     "node": ">=18"

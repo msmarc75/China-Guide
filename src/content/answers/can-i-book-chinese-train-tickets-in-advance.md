@@ -28,6 +28,8 @@ Two routes, and the choice is a genuine trade-off rather than an obvious one.
 
 A service fee of roughly ¥15–30 per ticket buys a friendlier interface, English customer support and easier refunds. If 12306's verification gives you trouble — and it sometimes does for foreign numbers — this is the pragmatic fallback rather than a compromise.
 
+Book early with less hesitation than you might expect: [cancelling eight or more days before departure costs nothing at all](/guides/missed-trains-and-refunds-in-china/), and changing a booking is normally free too.
+
 ## When tickets go on sale
 
 The pre-sale window has been adjusted repeatedly. Plan on tickets becoming available around **two weeks before departure** and confirm on 12306 rather than trusting any blog, including this one, on the exact number of days.

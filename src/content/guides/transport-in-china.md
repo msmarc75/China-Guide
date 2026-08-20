@@ -66,7 +66,7 @@ Chinese railway stations are the size of airports and run on the same logic.
 1. **Arrive 40 minutes early.** Beijing South, Shanghai Hongqiao and Guangzhou South are enormous, and you will queue.
 2. **Security screening at the entrance** — bags through an X-ray, a body scan, and liquids inspected. Lighters and large power banks are confiscated.
 3. **Find your waiting hall and gate** on the departure board. Boards show train number, destination and gate (检票口).
-4. **Gates open ~15 minutes before and close 3–5 minutes before departure.** They close. The train leaves without you.
+4. **Gates open ~15 minutes before and close 3–5 minutes before departure.** They close. The train leaves without you — though [not with your money](/guides/missed-trains-and-refunds-in-china/): a missed ticket can be switched to another train the same day, free, until midnight.
 5. **Scan your passport at the gate**, walk to the platform and find your carriage number, marked on the platform floor.
 
 Chinese trains depart to the minute. So do the gates.

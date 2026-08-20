@@ -58,6 +58,8 @@ Since 2025, Chinese carriers require power banks carried on domestic flights to 
 | Power bank | See the CCC warning above |
 | Cables and a multi-port charger | One charger, three cables beats three chargers |
 | Headphones | Trains, flights, and the noise-cancelling case for shared carriages |
+
+On day trains there is a booking-side answer as well: D and G services offer an opt-in quiet coach at no extra fare, and [choosing one at the point of purchase](/answers/what-is-a-silent-carriage-on-a-chinese-train/) does more for a working journey than any headphone will.
 | Camera | Optional; phone cameras are fine, but drones are heavily restricted — see below |
 
 :::warn Drones

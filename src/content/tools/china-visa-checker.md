@@ -2,8 +2,8 @@
 title: China Visa Checker
 navTitle: Visa checker
 metaTitle: "China Visa Checker: Do You Need a Visa for China?"
-description: Find out in one click whether your passport needs a visa for China, or qualifies for 30-day visa-free entry, 240-hour transit or the Hainan scheme.
-standfirst: Pick your passport, say how long you are staying and whether you leave to a third country. The tool tells you which of China's four entry routes applies to you, and what each one requires.
+description: Answer five questions about your passport and your trip and find out whether you need a visa for China, or qualify for 30-day visa-free entry, 240-hour transit or the Hainan scheme.
+standfirst: Five questions — your passport, your reason for travelling, how many nights you are staying, whether you leave to a third country, and whether you are only visiting Hainan. The tool tells you which of China's four entry routes applies to you, and what each one requires.
 eyebrow: Tool
 order: 1
 updated: 2026-08-19

@@ -37,7 +37,7 @@ If your itinerary returns to the mainland after Hong Kong, you need one of:
 - **unilateral visa-free eligibility**, which now covers fifty nationalities for 30 days and renews on each entry
 - **240-hour transit eligibility**, subject to its own rules
 
-Check which applies before you book the return leg, not after.
+Check which applies before you book the return leg, not after — [the entry-route tool works through your passport, your nights and your onward routing](/tools/china-visa-checker/) and names which of the four you fall into.
 
 ## Where it works in your favour
 

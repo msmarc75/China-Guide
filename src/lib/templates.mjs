@@ -281,13 +281,13 @@ export function tableOfContents(headings) {
 </nav>`;
 }
 
-export function cardGrid(items, { columns = 3 } = {}) {
+export function cardGrid(items, { columns = 3, level = 3 } = {}) {
   if (!items.length) return '';
   const cards = items
     .map(
       (it) => `<article class="card">
     ${it.badge ? `<p class="card__badge">${escapeHtml(it.badge)}</p>` : ''}
-    <h3 class="card__title"><a href="${it.url}">${escapeHtml(it.title)}</a></h3>
+    <h${level} class="card__title"><a href="${it.url}">${escapeHtml(it.title)}</a></h${level}>
     <p class="card__desc">${escapeHtml(it.excerpt || it.description || '')}</p>
     ${it.meta ? `<p class="card__meta">${escapeHtml(it.meta)}</p>` : ''}
   </article>`

@@ -410,7 +410,7 @@ function renderArticle(page) {
   const children = childrenOf(page);
   const childHub = children.length
     ? `<nav class="child-hub" aria-label="In this guide">
-      <p class="child-hub__title">${escapeHtml(page.navTitle || page.title)} in detail</p>
+      <h2 class="child-hub__title">${escapeHtml(page.navTitle || page.title)} in detail</h2>
       ${cardGrid(
         children.map((c) => ({
           title: c.navTitle || c.title,
@@ -511,7 +511,7 @@ function renderSectionIndex(section) {
     <h1>${escapeHtml(section.heading)}</h1>
     <p class="page-header__lede">${escapeHtml(section.intro)}</p>
   </header>
-  ${cardGrid(items)}
+  ${cardGrid(items, { level: 2 })}
   ${adSlot('section-footer')}
 </div>
 ${newsletterBlock()}`;

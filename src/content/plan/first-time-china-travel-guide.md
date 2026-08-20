@@ -165,7 +165,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 5. **Toilet paper goes in the bin** in older buildings and most rural areas.
 6. **Queueing is looser than you are used to**, especially for lifts and buses. It is not personal.
 7. **Nobody tips.** Not in restaurants, not in taxis. Tipping a guide is fine; tipping a waiter causes confusion.
-8. **Your hotel must register you with the police.** Any licensed hotel does this automatically at check-in — and [not every hotel holds that licence](/answers/can-foreigners-stay-in-any-hotel-in-china/), which is why some will turn a foreign guest away. If you stay in a private apartment, you are legally required to register at the local police station within 24 hours.
+8. **Your hotel must register you with the police.** Most hotels do this automatically at check-in — and [some will still turn a foreign guest away](/answers/can-foreigners-stay-in-any-hotel-in-china/) rather than perform it, which is [an operational refusal rather than a rule about you](/guides/hotels-and-foreign-guests-in-china/). If you stay in a private apartment, you are legally required to register at the local police station within 24 hours.
 9. **Smoking is still widespread** in older restaurants and stairwells, because there is no national indoor ban — it is set city by city, and Beijing, Shanghai and Shenzhen are the ones where the rule is real. On a high-speed train it is [absolute, and the penalty is severe](/guides/smoking-and-vaping-in-china/).
 10. **Air quality varies enormously** by city and season. Beijing in winter can be bad; Kunming and coastal cities are usually fine. Check an AQI app rather than assuming.
 

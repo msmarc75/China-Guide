@@ -22,7 +22,7 @@ This is what the receptionist is doing when they scan your passport and pause at
 
 You should receive a *Registration Form of Temporary Residence*, a small printed slip. **Photograph it.** It is occasionally requested when applying for a visa extension or a Tibet permit, and it is far easier to have than to reconstruct.
 
-Note that not every Chinese hotel is licensed to register foreign guests — which is why some will turn you away regardless of vacancy. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains like Atour, Ji Hotel and Hanting, avoids the problem almost entirely.
+Note that some Chinese hotels will turn a foreign guest away regardless of vacancy, usually saying they are not licensed to register one — [which is not what the law provides, though it is what happens](/guides/hotels-and-foreign-guests-in-china/). Booking through Trip.com, Booking.com or Agoda, or sticking to national chains like Atour, Ji Hotel and Hanting, avoids the problem almost entirely.
 
 ## In a private home or apartment: your responsibility
 

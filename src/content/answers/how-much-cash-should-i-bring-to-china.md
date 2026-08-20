@@ -19,7 +19,7 @@ Carrying a large amount of cash in China is a solution to a problem that no long
 ## Where cash still genuinely helps
 
 - **Rural and intercity buses**, especially away from the main tourist routes
-- **Temple donation boxes**, which are cash by nature
+- **Temple donation boxes**, which are cash by nature — put it in [the box rather than into a hand](/culture/temples-and-money-in-china/), in whatever amount you choose
 - **The occasional stubborn ticket window** at a small scenic site
 - **A dead phone battery** — this is the real one. Your phone is your wallet, so a flat battery is not an inconvenience, it is being unable to pay for anything
 - **Merchants using a personal-account QR code**, which foreign cards sometimes cannot pay

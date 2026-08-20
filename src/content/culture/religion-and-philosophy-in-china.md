@@ -84,7 +84,7 @@ Religious practice in China operates within a state registration framework, and 
 - **Photography** is usually fine in courtyards, usually prohibited inside halls, and always requires asking before photographing monks or worshippers.
 - **Dress** covering shoulders and knees at active temples.
 - **Do not** point your feet at an altar or an image, touch statues, or step on cushions used for prostration.
-- **Donations** go in the box; there is no expected amount.
+- **Donations** go in the box; there is no expected amount, and [nobody is entitled to name one for you](/culture/temples-and-money-in-china/) — a rule with real instruments behind it, including a ban on pushing high-priced incense.
 - Many major temples charge entry, which funds their upkeep and is normal.
 
 ## Frequently asked questions

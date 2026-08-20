@@ -55,6 +55,8 @@ Other signals worth knowing:
 
 ## If you are already sitting down
 
+The same shape turns up at large temples, where [a free stick of incense or an offered blessing arrives with a number attached](/culture/temples-and-money-in-china/) — and where the rules are, if anything, more explicit.
+
 Ask for the price list before anything is poured. If it is refused or vague, stand up and leave — the pressure is theatrical and the venue is not going to detain a foreigner who walks out. You are not asking for a favour: where a service is consumed before it is paid for, [an itemised statement before settlement is owed to you by regulation](/guides/marked-prices-in-china/), and luring with a low price to settle at a high one is named there as price fraud. If you have already been charged, pay by card rather than cash where you can, keep the receipt, and dispute it with your bank; then report it to the police on **110** and to the tourism hotline **12301**, which operates in English.
 
 Do not let embarrassment stop you reporting it. This is a professionally run operation and the people it catches are not fools; they are people who were treated warmly by someone good at their job.

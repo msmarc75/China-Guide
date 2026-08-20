@@ -65,6 +65,8 @@ These are concentrated in a small number of tourist locations and follow scripts
 
 **The "closed" attraction.** Someone outside a sight tells you it is closed today and offers an alternative tour. It is not closed. Walk to the ticket office and check.
 
+**The temple blessing.** Free incense, a reading or a blessing offered at or near a large temple, followed by a price. [A place that is not a registered religious venue may not take a religious donation at all](/culture/temples-and-money-in-china/), and pushing high-priced incense is expressly prohibited.
+
 **Rickshaw price switch.** A quoted "¥3" becomes "¥300" at the destination. Agree the total price in writing on a phone screen before getting in, or use the metro.
 
 :::warn One rule covers nearly all of them

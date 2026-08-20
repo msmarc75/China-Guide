@@ -2,7 +2,7 @@
 title: Travelling in China with Children
 navTitle: With children
 metaTitle: "China with Kids: Trains, Metro, Food and the Rules That Changed"
-description: What travelling in China with children actually involves — the child rail fare rules that changed in 2023, metro height limits, food, nappies, and where the country is easier than you expect.
+description: Travelling in China with children: the child rail fares that changed to age in 2023, metro height limits, food, and where China is easier than you expect.
 standfirst: China is an easier country to travel with children than its reputation suggests — the food is gentle, the transport is fast and clean, and children are welcomed rather than tolerated. The one thing to get right before you book is the fare rules, because the railway changed them in 2023 and most English-language guidance still describes the old system.
 eyebrow: Who's travelling
 order: 7

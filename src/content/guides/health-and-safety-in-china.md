@@ -86,7 +86,7 @@ Violent crime, mugging and armed robbery against tourists are genuinely uncommon
 
 **International clinics and VIP wings.** In Beijing, Shanghai, Guangzhou, Chengdu and Shenzhen there are Western-standard private clinics — United Family, Raffles Medical, ParkwayHealth, Global Doctor — with English-speaking doctors and direct insurance billing. They are expensive (a consultation runs ¥800–1,500) and they are what your travel insurance is for.
 
-**Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need.
+**Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need — emphatically including adrenaline, which is one of several reasons [a severe food allergy needs planning before you fly](/food/food-allergies-in-china/) rather than after you land.
 
 **Travel insurance is not optional.** A serious problem in a remote area — evacuation from the Tibetan plateau, for instance — costs tens of thousands of dollars. Check that your policy covers altitude above 3,000 m if you are going to Tibet or Shangri-La, and covers scooter riding if you plan to rent one.
 

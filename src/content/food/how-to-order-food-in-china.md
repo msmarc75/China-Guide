@@ -95,7 +95,7 @@ Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely norma
 - **Vegetarian:** 我吃素 (*wǒ chī sù*) is the clearest phrase and is understood as Buddhist vegetarianism. Even then, chicken stock and oyster sauce are common; see [vegetarian and vegan travel in China](/food/vegetarian-vegan-in-china/).
 - **No chilli:** 不要辣 (*bú yào là*). In Sichuan and Hunan this may be interpreted generously; 一点辣都不要 ("not even a little spice") is more emphatic.
 - **No coriander:** 不要香菜 (*bú yào xiāng cài*). Worth knowing — it appears in a great deal.
-- **Allergies:** serious ones need a written card in Chinese naming the allergen and the consequence. Peanut oil is used widely, sesame and soy are everywhere, and shellfish appears in sauces. Do not rely on verbal explanation.
+- **Allergies:** serious ones need a written card in Chinese naming the allergen and the consequence. Peanut oil is used widely, sesame and soy are everywhere, and shellfish appears in sauces. Do not rely on verbal explanation — and note that the shared wok, rather than the recipe, is [the risk a clear request cannot remove](/food/food-allergies-in-china/).
 - **Halal:** look for the 清真 (*qīngzhēn*) sign, common in Xi'an, Xinjiang, Gansu, Ningxia and near any mosque.
 
 ## Drinks

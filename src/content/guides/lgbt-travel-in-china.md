@@ -2,7 +2,7 @@
 title: LGBT Travel in China
 navTitle: LGBT travel
 metaTitle: "LGBT Travel in China: The Law, the Censorship and What Changes"
-description: What LGBT travellers should know before visiting China — what the law actually says, what changed after 2016, the dating apps pulled from Chinese app stores, and where Hong Kong differs.
+description: What LGBT travellers should know before visiting China: what the law says, what changed after 2016, and the dating apps pulled from Chinese app stores.
 standfirst: Same-sex activity is legal in mainland China and is not policed. What has narrowed since 2016 is not the law but the visibility around it — the media, the apps and the organisations — and that is the part a visitor notices.
 eyebrow: LGBT travel
 order: 10

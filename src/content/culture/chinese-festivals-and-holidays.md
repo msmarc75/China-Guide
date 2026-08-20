@@ -72,7 +72,7 @@ Some years Mid-Autumn falls adjacent to National Day, producing a very long comb
 
 Marks the founding of the People's Republic in 1949. Flag-raising ceremonies, and — from a traveller's perspective — **the single busiest domestic tourism week of the year**.
 
-**Travel impact: extreme.** Major sights reach their daily visitor caps within minutes of opening. Hotel prices double or triple. Rail and flights sell out weeks ahead. Avoid if at all possible; if not, book everything the moment booking opens and favour cities over scenic areas.
+**Travel impact: extreme.** Major sights reach their daily visitor caps within minutes of opening — and [those caps are approved maximums a site may not legally exceed](/guides/chinese-scenic-areas/), so they do not stretch on a busy day. Hotel prices double or triple. Rail and flights sell out weeks ahead. Avoid if at all possible; if not, book everything the moment booking opens and favour cities over scenic areas.
 
 ### Labour Day — 劳动节
 

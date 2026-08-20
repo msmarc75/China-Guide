@@ -18,7 +18,7 @@ The instinct from European rail — turn up five minutes before, walk to the pla
 
 ## What the forty minutes is for
 
-**Security screening at the entrance.** Bags through an X-ray, a body scan, liquids inspected. Lighters are confiscated, and uncertified power banks may be too. At Beijing South or Shanghai Hongqiao at a busy hour this alone can take fifteen minutes.
+**Security screening at the entrance.** Bags through an X-ray, a body scan, liquids inspected. Lighters are confiscated, and uncertified power banks may be too. Losing a lighter here is the mild version — [at an airport the same lighter is an offence rather than a forfeit](/answers/can-i-take-a-lighter-on-a-plane-in-china/), and packing it in the hold does not help. At Beijing South or Shanghai Hongqiao at a busy hour this alone can take fifteen minutes.
 
 **Finding your waiting hall.** These buildings are enormous. Beijing South handles more passengers than most European airports. Departure boards show train number, destination and gate — 检票口 (*jiǎn piào kǒu*) — and the walk to yours can be several hundred metres.
 

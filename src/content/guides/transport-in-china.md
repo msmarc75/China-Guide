@@ -87,6 +87,7 @@ Still useful for distances the train cannot handle sensibly: Beijing to Kunming,
 - **Umetrip** is the app locals use for real-time status; it is more accurate than the airline apps.
 - **Power bank rules**: since 2025, power banks on Chinese domestic flights must show a valid CCC certification mark, and uncertified units are confiscated at security. [What this means for a power bank bought abroad](/answers/can-i-bring-a-power-bank-to-china/) is worth reading before you fly domestically.
 - **ID at the airport** is your passport, scanned at check-in and again at security.
+- **Fire sources are banned outright**, in checked baggage as well as hand luggage — [a lighter or a box of matches is an offence at a Chinese airport](/answers/can-i-take-a-lighter-on-a-plane-in-china/) rather than something screening simply takes off you, which is what happens at a railway station.
 
 **Rule of thumb:** under 5 hours by train, take the train. Over 8 hours by train, fly. In between, compare total door-to-door time — the train usually still wins.
 

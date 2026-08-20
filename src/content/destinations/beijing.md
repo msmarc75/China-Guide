@@ -84,6 +84,8 @@ The unrestored Jiankou section is spectacular and genuinely dangerous — loose 
 
 **Tiananmen Square.** Requires advance booking and a passport, and security is thorough. Worth crossing once for the scale. Mao's mausoleum has its own queue and its own rules (no bags, no cameras).
 
+Beijing lifted reservation requirements at most attractions in 2024 but deliberately kept them at its two biggest — [which sights still need booking, and which you can now walk into](/guides/booking-chinese-attractions/).
+
 **798 Art District.** A decommissioned East German-built factory complex in a Bauhaus-influenced style turned contemporary art quarter. Uneven, commercialised in parts, and still the best contemporary art concentration in China.
 
 **National Museum of China** (free, book ahead, closed Mondays). The *Ancient China* permanent exhibition in the basement is a complete material history of the country and is the single best museum visit in Beijing.

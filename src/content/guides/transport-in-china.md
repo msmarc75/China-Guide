@@ -108,6 +108,10 @@ Every major Chinese city has one, most are less than 20 years old, and they are 
 
 **Street taxis** are cheap (flag-fall ¥10–14, then about ¥2.5/km) and metered. Drivers essentially never speak English. Show the destination in **Chinese characters** on your phone. Insist on the meter; refusing to use it is illegal and a red flag.
 
+### Driving yourself
+
+You almost certainly will not. Mainland China does not recognise the International Driving Permit, and your national licence is not valid here on its own — [what you need instead is a temporary driving permit](/guides/driving-in-china/), applied for within two days of entry, with a medical certificate and a certified Chinese translation of your licence. That is why every hard-to-reach destination in this guide ends up recommending a car with a driver in it rather than a hire car.
+
 ### Bikes and scooters
 
 Shared bikes (Meituan, HelloBike) are everywhere, cost ¥1.5–3 per 30 minutes, and unlock by scanning the QR with Alipay. In flat cities like Beijing, Xi'an and Chengdu they are the fastest way to cover 2–4 km, and the protected bike lanes are excellent.

@@ -72,6 +72,7 @@ Someone selling tours on a station forecourt who drives you to a replica exhibit
 - **Prefer a private driver and your own plan** over a cheap group tour where the itinerary is vague — the [Great Wall guide](/destinations/great-wall-of-china/) makes the same call for the same reason.
 - **Treat an unusually low price as information**, not a bargain. It tells you where the margin is coming from.
 - **Do not buy at the stop.** The thirty-day right is a repair, not a plan, and the simplest version of this is owning nothing you need to return.
+- **If you did buy jade, read the certificate rather than the sales patter.** The laboratory conclusion has to say whether the stone is natural or treated, and [the trade's "A货" claim is checkable against it](/guides/buying-jade-in-china/) — though it will not tell you anything about what you were charged.
 - **If you do buy, keep everything** — receipt, packaging, the itinerary, the agency's name.
 - **Buy tea somewhere else entirely.** [Where to buy tea worth carrying home](/culture/tea-culture-in-china/) is a different conversation from a tea ceremony arranged by a coach driver.
 - **Anything bought is still subject to export rules**, and [the antiques and wildlife categories customs stops](/guides/shopping-in-china/) are stricter than most published advice suggests.

@@ -50,7 +50,7 @@ Allow an extra hour on top of your normal airport timing. The customs desk is no
 
 ## Whether it is worth the trouble
 
-On a ¥400 purchase the rebate is a few tens of yuan and the queue may cost you more than that in stress. On silk, tea, jade, electronics or a serious clothing spend it is worth a straightforward hour.
+On a ¥400 purchase the rebate is a few tens of yuan and the queue may cost you more than that in stress. On silk, tea, jade, electronics or a serious clothing spend it is worth a straightforward hour. Jade at that level comes with a second piece of paper worth keeping — [the laboratory certificate that names the material](/guides/buying-jade-in-china/), which is a different document from the refund form and matters more.
 
 The other thing to weigh is what you are buying and whether it can leave the country at all — [antiques face a separate export regime](/guides/shopping-in-china/) that has nothing to do with VAT, and the rules there are considerably less forgiving than a missed refund form.
 

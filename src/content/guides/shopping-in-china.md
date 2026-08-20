@@ -45,7 +45,7 @@ Before you buy for someone else, note that a short list of objects [must not be 
 **Electronics and phone accessories.** Cheap and abundant, though the flagship phones are not meaningfully cheaper than at home. Huaqiangbei in Shenzhen is the world's largest electronics market and worth visiting as a spectacle.
 
 :::tip What not to buy
-Jade, unless you are an expert. The market is opaque, the material is graded in ways that are almost impossible to assess quickly, and tourist-facing jade shops are where the largest mark-ups in Chinese retail live. The same applies to "antique" coins, "Ming" vases, and pearls sold by a guide who brought you there.
+Jade, unless you are an expert. The market is opaque, the *price* is almost impossible to assess quickly, and tourist-facing jade shops are where the largest mark-ups in Chinese retail live. The same applies to "antique" coins, "Ming" vases, and pearls sold by a guide who brought you there. What the stone is, as opposed to what it is worth, is a different matter: national standard GB/T 16552 forces a laboratory to name it as natural, treated, assembled, synthetic or imitation, so [the certificate settles the material even though it says nothing about the price](/guides/buying-jade-in-china/).
 :::
 
 ## How bargaining works

@@ -87,7 +87,7 @@ Completely unrestored: collapsing brick, sheer unprotected drops, sections requi
 
 **Crowds.** Arrive at opening (07:30–08:30 depending on section) or after 15:00. Avoid weekends, and avoid Golden Week entirely.
 
-**Guides and tours.** A private driver plus your own exploring is usually better value than a group tour. Be firm about avoiding tours that include a "jade factory" or "tea ceremony" stop — those are commission arrangements, not sightseeing. They are also unlawful: Chinese tourism law forbids an agency to designate shopping venues, and [gives you thirty days after the trip to make it take the goods back](/guides/tour-shopping-stops-in-china/).
+**Guides and tours.** A private driver plus your own exploring is usually better value than a group tour. Be firm about avoiding tours that include a "jade factory" or "tea ceremony" stop — those are commission arrangements, not sightseeing, and [nothing on the certificate a jade shop hands you addresses the mark-up](/guides/buying-jade-in-china/). They are also unlawful: Chinese tourism law forbids an agency to designate shopping venues, and [gives you thirty days after the trip to make it take the goods back](/guides/tour-shopping-stops-in-china/).
 
 **Camping and overnight stays on the Wall** are prohibited in most areas and actively policed at popular sections.
 

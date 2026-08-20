@@ -45,7 +45,7 @@ Two consequences worth internalising:
 - If you are American, you can still travel visa-free by routing your trip as a transit: for example London → Beijing → Seoul. This is a legitimate, heavily used scheme, not a loophole — but the onward ticket must be to a *different* country than the one you came from. Canadians no longer need this route, having been added to the 30-day visa-free list in February 2026.
 
 :::warn Verify before you book
-China's visa-free lists have been extended, expanded and adjusted roughly every six months since 2023, and the trial periods carry expiry dates. Confirm your specific nationality on the website of the Chinese embassy in your country before booking anything non-refundable. Our [visa checker](/tools/china-visa-checker/) tells you which route applies to your passport in one click, and the [full China visa guide](/guides/china-visa-guide/) explains what "onward third country" means in practice.
+China's visa-free lists have been extended, expanded and adjusted roughly every six months since 2023, and the trial periods carry expiry dates. Confirm your specific nationality on the website of the Chinese embassy in your country before booking anything non-refundable. Our [visa checker](/tools/china-visa-checker/) asks five questions and tells you which of the four routes applies to you, and the [full China visa guide](/guides/china-visa-guide/) explains what "onward third country" means in practice.
 :::
 
 ## Money: China is cashless, and that is a problem you can fix

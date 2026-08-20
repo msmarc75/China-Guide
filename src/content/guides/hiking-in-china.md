@@ -61,6 +61,8 @@ The practical translation is short: **the fence, the sign and the closed gate ar
 
 Altitude is the one genuinely dangerous physical risk on standard routes, and it is covered in full — including the plateau numbers, the symptoms, and when to descend — in the [health and safety guide](/guides/health-and-safety-in-china/). Read it before any trip that includes Tibet, northwest Yunnan or western Sichuan.
 
+For the commoner outcome — a turned ankle on wet stone rather than anything dramatic — [what happens once you reach a Chinese emergency department](/guides/injured-in-china/) is worth knowing before you need it, because a minor injury is triaged to the lowest of four priority levels.
+
 Two additions specific to walking:
 
 - **Mountain weather turns fast and the summit is much colder than the valley** — commonly 10–15°C colder, plus wind. Summit hotels rent coats precisely because visitors arrive without them.

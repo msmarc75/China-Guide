@@ -47,6 +47,8 @@ Worth knowing before you are deciding under pressure: in dense city traffic a **
 
 Ambulance services are typically billed, and payment is usually expected at the point of care rather than afterwards. This is one of the specific reasons [travel insurance is worth having for China](/guides/health-and-safety-in-china/) even though the country is, day to day, a very safe place to travel.
 
+One thing to expect once you arrive: a Chinese emergency department sorts patients by severity into four levels rather than by arrival time, so [a minor injury is the lowest of the four and waits accordingly](/guides/injured-in-china/). Getting there fast does not move you up the queue.
+
 ## Other numbers worth having
 
 - **12315** — consumer complaints, including overcharging disputes

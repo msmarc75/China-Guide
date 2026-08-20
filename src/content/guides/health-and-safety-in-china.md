@@ -86,6 +86,8 @@ Violent crime, mugging and armed robbery against tourists are genuinely uncommon
 
 **The system.** Chinese public hospitals are technically capable but organised very differently: you register at a desk, pay before each step, queue by department, and communication is entirely in Chinese. Payment is up front, in cash or by app, before treatment.
 
+That describes the outpatient route, which is the wrong door for an accident. An injury goes to the emergency department instead, [where you are triaged by severity rather than queued](/guides/injured-in-china/) — a different building in a large hospital, and a different order of business.
+
 **International clinics and VIP wings.** In Beijing, Shanghai, Guangzhou, Chengdu and Shenzhen there are Western-standard private clinics — United Family, Raffles Medical, ParkwayHealth, Global Doctor — with English-speaking doctors and direct insurance billing. They are expensive (a consultation runs ¥800–1,500) and they are what your travel insurance is for.
 
 **Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need — emphatically including adrenaline, which is one of several reasons [a severe food allergy needs planning before you fly](/food/food-allergies-in-china/) rather than after you land.

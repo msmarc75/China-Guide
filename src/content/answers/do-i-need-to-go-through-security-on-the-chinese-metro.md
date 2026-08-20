@@ -24,6 +24,8 @@ If you are carrying a drink, expect to be asked to drink some of it. This is a c
 
 Then you collect your bag and continue to the ticket gates. The whole thing takes moments when quiet.
 
+The scanner is the first of two rulebooks: the second governs the carriage, where [eating and playing audio out loud are both on the prohibited list](/guides/riding-the-chinese-metro/).
+
 ## What it means in practice
 
 **Allow extra time at rush hour and at big interchanges.** At the busiest stations the queue is the slowest part of the journey. If you are catching a train with a fixed departure, this is the step people forget to budget for.

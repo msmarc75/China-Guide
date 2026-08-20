@@ -14,7 +14,7 @@ related:
   - /answers/can-i-use-alipay-as-a-foreigner-in-china/
 ---
 
-Chinese metros are excellent — clean, frequent, cheap, signposted in English in every major city. Paying for them is the only part that needs a moment's preparation.
+Chinese metros are excellent — clean, frequent, cheap, signposted in English in every major city. Paying for them is the only part that needs a moment's preparation. Once you are through the gate, [there is a national rulebook for the carriage itself](/guides/riding-the-chinese-metro/) — no eating, and no audio without headphones.
 
 ## The phone method
 

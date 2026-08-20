@@ -123,6 +123,8 @@ Traffic is the biggest genuine physical risk to a visitor in China. Right turns 
 
 Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mountain areas, and the last leg to scenic parks. Modern sleeper coaches are reasonable; rural minibuses are not. Buy at the station counter with your passport, or through the local bus mini-program on Alipay. Journeys are slow and roads in the mountains are winding.
 
+Coach travel has its own rulebook, closer to the railway's than to a European bus network's: [tickets are real-name on any route crossing a province or a prefecture](/guides/long-distance-buses-in-china/), a lost ticket must be reissued free, and an overnight coach is legally obliged to stop or change drivers between 02:00 and 05:00.
+
 ## Boats and ferries
 
 - **Yangtze cruises** from Chongqing to Yichang through the Three Gorges, 3–4 days, a genuine highlight

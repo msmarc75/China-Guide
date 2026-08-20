@@ -98,7 +98,7 @@ Yunnan is also [the one part of China with a genuine cheese tradition](/answers/
 ## Practicalities
 
 - **Getting there:** Kunming Changshui (KMG) is a major hub; high-speed rail connects Kunming–Dali–Lijiang and Kunming–Guilin/Guangzhou. There is also a high-speed line to Vientiane in Laos.
-- **Getting around:** rail for the main corridor, buses and hired drivers beyond. Roads in the mountains are slow.
+- **Getting around:** rail for the main corridor, buses and hired drivers beyond. Roads in the mountains are slow. Yunnan is where most visitors meet the Chinese coach network for the first time, and [it works differently from the train](/guides/long-distance-buses-in-china/) — the passport goes on the ticket, and the counter inside the station is the only place worth buying it.
 - **Season:** March to May and September to November are best. June to August is the rainy season, though the temperature stays pleasant. Winter is dry, sunny and cold at altitude, and it is the season for the Yuanyang terraces.
 - **Ethnic tourism:** approach it thoughtfully. Many "minority villages" are staged commercial operations; markets, festivals and simply staying in a village guesthouse give a far more honest picture.
 

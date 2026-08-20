@@ -95,6 +95,8 @@ Shanghai food (*běnbāng cài*) is sweeter and more soy-forward than most Chine
 
 Zhujiajiao is reachable by metro, which makes it the easy option. Wuzhen and Xitang reward an overnight, when the day-trippers have gone and the canals are lit.
 
+**Shanghai Disneyland** is the other full-day option, on metro line 11 rather than out of town. It is not a walk-up attraction: the ticket is tied to your passport and to a fixed date, and [what you have to set up before you go](/guides/theme-parks-in-china/) is the part that catches visitors out.
+
 ## Getting around
 
 The metro is vast, cheap (¥3–9), fully bilingual and the best in China. Pay by Alipay transport QR. Line 2 connects both airports and the main sights — [the full set of options from Pudong](/answers/how-do-i-get-from-shanghai-pudong-airport-to-the-city/) matters more than it sounds, because the airport is a long way out.

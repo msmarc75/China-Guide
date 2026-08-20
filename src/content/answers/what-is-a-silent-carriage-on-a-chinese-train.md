@@ -56,4 +56,6 @@ That is worth knowing precisely because a night train is where noise matters mos
 
 Yes, at no extra cost, if you want to read or work. The fare is the ordinary fare for that class — the silent carriage is an allocation preference rather than a paid upgrade.
 
+Worth noticing how differently the metro solves the same problem: there the ban on [playing audio out loud is a national rule applied to every carriage](/guides/riding-the-chinese-metro/), rather than something you opt into for one coach.
+
 Two honest caveats. It is quieter, not silent: this is a shared coach on a working railway, and children travel in it like anyone else. And it constrains you as much as it protects you, so if you expect to take a long call, book an ordinary coach and use [the headphones you packed anyway](/plan/china-packing-list/).

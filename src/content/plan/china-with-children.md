@@ -58,6 +58,8 @@ City metros still work on **height**, which is the opposite of the railway and a
 
 Beijing's own guidance also tells you how to work the gate: send **the child through first and follow behind them** on one tap. With more than one child, find a staff member rather than improvising at the barrier.
 
+One rule inside the carriage is worth knowing with a small child: eating on the metro is prohibited nationally, but [infants and the ill are the stated exception](/guides/riding-the-chinese-metro/), so feeding a baby is not the thing anyone is looking at.
+
 Height-based pricing has an obvious edge case. A tall seven-year-old pays on the metro and a small nine-year-old may not — the measuring marks on the barrier are the arbiter, and nobody argues with them.
 
 ## Food is the easy part

@@ -71,7 +71,7 @@ Formally these bodies are self-governing rather than state organs. Functionally 
 
 Bag scanners at every metro entrance. Screening at railway stations. Guards at building entrances. Visitors read this as heavy security, and in volume terms it is — but the texture is different from airport security in most countries.
 
-It is fast, routine and largely uninterested in you. Bags go through a scanner; you often keep walking. Liquids may be swab-tested at rail stations. Lighters and large power banks are the items actually confiscated. Nobody removes shoes or belts. The whole thing is designed for throughput, because it is applied to enormous daily volumes.
+It is fast, routine and largely uninterested in you. Bags go through a scanner; you often keep walking. Liquids may be swab-tested at rail stations. Lighters and large power banks are the items actually confiscated. Nobody removes shoes or belts. Airports are the exception to all of this: there, a lighter is not a confiscation but [an offence the aviation police handle, in checked baggage as well as hand luggage](/answers/can-i-take-a-lighter-on-a-plane-in-china/). The whole thing is designed for throughput, because it is applied to enormous daily volumes.
 
 The practical advice is simply to build a few minutes into every metro journey at rush hour and forty minutes into every train departure, which the [transport guide](/guides/transport-in-china/) covers in detail.
 

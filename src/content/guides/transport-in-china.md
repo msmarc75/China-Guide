@@ -38,7 +38,7 @@ The letter prefix tells you the type, and therefore the speed and comfort:
 | **T** | Tèkuài, express | 140 km/h | Older stock, more stops |
 | **K** | Kuàisù, fast | 120 km/h | Slow, cheap, long-distance workhorse |
 
-For a two-week trip you will use G trains almost exclusively, with perhaps one Z sleeper. The C prefix is the one worth knowing about beyond that: dedicated intercity lines have quietly made a lot of second cities into day trips, such as [Kaifeng from Zhengzhou in twenty-five minutes](/answers/how-do-i-get-from-zhengzhou-to-kaifeng/).
+For a two-week trip you will use G trains almost exclusively, with perhaps one Z sleeper. The C prefix is the one worth knowing about beyond that: dedicated intercity lines have quietly made a lot of second cities into day trips, such as [Kaifeng from Zhengzhou in twenty-five minutes](/answers/how-do-i-get-from-zhengzhou-to-kaifeng/). D and G services also carry an opt-in quiet coach, marked with a single character on the booking screen — [what a silent carriage is and how to end up in one](/answers/what-is-a-silent-carriage-on-a-chinese-train/) costs nothing extra and is easy to scroll past.
 
 ### Classes
 

@@ -28,7 +28,7 @@ Sleepers run on the lettered conventional services rather than on the high-speed
 
 **软卧** (*ruǎnwò*, soft sleeper) is a compartment of **four berths with a door that closes**, two lower and two upper. It is the quiet option and the one to take if you are travelling as a pair or a family, because four berths is a bookable unit.
 
-**硬卧** (*yìngwò*, hard sleeper) is an open bay of **six berths**, stacked three high on each side, with no door and a corridor running along the window side. "Hard" is a historical name rather than a description of the mattress; the padding is similar. What differs is privacy and noise.
+**硬卧** (*yìngwò*, hard sleeper) is an open bay of **six berths**, stacked three high on each side, with no door and a corridor running along the window side. "Hard" is a historical name rather than a description of the mattress; the padding is similar. What differs is privacy and noise — and on a sleeper the berth class is the only lever you have, because [the railway's opt-in quiet coach does not run on sleeper services](/answers/what-is-a-silent-carriage-on-a-chinese-train/).
 
 There is also a high-speed sleeper, **动卧** (*dòngwò*), running on a few long routes as a distinct product with its own compartment layout. Treat it as a third thing rather than as a faster version of the above, and check the specific service rather than any general description of it, including this one.
 

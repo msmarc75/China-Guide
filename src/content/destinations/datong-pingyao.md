@@ -69,6 +69,8 @@ What to see:
 
 Pingyao is heavily commercialised on its two main streets and quiet everywhere else. Stay inside the walls in a converted courtyard inn; the atmosphere after the day-trippers leave is the point.
 
+Both cities sit on the rail line between Beijing and Xi'an, which makes them the natural first half of [a slower Beijing-to-Shanghai route](/itineraries/slow-east-china-itinerary/) rather than a detour off the classic one.
+
 **Wang Family Compound** and **Qiao Family Compound** — enormous merchant estates 30–40 km away. The Qiao compound is where *Raise the Red Lantern* was filmed and is consequently busy; the Wang compound is four times larger and quieter.
 
 ## Practicalities

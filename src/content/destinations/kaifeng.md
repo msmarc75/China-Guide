@@ -1,7 +1,7 @@
 ---
 title: Kaifeng Travel Guide
 navTitle: Kaifeng
-metaTitle: "Kaifeng Travel Guide: The Song Dynasty Capital, 25 Minutes from Zhengzhou"
+metaTitle: "Kaifeng Travel Guide: The Song Capital, 25 Minutes from Zhengzhou"
 description: A guide to Kaifeng — capital of the Northern Song and once the largest city on earth, now an easy intercity hop from Zhengzhou with almost no foreign visitors.
 standfirst: A thousand years ago this was probably the largest city in the world. The Yellow River buried it repeatedly, the capital moved south, and Kaifeng has been quietly provincial ever since — which is exactly why it is worth a day.
 eyebrow: Destination

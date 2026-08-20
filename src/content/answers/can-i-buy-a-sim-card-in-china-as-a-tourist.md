@@ -2,7 +2,7 @@
 title: Can I Buy a SIM Card in China as a Tourist?
 question: Can I buy a SIM card in China as a tourist?
 navTitle: Buying a SIM in China
-metaTitle: "Can I Buy a SIM Card in China as a Tourist? Yes, With Your Passport"
+metaTitle: "Can I Buy a SIM Card in China as a Tourist? Yes, With a Passport"
 description: Yes, from a carrier shop or airport counter with your original passport and a live face scan. Not from a convenience store — real-name registration is mandatory.
 standfirst: Yes, but only at a **carrier shop or airport counter**, with your **original passport** and a live facial scan matched against the passport photo. There is no over-the-counter, no-questions SIM in China and no tourist exemption — real-name registration applies to everyone.
 eyebrow: Answer

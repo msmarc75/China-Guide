@@ -2,7 +2,7 @@
 title: Is Hong Kong Part of China for Visa Purposes?
 question: Is Hong Kong part of China for visa purposes?
 navTitle: Hong Kong and your visa
-metaTitle: "Is Hong Kong Part of China for Visa Purposes? No — Separate Border"
+metaTitle: "Is Hong Kong Part of China for Visas? No, a Separate Border"
 description: No. Hong Kong and Macau have their own immigration control. Crossing from the mainland is a full border crossing and consumes a single-entry Chinese visa.
 standfirst: No — not for immigration. Hong Kong and Macau are special administrative regions with their own border control, currency and legal system, so travelling between the mainland and either one is a **full immigration crossing** that will consume a single-entry Chinese visa.
 eyebrow: Answer

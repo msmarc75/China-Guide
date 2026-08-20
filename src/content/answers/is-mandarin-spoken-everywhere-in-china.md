@@ -2,7 +2,7 @@
 title: Is Mandarin Spoken Everywhere in China?
 question: Is Mandarin spoken everywhere in China?
 navTitle: Is Mandarin universal
-metaTitle: "Is Mandarin Spoken Everywhere in China? Not Quite — and the Gap Is Regional"
+metaTitle: "Is Mandarin Spoken Everywhere in China? Not Quite"
 description: Nearly, but not universally. National proficiency passed 80 per cent, yet nine provinces sat below that and the lowest was under half.
 standfirst: Nearly, but not everywhere, and the gap is geographic rather than random. National proficiency in **Mandarin** (普通话, *Pǔtōnghuà*) passed 80 per cent — but sixteen provinces were above 85 per cent while nine were below 80, and the lowest was under half.
 eyebrow: Answer

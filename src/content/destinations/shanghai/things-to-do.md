@@ -2,7 +2,7 @@
 title: Things to Do in Shanghai
 navTitle: Things to do
 metaTitle: "Things to Do in Shanghai: 11 Sights With Chinese Addresses"
-description: The essential Shanghai sights with Chinese names, addresses in Chinese characters and the metro station serving each — Bund, Yu Garden, Xintiandi, Zhujiajiao and more.
+description: Essential Shanghai sights with Chinese names, addresses in Chinese characters and the metro serving each — Bund, Yu Garden, Xintiandi, Zhujiajiao and more.
 standfirst: Eleven sights, each with its Chinese name, its address in Chinese characters and the metro that serves it. Shanghai's metro reaches almost everything on this list, which is not true of Beijing — plan around the network and you barely need a taxi.
 eyebrow: Shanghai
 order: 1

@@ -3,7 +3,7 @@ title: Can I Get a Tax Refund in China?
 question: Can I get a tax refund in China?
 navTitle: Departure tax refund
 metaTitle: "Can I Get a Tax Refund in China? Departure VAT Rebate"
-description: Yes. Spend ¥200 or more in one day at one licensed refund store, keep the goods unused, and claim at the airport within 90 days. The threshold fell from ¥500 in 2025.
+description: Yes. Spend ¥200 or more in one day at one licensed store, keep the goods unused, and claim at the airport within 90 days. The threshold fell from ¥500 in 2025.
 standfirst: Yes — foreign visitors can reclaim VAT on shopping when they leave. Spend **¥200 or more in one day at a single licensed refund store**, keep the goods unused and packed where customs can see them, and claim before check-in within 90 days of purchase.
 eyebrow: Answer
 order: 91

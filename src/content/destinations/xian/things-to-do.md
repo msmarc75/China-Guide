@@ -2,7 +2,7 @@
 title: Things to Do in Xi'an
 navTitle: Things to do
 metaTitle: "Things to Do in Xi'an: 10 Sights With Chinese Addresses"
-description: Xi'an's essential sights with Chinese names, addresses in Chinese characters and the metro serving each — Terracotta Army, city walls, Big Wild Goose Pagoda and more.
+description: Xi'an's essential sights with Chinese names, addresses in Chinese characters and the metro serving each — Terracotta Army, city walls, Big Wild Goose Pagoda.
 standfirst: Ten sights, each with its Chinese name, its address in Chinese characters and the metro station that serves it. Almost everything is inside the Ming walls or a short ride south; the Terracotta Army is the one that takes a whole day.
 eyebrow: Xi'an
 order: 1

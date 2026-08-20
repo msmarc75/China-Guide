@@ -2,7 +2,7 @@
 title: Where to Eat in Beijing
 navTitle: Restaurants
 metaTitle: "Where to Eat in Beijing: 10 Old-Guard Restaurants With Addresses"
-description: Ten long-established Beijing restaurants with their Chinese names, addresses in Chinese characters and nearest metro — Peking duck, lamb hotpot, shaomai and the rest.
+description: Ten long-established Beijing restaurants with Chinese names, addresses in Chinese characters and nearest metro — Peking duck, lamb hotpot, shaomai and more.
 standfirst: Ten institutions rather than forty guesses. Each is a long-established Beijing house, most of them state-recognised 老字号, and each carries its Chinese name, its address in Chinese characters and the metro station that serves it.
 eyebrow: Beijing
 order: 2

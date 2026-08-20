@@ -2,7 +2,7 @@
 title: Massage and Bodywork in China
 navTitle: Massage and bodywork
 metaTitle: "Massage in China: Tuina, Foot Treatment and Blind Masseurs"
-description: What tuina actually is, why China has more than 22,000 blind-masseur establishments, why foot treatment is a social activity rather than a spa one, and what the signage means.
+description: What tuina actually is, why China has more than 22,000 blind-masseur establishments, why foot treatment is social rather than spa, and what signage means.
 standfirst: Massage in China is a medical tradition, a major employment programme for blind people, and an ordinary evening out — three different things sharing one word on the sign. Understanding which one you are walking into is most of what a visitor needs.
 eyebrow: Culture
 order: 12

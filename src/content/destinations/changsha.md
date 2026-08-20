@@ -1,8 +1,8 @@
 ---
 title: Changsha Travel Guide
-metaTitle: "Changsha Travel Guide: Mawangdui, a Thousand-Year Academy and China's Food City"
+metaTitle: "Changsha Travel Guide: Mawangdui, Yuelu Academy and the Food"
 navTitle: Changsha
-description: A guide to Changsha — the Mawangdui Han tomb finds and Lady Dai, Yuelu Academy which has taught for a thousand years, Orange Isle, and why young Chinese travellers come here to eat.
+description: A guide to Changsha — the Mawangdui Han tomb and Lady Dai, Yuelu Academy after a thousand years of teaching, Orange Isle, and why young Chinese come to eat.
 standfirst: Changsha holds the best-preserved ancient body ever found in China and an academy that has been teaching since 976. It is also, right now, the city young Chinese people travel to for the food — which is a stranger combination than it sounds.
 eyebrow: Destination
 place: Changsha

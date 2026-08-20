@@ -2,7 +2,7 @@
 title: What Gifts Should You Avoid Giving in China?
 question: What gifts should you avoid giving in China?
 navTitle: Gifts to avoid
-metaTitle: "What Gifts Should You Avoid Giving in China? Clocks, Pears, Umbrellas"
+metaTitle: "What Gifts Should You Avoid in China? Clocks, Pears, Umbrellas"
 description: Avoid clocks, sharp objects, pears, umbrellas, shoes, green hats and white or black wrapping. Most of the taboos are homophones for something unlucky.
 standfirst: Avoid **clocks, knives and scissors, pears, umbrellas, shoes, anything green worn on the head**, and white or black wrapping. Almost every taboo on that list is a pun: the Chinese word for the object sounds like the word for something you would not wish on anyone.
 eyebrow: Answer

@@ -147,7 +147,7 @@ The apps below do different jobs, and [the case for installing two of them rathe
 
 ### Do I need to speak Chinese to travel in China?
 
-No, but you should not expect English outside hotels, major museums and international districts of Beijing and Shanghai. Translation apps, screenshots of addresses in Chinese characters, and the word 这个 ("this one") cover the great majority of situations. [The fuller answer](/answers/do-i-need-to-speak-chinese-to-travel-in-china/) sets out where the barrier actually bites.
+No, but you should not expect English outside hotels, major museums and international districts of Beijing and Shanghai. Translation apps, screenshots of addresses in Chinese characters, and the word 这个 ("this one") cover the great majority of situations. [Where the language barrier actually bites](/answers/do-i-need-to-speak-chinese-to-travel-in-china/) sets out which situations defeat a translation app.
 
 ### What are the most useful Chinese phrases for tourists?
 

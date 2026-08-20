@@ -199,4 +199,4 @@ Roughly ¥0.45–0.55 per kilometre in second class. Beijing to Shanghai (1,300 
 
 ### Do you tip in China?
 
-No. Tipping is not part of the culture in restaurants, cafés or taxis, and offering one can cause confusion. The exception is private tour guides and drivers, where ¥50–100 per day is now a common courtesy. [The fuller answer](/answers/do-you-tip-in-china/) covers hotels, spas and the awkward cases.
+No. Tipping is not part of the culture in restaurants, cafés or taxis, and offering one can cause confusion. The exception is private tour guides and drivers, where ¥50–100 per day is now a common courtesy. [Why a waiter may chase you down the street to return a tip](/answers/do-you-tip-in-china/) covers hotels, spas and the awkward cases.

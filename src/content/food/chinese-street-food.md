@@ -34,7 +34,7 @@ The one thing genuinely worth eating after dark is not in the night market eithe
 - **Congee (粥)** — rice porridge with pickles, preserved egg, pork floss
 - **Shaobing** — layered sesame flatbread, sometimes split and filled
 - **Doufunao (豆腐脑)** — silken tofu pudding, savoury in the north and sweet in the south, and the subject of a permanent national argument
-- **Hand-pulled noodle soup (拉面)** — Lanzhou beef noodles, made in front of you. ¥12–20
+- **Hand-pulled noodle soup (拉面)** — Lanzhou beef noodles, made in front of you. ¥12–20. You will be asked which width you want, which is [a real question with seven usual answers](/food/chinese-noodles/)
 
 ## Regional highlights
 

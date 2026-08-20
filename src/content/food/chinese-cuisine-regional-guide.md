@@ -99,7 +99,7 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 
 **Xinjiang / Uyghur** — Central Asian: lamb kebabs, *laghman* hand-pulled noodles, *polo* pilaf, tandoor-baked nan. One of the most distinctive food cultures in China and completely unlike Han cuisine. See [Xinjiang](/destinations/xinjiang-kashgar/).
 
-**Shaanxi** — wheat country: roujiamo, biangbiang noodles, yangrou paomo, liangpi. Concentrated in [Xi'an](/destinations/xian/)'s Muslim Quarter, where [the old-guard restaurants](/destinations/xian/restaurants/) cluster tightly enough to walk between.
+**Shaanxi** — wheat country: roujiamo, biangbiang noodles, yangrou paomo, liangpi. Concentrated in [Xi'an](/destinations/xian/)'s Muslim Quarter, where [the old-guard restaurants](/destinations/xian/restaurants/) cluster tightly enough to walk between. Wheat country is also noodle country, and [which noodle a region makes follows from the grain it grows](/food/chinese-noodles/) rather than from its cuisine label.
 
 **Yunnan** — the most ingredient-diverse region in China: wild mushrooms (a summer obsession, with a genuine annual toll of hallucinations and poisonings), crossing-the-bridge noodles, Dai sour and herbal cooking, goat cheese.
 

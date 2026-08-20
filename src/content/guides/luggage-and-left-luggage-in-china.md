@@ -76,6 +76,8 @@ That also applies across a whole trip: if you are looping back through a city, m
 - **A daypack is essential**, because your main bag may be in a rack several rows away.
 - **Buy less than you think.** The [packing list](/plan/china-packing-list/) covers the handful of things genuinely worth carrying from home, and almost everything else is cheaper in China.
 
+Everything above is the railway's rulebook. If part of your route is by coach, note that [there is no national baggage allowance for buses at all](/guides/long-distance-buses-in-china/) — each operator sets its own, so the numbers on this page do not carry over.
+
 ## Frequently asked questions
 
 ### Is there a baggage allowance on Chinese trains?

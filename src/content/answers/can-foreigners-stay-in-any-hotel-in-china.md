@@ -3,8 +3,8 @@ title: Can Foreigners Stay in Any Hotel in China?
 question: Can foreigners stay in any hotel in China?
 navTitle: Which hotels take foreigners
 metaTitle: "Can Foreigners Stay in Any Hotel in China? No"
-description: Chinese hotels need a licence to register foreign guests, and many smaller ones do not have it. Here is how to avoid being turned away at the desk.
-standfirst: No. A Chinese hotel needs a specific licence to register a foreign guest with the police, and many small, budget and family-run properties do not have one — so they cannot take you regardless of how many rooms are free.
+description: Small Chinese hotels still turn foreign guests away, usually citing a licence. The law does not describe one — here is how to avoid the problem anyway.
+standfirst: In practice, no. Small, budget and family-run properties still turn foreign guests away, usually citing a licence to register them with the police. The registration duty in law falls on hotels generally — but a desk that will not perform it is a problem you plan around rather than argue with.
 eyebrow: Answer
 order: 15
 updated: 2026-08-19
@@ -14,7 +14,7 @@ related:
   - /plan/china-trip-cost-budget/
 ---
 
-This catches people out because it looks like discrimination and is not. Every guest in a Chinese hotel is registered with the local Public Security Bureau; registering a **foreign** guest requires the appropriate licence and system access. A hotel without it is legally unable to check you in.
+This catches people out because it looks like discrimination and is not. Every guest in a Chinese hotel is registered with the local Public Security Bureau, and a small property that has never registered a **foreign** guest will often say it cannot. What it usually means is that it would rather not — [the registration duty in law falls on hotels as a class, and since July 2024 qualification is explicitly not a valid barrier](/guides/hotels-and-foreign-guests-in-china/).
 
 The situation improved markedly after a 2024–25 government push to stop hotels refusing foreign guests, and in Beijing, Shanghai, Guangzhou and Shenzhen you are unlikely to hit it. In a third-tier city or a county town, it is still live.
 
@@ -22,7 +22,7 @@ The situation improved markedly after a 2024–25 government push to stop hotels
 
 1. **Book through Trip.com, Booking.com or Agoda.** International-facing platforms overwhelmingly list only properties that can take foreigners.
 2. **Filter for it where offered** — Trip.com has the option explicitly.
-3. **Prefer the national chains.** Atour, Ji Hotel, Hanting, Orange, Lavande and Vienna are licensed almost everywhere.
+3. **Prefer the national chains.** Atour, Ji Hotel, Hanting, Orange, Lavande and Vienna handle foreign passports almost everywhere.
 4. **Have the booking on your phone**, showing your name and passport number.
 
 ## If it happens anyway

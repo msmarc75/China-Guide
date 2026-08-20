@@ -61,7 +61,7 @@ A traveller eating Chinese food three times a day spends **¥80–150**. The sam
 | International 5★ (Beijing/Shanghai) | ¥900–2,000 |
 | Ultra-luxury | ¥2,500+ |
 
-Domestic chains such as Atour, Ji Hotel and Hanting are the value sweet spot: clean, modern, reliably around ¥300–450, and increasingly licensed to accept foreign passports. Note that **not every Chinese hotel can register foreign guests** — filter carefully, especially in small cities. See [accommodation in China](/guides/accommodation-in-china/).
+Domestic chains such as Atour, Ji Hotel and Hanting are the value sweet spot: clean, modern, reliably around ¥300–450, and increasingly licensed to accept foreign passports. Note that **some Chinese hotels will not register a foreign guest** — filter carefully, especially in small cities, and know that [the refusal is a practice rather than a licensing rule](/guides/hotels-and-foreign-guests-in-china/). See [accommodation in China](/guides/accommodation-in-china/).
 
 ### Transport
 

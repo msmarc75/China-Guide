@@ -3,14 +3,14 @@ title: Where to Stay in China
 navTitle: Accommodation
 metaTitle: "Hotels in China for Foreigners: Booking, Registration & Chains"
 description: Booking accommodation in China as a foreigner — which hotels can legally accept foreign passports, the best domestic chains, and police registration.
-standfirst: China has a specific accommodation problem that catches visitors out: not every hotel is licensed to register a foreign guest, and the ones that are not will turn you away at the desk.
+standfirst: China has a specific accommodation problem that catches visitors out: a small hotel that has never registered a foreign guest with the police will often refuse to start with you, and will turn you away at the desk with rooms standing empty.
 eyebrow: Accommodation
 order: 5
 updated: 2026-08-01
 asidePartner: hotels
 keywords: [hotels in china for foreigners, can foreigners stay in any hotel in china, china hotel registration, booking hotels in china, hostels in china]
 facts:
-  - Key rule | Hotel must be licensed for foreign guests
+  - Key rule | Small hotels may refuse a foreign guest
   - Registration | Automatic at licensed hotels, 24 h if private
   - Best value chains | Atour, Ji Hotel, Hanting, Vienna
   - Typical 3–4★ | ¥250–450 per night
@@ -23,14 +23,14 @@ related:
 
 ## The rule nobody warns you about
 
-Chinese hotels must register every guest with the local Public Security Bureau. To register a **foreign** guest, a hotel needs the appropriate licence and the system access that goes with it. Many small, budget and family-run hotels — particularly outside the major cities — simply do not have it, and are legally unable to accept you regardless of how many rooms are free.
+Chinese hotels must register every guest with the local Public Security Bureau. Many small, budget and family-run hotels — particularly outside the major cities — will tell you they cannot do it for a **foreign** guest, and will turn you away regardless of how many rooms are free. That obstacle is real, but [it is an operational one rather than the legal bar it is usually described as](/guides/hotels-and-foreign-guests-in-china/).
 
 The situation improved markedly after a 2024–25 government push to stop hotels refusing foreign guests, and in Beijing, Shanghai, Guangzhou and Shenzhen you are unlikely to have a problem. In a third-tier city or a county town, it remains a live issue.
 
 :::key How to avoid ever being turned away
 1. **Book through Trip.com, Booking.com or Agoda** rather than a Chinese-only platform. International-facing platforms overwhelmingly list only hotels that can take foreigners.
 2. **Filter for "foreigners accepted"** where the platform offers it — Trip.com does.
-3. **Prefer the national chains** (see below). They are licensed almost everywhere.
+3. **Prefer the national chains** (see below). They are set up for foreign guests almost everywhere.
 4. **Have the booking confirmation on your phone**, showing your name and passport number.
 5. **If refused**, ask the desk to call the local PSB, or move on — it is a licensing issue, not a judgement about you, and [raising your voice is the one approach that reliably fails](/answers/how-do-i-complain-politely-in-china/).
 :::
@@ -117,7 +117,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 
 ### Can foreigners stay in any hotel in China?
 
-No. Hotels need a specific licence to register foreign guests with the police, and smaller or budget hotels — particularly outside major cities — often do not have one. Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely. [The licence a hotel needs before it can register you](/answers/can-foreigners-stay-in-any-hotel-in-china/) covers what to do when one turns you away.
+Not always in practice. Smaller and budget hotels — particularly outside major cities — often refuse a foreign guest, usually saying they are not licensed to register one, although [the law puts the registration duty on hotels as a class](/guides/hotels-and-foreign-guests-in-china/). Booking through Trip.com, Booking.com or Agoda, or sticking to national chains such as Atour, Ji Hotel and Hanting, avoids the problem almost entirely, and [what to do when a desk turns you away](/answers/can-foreigners-stay-in-any-hotel-in-china/) covers the rest.
 
 ### Do I need to register with the police in China?
 

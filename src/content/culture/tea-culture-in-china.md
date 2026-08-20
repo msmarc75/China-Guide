@@ -70,7 +70,7 @@ You will see this in tea shops in Fujian, Guangdong and Yunnan especially. If a 
 
 ## Buying tea without being fleeced
 
-Tea is the best thing to take home from China, and also one of the easiest things to be overcharged for.
+Tea is the best thing to take home from China, and also one of the easiest things to be overcharged for. A tea shop is a shop like any other, so [the price has to be displayed and cannot be added to at the counter](/guides/marked-prices-in-china/); what it does not have to be is reasonable.
 
 1. **Buy from a specialist shop**, not a tourist street stall or a stop on a guided tour.
 2. **Ask to taste.** A serious shop expects this and will brew several for you. If tasting is refused, leave.

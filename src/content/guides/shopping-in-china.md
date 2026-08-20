@@ -50,7 +50,7 @@ Jade, unless you are an expert. The market is opaque, the *price* is almost impo
 
 ## How bargaining works
 
-Bargaining is expected in exactly three contexts: **tourist markets, antique and curio streets, and with street hawkers.** It is not appropriate anywhere with marked prices — shops, supermarkets, chains, restaurants, taxis, ticket offices.
+Bargaining is expected in exactly three contexts: **tourist markets, antique and curio streets, and with street hawkers.** It is not appropriate anywhere with marked prices — shops, supermarkets, chains, restaurants, taxis, ticket offices. Those marked prices exist because [displaying them is a legal obligation rather than a courtesy](/guides/marked-prices-in-china/), which is also why nothing may be added to one at the till.
 
 The mechanics, which are ritualised and good-humoured:
 

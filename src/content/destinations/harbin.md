@@ -58,7 +58,7 @@ Phone batteries die within minutes in this cold — keep the phone against your 
 
 Harbin in summer is green, mild and pleasant — around 25°C when Beijing and Shanghai are unbearable — and is a domestic summer escape. There is no ice festival, but the river beaches, the Russian architecture and the food remain.
 
-**Yabuli** (2.5 hours) is China's largest ski resort. **China Snow Town (Xuexiang)** is heavily commercialised but photogenic. **Changbaishan**, on the North Korean border in Jilin, has the Heaven Lake crater and good skiing.
+**Yabuli** (2.5 hours) is China's largest ski resort. Skiing is one of four activities [a Chinese venue needs a specific operating licence to sell](/guides/high-risk-sports-in-china/), with certified patrol staff attached, which is worth knowing before you buy a lift pass. **China Snow Town (Xuexiang)** is heavily commercialised but photogenic. **Changbaishan**, on the North Korean border in Jilin, has the Heaven Lake crater and good skiing.
 
 ## Food
 

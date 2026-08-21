@@ -103,7 +103,7 @@ The least known of the eight. Mountain ingredients — wild herbs, bamboo, game 
 
 **Yunnan** — the most ingredient-diverse region in China: wild mushrooms (a summer obsession, with a genuine annual toll of hallucinations and poisonings), crossing-the-bridge noodles, Dai sour and herbal cooking, goat cheese.
 
-**Guizhou** — sour rather than hot: sour fish soup, fermented chilli, and a tradition distinct from both Sichuan and Hunan.
+**Guizhou** — sour rather than hot: sour fish soup, fermented chilli, and a tradition distinct from both Sichuan and Hunan. [The province itself takes far fewer foreign visitors than Yunnan next door](/destinations/guizhou/).
 
 **Chaoshan (Teochew)** — from eastern Guangdong: beef hotpot with astonishingly precise cuts, marinated goose, oyster omelette, and a cult following among Chinese food enthusiasts.
 

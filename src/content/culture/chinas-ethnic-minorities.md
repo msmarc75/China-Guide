@@ -43,7 +43,7 @@ What a traveller actually notices is narrower than the constitutional language s
 
 **Yunnan** is the most ethnically diverse province and the one most travellers meet first — Bai around Dali, Naxi around Lijiang, Dai in Xishuangbanna near the Laos border, Hani on the Yuanyang terraces, and many more. The Bai are also why [Yunnan is the one part of China with a cheese tradition](/answers/is-dairy-used-in-chinese-cooking/). See the [Yunnan guide](/destinations/yunnan/).
 
-**Guizhou** has large Miao and Dong populations and far fewer foreign visitors than Yunnan, which is much of its appeal.
+**Guizhou** has large Miao and Dong populations and far fewer foreign visitors than Yunnan, which is much of its appeal — [and now has a page of its own](/destinations/guizhou/).
 
 **Guangxi** is the Zhuang autonomous region, though the Zhuang are sufficiently integrated into surrounding Han society that visitors to Guilin and Yangshuo often do not register that they are in a minority region at all.
 

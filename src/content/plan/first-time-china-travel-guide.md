@@ -177,7 +177,7 @@ Entry tickets are the surprise line item: major sights run ¥40–150 each and a
 | When | Do this |
 | --- | --- |
 | 8 weeks out | Check visa status for your nationality; apply if needed. Book international flights. If Tibet is on the route, start the permit now. |
-| 6 weeks out | Book hotels in the big four cities (they sell out around holidays). [Check vaccinations](/answers/do-i-need-vaccinations-for-china/) with a travel clinic. |
+| 6 weeks out | Book hotels in the big four cities (they sell out around holidays — [check the make-up workday calendar](/plan/make-up-workdays-in-china/) for how long each one really runs). [Check vaccinations](/answers/do-i-need-vaccinations-for-china/) with a travel clinic. |
 | 4 weeks out | Buy travel insurance. Decide SIM strategy; order an eSIM if using one. |
 | 2 weeks out | Install and verify Alipay + WeChat, bind a card. Install Amap/Apple Maps, DiDi, 12306, a translation app and a VPN. Book rail tickets when the window opens. |
 | 1 week out | Book timed-entry tickets for the Forbidden City, Terracotta Army and any museum you care about. Download offline maps and the offline Chinese translation pack. |

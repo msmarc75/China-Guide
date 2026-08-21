@@ -36,6 +36,7 @@ The public holiday is short but the disruption is not. Expect:
 - **Small independent restaurants and shops closed** for several days to a fortnight, because staff have gone home. This bites hardest in the places you most want to eat.
 - **Museums and major sights largely open**, often busier than usual, since domestic visitors have the week off too.
 - **Prices up** on flights and hotels, sharply on the days either side.
+- **A working Saturday on each side of it.** The nine-day 2026 break contains only four days of statutory entitlement; the rest is weekends moved forward and then repaid, on [14 and 28 February, both of which the State Council designates as working days](/plan/make-up-workdays-in-china/). Offices open on those dates.
 
 ## Chunyun, which is the real issue
 

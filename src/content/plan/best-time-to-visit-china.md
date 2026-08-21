@@ -111,7 +111,7 @@ Brutally cold from November to March, which is exactly the point: the **Harbin I
 | Mid-Autumn Festival | Sep–Oct, moves yearly | Moderate; sometimes merges with National Day |
 | National Day Golden Week | 1–7 Oct | Extreme, 7–8 days |
 
-Dates shift because several follow the lunar calendar, and the State Council publishes the official arrangement — including the "make-up" working weekends that surround each holiday — only in the autumn of the preceding year. Check it before locking in dates. More context in our guide to [Chinese festivals and holidays](/culture/chinese-festivals-and-holidays/).
+Dates shift because several follow the lunar calendar, and the State Council publishes the official arrangement — including the "make-up" working weekends that surround each holiday — only in the autumn of the preceding year. [The mechanism behind those working weekends, and the 2026 dates](/plan/make-up-workdays-in-china/), decides how long each break actually runs. More context in our guide to [Chinese festivals and holidays](/culture/chinese-festivals-and-holidays/).
 
 ## Air quality: less of a problem than its reputation
 

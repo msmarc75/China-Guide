@@ -22,7 +22,7 @@ related:
 
 China uses the Gregorian calendar for civil purposes and the traditional **lunisolar calendar** for festivals. That is why [Chinese New Year moves between 21 January and 21 February](/answers/when-is-chinese-new-year/), and why Mid-Autumn wanders across September and October.
 
-The State Council publishes the official holiday arrangement — including the compensating working weekends that surround each break — in the autumn of the preceding year. Check it before finalising travel dates.
+The State Council publishes the official holiday arrangement — including the compensating working weekends that surround each break — in the autumn of the preceding year. [What those working weekends are, and the six dates they fall on in 2026](/plan/make-up-workdays-in-china/), is worth reading before you fix travel dates.
 
 ## The major festivals
 

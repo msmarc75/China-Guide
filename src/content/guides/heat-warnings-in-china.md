@@ -86,6 +86,7 @@ You are not a worker on a Chinese site, so none of the labour rules protect you.
 - **The indoor half hour is free if you want it.** [A public library is open, air-conditioned and free by statute](/culture/public-libraries-in-china/), and so is a large museum in most cities.
 - **Watch the fire warning in the guidelines.** Both orange and red flag electrical fire risk from air-conditioning load, which is a reason to take [the evacuation plan on your hotel landing](/guides/hotel-fire-safety-in-china/) more seriously in a heatwave than in February.
 - **This is a local signal.** As with wind, a warning is issued for a place. Check the city you are in and the city you are going to.
+- **The cold half of the year has its own pair.** [Sandstorm and cold wave warnings](/guides/sandstorm-and-cold-wave-warnings-in-china/) run on this same scale, and the cold wave one behaves in the opposite way to heat: four colours instead of three, and nothing stops at any of them.
 
 ## Checked for newer, and the answer was mixed
 

@@ -3,7 +3,7 @@ title: Rain and Fog Warnings in China
 navTitle: Rain and fog warnings
 metaTitle: "Rain and Fog Warnings in China: What Each Colour Stops"
 description: Rain and fog in China are announced by colour. The red rainstorm signal stops classes and business; the red fog signal closes motorways and stops flights.
-standfirst: This site has explained China's colour-coded weather warnings twice — once for wind and once for heat — and the heat page says in as many words that the machinery is shared. It then leaves out the two kinds of weather most likely to eat a day of your trip. Rain is announced on four colours and fog on three, both with published numbers, and the instructions attached to the top colours are specific about what stops.
+standfirst: This site has explained China's colour-coded weather warnings for wind and for heat, and the heat page says in as many words that the machinery is shared. It then leaves out the two kinds of weather most likely to eat a day of your trip. Rain is announced on four colours and fog on three, both with published numbers, and the instructions attached to the top colours are specific about what stops.
 eyebrow: Practicalities
 order: 56
 updated: 2026-08-20
@@ -20,7 +20,7 @@ related:
   - /guides/flight-delays-in-china/
 ---
 
-This site has now explained China's weather-warning colours twice. [The typhoon guide](/guides/typhoons-in-china/) sets out the four-colour scale and the instrument behind it. [The heat guide](/guides/heat-warnings-in-china/) does the same for high temperature and notes, correctly, that heat runs on the same machinery.
+This site explains China's weather-warning colours in two places already. [The typhoon guide](/guides/typhoons-in-china/) sets out the four-colour scale and the instrument behind it. [The heat guide](/guides/heat-warnings-in-china/) does the same for high temperature and notes, correctly, that heat runs on the same machinery.
 
 Neither covers rain. Neither covers fog. Between them those are the two kinds of weather most likely to cost a traveller a day in China — one by shutting a city down where you are standing, the other by shutting the way out.
 
@@ -102,6 +102,7 @@ The two hazards fail you in opposite directions, and the practical response diff
 - **Check the operator, not only the app.** The airline, the rail app and the coach station decide; the signal only tells you which way they are leaning.
 - **Build the buffer before the last leg.** A red fog signal two hours ahead of a morning departure is not a situation you can plan your way out of on the day.
 - **Standing water is the actual danger in a rainstorm**, not the rain. Chinese cities publish flood-point maps for exactly this reason, and an underpass with water across it is the thing that kills people.
+- **The cold half of the year runs on the same scale.** [Sandstorm and cold wave signals](/guides/sandstorm-and-cold-wave-warnings-in-china/) complete the set, and the red sandstorm guideline goes one step further than the red fog one: it suspends trains as well as flights and motorways.
 - **Hong Kong and Macau run their own warning systems** with different names, different colours and different thresholds — the mainland scale described here does not apply there.
 
 ## Checked for newer, and it is the same instrument

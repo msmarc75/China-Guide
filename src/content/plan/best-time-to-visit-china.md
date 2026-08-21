@@ -59,7 +59,7 @@ If your dates are fixed and land in one of these, go anyway — but book absolut
 
 ### North China — Beijing, Xi'an, Datong, [Pingyao](/answers/how-do-i-get-to-pingyao/)
 
-Continental: freezing dry winters, hot humid summers, short glorious shoulder seasons. **September to early November is the best period of the year here**, with clear skies and comfortable temperatures. April and May are good but carry a spring dust risk from the Gobi. Winter is genuinely cold (Beijing regularly hits −8°C) but has one real advantage: the Great Wall and the Forbidden City under snow, almost empty.
+Continental: freezing dry winters, hot humid summers, short glorious shoulder seasons. **September to early November is the best period of the year here**, with clear skies and comfortable temperatures. April and May are good but carry a spring dust risk from the Gobi, which the weather service grades on [its own three-colour sandstorm scale](/guides/sandstorm-and-cold-wave-warnings-in-china/). Winter is genuinely cold (Beijing regularly hits −8°C) but has one real advantage: the Great Wall and the Forbidden City under snow, almost empty.
 
 ### The Yangtze and the east — Shanghai, Suzhou, Hangzhou, Nanjing
 

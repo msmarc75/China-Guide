@@ -78,11 +78,13 @@ Two official reproductions of Order No. 90 that we checked number these provisio
 
 ## If you do hire a car
 
-Two constraints are worth knowing before you plan around one.
+Three constraints are worth knowing before you plan around one.
 
 **The permit is limited to small vehicles.** When it is issued for driving a hired Chinese car, the categories are **小型汽车** (*xiǎoxíng qìchē*, small car) and **小型自动挡汽车** (*xiǎoxíng zìdòngdǎng qìchē*, small automatic car). Whatever your home licence entitles you to drive, a hired van, minibus or anything larger is outside what this permit covers.
 
 **All three documents travel together.** Order No. 90, Article 15, requires the permit to be carried on your person and used together with the overseas licence and its Chinese translation. One of the three left in the hotel safe means you are driving without the set.
+
+**The road can be shut anyway.** A red fog warning carries a published instruction that motorways are temporarily closed, and [it arrives with two hours of notice at most](/guides/rain-and-fog-warnings-in-china/) — which turns a drive into a wait wherever you happen to be.
 
 ## The honest recommendation
 

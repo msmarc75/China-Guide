@@ -78,7 +78,7 @@ A warning is issued locally, not nationally. A red signal in Zhuhai says nothing
 4. **Do not book an island, a boat or a mountain as the only plan for a day** with a warning already up.
 5. **Treat the season as a planning input, not a reason to stay away.** Typhoons are episodic — a few days, a few times a season — and the rest of the summer on that coast is simply hot.
 
-The same four-colour machinery covers every kind of severe weather, and the one a summer visitor meets far more often than a typhoon is heat — which runs on [three colours rather than four, with thresholds in degrees and a stoppage rule of its own](/guides/heat-warnings-in-china/).
+The same four-colour machinery covers every kind of severe weather, and the one a summer visitor meets far more often than a typhoon is heat — which runs on [three colours rather than four, with thresholds in degrees and a stoppage rule of its own](/guides/heat-warnings-in-china/). [Rain and fog have their own signals too](/guides/rain-and-fog-warnings-in-china/), and those are the two most likely to interrupt a journey.
 
 Hong Kong and Macau run their own tropical cyclone signalling, separate from the mainland scale and from each other, so a mainland colour is not the number you will hear quoted there.
 

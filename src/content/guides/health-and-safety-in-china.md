@@ -174,6 +174,8 @@ China is a comparatively easy place to travel solo, including for women. Street 
 
 The larger practical difficulty for solo travellers is the food: Chinese restaurant dishes are sized for sharing. Order from the noodle and rice-bowl sections, eat at hotpot chains with individual pots, or accept that you will over-order and take leftovers.
 
+Summer adds a risk the rest of this page does not cover, and China announces it rather than leaving it to judgement: [the heat warning colours, their thresholds in degrees, and the point at which outdoor work legally stops](/guides/heat-warnings-in-china/).
+
 ## Frequently asked questions
 
 ### Is China safe for tourists?

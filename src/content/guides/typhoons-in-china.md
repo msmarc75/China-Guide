@@ -37,7 +37,7 @@ For typhoons specifically, each colour has a time window and a wind threshold. W
 | **Orange** 橙色 | 12 hours | Force 10+ | Force 12+ |
 | **Red** 红色 | 6 hours | Force 12+ | Force 14+ |
 
-Force 12 is hurricane force, the top of the traditional Beaufort scale. A red typhoon warning is therefore not a strong wind advisory; it is a statement that hurricane-force wind is expected within six hours.
+Force 12 is hurricane force, the top of the traditional Beaufort scale. A red typhoon warning is therefore not a strong wind advisory; it is a statement that hurricane-force wind is expected within six hours. There is a strong wind advisory, though, and it is a separate scale: [the gale signal covers wind that is not a typhoon, on the same sustained thresholds and a lower gust one](/guides/gale-and-thunderstorm-warnings-in-china/).
 
 ## The worse it is, the less warning you get
 

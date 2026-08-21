@@ -67,7 +67,7 @@ Article 19 covers the more ordinary failure. Where the shop is at fault and the 
 ## What to actually do
 
 - **Wash where you sleep, mid-trip.** Build it into a rest day rather than a travel day; a wash plus air-drying is an overnight job, not a two-hour one.
-- **Check the laundry room before you book**, and treat a cheap Chinese chain as more likely to have one than a five-star international.
+- **Check the laundry room before you book**, and treat a cheap Chinese chain as more likely to have one than a five-star international. "Five-star" is [a specific national award with a three-year clock on it](/guides/hotel-star-ratings-in-china/) rather than a general description, and it says nothing about laundry.
 - **Carry a little detergent** as insurance. It is sold in every convenience store and supermarket, so this is a convenience rather than a necessity.
 - **Use the dry cleaner for the things a machine would wreck**, read the docket, and declare a value on anything expensive.
 - **Do not send out anything you cannot afford to lose**, which is the honest reading of a ¥2,000 default cap.

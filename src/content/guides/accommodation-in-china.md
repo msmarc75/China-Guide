@@ -37,7 +37,7 @@ The situation improved markedly after a 2024–25 government push to stop hotels
 
 ## The domestic chains worth knowing
 
-Foreign visitors default to Marriott and Hilton and overpay by a factor of two. China's own mid-market chains are modern, spotless, reliably licensed for foreigners, and cost a third as much.
+Foreign visitors default to Marriott and Hilton and overpay by a factor of two. China's own mid-market chains are modern, spotless, reliably licensed for foreigners, and cost a third as much. Many of them carry no star plaque, which is [not a mark against them — the rating is applied for rather than imposed](/guides/hotel-star-ratings-in-china/).
 
 | Chain | Positioning | Typical price |
 | --- | --- | --- |

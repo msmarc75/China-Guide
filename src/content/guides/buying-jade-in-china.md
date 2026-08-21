@@ -87,6 +87,8 @@ So the certificate answers the question "am I being lied to about the material?"
 
 Precious metal is governed separately by **GB 11887**, a mandatory standard on the fineness of precious-metal alloys and how they must be designated, in force since 1 May 2013. So the same principle applies one shelf over: what a gold or silver piece may be called is fixed by standard rather than by the counter, and a laboratory report on it is verifiable the same way.
 
+The same two letters do work elsewhere. [Hotel star ratings run on GB/T 14308](/guides/hotel-star-ratings-in-china/), which is recommended rather than compulsory — so a hotel with no stars has usually not failed anything, it simply never applied.
+
 ## If it goes wrong
 
 - **Ask for the certificate before you pay**, not after. A shop that produces one only on request, or not at all, has answered you.

@@ -38,6 +38,8 @@ Visitors default to Marriott and Hilton and pay roughly triple. China's mid-mark
 - **Hanting** — reliable budget business hotel, ¥200–320
 - **Lavande**, **Orange**, **Vienna** — comparable, widely distributed
 
+None of these advertises a star rating, and that is irrelevant here: [the plaque grades facilities and is applied for voluntarily](/guides/hotel-star-ratings-in-china/), so it says nothing about whether a desk will register a foreign passport.
+
 ## Homestays are the harder case
 
 Chinese *minsu* booked through Meituan, Tujia or Xiaozhu have patchier foreign-guest registration, and you may have to register yourself at the neighbourhood police station. Note also that Airbnb closed its domestic mainland listings in 2022, so that option no longer exists.

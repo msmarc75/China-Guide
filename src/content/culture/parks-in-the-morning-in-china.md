@@ -83,6 +83,8 @@ Two points of manners. It is a public display in a public park and looking is no
 - **Ask before photographing a person close up.** Wide shots of a public scene are unremarkable; a lens in someone's face is the same discourtesy it is anywhere.
 - **Bring nothing.** There is no equipment to hire and no ticket to the activity, though the park itself may charge admission.
 
+The same demographics fill the teahouses and the shaded card tables later in the day, where [the game making all the noise is mahjong](/culture/mahjong-in-china/) and an afternoon is the unit of measurement.
+
 ## Frequently asked questions
 
 ### Why are Chinese parks full of people early in the morning?

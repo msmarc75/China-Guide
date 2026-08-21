@@ -117,7 +117,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 
 ### What can you see in China in three weeks?
 
-Comfortably: Beijing, Xi'an, Chengdu, the karst landscape around Yangshuo, a Yunnan loop through Dali and Lijiang, and Shanghai. That covers imperial history, the Terracotta Army, pandas, two of China's best landscapes and the modern coast.
+Comfortably: Beijing, Xi'an, Chengdu, the karst landscape around Yangshuo, [a Yunnan loop through Dali and Lijiang](/itineraries/yunnan-itinerary/), and Shanghai. That covers imperial history, the Terracotta Army, pandas, two of China's best landscapes and the modern coast.
 
 ### Is three weeks too long for China?
 

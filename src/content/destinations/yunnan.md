@@ -29,7 +29,7 @@ Yunnan borders Myanmar, Laos and Vietnam and rises from 76 m in the tropical sou
 
 ## The classic route
 
-**Kunming → Dali → Lijiang → Shangri-La**, connected by high-speed rail as far as Lijiang and by road beyond. Allow **seven to ten nights**.
+**Kunming → Dali → Lijiang → Shangri-La**, and since November 2023 the rail corridor reaches all the way to the top — [the Lijiang–Shangri-La railway put Kunming four and a half hours from 3,200 m, which is exactly the trip this route is built to slow down](/itineraries/yunnan-itinerary/). Allow **seven to ten nights**.
 
 Shangri-La in the northwest is Tibetan country, and [reachable without a Tibet permit](/answers/can-i-visit-tibetan-areas-without-a-tibet-permit/) because it lies outside the autonomous region.
 

@@ -100,7 +100,7 @@ What the licence itself gives you on the spot is smaller and genuinely useful: *
 
 The last distinction is the one that stops this page from being misread, and it is the same seam the site has met repeatedly.
 
-**The business licence says the entity exists and is registered. It does not say the entity may do a regulated thing.** For that there is a second document, specific to the trade: [the hygiene licence for a public place](/guides/hygiene-licences-in-china/), a food business licence for a kitchen, an electronic card and worn badge for [a tour guide](/guides/tour-guides-in-china/), separate certificates for a ride-hailing car and its driver.
+**The business licence says the entity exists and is registered. It does not say the entity may do a regulated thing.** For that there is a second document, specific to the trade: [the hygiene licence for a public place](/guides/hygiene-licences-in-china/), a food business licence for a kitchen, an electronic card and worn badge for [a tour guide](/guides/tour-guides-in-china/), separate certificates for a ride-hailing car and its driver, [a Special Trade Licence for a workshop that carves official seals](/culture/seals-and-chops-in-china/).
 
 A Chinese restaurant is carrying at least three pieces of paper for this reason, and they are not interchangeable. A licence on the wall with no permit beside it tells you the business is registered and nothing more.
 

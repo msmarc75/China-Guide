@@ -42,7 +42,7 @@ China does not require proof of vaccination for entry from most countries. A yel
 
 **Travel insurance.** Chinese public hospitals expect payment before treatment, and the Western-standard international clinics in Beijing, Shanghai, Guangzhou and Chengdu charge Western prices. If your route includes Tibet or Shangri-La, check the policy explicitly covers altitude above 3,000 m and medical evacuation — many standard policies do not.
 
-**Your own medicine.** Bring prescription drugs in original labelled packaging with a copy of the prescription. Chinese pharmacies are excellent and cheap, but products are labelled in Chinese and formulations differ, so do not plan to replace something specific locally.
+**Your own medicine.** Bring prescription drugs in original labelled packaging with a copy of the prescription — and check [whether yours is a controlled substance in China](/answers/can-i-bring-my-medication-to-china/), because that category needs a diagnosis certificate too. Chinese pharmacies are excellent and cheap, but products are labelled in Chinese and formulations differ, so do not plan to replace something specific locally.
 
 **Basic kit** — painkillers, antihistamine, loperamide, rehydration salts. Many first-time visitors get an upset stomach from unfamiliar chilli and oil rather than from anything unhygienic.
 

@@ -79,7 +79,7 @@ Naming a specific dish you can eat is more effective than listing what you canno
 
 ## Medication, and the thing to sort out before you fly
 
-Bring what you need, in its original labelled packaging, with a copy of the prescription — the standing rule for [anything you cannot easily replace locally](/plan/china-packing-list/).
+Bring what you need, in its original labelled packaging, with a copy of the prescription — the standing rule for [anything you cannot easily replace locally](/plan/china-packing-list/), and one with [a second layer for medicines China controls separately](/answers/can-i-bring-my-medication-to-china/).
 
 For adrenaline specifically, sort it out at home. Sources disagree on the current regulatory status of epinephrine auto-injectors in mainland China: a 2025 review in *Clinical & Experimental Allergy* describes them as introduced and approved for clinical use in the Guangdong–Hong Kong–Macao Greater Bay Area in 2023 with availability elsewhere in the mainland remaining limited, while a manufacturer's own announcement in the same period stated there were no approved community-use epinephrine products in China at all. They disagree about approval and they agree about the thing that affects you: **you cannot count on obtaining an auto-injector in mainland China.** Travel with what you have been prescribed, carry more than one if that is what your doctor advises, and keep it with you rather than in checked luggage.
 

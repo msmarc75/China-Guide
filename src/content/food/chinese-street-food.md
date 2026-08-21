@@ -109,6 +109,10 @@ Scorpions, starfish and tarantulas on sticks are not Chinese food. They are sold
 The Beijing street that made them famous — the Wangfujing snack street, opened in 2000 — closed in 2019 for redevelopment and its stalls were cleared, so guidance sending you there is out of date. The stunt itself survives on tourist streets elsewhere, which is why the advice still applies.
 :::
 
+## The market that is not a night market
+
+None of the above is where anyone living in China buys food. That is the covered produce hall in the neighbourhood, open in the mornings, and it is worth twenty minutes even if you are not cooking — [prices there are quoted per half-kilo and there is a fair scale on a stand for re-checking what you were sold](/food/chinese-food-markets/).
+
 ## Eating safely
 
 Street food in China is generally safe, and the rules are the universal ones:

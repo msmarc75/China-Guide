@@ -26,6 +26,8 @@ Unlike much of Europe there is no single number. China splits emergencies across
 | Fire and rescue | **119** |
 | Traffic accidents | **122** |
 
+For a hotel, 119 is the last step rather than the first: [the evacuation diagram is required on every floor of a Chinese high-rise, and blocked exits are specifically prohibited](/guides/hotel-fire-safety-in-china/).
+
 They are free, they work from any mobile phone including one without a working SIM, and they are the same across the mainland. Hong Kong and Macau are separate systems and use **999**.
 
 ## The language problem, and what to do about it

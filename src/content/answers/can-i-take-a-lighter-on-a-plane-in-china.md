@@ -31,7 +31,7 @@ Here is the distinction that matters, and it is why travellers get it wrong.
 
 At a Chinese railway station, [a lighter found at the entrance screening is taken off you](/answers/how-early-should-i-arrive-at-a-chinese-train-station/) and you carry on to your platform. It is an inconvenience. Station security in China [is built for throughput and is largely uninterested in you](/culture/how-china-works/), and confiscation is the normal outcome.
 
-At an airport it is not that. Carrying or checking a fire source on a civil flight is handled by the aviation police as an offence rather than as a screening find, under China's Public Security Administration Punishments Law, its Fire Protection Law and the Regulations on Civil Aviation Security. The realistic outcomes include a fine and administrative detention — and, at minimum, missing your flight while it is dealt with.
+At an airport it is not that. Carrying or checking a fire source on a civil flight is handled by the aviation police as an offence rather than as a screening find, under China's Public Security Administration Punishments Law, its Fire Protection Law and the Regulations on Civil Aviation Security. That same Fire Protection Law has a quieter end that works in your favour — [it requires evacuation routes and exits to be kept clear, and puts a diagram on every floor of your hotel](/guides/hotel-fire-safety-in-china/). The realistic outcomes include a fine and administrative detention — and, at minimum, missing your flight while it is dealt with.
 
 The practical consequence is simple: a habit that costs you a lighter at Beijing South can cost you the afternoon at an airport.
 

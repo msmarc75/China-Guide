@@ -89,7 +89,7 @@ What that list leaves out is the shape of a Kunming day: a city at spring temper
 
 ## In practice
 
-- **Give it a night, but give it the right night.** As a stop between flights it is thin. As the evening before a train south it is exactly the right place to be.
+- **Give it a night, but give it the right night.** As a stop between flights it is thin. As the evening before a train south it is exactly the right place to be — and [as the bottom rung of the Yunnan altitude ladder](/itineraries/yunnan-itinerary/), that night is doing more work than it looks.
 - **Check which station.** Kunming and Kunming South are different places, and the trains that matter here — [Jianshui](/answers/how-do-i-get-to-jianshui-from-kunming/) and the international service — go from **Kunming South**.
 - **The climate cuts both ways.** Around 1,900 m, the sun is strong and the nights are cool all year, and buildings are built for neither extreme.
 - **The airport is a genuine hub.** Changshui is described on [the Yunnan guide](/destinations/yunnan/) as a major one, and it is the practical reason so many itineraries touch Kunming at all.

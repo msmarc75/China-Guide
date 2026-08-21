@@ -64,7 +64,7 @@ Best for: business trip extensions, visa-free transit stopovers.
 
 The classic triangle: **Beijing → Xi'an → Shanghai**, three or four nights each. Everything is connected by high-speed rail and you get the Great Wall, the Terracotta Army and the Bund without moving every other morning. The [10-day itinerary](/itineraries/china-10-day-itinerary/) lays it out day by day.
 
-Alternative for repeat visitors: **Chengdu → Chongqing → Zhangjiajie**, or a full ten days in Yunnan.
+Alternative for repeat visitors: **Chengdu → Chongqing → Zhangjiajie**, or [a full ten days in Yunnan](/itineraries/yunnan-itinerary/), which has an order dictated by altitude rather than by taste.
 
 ### 14 days — the sweet spot
 

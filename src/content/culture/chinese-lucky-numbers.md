@@ -64,7 +64,7 @@ Because Mandarin digits are single syllables, they double as shorthand, and it i
 
 Almost none of it, deliberately. Nobody expects a foreign visitor to avoid the number four, and doing so ostentatiously reads as odd rather than considerate. The single exception is the one already covered under gifts, where [giving four of anything is a real misstep](/answers/what-gifts-should-you-avoid-giving-in-china/) with an easy fix: give six or eight instead.
 
-The value of knowing the rest is comprehension, not performance. It explains why the lift panel looks wrong, why a price is 188 and not 190, and why a taxi driver might mention his plate number unprompted.
+The value of knowing the rest is comprehension, not performance. It explains why the lift panel looks wrong, why a price is 188 and not 190, and why a taxi driver might mention his plate number unprompted. The same test applies to [the zodiac, the other half of this register](/culture/the-chinese-zodiac/), where the part worth knowing is not what your animal means but which of two Chinese calendars decides which animal you are.
 
 ## Frequently asked questions
 

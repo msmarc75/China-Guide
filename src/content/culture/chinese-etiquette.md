@@ -41,7 +41,7 @@ Practical consequences for a traveller:
 - **Family name comes first.** 王小明 is Mr Wang, not Mr Xiaoming.
 - Address people as **surname + title**: Wáng lǎoshī (teacher), Lǐ jīnglǐ (manager), Zhāng xiānsheng (Mr Zhang), Chén nǚshì (Ms Chen).
 - **Business cards** are exchanged with **two hands**, received with two hands, read carefully, and placed on the table during the meeting rather than pocketed immediately. Doing this well is noticed.
-- Personal questions — your age, salary, marital status, whether you have children — are normal small talk and are not intrusive. You may deflect vaguely; nobody minds.
+- Personal questions — your age, salary, marital status, whether you have children — are normal small talk and are not intrusive. You may deflect vaguely; nobody minds. Age often arrives obliquely, as 你属什么 (*nǐ shǔ shénme*), what animal are you — [which narrows it to a twelve-year window without asking outright](/culture/the-chinese-zodiac/).
 - **Physical contact** beyond a handshake is uncommon between acquaintances. Hugging a new acquaintance is unusual. Same-sex friends holding arms is normal and means nothing.
 
 ## Dining

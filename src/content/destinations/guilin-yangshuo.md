@@ -52,7 +52,7 @@ The classic 83 km cruise from Guilin's Zhujiang pier to Yangshuo takes about fou
 
 ## Cycling and the countryside
 
-The reason to stay. Rent a bike or an e-bike in Yangshuo (¥30–70 a day) and ride out.
+The reason to stay. Rent a bike or an e-bike in Yangshuo (¥30–70 a day) and ride out — [the cycle lane and the fifteen kilometre an hour cap apply here as everywhere](/guides/bikes-and-e-bikes-in-china/), though the Yulong lanes are the gentlest place in China to meet them.
 
 - **Yulong River route** — the classic: follow the river past the Dragon Bridge (Yulong Bridge, a 600-year-old stone arch) through villages and paddies. Roughly 25 km round trip, entirely flat.
 - **Moon Hill** (¥15) — a natural arch in a hill, 800 steps up, 20 minutes, and a superb view.

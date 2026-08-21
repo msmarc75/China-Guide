@@ -24,6 +24,8 @@ By a wide margin the most likely way a tourist gets hurt in China.
 
 Right turns on red are legal, so a green pedestrian signal does not mean the crossing is clear. Electric scooters are silent, fast, unlit at night, and ride on pavements and against the flow of traffic. Zebra crossings are treated as advisory by a meaningful minority of drivers.
 
+That is the traffic reality rather than the rule. [The law caps an electric bicycle at fifteen kilometres an hour in the non-motor lane](/guides/bikes-and-e-bikes-in-china/), and puts it in that lane rather than on the pavement — worth knowing if you plan to rent one yourself.
+
 Look both ways twice, including on one-way streets, and cross with a group of locals whenever you can. That single habit removes most of the risk.
 
 ## The scams are non-violent and follow a script

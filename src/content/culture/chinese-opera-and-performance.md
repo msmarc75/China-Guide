@@ -63,6 +63,8 @@ Chengdu is where to see it, and an evening of Sichuan opera is a standard fixtur
 
 Chinese acrobatics is not opera and is not a modern tourist invention; it is its own performance lineage with a long history and its own training system. It travels better than opera does for a foreign audience, because it needs no cultural or linguistic decoding at all, and it is often what a hotel concierge is actually recommending when they say "a show".
 
+None of the ticketing machinery below applies at this scale. It starts at an audience of five thousand, where [a performance ticket becomes real-name and the organiser owes you a refund scheme](/guides/concerts-in-china/) — an arena rule, not a playhouse one.
+
 ## The tourist show and the real theatre
 
 Both exist, and it is worth being clear-eyed about which you are buying.

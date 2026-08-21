@@ -33,6 +33,8 @@ China regulates large commercial events — defined as those with **more than 5,
 
 The Ministry of Culture and Tourism has also required organisers to put a larger share of tickets in front of the public — raised from 70 to 85 per cent — with the personal details of holders of the remaining allocation registered 24 hours before the event.
 
+The same instrument carries a consumer half that almost nobody uses: [organisers of large performances must run a tiered refund scheme and tell buyers its terms](/guides/concerts-in-china/).
+
 The practical effect is exactly what [Shanghai Disneyland and Universal Beijing require](/guides/theme-parks-in-china/): buy in advance in your own name, and bring the physical passport rather than a photograph of it. Payment runs through the same [Alipay or WeChat Pay set-up](/guides/money-and-payments-in-china/) as the rest of the country.
 
 ## What is on, and when

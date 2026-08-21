@@ -113,6 +113,8 @@ This is a real and frequent annoyance, and it is another argument for arriving w
 
 High-speed trains have Wi-Fi on many services, of variable quality; mobile data along the main rail corridors is generally excellent, including in tunnels.
 
+The internet café is not the fallback it once was, and it is worth knowing why before you go looking for one: [it closes at midnight by law, checks and registers your identity, and keeps the record of your session for at least sixty days](/culture/internet-cafes-and-gaming-in-china/).
+
 ## Practical connectivity habits
 
 1. **Screenshot everything important.** Hotel addresses in Chinese, train ticket details, booking confirmations, the map of your area. Screenshots survive dead signal, dead VPN and low battery.

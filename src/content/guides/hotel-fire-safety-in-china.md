@@ -72,7 +72,7 @@ One more visible detail, because the signs are everywhere and the reason is rare
 
 **Article 37** prohibits **parking electric bicycles, or charging them, in the public lobby, evacuation corridors, stairwells and exits** of a high-rise civil building.
 
-Those red notices by the lift in a Chinese apartment block or hotel are enforcing that article. The rule exists because a battery fire in a stairwell removes the escape route and the building at the same time, which is also why you will see charging cabinets outside rather than bikes inside.
+Those red notices by the lift in a Chinese apartment block or hotel are enforcing that article. The rule exists because a battery fire in a stairwell removes the escape route and the building at the same time, which is also why you will see charging cabinets outside rather than bikes inside. [What the machine itself is, and how fast you may legally ride one](/guides/bikes-and-e-bikes-in-china/), is a separate regime again.
 
 ## In practice
 

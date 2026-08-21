@@ -53,7 +53,7 @@ Chinese stations are airport-scale, with security screening, waiting halls and g
 
 ## 9. Assuming a green light means you can cross
 
-Right turns on red are legal, and electric scooters are silent, fast, unlit at night and ride on pavements and against traffic. **Traffic is the most likely way a tourist gets hurt in China.** Look both ways twice, including on one-way streets, and cross with a group of locals.
+Right turns on red are legal, and electric scooters are silent, fast, unlit at night and ride on pavements and against traffic. **Traffic is the most likely way a tourist gets hurt in China.** The machine has a rulebook of its own — [the statutory cap on an e-bike in the cycle lane is fifteen kilometres an hour](/guides/bikes-and-e-bikes-in-china/), which is a good deal slower than the ones going past you. Look both ways twice, including on one-way streets, and cross with a group of locals.
 
 ## 10. Following a friendly stranger to a tea ceremony
 

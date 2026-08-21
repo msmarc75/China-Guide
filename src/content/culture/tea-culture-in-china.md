@@ -65,7 +65,7 @@ Everything above is the tradition. What most people in a Chinese city drink on a
 
 ## Tea houses
 
-- **Chengdu** — the great teahouse city. Bamboo chairs, a lidded *gaiwan*, [mahjong](/culture/mahjong-in-china/), ear cleaning, and afternoons that go nowhere. Heming Teahouse in People's Park is the famous one; the courtyard at Wenshu Monastery is quieter
+- **Chengdu** — the great teahouse city. Bamboo chairs, a lidded *gaiwan*, [mahjong](/culture/mahjong-in-china/), [a chessboard at the next table](/culture/weiqi-and-chinese-chess/), ear cleaning, and afternoons that go nowhere. Heming Teahouse in People's Park is the famous one; the courtyard at Wenshu Monastery is quieter
 - **Hangzhou** — lakeside houses serving Longjing, and the tea villages of Meijiawu just west
 - **Guangzhou and Hong Kong** — *yum cha*, where tea is the frame for dim sum. Tapping two fingers on the table is the silent thank-you when someone refills your cup. [What the morning actually involves, and what lands on the bill](/food/yum-cha-in-china/), is a longer story than the phrase suggests
 - **Beijing** — Lao She Teahouse does a performance version with opera and acrobatics; touristy but enjoyable, and [worth knowing how it differs from a working theatre](/culture/chinese-opera-and-performance/) before you choose one

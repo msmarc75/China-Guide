@@ -22,7 +22,7 @@ related:
 
 Chinese cities have a soundtrack, and in Chengdu a large part of it is tiles. It comes from teahouses, from ground-floor rooms with the door propped open, from card tables set up on a pavement under a tree — a hard clattering rattle, then a pause, then it starts again.
 
-This site has already told you it matters. The Chengdu nightlife page says that [mahjong is not a tourist activity but the activity](/destinations/chengdu/nightlife/), and the tea guide lists it among [the things a Sichuan teahouse afternoon consists of](/culture/tea-culture-in-china/). Neither says what it is. And no page here covers any Chinese game at all — not mahjong beyond those two mentions, not weiqi, not Chinese chess.
+This site has already told you it matters. The Chengdu nightlife page says that [mahjong is not a tourist activity but the activity](/destinations/chengdu/nightlife/), and the tea guide lists it among [the things a Sichuan teahouse afternoon consists of](/culture/tea-culture-in-china/). Neither says what it is. When this page was written no page here covered any Chinese game at all; [weiqi and Chinese chess have since been given one of their own](/culture/weiqi-and-chinese-chess/), and this page is about the tiles.
 
 ## What you are looking at
 

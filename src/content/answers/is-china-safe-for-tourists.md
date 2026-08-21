@@ -38,7 +38,7 @@ A related judgement rather than a scam: some premises under massage signage are 
 
 ## Air quality and altitude
 
-Northern China from November to March can exceed AQI 150 for days at a stretch when winter heating comes on. Check an app, move museum visits forward on a bad day, and carry an N95 if you have a respiratory condition.
+Northern China from November to March can exceed AQI 150 for days at a stretch when winter heating comes on. Check an app, move museum visits forward on a bad day, and carry an N95 if you have a respiratory condition. [What the AQI bands mean](/guides/air-quality-in-china/) is worth two minutes before you go, because 150 is the boundary between the third and fourth of six bands rather than a cut-off.
 
 Altitude is the one genuinely dangerous physical risk on standard tourist routes. Lhasa is at 3,656 m, Shangri-La at 3,200 m, and the Jade Dragon cable car reaches 4,506 m. Severity is unrelated to fitness. Ascend gradually, skip alcohol for the first two days, and descend if symptoms worsen.
 

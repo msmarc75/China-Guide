@@ -25,7 +25,7 @@ Give a long scroll the length of a walk rather than the length of a glance. If t
 
 ## Those red stamps are not decoration
 
-The scatter of red seals and the blocks of handwriting are **collectors' marks and inscriptions**, added over centuries by the people who owned the work. They are a chain of custody written on the object itself, and reading them is how scholars trace a painting's history.
+The scatter of red seals and the blocks of handwriting are **collectors' marks and inscriptions**, added over centuries by the people who owned the work. They are a chain of custody written on the object itself, and reading them is how scholars trace a painting's history. [What a Chinese seal actually is](/culture/seals-and-chops-in-china/) — as an object, a craft and, for organisations, a regulated one — is a subject of its own.
 
 The extreme case is the **Qianlong emperor**, who inscribed the paintings he loved. He owned two versions of Huang Gongwang's *Dwelling in the Fuchun Mountains*: he judged the forgery genuine, kept it beside him for over fifty years and covered it with **fifty-five** inscriptions, and he dismissed the real one as a fake and never wrote a single character on it. The real scroll is the better painting and the emptier object.
 

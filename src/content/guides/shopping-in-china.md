@@ -36,7 +36,7 @@ Before you buy for someone else, note that a short list of objects [must not be 
 
 **Calligraphy supplies.** Brushes, ink stones and paper from a specialist shop are beautiful objects regardless of whether you use them. Beijing's Liulichang street is the classic destination.
 
-**Chops (name seals).** A carved stone seal with your name transliterated into Chinese, cut while you wait. ¥80–400 depending on the stone.
+**Chops (name seals).** A carved stone seal with your name transliterated into Chinese, cut while you wait. ¥80–400 depending on the stone. [What you are actually buying](/culture/seals-and-chops-in-china/) — and why the shop may ask to see your passport — is worth two minutes before you choose the characters.
 
 **Silk-road textiles, in Xinjiang.** Atlas silk, embroidered caps, carpets.
 

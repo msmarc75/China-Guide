@@ -45,7 +45,7 @@ If you would rather have your money back than another seat, refunds are charged 
 | 24 to under 48 hours | 10% of the fare |
 | Under 24 hours | 20% of the fare |
 
-A minimum fee of ¥2 applies. The practical reading for a traveller is that **cancelling more than eight days out costs nothing at all**, which makes speculative booking on the day the window opens far less risky than it sounds — and the booking window is short enough that [booking early](/answers/can-i-book-chinese-train-tickets-in-advance/) rarely means booking more than about two weeks ahead in the first place.
+A minimum fee of ¥2 applies. The practical reading for a traveller is that **cancelling more than eight days out costs nothing at all** — on a domestic ticket, at least, because [a cross-boundary ticket into Hong Kong runs on a separate and consistently dearer scale](/guides/cross-boundary-trains-to-hong-kong/). Within the domestic network that makes speculative booking on the day the window opens far less risky than it sounds — and the booking window is short enough that [booking early](/answers/can-i-book-chinese-train-tickets-in-advance/) rarely means booking more than about two weeks ahead in the first place.
 
 :::warn The spring-festival exception
 During 春运 (*chūn yùn*), the forty-day travel surge around Chinese New Year, tickets are refunded at the under-24-hour rate regardless of how far ahead you cancel. The 20% band applies to everything. Plan chunyun travel as though it were non-refundable.

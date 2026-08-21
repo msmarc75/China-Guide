@@ -82,7 +82,7 @@ Hong Kong is one of the world's great eating cities.
 - **Season:** October to December is the best — dry, clear, mild. Summer is hot, humid and typhoon-prone. Spring is foggy.
 - **Plugs:** UK-style three-pin (type G), 220 V — different from the mainland.
 - **Language:** Cantonese, with English widely spoken and all signage bilingual.
-- **Getting to the mainland:** high-speed rail from West Kowloon to Guangzhou (50 min), Shenzhen (20 min), Beijing and Shanghai directly. Immigration is handled inside the station. Overland there are six more crossings into [Shenzhen](/destinations/shenzhen/), with published hours that differ and one that never closes.
+- **Getting to the mainland:** high-speed rail from West Kowloon to Guangzhou (50 min), Shenzhen (20 min), Beijing and Shanghai directly. Immigration is handled inside the station, and [the ticket runs under cross-boundary rules that close sales thirty minutes before departure](/guides/cross-boundary-trains-to-hong-kong/). Overland there are six more crossings into [Shenzhen](/destinations/shenzhen/), with published hours that differ and one that never closes.
 - **Macau:** one hour by ferry, or by bus over the 55 km bridge. Also a separate immigration zone.
 
 ## Frequently asked questions

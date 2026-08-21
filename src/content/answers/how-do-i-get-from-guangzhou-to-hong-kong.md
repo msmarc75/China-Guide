@@ -21,7 +21,7 @@ The rail link makes this one of the easiest international borders anywhere, whic
 
 Services run from **Guangzhou South** to **Hong Kong West Kowloon** in about **50 minutes**. Immigration for both sides is done inside West Kowloon under a co-location arrangement, so you clear mainland exit and Hong Kong entry in the same building rather than at a land crossing.
 
-Book it like any other Chinese high-speed service, through 12306 or an agency, and arrive with the usual station buffer — West Kowloon services are subject to the same gate-closing discipline as domestic trains.
+Book it like any other Chinese high-speed service, through 12306 or an agency, and arrive with the usual station buffer — West Kowloon services are subject to the same gate-closing discipline as domestic trains. What is not the same is everything after the booking: [refunds, changes and baggage on a cross-boundary ticket run under their own rulebook](/guides/cross-boundary-trains-to-hong-kong/), rewritten on 1 April 2026.
 
 ## The part that actually needs thinking about
 

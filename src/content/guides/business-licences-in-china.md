@@ -109,7 +109,7 @@ One trade inverts the pattern. [A Chinese-medicine clinic may open on a filing r
 ## In practice
 
 - **Look for it before you commit money.** It is required to be conspicuous, so needing to ask is itself an answer.
-- **Read the business scope**, which is the line that says what the place is registered to do rather than what the sign says.
+- **Read the business scope**, which is the line that says what the place is registered to do rather than what the sign says. It can also carry a restriction: [a business registered to do tattooing has "except to minors" written into that field by the market regulator](/culture/tattoos-in-china/).
 - **Photograph the code** if there is any prospect of a dispute. It identifies the business when the shop name does not.
 - **Online, look at the home page.** An e-commerce seller must publish the licence or a link to it there, continuously.
 - **A borrowed licence is unlawful**, not merely irregular — for the lender as much as the user.

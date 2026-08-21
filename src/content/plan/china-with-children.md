@@ -112,6 +112,8 @@ For an indoor hour that costs nothing, a public library is required to have a ch
 
 One legal line is worth knowing if you are travelling with teenagers: China does not set a drinking age, but [selling alcohol or tobacco to anyone under eighteen is prohibited and the shop must display a sign](/answers/what-is-the-legal-drinking-age-in-china/).
 
+A third is worth knowing before a holiday whim: [providing a tattoo to anyone under eighteen is prohibited outright](/culture/tattoos-in-china/), and the shop must say so on a sign and ask for identity documents where age is unclear.
+
 Two more apply to a gaming teenager, and they pull in opposite directions. An internet café may not admit an under-eighteen at all; an online game may serve one for a single hour, between 20:00 and 21:00, on Fridays, Saturdays, Sundays and public holidays — [the two regimes, and why they never meet](/culture/internet-cafes-and-gaming-in-china/).
 
 ## Frequently asked questions

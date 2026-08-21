@@ -114,7 +114,7 @@ It is also the mechanism behind a warning [the packing list](/plan/china-packing
 - **Food, seeds and plants are the entry-only trap.** They are on the arrival list and not the departure one, which is why travellers who have left China with a bag of dried mushrooms are surprised on the way back.
 - **Quantity is the question, not the item.** Something perfectly legal becomes a cargo declaration at a large enough number, under Article 5.
 - **Buying to take home is a separate set of rules.** [Antiques, wildlife products and the export side generally](/guides/shopping-in-china/) sit under their own instruments, and Article 10's prohibited and restricted rows are only the door they come through.
-- **Hong Kong and Macau are separate customs territories.** Arriving in either from the mainland, or the other way, is a border crossing with its own declaration rules — Order No. 276 does not govern it.
+- **Hong Kong and Macau are separate customs territories.** For Macau that is an article of its Basic Law rather than an administrative arrangement, and [it is the root of almost every exclusion this site carries](/destinations/macau/). Arriving in either from the mainland, or the other way, is a border crossing with its own declaration rules — Order No. 276 does not govern it.
 
 ## Frequently asked questions
 

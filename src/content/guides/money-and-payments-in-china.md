@@ -127,7 +127,7 @@ Typical prices are in our [China trip cost guide](/plan/china-trip-cost-budget/)
 
 ## A note on Hong Kong and Macau
 
-They are separate currency zones. **Hong Kong uses the Hong Kong dollar (HKD)**; Macau uses the pataca (MOP), though HKD circulates freely there. Alipay and WeChat Pay both operate local versions, but a mainland Alipay balance does not automatically work across the border. In Hong Kong, however, **ordinary Visa and Mastercard contactless payment works everywhere** — it is the one part of Greater China where your normal card behaves normally. Transit runs on the Octopus card, which comes in [a HK$39 tourist version and a deposit-based standard one that most guides confuse](/answers/what-is-an-octopus-card-in-hong-kong/).
+They are separate currency zones. **Hong Kong uses the Hong Kong dollar (HKD)**; Macau uses the pataca (MOP), though HKD circulates freely there — and in Macau's case [the currency is fixed by an article of the Basic Law rather than by policy](/destinations/macau/). Alipay and WeChat Pay both operate local versions, but a mainland Alipay balance does not automatically work across the border. In Hong Kong, however, **ordinary Visa and Mastercard contactless payment works everywhere** — it is the one part of Greater China where your normal card behaves normally. Transit runs on the Octopus card, which comes in [a HK$39 tourist version and a deposit-based standard one that most guides confuse](/answers/what-is-an-octopus-card-in-hong-kong/).
 
 ## Frequently asked questions
 

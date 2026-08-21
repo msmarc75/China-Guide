@@ -48,6 +48,8 @@ Order instead from the sections built for one person: **noodle dishes** (面, *m
 
 Over-ordering slightly is normal and even mildly generous when you are hosting, and there is no shame in a doggy bag — ask to 打包 (*dǎbāo*), which every restaurant does routinely. What is worth avoiding is the wholesale over-order that leaves half the table untouched, which reads as waste rather than generosity.
 
+It also reads that way to the law. [A national statute since 2021 tells caterers to offer small portions and forbids them from inducing you to over-order](/food/food-waste-law-in-china/), and gives them a discretion — rarely used, but real — to charge a customer who causes obvious waste for the cost of handling it.
+
 ## Two things that catch people out
 
 **Prices are per dish, not per person**, so a menu that looks expensive often is not once it is divided by four.

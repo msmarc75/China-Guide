@@ -103,6 +103,7 @@ The two hazards fail you in opposite directions, and the practical response diff
 - **Build the buffer before the last leg.** A red fog signal two hours ahead of a morning departure is not a situation you can plan your way out of on the day.
 - **Standing water is the actual danger in a rainstorm**, not the rain. Chinese cities publish flood-point maps for exactly this reason, and an underpass with water across it is the thing that kills people.
 - **The cold half of the year runs on the same scale.** [Sandstorm and cold wave signals](/guides/sandstorm-and-cold-wave-warnings-in-china/) complete the set, and the red sandstorm guideline goes one step further than the red fog one: it suspends trains as well as flights and motorways.
+- **Winter has its own two signals.** [Snow and road ice](/guides/snow-and-road-ice-warnings-in-china/) complete the set, and the road-ice one grades the temperature of the tarmac rather than of the air — the only signal in the system that does.
 - **Hong Kong and Macau run their own warning systems** with different names, different colours and different thresholds — the mainland scale described here does not apply there.
 
 ## Checked for newer, and it is the same instrument

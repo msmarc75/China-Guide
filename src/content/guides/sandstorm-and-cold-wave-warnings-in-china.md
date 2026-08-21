@@ -50,12 +50,14 @@ The numbers are worth holding next to [the fog scale](/guides/rain-and-fog-warni
 
 Each colour carries its own defence guideline. Yellow is about windows, hoardings and masks; orange stops open-air and high-level work and puts airports, railways and motorways on protective measures. Red is the one to read exactly:
 
-:::warn Red sandstorm is the only Chinese weather signal that stops trains
+:::warn Red sandstorm is the Chinese weather signal that stops trains outright
 > 飞机暂停起降，火车暂停运行，高速公路暂时封闭。
 
 **Aircraft suspend takeoffs and landings, trains suspend operation, motorways are temporarily closed.**
 
 Set that beside the red fog guideline, which this site already quotes: airports suspending takeoffs and landings, motorways temporarily closed, **ferries** temporarily suspended. The two lists are nearly identical and differ in one word each. Fog stops the boats. **Dust stops the trains.**
+
+One other signal names trains — [the red snow warning](/guides/snow-and-road-ice-warnings-in-china/) — but it prefixes the whole clause with 必要时, *where necessary*. Dust is the one that says it flatly.
 
 That matters more than it sounds, because rail is the thing this site recommends when weather threatens a flight. Under a red sandstorm the fallback is closed too.
 :::

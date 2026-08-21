@@ -84,7 +84,7 @@ Three constraints are worth knowing before you plan around one.
 
 **All three documents travel together.** Order No. 90, Article 15, requires the permit to be carried on your person and used together with the overseas licence and its Chinese translation. One of the three left in the hotel safe means you are driving without the set.
 
-**The road can be shut anyway.** A red fog warning carries a published instruction that motorways are temporarily closed, and [it arrives with two hours of notice at most](/guides/rain-and-fog-warnings-in-china/) — which turns a drive into a wait wherever you happen to be.
+**The road can be shut anyway.** A red fog warning carries a published instruction that motorways are temporarily closed, and [it arrives with two hours of notice at most](/guides/rain-and-fog-warnings-in-china/) — which turns a drive into a wait wherever you happen to be. In winter [a second signal watches the road surface itself](/guides/snow-and-road-ice-warnings-in-china/), and at orange it tells drivers they *must* fit anti-skid measures.
 
 ## The honest recommendation
 

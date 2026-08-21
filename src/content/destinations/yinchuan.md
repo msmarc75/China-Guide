@@ -74,7 +74,7 @@ That is the thing to hold in mind at the tombs. This was a literate empire with 
 
 Ningxia is lamb country. **手抓羊肉**, hand-grabbed lamb — bone-in ribs and saddle, boiled and then steamed so the fat renders out — is the regional dish, made with the local Tan sheep breed. **羊杂碎**, a spiced soup of lamb offal, is the everyday street version and is what people actually eat in the morning.
 
-The surprise is the wine. The **eastern foothills of the Helan mountains (贺兰山东麓)** are a designated wine region at around 38° north, and Yinchuan's own government describes it as the Chinese region that has won the most international awards. Estates are scattered along the foothills between the city and the mountains, several of them within reach of the tombs, and the region is a genuine reason to come rather than a curiosity.
+The surprise is the wine. The **eastern foothills of the Helan mountains (贺兰山东麓)** are a designated wine region at around 38° north, and Yinchuan's own government describes it as the Chinese region that has won the most international awards. [Designated by a national standard written for this region alone](/food/chinese-wine/), with a name protected in the European Union as well. Estates are scattered along the foothills between the city and the mountains, several of them within reach of the tombs, and the region is a genuine reason to come rather than a curiosity.
 
 ## Getting there and around
 

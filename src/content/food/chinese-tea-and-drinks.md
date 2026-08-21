@@ -58,7 +58,7 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 ## Wine and other alcohol
 
-**Chinese wine** is a real and rapidly improving industry, centred on **Ningxia** at the edge of the Gobi, plus Shandong and Xinjiang. Ningxia cabernet and its blends now win international awards, and the good bottles are genuinely good. Imported wine carries heavy duty and is expensive.
+**Chinese wine** is a real and rapidly improving industry, centred on **Ningxia** at the edge of the Gobi, plus Shandong and Xinjiang. Ningxia cabernet and its blends now win international awards, and the good bottles are genuinely good. Imported wine carries heavy duty and is expensive. [The Helan foothills have a national standard of their own, a protected name and a mark on the bottle](/food/chinese-wine/), which is what a designated region means here.
 
 **Huangjiu (黄酒)** — "yellow wine", a fermented rice wine, most famously **Shaoxing**, aged and served warm. Around 15–20% ABV, nutty and savoury. Widely used in cooking, and underrated as a drink.
 

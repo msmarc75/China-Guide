@@ -60,7 +60,7 @@ The practical consequence is small but real. A bag marked 普洱咖啡 in a Chin
 
 Regular readers of this site will recognise the shape of that. Chinese commerce puts a startling amount of verifiable information on display and visitors read almost none of it — [the hygiene grade on a restaurant wall](/food/restaurant-hygiene-ratings-in-china/), [the licence behind the counter](/guides/business-licences-in-china/), [the nutrition letter on a drinks menu](/food/chinese-milk-tea/).
 
-The geographical indication mark is the same idea applied to a bag of beans, with one distinction the others do not have: **these three names are protected in the European Union as well**, under a bilateral agreement, so the claim survives the flight home.
+The geographical indication mark is the same idea applied to a bag of beans, with one distinction the others do not have: **these three names are protected in the European Union as well**, under a bilateral agreement, so the claim survives the flight home. [Chinese wine from the Helan foothills is on the same list](/food/chinese-wine/), and works exactly the same way.
 
 That makes coffee an unusually good thing to carry back. It is light, it is not a plant product with the import complications [that tea can bring](/culture/tea-culture-in-china/), and the origin on the bag is checkable rather than decorative.
 

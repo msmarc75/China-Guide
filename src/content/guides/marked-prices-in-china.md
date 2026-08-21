@@ -71,6 +71,7 @@ So the two tools do not overlap. [Walking away is the instrument for the price i
 ## What to do when a bill does not match the sign
 
 - **Photograph the board, the menu or the label** before you commit. It takes a second and it is the evidence.
+- **Some trades get the rule applied deliberately.** Luoyang requires its [hanfu rental and photography shops](/culture/hanfu-rental-in-china/) to display the licence, the prices, the after-sales terms and the compensation standard, with a thirty-minute complaint response behind it.
 - **Ask for the itemised statement** wherever you are consuming first and paying after. It is owed to you rather than granted.
 - **Pay by card if you feel unsafe**, then dispute it. Physical safety comes first and always has.
 - **Complain to the market regulator**, which is what [12315 on the emergency numbers list](/answers/what-are-the-emergency-numbers-in-china/) actually is — the price-enforcement line, not a general grievance number.

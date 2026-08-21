@@ -87,7 +87,7 @@ Walk one street back from Beiyuanmen — **Xiyangshi** and **Dapiyuan** — for 
 ## Also worth doing
 
 - **Big Wild Goose Pagoda** (¥50 + ¥30 to climb) — built in 652 to house the sutras brought back from India by the monk Xuanzang. The square in front has a large musical fountain show that is beloved locally.
-- **Tang Paradise / Datang Everbright City** — a large-scale Tang-themed night district. Unashamedly a reconstruction, but the lighting and the crowds in Tang costume make it a genuine spectacle after dark.
+- **Tang Paradise / Datang Everbright City** — a large-scale Tang-themed night district. Unashamedly a reconstruction, but the lighting and the crowds in Tang costume make it a genuine spectacle after dark. Most of those costumes were rented that morning, and [the day is built around the make-up chair rather than the shoot](/culture/hanfu-rental-in-china/) if you want to join them.
 - **Mount Hua (Huashan)** — 121 km east, and closer than most itineraries assume: high-speed trains from Xi'an North reach Huashan North in around half an hour, with a shuttle onward to the entrance. One of China's five sacred Taoist mountains and the site of the famous plank walk. The travelling is the easy part — it is the mountain that makes it a long, hard day. Go early.
 
 ## Getting around

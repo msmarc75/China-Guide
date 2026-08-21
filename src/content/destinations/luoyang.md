@@ -62,7 +62,7 @@ The city has a metro, which is newer than most guidance reflects: **Line 1 opene
 
 ## Peonies, if the timing lands
 
-Luoyang has been associated with the peony since the Tang and calls itself the peony city. The flowering is in **April**, the city runs a festival around it, and hotels and trains fill accordingly. If you are travelling in April and can adjust, it is a genuine reason to be here; if you are not, nothing about the rest of the city depends on it.
+Luoyang has been associated with the peony since the Tang and calls itself the peony city. The flowering is in **April**, the city runs a festival around it, and hotels and trains fill accordingly — as does [the hanfu trade, which the city regulates and which peaks in the same weeks](/culture/hanfu-rental-in-china/). If you are travelling in April and can adjust, it is a genuine reason to be here; if you are not, nothing about the rest of the city depends on it.
 
 Exact festival dates move year to year with the flowering, so confirm them locally rather than planning around a date from any guide.
 

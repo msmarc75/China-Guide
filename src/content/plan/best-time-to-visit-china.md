@@ -71,7 +71,7 @@ Subtropical to tropical, with a distinct wet season from **April to September** 
 
 ### The southwest — Chengdu, Yunnan, Guizhou
 
-Chengdu sits in a basin under near-permanent cloud; it is mild year-round but rarely sunny, and its winters are grey rather than cold — though "not cold" is misleading, because [no building south of the Qinling–Huai line has central heating](/answers/do-chinese-hotels-have-heating/) and a grey 6°C indoors wears on you. Yunnan is the outlier — Kunming is called the Spring City because it hovers around 15–22°C almost every month. **Yunnan is a good idea in any season**, though its rainy season runs June to September, and Shangri-La at 3,200 m is cold from November to March. **Guizhou** belongs in this group too, and now has [a page of its own](/destinations/guizhou/).
+Chengdu sits in a basin under near-permanent cloud; it is mild year-round but rarely sunny, and its winters are grey rather than cold — though "not cold" is misleading, because [no building south of the Qinling–Huai line has central heating](/answers/do-chinese-hotels-have-heating/) and a grey 6°C indoors wears on you. Yunnan is the outlier — Kunming is called the Spring City because it hovers around 15–22°C almost every month, and [the meteorological administration has ranked it first in the country for climate comfort](/destinations/kunming/). **Yunnan is a good idea in any season**, though its rainy season runs June to September, and Shangri-La at 3,200 m is cold from November to March. **Guizhou** belongs in this group too, and now has [a page of its own](/destinations/guizhou/).
 
 ### The plateau and the far west — Tibet, Qinghai, Xinjiang
 

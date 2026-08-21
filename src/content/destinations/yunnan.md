@@ -35,7 +35,7 @@ Shangri-La in the northwest is Tibetan country, and [reachable without a Tibet p
 
 ### Kunming (1,900 m) — 1 night
 
-The "Spring City", hovering around 15–22°C nearly year-round. Pleasant rather than compelling; most travellers use it as an arrival point.
+The "Spring City", hovering around 15–22°C nearly year-round. Pleasant rather than compelling; most travellers use it as an arrival point. That verdict holds for the sights and not for the city — [the nickname turns out to be measured, and the station has trains to Laos](/destinations/kunming/).
 
 Worth doing: **Green Lake Park** in the centre, the **Yunnan Provincial Museum** (云南省博物馆, Yunnan sheng bowuguan — free, excellent on minority cultures, but it moved out to 昆明市官渡区广福路6393号 in Guandu district in 2015 and no metro station serves it, so allow a taxi or a line 1 ride plus a bus), and the **Stone Forest** (Shilin, ¥130, 90 minutes away) — a 300 km² karst formation of limestone pillars that is genuinely strange and heavily visited.
 
@@ -97,7 +97,7 @@ Yunnan is also [the one part of China with a genuine cheese tradition](/answers/
 
 ## Practicalities
 
-- **Getting there:** Kunming Changshui (KMG) is a major hub; high-speed rail connects Kunming–Dali–Lijiang and Kunming–Guilin/Guangzhou. There is also a high-speed line to Vientiane in Laos.
+- **Getting there:** Kunming Changshui (KMG) is a major hub; high-speed rail connects Kunming–Dali–Lijiang and Kunming–Guilin/Guangzhou. There is also [an international service to Vientiane in Laos](/destinations/kunming/), four trains a day since July 2025, about ten hours including the border.
 - **Getting around:** rail for the main corridor, buses and hired drivers beyond. Roads in the mountains are slow. Yunnan is where most visitors meet the Chinese coach network for the first time, and [it works differently from the train](/guides/long-distance-buses-in-china/) — the passport goes on the ticket, and the counter inside the station is the only place worth buying it.
 - **Season:** March to May and September to November are best. June to August is the rainy season, though the temperature stays pleasant. Winter is dry, sunny and cold at altitude, and it is the season for the Yuanyang terraces.
 - **Ethnic tourism:** approach it thoughtfully. Many "minority villages" are staged commercial operations; markets, festivals and simply staying in a village guesthouse give a far more honest picture.

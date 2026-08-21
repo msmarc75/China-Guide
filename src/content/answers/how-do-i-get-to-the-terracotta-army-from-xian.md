@@ -19,7 +19,7 @@ The site is about 40 km east of the city, and getting there is genuinely easy �
 
 ## The official bus
 
-**Tourist bus 5, route number 306**, runs from the **east square of Xi'an railway station** (西安站东广场) to the museum. It is green, it is signed, and it is run by the public bus company rather than an agency. The journey takes about an hour depending on traffic.
+**Tourist bus 5, route number 306**, runs from the **east square of Xi'an railway station** (西安站东广场) to the museum. It is green, it is signed, and it is run by the public bus company rather than an agency — which means [the board at the stop must carry the fares, the stop names and the service hours by rule](/guides/city-buses-in-china/), and the person with the clipboard has nothing equivalent. The journey takes about an hour depending on traffic.
 
 Board at the marked stand in the east square, not from anyone approaching you on the concourse. The bus fills and leaves frequently through the morning.
 

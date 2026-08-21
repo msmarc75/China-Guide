@@ -83,7 +83,7 @@ First class costs roughly 1.6× second class; business class roughly 3×. Overni
 Within cities:
 
 - Metro: ¥3–10 per ride, distance-based
-- City bus: ¥1–2
+- City bus: ¥1–2 — [a government-set fare rather than a commercial one](/guides/city-buses-in-china/)
 - Taxi flag-fall: ¥10–14, then about ¥2.5/km — a 20-minute cross-town ride is typically ¥30–50
 - DiDi: similar to taxi, often a little cheaper
 - Airport express trains: ¥25–50

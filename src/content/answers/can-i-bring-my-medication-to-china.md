@@ -29,7 +29,7 @@ That principle now has a text behind it. The Regulations for the Implementation 
 
 > 个人携带、邮寄少量药品进境的，应当以合理自用数量为限，遵守国家关于个人物品进境管理的规定。
 
-Carrying or posting a small quantity of medicine into China is capped at **a reasonable quantity for personal use**. No figure, no list — a standard rather than a threshold. The same revision governs [the drawers behind a Chinese pharmacy counter](/culture/herbal-medicine-in-china/).
+Carrying or posting a small quantity of medicine into China is capped at **a reasonable quantity for personal use**. No figure, no list — a standard rather than a threshold. The same revision governs [the drawers behind a Chinese pharmacy counter](/culture/herbal-medicine-in-china/). Those four characters are not a drug-regulation invention either: the customs order rewritten in 2025 opens with the identical test for [everything in your bag, not only the medicine](/plan/chinese-customs-on-arrival/).
 
 ## The category that is regulated separately
 

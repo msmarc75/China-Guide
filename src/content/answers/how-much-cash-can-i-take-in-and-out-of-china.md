@@ -35,7 +35,7 @@ Foreign banknotes are governed separately, under provisional measures issued joi
 
 Note the wording: the threshold is an **equivalent**, so euros, pounds and yen are converted and counted together with dollars rather than each getting their own allowance.
 
-On the way **in**, the structure is different: there is no permit, but foreign cash above the equivalent of **US$5,000 must be declared to customs in writing** on arrival. That written declaration is also what makes taking the money out again straightforward, which is the practical reason to do it rather than an administrative nicety.
+On the way **in**, the structure is different: there is no permit, but foreign cash above the equivalent of **US$5,000 must be declared to customs in writing** on arrival. That written declaration is also what makes taking the money out again straightforward, which is the practical reason to do it rather than an administrative nicety. It also has a statutory home: cash above the prescribed amount is one of [the ten situations the 2025 customs baggage order requires to be declared in writing](/plan/chinese-customs-on-arrival/) on entry, and one of the seven on the way out.
 
 There is one trap for people crossing repeatedly — at a Hong Kong or Macau land border, for instance. Where someone leaves more than once in the same day, the second and any subsequent exit that day is capped at the equivalent of **US$500**, not US$5,000.
 

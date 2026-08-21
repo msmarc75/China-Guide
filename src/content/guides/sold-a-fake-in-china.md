@@ -83,11 +83,12 @@ Article 55 is enforced in a Chinese court, and no visitor is going to start that
 
 ## Which rule fits which problem
 
-Three different situations on this site, three different answers, and confusing them costs you the remedy:
+Four different situations on this site, four different answers, and confusing them costs you the remedy:
 
 - **The bill did not match the sign.** That is the marked-price regime — [the price displayed binds, and nothing unmarked may be added](/guides/marked-prices-in-china/).
 - **The thing is not what it was said to be.** That is Article 55, on this page.
 - **You bought it at a stop on an organised tour.** That is a separate and easier route: [thirty days to make the travel agency take it back and advance the refund itself](/guides/tour-shopping-stops-in-china/), without you having to prove anything about the shop.
+- **You simply changed your mind.** That is the weakest position of the four, and [whether you have any right at all depends on where you bought it](/answers/can-i-return-something-i-bought-in-china/) rather than on what it is.
 
 ## In practice
 

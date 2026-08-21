@@ -63,7 +63,7 @@ Then **Article 14**:
 
 Where a consumer asks the operator to return **the principal of the prepayment within seven days of the date of payment, the people's court shall support it.**
 
-A seven-day cooling-off period on a prepaid card, in other words, created by the court that hears the disputes.
+A seven-day cooling-off period on a prepaid card, in other words, created by the court that hears the disputes. It is worth keeping apart from [the other seven-day window in Chinese consumer law](/answers/can-i-return-something-i-bought-in-china/), which covers goods bought at a distance and comes from the statute rather than from a court.
 
 :::warn Two exceptions, and they matter
 The right does not apply where, at the time of concluding the contract, the consumer had **already obtained the same goods or services from that operator**, or **had already obtained the same goods or services from another operator**. Where the parties have agreed something more favourable to the consumer, the more favourable terms apply.

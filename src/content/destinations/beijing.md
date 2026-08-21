@@ -76,7 +76,7 @@ The unrestored Jiankou section is spectacular and genuinely dangerous — loose 
 
 ## The rest of the essentials
 
-**Temple of Heaven** (¥34 through-ticket). Go at 07:00, when the surrounding park fills with retired Beijingers doing tai chi, ballroom dancing, jianzi, calligraphy with water brushes and — memorably — group opera singing. The Hall of Prayer for Good Harvests is the postcard; the park is the experience.
+**Temple of Heaven** (¥34 through-ticket). Go at 07:00, when the surrounding park fills with retired Beijingers doing tai chi, ballroom dancing, jianzi, calligraphy with water brushes and — memorably — group opera singing. The Hall of Prayer for Good Harvests is the postcard; the park is the experience. [Why there are so many of them, and what each of those activities is](/culture/parks-in-the-morning-in-china/), is a subject of its own — the short answer is that the statutory retirement ages are 60 for men and 50 or 55 for women.
 
 **Summer Palace** (¥30–60). The Qing imperial retreat: a huge lake, a 728 m painted corridor, and the marble boat — which, contrary to the story every guide tells, was not built by Cixi at all. It dates from Qianlong's garden on this site; Cixi rebuilt it in 1893, giving it the Western-style upper deck and paddle wheels it has now. Naval funds were diverted into the wider restoration, but how much is genuinely disputed by historians, and the boat itself is a rebuild rather than the emblem of the scandal. Half a day. Best in autumn.
 

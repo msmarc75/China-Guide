@@ -73,7 +73,7 @@ Both exist, and it is worth being clear-eyed about which you are buying.
 
 **And there is the ordinary evening.** If a full work is too heavy a lift and the tourist hour feels thin, the thing most Chinese people actually do with an evening out is [go to the cinema, where the law requires the film to start at the time printed on your ticket](/culture/going-to-the-cinema-in-china/).
 
-**And there is a free version.** Retired Beijingers sing opera in the parks in the morning, in groups, for their own pleasure — the Temple of Heaven park is the classic place to encounter it, at around seven in the morning, along with tai chi and ballroom dancing. It is amateur and it is completely unstaged, and a lot of visitors find it the most memorable performance they see in China.
+**And there is a free version.** Retired Beijingers sing opera in the parks in the morning, in groups, for their own pleasure — the Temple of Heaven park is the classic place to encounter it, at around seven in the morning, along with tai chi and ballroom dancing. It is amateur and it is completely unstaged, and a lot of visitors find it the most memorable performance they see in China. It is also one strand of several running at once: [the morning park has choirs, ballroom dancers, water calligraphers and square-dance lines in separate corners](/culture/parks-in-the-morning-in-china/), each with its own regulars.
 
 ## Frequently asked questions
 

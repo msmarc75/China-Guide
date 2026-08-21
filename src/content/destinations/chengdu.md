@@ -82,7 +82,7 @@ Beyond hotpot:
 - **Wuhou Shrine** (¥50) — dedicated to Zhuge Liang and the heroes of the Three Kingdoms, whose story every Chinese visitor knows in detail.
 - **Jinsha Site Museum** (¥70) — a 3,000-year-old Shu civilisation site discovered in 2001, with a gold sun-bird disc that has become the emblem of Chinese cultural heritage. Excellent and under-visited.
 - **Sichuan Opera and face-changing** (*bian lian*) — masks swapped in a fraction of a second by a technique kept secret. Shufeng Yayun theatre does the tourist-friendly version well.
-- **People's Park** on a Sunday — dancing, singing, tai chi, calligraphy, the works.
+- **People's Park** on a Sunday — dancing, singing, tai chi, calligraphy, the works. [Each of those is a distinct activity with its own regulars](/culture/parks-in-the-morning-in-china/), and the volume the dancers play at is set by the park under a national law.
 
 ## Day trips
 

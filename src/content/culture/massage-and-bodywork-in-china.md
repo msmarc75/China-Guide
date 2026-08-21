@@ -42,6 +42,8 @@ If the pressure is too much, **轻一点** (*qīng yīdiǎn*) — lighter, pleas
 
 The single most useful thing on a Chinese street sign is 盲人按摩 (*mángrén ànmó*), blind masseur. It is worth understanding why.
 
+The same two-categories-one-vocabulary problem turns up in nightlife, where [private-room karaoke is overwhelmingly mainstream and a separate kind of venue borrows the name](/culture/ktv-in-china/), and where the tells are identical.
+
 Massage has been the principal organised employment route for blind people in China for decades, run as national policy through the China Disabled Persons' Federation. The federation's own statistical bulletins put the scale of it plainly: it counts **over 22,000 blind health-massage establishments** nationally, alongside roughly a thousand medical-massage ones, and it trains thousands of new practitioners in each category every year.
 
 Two consequences follow, and both matter to a visitor.

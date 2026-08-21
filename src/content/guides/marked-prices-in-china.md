@@ -75,6 +75,7 @@ So the two tools do not overlap. [Walking away is the instrument for the price i
 - **Entertainment venues have their own article.** The State Council regulation governing KTV and similar places restates the duty and adds one: [a price list must be shown to the customer, and nobody may be forced or deceived into taking a service](/culture/ktv-in-china/).
 - **Produce markets get it one step earlier.** In a food market the duty lands on the quantity rather than the price: [a trader settling by weight must measure it and make the unit, the weighing and the figure visible to you](/food/chinese-food-markets/), and the hall must provide a fair scale for re-checking.
 - **Ride-hailing has it too.** A platform must set fares reasonably, [mark its prices and give the passenger a taxi invoice](/guides/ride-hailing-in-china/) — the same duty again, in a car.
+- **Blind boxes get the duty plus a disclosure list.** The market regulator restates marked pricing for the trade and adds items no other shop has to post: [the draw rules, the released quantities and the probability itself](/culture/blind-boxes-in-china/).
 - **Ask for the itemised statement** wherever you are consuming first and paying after. It is owed to you rather than granted.
 - **Pay by card if you feel unsafe**, then dispute it. Physical safety comes first and always has.
 - **Complain to the market regulator**, which is what [12315 on the emergency numbers list](/answers/what-are-the-emergency-numbers-in-china/) actually is — the price-enforcement line, not a general grievance number.

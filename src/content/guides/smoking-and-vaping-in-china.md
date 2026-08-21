@@ -40,7 +40,7 @@ So the practical rule for a visitor is geographic, not national: **the bigger an
 
 **Shanghai** followed on **1 March 2017** with a revised version of its own regulation, banning smoking in all indoor public places, indoor workplaces and public transport. Shanghai then did something most Chinese cities have not: on **28 October 2022** its municipal People's Congress amended the regulation so that the definition of smoking includes **e-cigarettes**, which brought vaping indoors under exactly the same prohibition.
 
-**Shenzhen** reached a fully smoke-free indoor standard from **1 January 2017**, and later extended its rules to e-cigarettes and to outdoor waiting areas, including station platforms — an unusually broad scope that most cities do not match.
+**[Shenzhen](/destinations/shenzhen/)** reached a fully smoke-free indoor standard from **1 January 2017**, and later extended its rules to e-cigarettes and to outdoor waiting areas, including station platforms — an unusually broad scope that most cities do not match.
 
 Outside those, assume less. A no-smoking sign in a third-tier city restaurant is a statement of intent more often than a statement of fact, and the older and cheaper the establishment, the truer that is. If smoke matters to you, the reliable moves are the ordinary ones: chain restaurants, hotel restaurants, shopping-mall floors, anywhere with visible corporate management, and outdoor tables.
 

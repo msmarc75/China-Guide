@@ -75,6 +75,7 @@ Cantonese cooking prizes freshness and restraint: steaming, quick stir-frying, c
 
 ## Practicalities
 
+- **Shenzhen** is half an hour away and has [a guide of its own](/destinations/shenzhen/), which matters most if you are continuing to Hong Kong: seven passenger crossings are operating and only one of them stays open all night.
 - **Getting there:** Guangzhou South is a major rail hub — 50 min to Hong Kong, 2h20 to Guilin, 8h to Beijing, 7h to Shanghai. Baiyun (CAN) is one of China's biggest airports.
 - **Season:** October to December is the best — dry and mild. Summer is hot, humid and typhoon-prone; the rainy season runs April to September.
 - **Days needed:** two nights for the food and the main sights.

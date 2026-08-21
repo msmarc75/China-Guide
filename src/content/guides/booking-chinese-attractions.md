@@ -26,7 +26,7 @@ It stopped being the whole truth in July 2024, and the shape of what replaced it
 
 ## What changed in 2024
 
-Through July 2024 a run of major cities lifted reservation requirements at most of their attractions. Xinhua reported Shanghai, Beijing, Suzhou, Chengdu and Hangzhou dropping the requirement at most major sights, and Shenzhen removing it across 133 venues — 17 tourist attractions, 61 museums, 33 art galleries, 12 libraries and 10 cultural centres.
+Through July 2024 a run of major cities lifted reservation requirements at most of their attractions. Xinhua reported Shanghai, Beijing, Suzhou, Chengdu and Hangzhou dropping the requirement at most major sights, and [Shenzhen](/destinations/shenzhen/) removing it across 133 venues — 17 tourist attractions, 61 museums, 33 art galleries, 12 libraries and 10 cultural centres.
 
 The Ministry of Culture and Tourism's guidance behind this was explicit that a "one-size-fits-all" approach had to be avoided, and the National Cultural Heritage Administration encouraged museums to extend opening hours and drop reservation policies. The State Council's own account notes the effect was immediate: search volume for Beijing attraction tickets nearly tripled.
 

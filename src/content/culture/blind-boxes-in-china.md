@@ -124,7 +124,7 @@ Article 5 draws a boundary around the whole model. Blind-box selling is to stay 
 
 > 无法投递又无法退回的快件，不得以盲盒形式销售。
 
-**Express parcels that can be neither delivered nor returned may not be sold as blind boxes.** That is the "unclaimed parcel" mystery-box trade, written out of the category by name.
+**Express parcels that can be neither delivered nor returned may not be sold as blind boxes.** That is the "unclaimed parcel" mystery-box trade, written out of the category by name — and it is closed off from the other side too, because [the express delivery regulation already says where such parcels go](/guides/express-delivery-in-china/), which is to the sender, to customs, or to destruction under the postal authority's supervision.
 
 Article 21 closes the other door: blind-box goods may not carry content the law forbids, and an operator **may not conduct gambling, or disguised gambling, under the name of a blind box**. There is a lawful way to sell a chance in China and it is a narrow one — [two state-licensed lotteries, and nothing else](/culture/lotteries-in-china/).
 

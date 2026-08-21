@@ -115,6 +115,8 @@ Fakes still circulate, mostly passed to tourists in change at markets and by tax
 | No data signal | Alipay's payment code works briefly offline and refreshes; if it will not load, use cash |
 | Account frozen after unusual activity | Complete the in-app verification prompt; a passport re-scan usually restores it within an hour |
 
+One kind of payment deserves separate treatment, because it is a debt the shop owes you rather than a purchase you completed: [the prepaid membership card, and the seven days you have to undo one](/guides/prepaid-cards-in-china/).
+
 ## Costs and tipping
 
 Typical prices are in our [China trip cost guide](/plan/china-trip-cost-budget/). Two behavioural notes:

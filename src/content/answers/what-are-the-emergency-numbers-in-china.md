@@ -53,7 +53,7 @@ One thing to expect once you arrive: a Chinese emergency department sorts patien
 
 ## Other numbers worth having
 
-- **12315** — consumer complaints, including overcharging disputes. It reaches the market regulator, the body that enforces [the rule that a marked price may not be exceeded](/guides/marked-prices-in-china/)
+- **12315** — consumer complaints, including overcharging disputes. It reaches the market regulator, the body that enforces [the rule that a marked price may not be exceeded](/guides/marked-prices-in-china/), and it is also the realistic route for [a refused refund on a prepaid card](/guides/prepaid-cards-in-china/)
 - **12328** — the Ministry of Transport's service supervision hotline, staffed around the clock, for taxis, coaches and roads. It is where [a refused meter, a detour or a bag left in a cab](/guides/taxis-in-china/) actually goes
 - **12308** — the Chinese foreign ministry's consular protection line, for Chinese citizens abroad; your **own** embassy's emergency line is the equivalent for you, and is worth saving before you fly
 - **12367** — the National Immigration Administration's service platform, staffed around the clock in Chinese *and English*, for visa, permit and exit-entry questions

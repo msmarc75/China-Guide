@@ -77,6 +77,6 @@ You may be offered cupping (拔罐) or gua sha (刮痧) as extras. Both leave ma
 
 **The zero-risk option is your hotel.** Any decent hotel has a spa or will book you into a reputable place nearby. You give up some authenticity and pay more; you eliminate the guesswork entirely.
 
-**Membership cards.** Chains push prepaid cards hard, and this is the most-complained-about practice in the industry. Decline politely and pay for the single session — you are not coming back next week.
+**Membership cards.** Chains push prepaid cards hard, and this is the most-complained-about practice in the industry. Decline politely and pay for the single session — you are not coming back next week. If you have already paid, [there is a seven-day window and the "no refunds" wording is void](/guides/prepaid-cards-in-china/).
 
 For what tuina is as a medical tradition, and the national programme behind the blind-masseur sign, see [massage and bodywork in China](/culture/massage-and-bodywork-in-china/). For health, hygiene and what to do if something goes wrong, see the [health and safety guide](/guides/health-and-safety-in-china/).

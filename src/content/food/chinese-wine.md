@@ -40,7 +40,7 @@ It replaced an earlier standard, and the two changes between them tell you how C
 
 So a Chinese standard can keep its number and quietly change its force. The general national standard for wine, **GB/T 15037-2006**, is recommended today; the compulsory floor for fermented drinks sits in a separate food-safety standard rather than in the quality standard.
 
-There are rungs below these two as well, and one of them settled an argument about what counts as salmon — [what a group standard is, and who it binds](/food/salmon-in-china/). A recommended standard can also be rewritten and renumbered without losing its grip: [the whisky standard lost its own number in 2026 and became part one of a series](/food/whisky-in-china/).
+There are rungs below these two as well, and one of them settled an argument about what counts as salmon — [what a group standard is, and who it binds](/food/salmon-in-china/). A recommended standard can also be rewritten and renumbered without losing its grip: [the whisky standard lost its own number in 2026 and became part one of a series](/food/whisky-in-china/). And the traffic runs the other way too: [the compulsory standard for a dispensed pair of glasses was abolished in March 2026 and replaced by a recommended one](/answers/can-i-buy-glasses-in-china/).
 :::
 
 ## What the region physically is

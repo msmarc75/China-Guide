@@ -94,6 +94,8 @@ That describes the outpatient route, which is the wrong door for an accident. An
 
 **A second hospital system runs in parallel.** Most cities have a Chinese-medicine hospital in the public system alongside the ordinary ones, and [what it is in law, and what a Chinese-medicine clinic must display](/culture/chinese-medicine-in-china/), is worth knowing before you pick a door.
 
+**Opticians** are equally common and equally quick, and worth separating from pharmacies in your head: spectacles are ordinary goods, while [contact lenses and their solutions are Class III medical devices needing a licensed seller](/answers/can-i-buy-glasses-in-china/).
+
 **Pharmacies (药店)** are everywhere, cheap and can dispense many things over the counter that would need a prescription at home. Products are labelled in Chinese; use the camera translation in Pleco or Google Translate. Bring your own familiar medicine for anything you routinely need, and check first [whether Chinese law treats it as an ordinary medicine or a controlled one](/answers/can-i-bring-my-medication-to-china/) — emphatically including adrenaline, which is one of several reasons [a severe food allergy needs planning before you fly](/food/food-allergies-in-china/) rather than after you land.
 
 **Travel insurance is not optional.** A serious problem in a remote area — evacuation from the Tibetan plateau, for instance — costs tens of thousands of dollars. Check that your policy covers altitude above 3,000 m if you are going to Tibet or Shangri-La, and covers scooter riding if you plan to rent one.

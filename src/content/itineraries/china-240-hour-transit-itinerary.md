@@ -43,7 +43,7 @@ Read the first row twice, because it is the one that ruins trips. A ticket home 
 - **Shaanxi History Museum**, Xi'an — free, booked 7 days ahead
 - **Shanghai Museum** — free, booked; the two buildings close on different days
 - **Trains** — Beijing→Xi'an, Xi'an→Shanghai, Shanghai→Guangzhou on 12306
-- **Guangzhou→Hong Kong** — book the through train rather than turning up
+- **Guangzhou→Hong Kong** — book the through train rather than turning up, and note that [the cross-boundary ticket has its own refund and change rules](/guides/cross-boundary-trains-to-hong-kong/)
 :::
 
 ## The route

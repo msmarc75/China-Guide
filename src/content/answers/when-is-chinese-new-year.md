@@ -27,6 +27,8 @@ China's lunar calendar is lunisolar — months follow the moon, but the year is 
 
 The practical consequence is a swing of about a month: the earliest possible date is 21 January, the latest 21 February. Anyone quoting you a fixed date is quoting one particular year.
 
+That swing is also why [the zodiac animal has two rival boundaries rather than one](/culture/the-chinese-zodiac/): day one of the first lunar month sometimes falls before the solar term Lichun and sometimes after it.
+
 ## What actually shuts
 
 The public holiday is short but the disruption is not. Expect:

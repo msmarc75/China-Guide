@@ -28,7 +28,7 @@ China has four ways in, and which one applies to you depends on your passport, h
 
 **Visa-free entry, 30 days.** Since 2023 China has unilaterally waived visas for a growing list of countries — most of Europe, the UK, Australia, New Zealand, Japan, South Korea, Malaysia, Brazil and others. No application, no fee, no invitation letter. You land and get a stamp.
 
-**240-hour visa-free transit.** For 55 nationalities, including Americans, who are *transiting* to a third country or region. Ten days, at more than 60 designated ports, within 24 permitted provinces. Hong Kong, Macau and Taiwan count as third regions, which is what makes this route so usable in practice.
+**240-hour visa-free transit.** For 57 nationalities, including Americans, who are *transiting* to a third country or region. Ten days, at 65 designated ports, within 24 permitted provinces. Hong Kong, Macau and Taiwan count as third regions, which is what makes this route so usable in practice.
 
 **Hainan, 30 days.** The island runs its own scheme for 59 nationalities arriving directly at Haikou or Sanya. It covers Hainan only — you cannot continue to the mainland on it.
 

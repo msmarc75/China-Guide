@@ -96,7 +96,7 @@ Stay in a guesthouse along the **Yulong River** or in the villages around Gaotia
 - **Season:** October and November are the clearest and driest; April to June is misty, green and wet, which suits the karst and floods the terraces. July and August are hot, humid and packed with domestic school holidays.
 - **Buses:** this route uses more road transport than a rail-based itinerary. Journeys are slow and winding; do not schedule tightly.
 - **Walking:** Zhangjiajie involves 15–20 km and many stairs per day. Proper shoes matter.
-- **Visa:** at 12 days this exceeds the 240-hour transit allowance for the mainland portion — though exiting to Hong Kong satisfies the third-region requirement, the ten-day limit does not stretch. Check our [visa guide](/guides/china-visa-guide/).
+- **Visa:** at 12 days this exceeds the 240-hour transit allowance for the mainland portion — though exiting to Hong Kong satisfies the third-region requirement, the ten-day limit does not stretch. Check our [visa guide](/guides/china-visa-guide/), and [the ten-day version that does fit](/itineraries/china-240-hour-transit-itinerary/) if the scheme is your only route in.
 
 ## Frequently asked questions
 

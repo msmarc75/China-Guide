@@ -37,7 +37,7 @@ Solve four problems before you fly and the country opens up completely.
 
 This is the question that changed most in the last two years, and the one where old blog posts will actively mislead you.
 
-Since 2023 China has rolled out **unilateral visa-free entry** to a growing list of countries — most of the EU, Switzerland, Norway, the UK and Canada (both added in February 2026), Australia, New Zealand, Japan, South Korea, Malaysia, Brazil, Argentina and others — normally allowing stays of **30 days** for tourism, business, family visits and transit. Separately, the **240-hour (10-day) visa-free transit** scheme covers 55 nationalities, including the United States and Canada, arriving at more than 60 ports, provided you hold an onward ticket to a *third* country or region and stay inside the permitted provinces.
+Since 2023 China has rolled out **unilateral visa-free entry** to a growing list of countries — most of the EU, Switzerland, Norway, the UK and Canada (both added in February 2026), Australia, New Zealand, Japan, South Korea, Malaysia, Brazil, Argentina and others — normally allowing stays of **30 days** for tourism, business, family visits and transit. Separately, the **240-hour (10-day) visa-free transit** scheme covers 57 nationalities, including the United States and Canada, arriving at 65 ports, provided you hold an onward ticket to a *third* country or region and stay inside the permitted provinces — [a route built to fit it](/itineraries/china-240-hour-transit-itinerary/) is a different trip from the standard one.
 
 Two consequences worth internalising:
 

@@ -109,6 +109,8 @@ And the country is very safe. Petty crime against visitors is rare, streets are 
 
 For an indoor hour that costs nothing, a public library is required to have a children's reading area, and [Beijing sets a daily minimum for children's opening hours in the school holidays](/culture/public-libraries-in-china/).
 
+One legal line is worth knowing if you are travelling with teenagers: China does not set a drinking age, but [selling alcohol or tobacco to anyone under eighteen is prohibited and the shop must display a sign](/answers/what-is-the-legal-drinking-age-in-china/).
+
 ## Frequently asked questions
 
 ### Do children need their own passport for Chinese trains?

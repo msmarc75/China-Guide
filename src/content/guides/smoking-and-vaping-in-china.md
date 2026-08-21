@@ -70,7 +70,7 @@ Vaping in China is legal but tightly standardised, and the standardisation is wh
 
 The State Tobacco Monopoly Administration's **Measures for the Administration of Electronic Cigarettes** (电子烟管理办法, *Diànzǐyān Guǎnlǐ Bànfǎ*) took effect on **1 May 2022**, and the mandatory national standard **GB 41700-2022** followed on **1 October 2022**. Between them they require that a product carry no characterising flavour other than tobacco, and that the aerosol contain nicotine — which removes both flavoured e-liquid and nicotine-free products from legal sale.
 
-Bringing a personal device is a different matter from buying liquid locally. Assume you will not find your flavour, and note that where a city has folded e-cigarettes into its smoking ban, as Shanghai did in 2022, vaping indoors is simply smoking indoors as far as the rule is concerned. The [health and safety guide](/guides/health-and-safety-in-china/) covers where this sits among the other legal lines worth not crossing.
+Bringing a personal device is a different matter from buying liquid locally. Assume you will not find your flavour, and note that where a city has folded e-cigarettes into its smoking ban, as Shanghai did in 2022, vaping indoors is simply smoking indoors as far as the rule is concerned. One national rule does bind every seller of both: [tobacco and alcohol may not be sold to anyone under eighteen, and the shop must post a sign saying so](/answers/what-is-the-legal-drinking-age-in-china/). The [health and safety guide](/guides/health-and-safety-in-china/) covers where this sits among the other legal lines worth not crossing.
 
 ## Cigarettes as a social object
 

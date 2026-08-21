@@ -85,7 +85,7 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 - **Tap water is not drinkable** anywhere in mainland China. Bottled water is ¥2–4; hot water is free from dispensers in every hotel, station and train
 - **Cold drinks are less standard** than in the West. Many people drink water hot year-round, and asking for ice may draw a blank
-- **Drinking age** is 18 and enforcement is light
+- **There is no drinking age** in the sense most visitors mean. [What China bans is selling alcohol to under-18s](/answers/what-is-the-legal-drinking-age-in-china/), and the duty sits on the shop
 - **Public drinking** is legal and unremarkable
 - **Drink-driving penalties are severe** — China has a very low blood-alcohol limit and enforces it with roadside checks
 - **Bars** cluster in known districts: Sanlitun in Beijing, the Bund and Found 158 in Shanghai, Jiuyan Bridge in Chengdu

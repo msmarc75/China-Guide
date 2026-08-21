@@ -37,7 +37,7 @@ Declining is genuinely acceptable, and there are recognised formulas for it. Med
 **Tea or soft drink substitution is entirely normal.** Raise your cup, join every toast, drink what is in it. Participation is what the ritual is actually about — the specific liquid matters far less than showing up for the gesture.
 
 :::warn Do not treat toasts as optional
-The graceless move is not declining the alcohol; it is sitting out the toasts, staying on your phone, or drinking alone without acknowledging the table. Join in with tea and you will be fine.
+The graceless move is not declining the alcohol; it is sitting out the toasts, staying on your phone, or drinking alone without acknowledging the table. Join in with tea and you will be fine. Nobody at the table will ask your age either, and [the reason is that China regulates the seller rather than the drinker](/answers/what-is-the-legal-drinking-age-in-china/).
 :::
 
 For tea culture, the drinks you will be offered instead, and what to bring if you are hosted, see the [guide to Chinese tea and drinks](/food/chinese-tea-and-drinks/).

@@ -93,6 +93,7 @@ The practical point for a visitor is small but real: the plate you are reading i
 - **Read the plate while you queue.** The registration mark is required to be in a prominent position, and the date on it is the operative one.
 - **Look for the safety notice at the boarding point.** It is a legal disclosure, so its absence is itself a signal.
 - **The first cabin is a checked cabin**, because a ropeway and a large ride get a test run and a safety check before each day's service.
+- **Wind is the thing that stops a mountain, and it has its own colour scale.** [China grades gale separately from typhoon](/guides/gale-and-thunderstorm-warnings-in-china/), starting at Beaufort force 6 — but a ropeway suspends under its own operating rules rather than under the weather signal, so ring the operator rather than reading the colour.
 - **The lift, the escalator and the cable car are one category.** If you have taken in the plate on one, you know where to look on all three.
 - **Sport and performance are outside it.** A climbing wall or a stage rig is regulated as something else entirely.
 - **None of this covers Hong Kong or Macau**, which run their own systems — as they do for [emergency numbers and much else besides](/answers/what-are-the-emergency-numbers-in-china/).

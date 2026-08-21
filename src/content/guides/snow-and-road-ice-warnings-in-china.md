@@ -83,7 +83,7 @@ Every level begins 当路表温度低于0℃，出现降水 — **when the road-
 
 That is 路表温度 (*lùbiǎo wēndù*), the temperature of the road surface, not of the air. It is the only signal in this system that grades **a thing on the ground** rather than the sky. The standard would have no reason to specify the road surface if it always matched the air, and it is that gap — a road below zero under an air temperature above it — that the signal exists to catch.
 
-Note the red window too. **Two hours** — tying the shortest notice any Chinese weather signal gives, which is [the red fog signal](/guides/rain-and-fog-warnings-in-china/).
+Note the red window too. **Two hours** — the shortest notice any Chinese weather signal gives, shared with [the red fog signal](/guides/rain-and-fog-warnings-in-china/) and with [both upper colours of the lightning scale, which gets there at orange](/guides/gale-and-thunderstorm-warnings-in-china/).
 
 ## What the road-ice guidelines escalate
 
@@ -120,7 +120,7 @@ A three-colour signal — yellow, orange, red — issued when the **road-surface
 
 ### How much notice does a red road ice warning give?
 
-Two hours, which ties the red fog signal for the shortest lead time in the Chinese warning system. The upper road-ice colours also carry the strongest driving instruction: at orange, drivers *must* take anti-skid measures and drive slowly.
+Two hours, which is the shortest lead time in the Chinese warning system — shared with the red fog signal and with orange and red lightning, the only signal that reaches two hours below red. The upper road-ice colours also carry the strongest driving instruction: at orange, drivers *must* take anti-skid measures and drive slowly.
 
 ### Should I take the train instead of flying in a Chinese winter?
 

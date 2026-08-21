@@ -94,7 +94,7 @@ Alternatively, a **Sichuan cooking class** — a market visit and then learning 
 
 **Add [Datong and Pingyao](/destinations/datong-pingyao/)** between Beijing and Xi'an, dropping a Shanghai night — [both are on the line](/answers/how-do-i-get-to-pingyao/) rather than a detour. The Yungang Grottoes and a complete Ming walled city, and almost no other foreign visitors.
 
-**Add Hong Kong** at the end. A 50-minute train from Guangzhou or a direct flight from Shanghai, and a useful third-region exit if you are travelling under the 240-hour visa-free transit scheme.
+**Add Hong Kong** at the end. A 50-minute train from Guangzhou or a direct flight from Shanghai, and a useful third-region exit if you are travelling under the 240-hour visa-free transit scheme — though at fourteen days the scheme itself will not stretch, and [the version cut to ten](/itineraries/china-240-hour-transit-itinerary/) is the one that fits.
 
 If the variations are adding up to more than fourteen days, stop patching this route and look at [the 21-day itinerary](/itineraries/china-21-day-itinerary/), which is built for the extra week rather than stretched into it.
 

@@ -12,7 +12,7 @@ asidePartner: visa
 keywords: [china visa, china visa free, 240 hour visa free transit china, china tourist visa, l visa china, do i need a visa for china]
 facts:
   - Unilateral visa-free | 30 days, 50 nationalities
-  - Transit visa-free | 240 hours (10 days), 55 nationalities
+  - Transit visa-free | 240 hours (10 days), 57 nationalities
   - Hainan | 30 days visa-free, 59 nationalities
   - Tourist visa (L) | 30–60 days, single or multiple entry
   - Processing time | 4 working days standard
@@ -61,9 +61,9 @@ Nearly all foreign visitors aged 14–70 give fingerprints at immigration; there
 
 This is the route for Americans and other nationals not covered above — and it is far more generous than the word "transit" suggests. Canadians can still use it, but since February 2026 they no longer need to.
 
-**The scheme:** citizens of **55 countries** may enter China without a visa for up to **240 hours (10 days)** when transiting to a third country or region, entering and exiting through any of more than **60 designated ports** across 24 provinces and municipalities.
+**The scheme:** citizens of **57 countries** may enter China without a visa for up to **240 hours (10 days)** when transiting to a third country or region, entering and exiting through any of **65 designated ports** across 24 provinces and municipalities. Kyrgyzstan and Vietnam were added on **20 August 2026**, and the national immigration administration's own policy page carries the 57 and the 65.
 
-The 55 include the United States, Canada, the United Kingdom, all EU and Schengen states, Australia, New Zealand, Japan, South Korea, Brazil, Argentina, Mexico, Russia, Ukraine and others.
+The 57 include the United States, Canada, the United Kingdom, all EU and Schengen states, Australia, New Zealand, Japan, South Korea, Brazil, Argentina, Mexico, Russia, Ukraine and others. There is now [an itinerary built to fit the scheme rather than around it](/itineraries/china-240-hour-transit-itinerary/).
 
 **The rules that matter:**
 
@@ -169,7 +169,7 @@ It depends on your passport. Fifty nationalities — including most of Europe, t
 
 ### How does the 240-hour visa-free transit work?
 
-Citizens of 55 countries can stay in China for up to 240 hours (10 days) without a visa if they arrive at one of 60+ designated ports and hold a confirmed onward ticket to a third country or region. The clock starts at midnight on the day after arrival, and you must stay within the 24 permitted provinces and municipalities.
+Citizens of 57 countries can stay in China for up to 240 hours (10 days) without a visa if they arrive at one of 65 designated ports and hold a confirmed onward ticket to a third country or region. The clock starts at midnight on the day after arrival, and you must stay within the 24 permitted provinces and municipalities.
 
 ### Can Americans travel to China without a visa?
 

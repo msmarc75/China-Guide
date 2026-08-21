@@ -111,7 +111,7 @@ Insert the **Tiger Leaping Gorge** trek between Lijiang and Shangri-La: two days
 - **Pace** — build one genuinely empty day per week. You will need it.
 - **Rail booking** — the pre-sale window is around two weeks, so book legs progressively as you travel rather than all at once before departure.
 - **Altitude** — Lijiang is 2,400 m and the Jade Dragon cable car reaches 4,506 m. Take it slowly.
-- **Visa** — 21 days exceeds the 240-hour transit allowance, so this route needs either unilateral visa-free eligibility (30 days) or a tourist visa. See our [visa guide](/guides/china-visa-guide/).
+- **Visa** — 21 days exceeds the 240-hour transit allowance, so this route needs either unilateral visa-free eligibility (30 days) or a tourist visa. See our [visa guide](/guides/china-visa-guide/), or [the route that is built to fit the transit scheme](/itineraries/china-240-hour-transit-itinerary/) if you cannot get either.
 
 ## Frequently asked questions
 

@@ -71,7 +71,7 @@ This is the sixteenth time this site has found the answer to a consumer question
 
 - **In soup, mostly.** Cantonese slow-simmered soup is the everyday form, and the roots and dried fruit in it are the point rather than the garnish. The [regional guide](/food/chinese-cuisine-regional-guide/) has the cuisines; this is what is in the pot.
 - **In cooling tea shopfronts** in Guangdong, sold by the cup and genuinely bitter.
-- **At a pharmacy counter**, where dried materials are sold by weight beside the packaged medicines, in the same shop.
+- **At a pharmacy counter**, where dried materials are sold by weight beside the packaged medicines, in the same shop — and [what is weighed out of those drawers is a regulated product with a required label](/culture/herbal-medicine-in-china/).
 - **In hotpot broth**, where a herbal option usually sits beside the spicy and the clear.
 - **Read the box, not the claim.** Blue hat plus warning zone means a registered health food. Neither of those means the thing is medicine, and the label says so.
 - **Two rules already on this site apply here.** Anything containing a protected-species ingredient is [a customs problem as well as an ethical one](/guides/shopping-in-china/), and if you take prescription medicines, [what China treats as a controlled substance is a separate question worth settling before you fly](/answers/can-i-bring-my-medication-to-china/).

@@ -24,7 +24,7 @@ Western visitors tend to arrive with one mental category — massage as a spa tr
 
 ## Tuina is medicine, not relaxation
 
-推拿 (*tuīná*) is one of the branches of Chinese medicine, alongside acupuncture, herbal medicine and dietary therapy — [a field with a statute of its own, and a clinic rule that puts the answer on the wall](/culture/chinese-medicine-in-china/). It is old: the *Huangdi Neijing*, the foundational Chinese medical text, discusses 按跷 (*àn qiāo*) — a hands-and-feet manipulation technique — and describes when it is and is not indicated. A dedicated massage classic, the *Huangdi Anmo Jing*, is recorded but lost.
+推拿 (*tuīná*) is one of the branches of Chinese medicine, alongside acupuncture, [herbal medicine](/culture/herbal-medicine-in-china/) and dietary therapy — [a field with a statute of its own, and a clinic rule that puts the answer on the wall](/culture/chinese-medicine-in-china/). It is old: the *Huangdi Neijing*, the foundational Chinese medical text, discusses 按跷 (*àn qiāo*) — a hands-and-feet manipulation technique — and describes when it is and is not indicated. A dedicated massage classic, the *Huangdi Anmo Jing*, is recorded but lost.
 
 What that history means in practice is that tuina is worked on you rather than administered to you. You keep your clothes on, or change into loose cotton the shop provides; the practitioner works dry, through fabric, with thumbs, elbows and forearms; and it is often uncomfortable. It is closer to physiotherapy than to a massage table with whale song.
 

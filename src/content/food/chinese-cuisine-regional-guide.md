@@ -71,7 +71,7 @@ Fresh, mellow, slightly sweet, and closely tied to freshwater fish, bamboo shoot
 
 ### Fujian (闽菜, Min)
 
-Coastal and mountainous: seafood, mushrooms, soups, and a distinctive use of red fermented rice wine lees. Fujian cooking is soup-obsessed in a way no other region is.
+Coastal and mountainous: seafood, mushrooms, soups, and a distinctive use of red fermented rice wine lees. Fujian cooking is soup-obsessed in a way no other region is — and in the south generally, [what goes into a long-simmered soup is a legal category as well as a culinary one](/food/food-as-medicine-in-china/).
 
 **Order:** Buddha Jumps Over the Wall (an extravagant, expensive layered soup), fish ball soup, oyster omelette, sha cha noodles, and the peanut-heavy street food of Xiamen.
 

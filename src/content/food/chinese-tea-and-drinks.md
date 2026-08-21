@@ -76,7 +76,7 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 - **酸梅汤 sour plum juice** — smoked plum, hawthorn, liquorice; sour, cold, and the traditional antidote to a spicy meal. Excellent
 - **豆浆 soy milk** — hot, lightly sweetened or savoury, the breakfast drink
-- **凉茶 herbal "cooling tea"** — Cantonese medicinal infusions, bitter, sold from shopfronts in Guangdong. Wanglaoji is the sweet bottled version
+- **凉茶 herbal "cooling tea"** — Cantonese medicinal infusions, bitter, sold from shopfronts in Guangdong. Wanglaoji is the sweet bottled version. What is in them, and [the official list that decides whether a root counts as food at all](/food/food-as-medicine-in-china/), is a category of its own
 - **Yakult-style yoghurt drinks** — everywhere, and genuinely helpful after very spicy food
 - **椰汁 coconut milk** and sugarcane juice in the south
 - **Bottled tea** — Oriental Leaf (东方树叶) is the unsweetened one, and the only one most visitors like

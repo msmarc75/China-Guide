@@ -50,6 +50,8 @@ Foreign visitors default to Marriott and Hilton and overpay by a factor of two. 
 
 Booking through Trip.com generally shows these chains with better prices than international OTAs, which under-index on domestic inventory.
 
+Whatever tier you book, the same certificate is behind the desk: [a hotel is a public place in law and its hygiene licence is compulsory rather than voluntary](/guides/hygiene-licences-in-china/), unlike the star plaque beside it.
+
 ## Types of accommodation
 
 **International 5★.** Beijing, Shanghai, Guangzhou, Chengdu and Hangzhou have world-class Four Seasons, Aman, Peninsula, Mandarin Oriental and Park Hyatt properties. ¥1,200–3,000+.

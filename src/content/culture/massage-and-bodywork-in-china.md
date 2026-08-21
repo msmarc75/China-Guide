@@ -74,5 +74,6 @@ Beyond that, our four city pages differ mainly in their local licensing detail r
 - **Alipay and WeChat Pay** are accepted essentially everywhere, including by ear cleaners working a park.
 - **Decline prepaid membership cards.** They are the standard upsell and you are not coming back next month.
 - **Your hotel can book it for you** at a higher price, which removes the judgement call entirely — a reasonable trade on your first night.
+- **Look for the certificate.** A bathhouse or spa is a public place in law, so [the hygiene licence must be on show and the venue's test results published in a prominent position](/guides/hygiene-licences-in-china/).
 
 For insurance, pharmacies and finding an English-speaking doctor, see the [health and safety guide](/guides/health-and-safety-in-china/).

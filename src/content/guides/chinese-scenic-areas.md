@@ -84,6 +84,8 @@ The rules combine into a short and unusually reliable set of tactics.
 4. **Treat the national holidays as a different country.** [When to visit China](/plan/best-time-to-visit-china/) covers which weeks to avoid and why the peaks are so sharp.
 5. **Arrive at opening.** It does not change the daily total, but it puts you ahead of the coach groups within it.
 
+One more thing is settled before the gates open, and it is worth knowing on a mountain site: the cable car that carries you up is [regulated machinery with a daily pre-service check and a plate showing when its inspection runs out](/guides/cable-cars-and-rides-in-china/).
+
 ## Frequently asked questions
 
 ### What does 5A mean for a Chinese tourist attraction?

@@ -96,7 +96,7 @@ The underlying test is simple: a person is not scenery. If your photograph requi
 
 Buy from the person who made it where you can. In craft-producing areas — Miao silver, Dong and Miao textiles, Uyghur instruments and knives, Tibetan carpets — the difference between a workshop and a souvenir counter is usually visible, and the maker will tell you about the object if you ask.
 
-Two practical notes. First, a great deal of what is sold as handmade minority craft is factory-produced, sometimes elsewhere entirely; this is not unique to China. Second, antiques face genuine export restrictions, so anything genuinely old needs care — the [shopping guide](/guides/shopping-in-china/) covers that.
+Three notes, two practical and one legal. First, a great deal of what is sold as handmade minority craft is factory-produced, sometimes elsewhere entirely; this is not unique to China. Second, antiques face genuine export restrictions, so anything genuinely old needs care — the [shopping guide](/guides/shopping-in-china/) covers that. A third thing is legal rather than practical: Tibetan, Uyghur, Mongolian and Dai medicine sit inside [the statutory definition of Chinese medicine](/culture/chinese-medicine-in-china/) alongside the Han tradition, which is why a hospital practising one of them is a Chinese-medicine hospital in law.
 
 ## Language
 

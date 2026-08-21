@@ -104,6 +104,8 @@ The last distinction is the one that stops this page from being misread, and it 
 
 A Chinese restaurant is carrying at least three pieces of paper for this reason, and they are not interchangeable. A licence on the wall with no permit beside it tells you the business is registered and nothing more.
 
+One trade inverts the pattern. [A Chinese-medicine clinic may open on a filing rather than an approval](/culture/chinese-medicine-in-china/), and the safeguard moves to a display duty on its wall instead of a permit at its door.
+
 ## In practice
 
 - **Look for it before you commit money.** It is required to be conspicuous, so needing to ask is itself an answer.

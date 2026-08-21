@@ -30,7 +30,7 @@ The scanner is the first of two rulebooks: the second governs the carriage, wher
 
 **Allow extra time at rush hour and at big interchanges.** At the busiest stations the queue is the slowest part of the journey. If you are catching a train with a fixed departure, this is the step people forget to budget for.
 
-**Do not carry anything obviously prohibited.** Flammable liquids, large knives and fireworks are the categories that matter. Ordinary travel possessions are fine — laptops, cameras, tripods, a folding knife in checked-style luggage is where judgement is needed, but nothing a tourist normally carries will cause a problem.
+**Do not carry anything obviously prohibited.** Flammable liquids, large knives and fireworks are the categories that matter — and fireworks are barred from the system whatever the city has decided about [setting them off in the street](/guides/fireworks-in-china/), because the two questions run under different rules. Ordinary travel possessions are fine — laptops, cameras, tripods, a folding knife in checked-style luggage is where judgement is needed, but nothing a tourist normally carries will cause a problem.
 
 **Luggage is allowed.** You can take a suitcase on the metro, and plenty of people do. It goes through the scanner like everything else.
 

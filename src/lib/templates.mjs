@@ -15,11 +15,12 @@ export function isActive(page, item) {
 
 export function partnerSlot(key, { compact = false } = {}) {
   const p = MONETISATION.partners[key];
-  if (!p) return '';
-  const live = p.enabled && p.href && p.href !== '#';
-  const cta = live
-    ? `<a class="btn btn--primary" href="${escapeHtml(p.href)}" rel="sponsored noopener" target="_blank">${escapeHtml(p.cta)}</a>`
-    : `<span class="btn btn--ghost" aria-disabled="true" title="Partner link not configured yet">${escapeHtml(p.cta)}</span>`;
+  // Render nothing until the partner is actually live. A slot with a dead
+  // button still shows the partner name, the blurb and an affiliate
+  // disclosure, which advertises a relationship that does not exist and
+  // leaves a disabled control on the page. Matches productSlot below.
+  if (!p || !p.enabled || !p.href || p.href === '#') return '';
+  const cta = `<a class="btn btn--primary" href="${escapeHtml(p.href)}" rel="sponsored noopener" target="_blank">${escapeHtml(p.cta)}</a>`;
   return `<aside class="promo-slot${compact ? ' promo-slot--compact' : ''}" data-slot="${key}">
   <p class="promo-slot__label">Partner pick</p>
   <p class="promo-slot__name">${escapeHtml(p.name)}</p>
@@ -81,9 +82,11 @@ export function newsletterBlock() {
 }
 
 export function adSlot(position = 'in-article') {
-  if (!SITE.adsenseId) {
-    return `<div class="ad-slot" data-ad-position="${position}" aria-hidden="true"><span>Ad slot — ${position}</span></div>`;
-  }
+  // Render nothing until an ad client is configured. The placeholder was a
+  // dashed box reading "AD SLOT — MID-ARTICLE" in capitals, shown to every
+  // reader on almost every page, which made a finished site look like a
+  // template. Setting ADSENSE_ID brings the real unit back.
+  if (!SITE.adsenseId) return '';
   return `<div class="ad-slot" data-ad-position="${position}">
   <ins class="adsbygoogle" style="display:block" data-ad-client="${SITE.adsenseId}" data-ad-format="auto" data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>

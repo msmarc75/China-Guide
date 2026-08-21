@@ -7,6 +7,7 @@ standfirst: Translation apps fail when the battery dies or the signal drops. Scr
 eyebrow: Resource
 order: 2
 updated: 2026-08-01
+noindex: true
 keywords: [mandarin phrase cards, chinese phrases for travel, offline chinese translation, china phrasebook pdf]
 facts:
   - Format | PNG cards + PDF + MP3 audio

@@ -7,7 +7,7 @@ standfirst: Everything on this site, reorganised into the order you need it, in 
 eyebrow: Resource
 order: 1
 updated: 2026-08-01
-noindex: false
+noindex: true
 keywords: [china trip planner, china travel planner pdf, china itinerary template, china travel checklist]
 facts:
   - Format | PDF + editable spreadsheet

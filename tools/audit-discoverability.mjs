@@ -120,7 +120,16 @@ const locs = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) =>
 const locCount = new Map();
 for (const l of locs) locCount.set(l, (locCount.get(l) || 0) + 1);
 
+// A page marked noindex is deliberately kept out of the sitemap, so it is not
+// expected to appear here. Derived from the built page rather than listed, so
+// the two stay in step.
+const isNoIndex = (url) => {
+  const file = path.join(DIST, url.replace(/^\/|\/$/g, ''), 'index.html');
+  return fs.existsSync(file) && /<meta name="robots" content="noindex/.test(fs.readFileSync(file, 'utf8'));
+};
+
 for (const a of articles) {
+  if (isNoIndex(a.url)) continue;
   const n = locCount.get(a.url) || 0;
   if (n !== 1) note(`sitemap lists ${a.url} ${n} time(s), expected exactly 1`);
 }

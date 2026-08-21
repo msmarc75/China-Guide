@@ -131,6 +131,10 @@ const SECTIONS = [
   },
   {
     id: 'shop',
+    // Not indexed while the products are unavailable: the index page exists
+    // only to list them, and listing two things nobody can buy is worse than
+    // listing nothing. Remove this flag when checkout is wired.
+    noindex: true,
     title: 'China Travel Resources & Downloads',
     heading: 'Resources & downloads',
     description:
@@ -523,6 +527,7 @@ ${newsletterBlock()}`;
       description: section.description,
       url: `/${section.id}/`,
       section: section.id,
+      noindex: section.noindex,
       crumbs,
       schema: graph([
         organisationSchema(),
@@ -720,7 +725,9 @@ function renderSearchPage(index) {
 }
 
 function renderSitemapPage() {
-  const groups = SECTIONS.map(
+  // Mirrors the XML sitemap: a section held back from the index is not
+  // advertised on the human index either.
+  const groups = SECTIONS.filter((s) => !s.noindex).map(
     (s) => `<section class="sitemap-group">
     <h2><a href="/${s.id}/">${escapeHtml(s.heading)}</a></h2>
     <ul>${pagesBySection[s.id]
@@ -785,14 +792,17 @@ function render404() {
 function renderSitemapXml() {
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
-    ...SECTIONS.map((s) => ({ loc: `/${s.id}/`, priority: String(s.priority), changefreq: 'weekly' })),
-    ...allArticles.map((p) => ({
+    ...SECTIONS.filter((s) => !s.noindex).map((s) => ({ loc: `/${s.id}/`, priority: String(s.priority), changefreq: 'weekly' })),
+    // A noindex page submitted in the sitemap is a contradiction Search
+    // Console reports as an error, so filter them out here rather than
+    // relying on the robots meta tag alone.
+    ...allArticles.filter((p) => !p.noindex).map((p) => ({
       loc: p.url,
       priority: p.priority ? String(p.priority) : p.depth > 1 ? '0.7' : '0.8',
       changefreq: 'monthly',
       lastmod: p.updated,
     })),
-    ...standalonePages.map((p) => ({ loc: p.url, priority: '0.4', changefreq: 'yearly', lastmod: p.updated })),
+    ...standalonePages.filter((p) => !p.noindex).map((p) => ({ loc: p.url, priority: '0.4', changefreq: 'yearly', lastmod: p.updated })),
     { loc: '/sitemap-page/', priority: '0.3', changefreq: 'weekly' },
   ];
 

@@ -28,7 +28,7 @@ The flavour is not like Western spirits. It is intensely aromatic, often describ
 
 **The main aroma categories:**
 
-- **Sauce aroma (酱香)** — the most complex and expensive. **Moutai** is the emblem, made in Guizhou, and a bottle of the standard expression retails for well over ¥1,000
+- **Sauce aroma (酱香)** — the most complex and expensive. **Moutai** is the emblem, made in [Guizhou](/destinations/guizhou/), and a bottle of the standard expression retails for well over ¥1,000
 - **Strong aroma (浓香)** — the largest category. Wuliangye, Luzhou Laojiao. Fruity and pungent
 - **Light aroma (清香)** — cleaner and drier. Fenjiu from Shanxi. The most approachable starting point
 - **Rice aroma (米香)** — southern, lighter

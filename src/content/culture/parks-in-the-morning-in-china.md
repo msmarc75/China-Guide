@@ -46,6 +46,7 @@ Several completely separate activities run in parallel, usually in different cor
 - **Group singing.** Choirs with a conductor and printed sheets, and separately the [amateur opera circles this site sends you to hear](/culture/chinese-opera-and-performance/), which are unstaged and free.
 - **Water calligraphy.** A long brush, a bucket of water and a paving slab. The characters evaporate in minutes, which is the point: the practice is the object, not the artefact.
 - **Jianzi**, the weighted shuttlecock kept up with the feet, played in a standing circle. Easy to be invited into and hard to be good at.
+- **Board games**, later in the morning and all through the day, on stone tables with a standing ring of onlookers — [weiqi and Chinese chess, both of them heritage-listed and both graded as sport](/culture/weiqi-and-chinese-chess/).
 - **Badminton and diabolo**, both without a net or a stage, both everywhere.
 
 ## Why the music goes quiet

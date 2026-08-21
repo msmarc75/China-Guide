@@ -101,4 +101,4 @@ It is food, prepared and sold as food, and the substances that may be used in it
 
 ### Should I buy Chinese health products to bring home?
 
-Check three things before you do: that the packet carries the blue hat and the warning zone, that no ingredient is from a protected species, and what your own country allows in. The export and customs categories are set out with the shopping rules, and they are stricter than most published advice suggests.
+Check three things before you do: that the packet carries the blue hat and the warning zone, that no ingredient is from a protected species — [a category with a mark and a permit of its own](/food/caviar-and-sturgeon-in-china/) — and what your own country allows in. The export and customs categories are set out with the shopping rules, and they are stricter than most published advice suggests.

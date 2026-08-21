@@ -105,6 +105,8 @@ That list is about goods. Money is governed by its own rules and its own thresho
 
 None of the above is a plan for what happens if a purchase turns out not to be what it was sold as. That has its own rule and its own number: [a refund plus three times the price, with a floor beneath it](/guides/sold-a-fake-in-china/).
 
+One last distinction worth carrying into a shop: none of the protections above cover a straightforward change of heart. [Whether you can hand something back and get your money returned](/answers/can-i-return-something-i-bought-in-china/) turns on whether the sale was made in person or at a distance, and the answer is not the same for both.
+
 ## Frequently asked questions
 
 ### How do you bargain in China?

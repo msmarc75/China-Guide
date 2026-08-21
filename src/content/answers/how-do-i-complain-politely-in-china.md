@@ -44,7 +44,7 @@ Two things help:
 
 - **Hotels** booked through an international platform: raise it with the platform as well as the property.
 - **Taxis**: use DiDi rather than a street cab, because the trip is logged, the fare is fixed in the app and there is a complaint route attached to a record.
-- **Shops and markets**: bargaining disputes are not complaints. Walk away instead — it is the strongest position you have.
+- **Shops and markets**: bargaining disputes are not complaints. Walk away instead — it is the strongest position you have. A change of mind after paying is not a complaint either, and [whether you can insist on a refund depends on where the sale was made](/answers/can-i-return-something-i-bought-in-china/).
 
 ## The one thing not to do
 

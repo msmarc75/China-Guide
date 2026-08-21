@@ -129,7 +129,7 @@ November, excluding the first week, and March are the cheapest for flights and h
 
 ### Should I avoid China during Chinese New Year?
 
-For a first trip, yes. Transport is booked solid, prices rise, and many family-run restaurants and shops close for one to two weeks. If you specifically want to see temple fairs, lanterns and fireworks, base yourself in one big city for the whole period rather than trying to move between cities.
+For a first trip, yes. Transport is booked solid, prices rise, and many family-run restaurants and shops close for one to two weeks. If you specifically want to see temple fairs, lanterns and fireworks, base yourself in one big city for the whole period rather than trying to move between cities — and check that city's own rules, because [whether fireworks are permitted at all is set locally and redrawn from year to year](/guides/fireworks-in-china/).
 
 ### When is the rainy season in China?
 

@@ -36,6 +36,8 @@ So the practical rule for a visitor is geographic, not national: **the bigger an
 
 With one qualification worth knowing, because it is the exception that shows the shape of the rule. There is no *general* national ban, but there are **venue-specific** national ones written into the regulations governing particular kinds of premises — [an internet café or games arcade must prohibit smoking and display a no-smoking sign](/culture/internet-cafes-and-gaming-in-china/) under a State Council regulation, in every city, whatever the local smoking law says.
 
+It is worth noticing that this is not how every delegated power in China works. [With fireworks the national instrument fixes the shape of the local decision — time, place and type — and a city that replaces it with a flat ban has gone too far](/guides/fireworks-in-china/). With smoking the national floor is simply low, and a city going further is doing exactly what the system expects.
+
 ## The cities you are most likely to be in
 
 **Beijing** has been comprehensively smoke-free indoors since **1 June 2015**, under the Beijing Smoking Control Regulation (北京市控制吸烟条例, *Běijīng Shì Kòngzhì Xīyān Tiáolì*). It covers every indoor public place, every indoor workplace and public transport, and extends to some outdoor settings such as schools, hospitals and stadiums. It was widely described at the time as the country's toughest. The personal penalty is modest — ¥50, rising to ¥200 for someone who refuses to stop — but the norm it created has largely held, and restaurant staff in Beijing will generally enforce it rather than look away.

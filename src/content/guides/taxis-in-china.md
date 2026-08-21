@@ -65,7 +65,7 @@ Use it for the things this page is about — a refused hire, a refused meter, a 
 
 The practical calculus is unchanged, and mostly points the same way it always did.
 
-- **Ride-hailing avoids the argument entirely.** [The fare is agreed before the car moves and the trip sits in an app](/answers/can-you-use-uber-in-china/), which is a stronger position than being right about a regulation in a language you do not speak.
+- **Ride-hailing avoids the argument entirely.** [The fare is agreed before the car moves and the trip sits in an app](/answers/can-you-use-uber-in-china/), which is a stronger position than being right about a regulation in a language you do not speak. It has its own rulebook rather than none — [two certificates, a duty to match the car to the app, and an invoice you can ask for](/guides/ride-hailing-in-china/).
 - **Use the official rank.** Anyone approaching you inside a terminal is not operating under this regulation at all, because they are not a licensed cruising taxi.
 - **Show the address in Chinese characters.** No rule fixes a driver who cannot read your destination — [the mechanics of getting around](/guides/transport-in-china/) covers what to have on your phone before you get in.
 - **Say 打表** (*dǎ biǎo*, use the meter). It is the single most useful phrase in a Chinese cab and it signals immediately that you know how this works.

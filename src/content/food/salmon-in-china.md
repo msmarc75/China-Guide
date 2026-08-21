@@ -90,6 +90,7 @@ Two things follow, and note what each rests on. The centre's assessment is condi
 - **Check for 生食 or 即食 as well** — *shēngshí*, for raw consumption, and *jíshí*, ready to eat. Raw consumption is a product category, not a serving suggestion, and a pack sold for cooking is not the same product as one sold to eat raw.
 - **A restaurant menu is not a label.** The bracket rule is about prepackaged goods; a sashimi plate in a restaurant carries no such obligation, so ask if it matters to you.
 - **"Group standard" is worth recognising generally.** A code beginning **T/** is a group standard rather than a national one, and now you know which rung of the ladder that is.
+- **The top rung does the same job for drinks.** A recommended national standard is what settles [what may be called single malt whisky in China, and what an age statement counts](/food/whisky-in-china/) — same argument, higher rung.
 - **This is the same grammar as the wine page**, where a standard kept its number and changed its force. Chinese standards are a system with tiers, and the tier is usually the answer.
 - **Hong Kong and Macau run their own food standards and labelling rules**, so neither the group standard nor GB 10136 governs a purchase made there.
 

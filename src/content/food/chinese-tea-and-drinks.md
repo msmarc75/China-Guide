@@ -64,6 +64,8 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 **Rice wine and minority spirits** — Yunnan, Guizhou and Tibetan areas all have local distillations and fermentations, usually served enthusiastically to guests.
 
+**Whisky** is a growing category with a national standard of its own, rewritten and in force since February 2026. [What the standard now fixes — including what single malt means and why an age statement counts only barrel time](/food/whisky-in-china/) — is the part worth knowing before paying Chinese retail for a bottle.
+
 ## Tea and non-alcoholic drinks
 
 **Tea** is the default. Restaurant tea is often free, hot water is free everywhere, and carrying an insulated flask is what Chinese travellers do. See our [tea culture guide](/culture/tea-culture-in-china/).

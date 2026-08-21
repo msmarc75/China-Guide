@@ -40,4 +40,4 @@ Declining is genuinely acceptable, and there are recognised formulas for it. Med
 The graceless move is not declining the alcohol; it is sitting out the toasts, staying on your phone, or drinking alone without acknowledging the table. Join in with tea and you will be fine. Nobody at the table will ask your age either, and [the reason is that China regulates the seller rather than the drinker](/answers/what-is-the-legal-drinking-age-in-china/).
 :::
 
-For tea culture, the drinks you will be offered instead, and what to bring if you are hosted, see the [guide to Chinese tea and drinks](/food/chinese-tea-and-drinks/).
+For tea culture, the drinks you will be offered instead, and what to bring if you are hosted, see the [guide to Chinese tea and drinks](/food/chinese-tea-and-drinks/). Baijiu is a Chinese category with Chinese rules; the imported spirits sold beside it now sit under a national standard of their own, and [what that standard fixes about whisky](/food/whisky-in-china/) is a useful contrast in how China defines a drink.

@@ -42,7 +42,7 @@ Read it again and notice who is bound. Three of those four sentences bind the sh
 - **Carry ID if you look young.** The law tells the seller to ask when age is unclear, so a passport in the bag settles it. There is no Chinese equivalent of a proof-of-age card scheme for visitors.
 - **Do not assume a bar will check.** Most will not, because the risk sits with off-licence retail far more than with restaurants — but the duty is the same one.
 - **The place matters more than the age.** The one prohibition that binds everybody is about **where**: not on school and kindergarten premises, and not in other public places where minors gather.
-- **Tobacco runs on this same article**, which is why [the smoking rules and the alcohol rules read alike](/guides/smoking-and-vaping-in-china/) even though the enforcement is completely different.
+- **Tobacco runs on this same article**, which is why [the smoking rules read alike](/guides/smoking-and-vaping-in-china/) though enforcement differs — and [the tattoo rules copy the sentence wholesale](/culture/tattoos-in-china/).
 - **Nothing here touches drink-driving**, which is a separate and far harsher regime with no tolerance for a first drink.
 - **Hong Kong and Macau legislate alcohol separately** under their own ordinances, so neither the age nor the seller duties described here apply to a purchase made there.
 

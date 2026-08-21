@@ -77,6 +77,8 @@ That contrast is the whole reason to know which document you are looking at.
 
 ## Where this is most worth using
 
+**Barbershops and beauty salons.** Worth knowing that the category is wider than it sounds: a beauty or hairdressing establishment is one of the four kinds of place [the national tattoo rules recognise as a tattoo service provider](/culture/tattoos-in-china/), which is how the same premises can sit under this hygiene regime and that one at once.
+
 **Bathhouses and hot springs.** A large, ordinary and almost entirely undocumented part of Chinese leisure in winter, and the venue type where the water board earns its place. Read it, and note that the same premises may also offer bodywork, which has [its own separate cautions on this site](/culture/massage-and-bodywork-in-china/).
 
 **Swimming venues.** Municipal pools, hotel pools and water parks all fall in category four. They also need something this page does not cover: [swimming is on a separate catalogue of activities a venue needs its own operating licence to sell](/guides/high-risk-sports-in-china/), with certified lifesavers attached.

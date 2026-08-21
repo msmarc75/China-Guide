@@ -42,6 +42,8 @@ Before you buy for someone else, note that a short list of objects [must not be 
 
 **Tailoring.** Made-to-measure in Shanghai's South Bund Fabric Market or Beijing's tailor streets: a suit in three days for a fraction of European prices. Quality varies enormously — go with a recommendation.
 
+**Cosmetics and skincare.** A major category for Chinese shoppers and an opaque one for visitors, until you know that [the label carries a number saying which of two regulatory regimes the product went through](/guides/cosmetics-in-china/).
+
 **Electronics and phone accessories.** Cheap and abundant, though the flagship phones are not meaningfully cheaper than at home. Huaqiangbei in Shenzhen is the world's largest electronics market and worth visiting as a spectacle.
 
 :::tip What not to buy

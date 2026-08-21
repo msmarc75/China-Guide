@@ -48,7 +48,7 @@ The resort city on the southern coast, with three main bays:
 
 **Sanya Bay** — long, urban, cheapest, and the water is less good.
 
-**Haitang Bay** — the newest resort strip, and home to the **CDF Mall**, the largest duty-free shopping complex in the world. Duty-free shopping is a genuine phenomenon here: Chinese travellers fly to Hainan specifically to buy cosmetics, watches and luxury goods under the island's generous allowance.
+**Haitang Bay** — the newest resort strip, and home to the **CDF Mall**, the largest duty-free shopping complex in the world. Duty-free shopping is a genuine phenomenon here: Chinese travellers fly to Hainan specifically to buy cosmetics, watches and luxury goods under the island's generous allowance. It is a domestic allowance rather than a route around your own customs, and [what the numbers on a Chinese cosmetics box actually mean](/guides/cosmetics-in-china/) is worth two minutes before you join the queue.
 
 **Wuzhizhou Island** — snorkelling and diving, heavily developed and busy but with real coral.
 

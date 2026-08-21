@@ -19,7 +19,7 @@ Almost none. On a **domestic** flight within China, liquids are **prohibited fro
 
 ## The exception, and its conditions
 
-Cosmetics, toothpaste and shaving foam may be carried in the cabin, subject to conditions that are applied at the checkpoint rather than waved through:
+Cosmetics, toothpaste and shaving foam may be carried in the cabin, subject to conditions that are applied at the checkpoint rather than waved through — a separate question from [how cosmetics are regulated for sale in China](/guides/cosmetics-in-china/), which governs the label rather than the security tray:
 
 - **One item of each kind** — not one bag's worth, one of each.
 - **In a container of no more than 100 mL** (100 g for toothpaste and shaving foam).

@@ -78,6 +78,7 @@ Someone selling tours on a station forecourt who drives you to a replica exhibit
 - **If you do buy, keep everything** — receipt, packaging, the itinerary, the agency's name.
 - **Buy tea somewhere else entirely.** [Where to buy tea worth carrying home](/culture/tea-culture-in-china/) is a different conversation from a tea ceremony arranged by a coach driver.
 - **Anything bought is still subject to export rules**, and [the antiques and wildlife categories customs stops](/guides/shopping-in-china/) are stricter than most published advice suggests.
+- **Bought outside a tour, the remedy is a different one.** The thirty-day right needs an agency; where a shop simply misdescribed the goods, [the claim runs against the seller and is worth three times the price](/guides/sold-a-fake-in-china/).
 
 ## Frequently asked questions
 

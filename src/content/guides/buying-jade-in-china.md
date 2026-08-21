@@ -95,6 +95,7 @@ The same two letters do work elsewhere. [Hotel star ratings run on GB/T 14308](/
 - **Photograph the certificate and the receipt together.** You will want the report number later and it is easier to read on a phone than in a shop.
 - **Re-test it.** Accredited laboratories test walk-in items; a piece bought as natural and returning *treated* is a documented misdescription rather than a difference of opinion.
 - **Complain to the market regulator** on [12315, the consumer line](/answers/what-are-the-emergency-numbers-in-china/), which is the body that accredits the laboratories in the first place.
+- **Know what a documented misdescription is worth.** A stone sold as natural and certified as treated is the central point misstated, and [the statutory answer to that is the price back plus three times over](/guides/sold-a-fake-in-china/).
 - **Keep the paperwork if you are claiming the tax rebate**, since [a jade purchase large enough to be worth refunding](/answers/can-i-get-a-tax-refund-in-china/) is exactly the size where the certificate matters most.
 
 ## Frequently asked questions

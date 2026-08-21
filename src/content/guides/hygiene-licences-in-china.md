@@ -85,6 +85,8 @@ That contrast is the whole reason to know which document you are looking at.
 
 **And where there is no wall to read.** For a kitchen you order from rather than walk into, the same idea moved onto a screen: [a delivery listing must show the caterer's credentials, its physical shopfront and the address on its licence](/guides/food-delivery-in-china/).
 
+**And the one underneath all of them.** Before any of these permits exists there is a registration, and it hangs on the same wall: [the business licence, its eighteen-character code, and why a permit is not the same thing](/guides/business-licences-in-china/).
+
 ## Frequently asked questions
 
 ### What is the certificate on the wall in a Chinese hotel or shop?

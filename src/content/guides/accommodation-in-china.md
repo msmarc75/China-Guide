@@ -91,7 +91,7 @@ Enforcement is inconsistent, but the requirement is real, and gaps in your regis
 - **Firm mattresses.** Chinese hotel beds are noticeably harder than Western ones. If it matters, look for Atour, which is specifically known for its bedding.
 - **Heating.** Buildings north of the Qinling–Huaihe line have central heating switched on around mid-November and off around mid-March. South of that line, **buildings traditionally have no central heating at all** — Shanghai, Chengdu, Hangzhou and Guilin in January are damp and cold indoors. Check for air conditioning with a heat mode.
 - **Smoking floors** still exist in domestic hotels. Request a non-smoking room explicitly.
-- **The floor number on your key card may not be the floor you are on.** Chinese buildings routinely skip or relabel any floor containing a four, so [an eighteenth-floor room can be physically on the sixteenth](/culture/chinese-lucky-numbers/) — worth a glance at the evacuation plan on the back of the door.
+- **The floor number on your key card may not be the floor you are on.** Chinese buildings routinely skip or relabel any floor containing a four, so [an eighteenth-floor room can be physically on the sixteenth](/culture/chinese-lucky-numbers/) — worth a glance at the evacuation plan on the back of the door, though [the one the rules actually require is on the landing outside](/guides/hotel-fire-safety-in-china/) and is drawn to the real storeys.
 - **Breakfast** is usually included at mid-range chains and is Chinese: congee, pickles, steamed buns, eggs, noodles, soy milk. Excellent, and worth eating.
 - **VPN.** Hotel Wi-Fi is behind the national filter. Many international hotels quietly offer a working VPN or a special network for foreign guests — ask.
 

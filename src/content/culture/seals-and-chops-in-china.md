@@ -34,7 +34,7 @@ Start with the art, because it outranks the paperwork by about three thousand ye
 
 **An engraving art whose main material is stone, whose tool is the knife, and whose subject is the Chinese character.** The ministry adds that it descends from ancient seal-making, that it both insists on calligraphy's brushwork and structure and gives play to the freedom of the cut, and that the works can be appreciated on their own or used across painting and calligraphy.
 
-Domestically it was already listed. **金石篆刻（西泠印社）** (*jīnshí zhuànkè*, seal engraving in metal and stone, under the Xiling Seal Art Society of Hangzhou) entered China's own national intangible cultural heritage list, approved by the State Council, in **2006**.
+Domestically it was already listed. **金石篆刻（西泠印社）** (*jīnshí zhuànkè*, seal engraving in metal and stone, under the Xiling Seal Art Society of Hangzhou) entered China's own national intangible cultural heritage list, approved by the State Council, in **2006** — [the first batch of a four-tier register that also lists named bearers](/culture/intangible-heritage-in-china/).
 
 So the thing being cut in a market stall in ten minutes is a compressed version of a listed art. That is not a reason to pay more for a tourist chop. It is a reason to look at a good one properly in a museum.
 

@@ -77,7 +77,7 @@ That is the legal shape of a pattern this site already describes: [Kaifeng and t
 3. **No plaque at all is itself informative.** A large, impressive, entirely unlisted "old town" is telling you what it is.
 4. **Do not confuse this with the A-grade.** Chinese sites frequently carry two plaques, and they measure completely different things — [the A-grade rates facilities, management and scale](/guides/chinese-scenic-areas/), and predicts crowds; the protection grade rates historical significance, and predicts authenticity. A 5A site can be a reconstruction; a 1A-or-unrated site can be a national-key relic.
 5. **Adjust the expectation, not the itinerary.** A reconstruction visited knowingly is a good day out. The disappointment comes from the mismatch, not the building.
-6. **There is a second list, for things that are not objects.** This system protects buildings and sites; a parallel national list protects practices, and [the two board games on the stone tables in the park are on it](/culture/weiqi-and-chinese-chess/).
+6. **There is a second list, for things that are not objects.** This system protects buildings and sites; [a parallel four-tier register protects practices, and a second one names the people who carry them](/culture/intangible-heritage-in-china/) — which is how [the two board games on the stone tables in the park](/culture/weiqi-and-chinese-chess/) come to be protected at all.
 
 ## Frequently asked questions
 

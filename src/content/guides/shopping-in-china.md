@@ -95,7 +95,7 @@ One condition decides whether a bulky purchase is worth claiming on at all: the 
 
 - **Antiques** are governed by a graduated rule, not the single 1911 cut-off most guidance quotes. Anything made **in or before 1911** is flatly prohibited from export. Items from **1912 to 1949** with historical, artistic or scientific value are prohibited in principle too, which is the part usually left out. Beyond that, works by named deceased artists after 1911 — across calligraphy and painting, ceramics, sculpture, fans, embroidery, seals, snuff bottles and lacquer — sit on restricted lists of their own. Genuinely old items sold legally carry a red wax seal from the cultural relics bureau; without it, an item that is actually old will be confiscated.
 - **Ivory, rhino horn, tortoiseshell, tiger products** — illegal to buy and illegal to import into essentially every country. This includes items sold openly in some markets.
-- **Traditional medicine containing endangered species** — check the ingredients.
+- **Traditional medicine containing endangered species** — check the ingredients. Packaged health food is a different category again, and [the blue hat and the warning zone are what distinguish a registered one](/food/food-as-medicine-in-china/).
 - **Large quantities of tea or single products** may attract questions on the way out and duty on the way in; check your home country's allowances.
 - **Counterfeit goods** are confiscated by customs in the EU, UK, US and Australia, and can carry fines.
 

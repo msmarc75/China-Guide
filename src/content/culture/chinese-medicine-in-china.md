@@ -20,7 +20,7 @@ related:
   - /culture/chinas-ethnic-minorities/
 ---
 
-This site has one page on Chinese medicine without saying so. The massage guide opens by noting that [tuina is one branch of it, alongside acupuncture, herbal medicine and dietary therapy](/culture/massage-and-bodywork-in-china/), and then — correctly, since that is its subject — covers only tuina. The other three branches are named once and never explained.
+This site has one page on Chinese medicine without saying so. The massage guide opens by noting that [tuina is one branch of it, alongside acupuncture, herbal medicine and dietary therapy](/culture/massage-and-bodywork-in-china/), and then — correctly, since that is its subject — covers only tuina. Of the other three, [dietary therapy has a page of its own now](/food/food-as-medicine-in-china/), because it is the branch a visitor meets at dinner rather than at a clinic.
 
 Meanwhile [the health and safety guide](/guides/health-and-safety-in-china/) walks through public hospitals, international clinics and pharmacies without mentioning that China runs a **second hospital system**, in parallel, in every city of any size.
 

@@ -67,6 +67,8 @@ Both parks sit inside China's domestic holiday calendar, which is the dominant f
 
 Getting there is straightforward from either city centre: both are on the metro network, which the [Shanghai](/destinations/shanghai/) and [Beijing](/destinations/beijing/) guides cover along with everything else worth building a day around.
 
+The rides themselves are governed separately from the ticket, and by a national regime rather than by park policy: [what a large amusement facility is, and what its operator must display and check each morning](/guides/cable-cars-and-rides-in-china/).
+
 ## Frequently asked questions
 
 ### Can foreigners buy tickets for Shanghai Disneyland?

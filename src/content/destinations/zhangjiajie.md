@@ -50,7 +50,7 @@ The park is enormous — 4,800 hectares — with four entrances. **Wujiaping (th
 
 ### The main areas
 
-**Yuanjiajie** — the Avatar area, with the Hallelujah Mountain pillar and the First Bridge Under Heaven, a natural stone arch spanning a chasm. This is the most famous and the most crowded. Reached by the **Bailong Lift** (¥72 one way), a 326 m glass elevator bolted to a cliff face and one of the tallest outdoor lifts in the world.
+**Yuanjiajie** — the Avatar area, with the Hallelujah Mountain pillar and the First Bridge Under Heaven, a natural stone arch spanning a chasm. This is the most famous and the most crowded. Reached by the **Bailong Lift** (¥72 one way), a 326 m glass elevator bolted to a cliff face and one of the tallest outdoor lifts in the world. Legally it is a lift like any other, and [the registration plate at the boarding point carries the date its inspection expires](/guides/cable-cars-and-rides-in-china/).
 
 **Tianzi Mountain** — arguably better views than Yuanjiajie and noticeably fewer people. A cable car (¥72) runs up; the sea-of-clouds views after rain are the classic image.
 

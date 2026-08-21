@@ -54,7 +54,7 @@ Note that **business is a named purpose here**, not a tolerated one, so a week o
 **Notable exclusions:** The United States, India, Israel and most African nations are **not** currently on the unilateral list, and Americans should use Route 2. Within Europe, **Czechia and Lithuania are the only Schengen states still off it** — the one case where "all of Schengen is visa-free" gives the wrong answer.
 
 :::tip Fingerprints and the arrival card
-Nearly all foreign visitors aged 14–70 give fingerprints at immigration; there are self-service kiosks before the desks in most airports. The paper arrival card has been replaced by an online form at many ports — look for the QR code on the jet bridge and fill it in while you queue.
+Nearly all foreign visitors aged 14–70 give fingerprints at immigration; there are self-service kiosks before the desks in most airports. The paper arrival card has been replaced by an online form at many ports — look for the QR code on the jet bridge and fill it in while you queue. The customs and health declaration is a separate form with its own rule, rewritten in 2025, and it contains an instruction most travellers get backwards: [which channel to take when you are not sure](/plan/chinese-customs-on-arrival/).
 :::
 
 ## Route 2: 240-hour visa-free transit (10 days)

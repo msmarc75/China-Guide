@@ -89,7 +89,7 @@ For eating alone, order from the **noodle, rice-bowl, dumpling and small-eats se
 
 The dumpling section has its own unit of measure, which catches people out: in much of the north they are sold by weight of dough rather than by the piece, so [the number on the menu may not be a count](/food/chinese-dumplings/). Anywhere a price is per weight, including malatang, the unit behind it is [the 斤 rather than the kilogram](/food/chinese-food-markets/) — half a kilo, so the figure on the sign buys less than it looks like.
 
-Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely normal.
+Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely normal, and [five departments have told caterers to run the boxing-up service properly](/food/food-waste-law-in-china/), alongside serving spoons and communal chopsticks.
 
 ## Dietary requirements
 

@@ -26,6 +26,8 @@ Leaving a little in the shared dishes therefore reads as *you gave us plenty*, w
 
 The Clean Plate Campaign has pushed hard against food waste for over a decade, with genuine cultural traction — restaurants display reminders, and ordering far more than a table can eat now attracts mild disapproval rather than admiration.
 
+Those reminders are not voluntary. Since 2021 the campaign has had a statute behind it, and [the anti-food-waste notice on the wall is something the restaurant is required to put there](/food/food-waste-law-in-china/) — along with a duty to offer small portions and a prohibition on pushing you to over-order. The penalties in it are aimed at the restaurant rather than at you.
+
 The result is a narrower target. Leave a modest amount. Do not leave dishes barely touched.
 
 ## The practical version

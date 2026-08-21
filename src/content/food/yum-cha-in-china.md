@@ -74,6 +74,8 @@ Caterers are to make **small portions and multiple sizes** reasonably available 
 
 Two people facing a menu of forty steamer baskets are exactly the case that provision imagines. Where a menu carries a suggested headcount, use it; ordering four dishes and adding more is the local method anyway.
 
+The idea is not the ministry's alone. [The Anti-Food Waste Law carries the same instruction at the level of a statute](/food/food-waste-law-in-china/), which is why small portions and portion markings turn up on menus well beyond Guangdong.
+
 ## In practice
 
 - **Go between seven and eleven**, which the [Guangzhou guide](/destinations/guangzhou/) already tells you and is worth repeating because the kitchen genuinely stops.

@@ -37,7 +37,7 @@ The classic circuit is about 15 km. Options:
 - **Boat** to the **Three Pools Mirroring the Moon** island (¥55–70) — the scene on the ¥1 note.
 - **Su Causeway**, built by the poet-governor Su Dongpo in 1090, crosses the lake north to south with six bridges.
 
-Go at **dawn**. The lake at 06:30 is misty, empty except for tai chi practitioners, and completely different from the same lake at 15:00.
+Go at **dawn**. The lake at 06:30 is misty, empty except for tai chi practitioners, and completely different from the same lake at 15:00. Those practitioners are the same early-morning park population you meet in every Chinese city, and [standing at the back of a group is an accepted way to join](/culture/parks-in-the-morning-in-china/).
 
 The "Ten Scenes of West Lake" are a canonical list dating to the Song dynasty — each a specific view at a specific time of day or season, marked by stone tablets. **Leifeng Pagoda at sunset** (¥40) and **Su Causeway in spring dawn** are the two worth planning around.
 

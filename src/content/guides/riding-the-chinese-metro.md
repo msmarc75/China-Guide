@@ -79,6 +79,7 @@ This is one city's code, quoted because it is the one that can be read in full. 
 - **Paying** is a separate problem with three solutions, and [the transport code inside Alipay is the one to set up](/answers/how-do-i-pay-for-the-metro-in-china/).
 - **The scanner at the entrance** applies to everyone and is routine — [what it is looking for and how long it adds](/answers/do-i-need-to-go-through-security-on-the-chinese-metro/).
 - **Children travel free by height on the metro**, which is the opposite of the railway's age rule and a genuine trap — [the thresholds and the per-adult allowance differ by city](/plan/china-with-children/).
+- **The bus** is the other half of the same journey and has its own rulebook — [the fare is set by government, the route map and fare table are required on board, and the driver must announce every stop](/guides/city-buses-in-china/).
 - **Getting around above ground** — taxis, buses, the intercity network — is [the wider transport picture](/guides/transport-in-china/).
 
 ## Frequently asked questions

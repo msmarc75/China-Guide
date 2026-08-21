@@ -126,6 +126,10 @@ Traffic is the biggest genuine physical risk to a visitor in China. Right turns 
 :::slot ad:mid-article
 :::
 
+## City buses
+
+Different from the coach below and governed by different rules. Since December 2024 urban public transport has had [its own State Council regulation, under which the fare is set by government rather than by the operator](/guides/city-buses-in-china/) — which is why a city bus anywhere in China costs a flat, trivial sum.
+
 ## Long-distance buses
 
 Relevant where the rail network does not reach: parts of Yunnan and Guizhou, mountain areas, and the last leg to scenic parks. Modern sleeper coaches are reasonable; rural minibuses are not. Buy at the station counter with your passport, or through the local bus mini-program on Alipay. Journeys are slow and roads in the mountains are winding.

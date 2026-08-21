@@ -50,6 +50,6 @@ Near Sanlitun, Nanluoguxiang and Wangfujing, a friendly stranger practising thei
 
 **Live music is a real scene.** Beijing has the strongest independent music culture in China. Venues change names and addresses often enough that this page will not list them — check listings on the day rather than trusting anything written months earlier.
 
-**KTV is the local default.** For most Chinese friends a night out means private-room karaoke rather than a bar. You rent the room by the hour, order in drinks and food, and take turns. If you are invited, go — it is a better window into how people actually socialise than any bar in Sanlitun.
+**KTV is the local default.** For most Chinese friends a night out means private-room karaoke rather than a bar. You rent the room by the hour, order in drinks and food, and take turns. If you are invited, go — it is a better window into how people actually socialise than any bar in Sanlitun. [What happens inside, why the door has a window in it and the price list you are owed](/culture/ktv-in-china/) is worth five minutes before your first one.
 
 For where to base yourself, see [where to stay in Beijing](/answers/where-should-i-stay-in-beijing/); for dinner beforehand, [where to eat in Beijing](/destinations/beijing/restaurants/).

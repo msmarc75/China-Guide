@@ -112,6 +112,8 @@ Provincial museums are free, consistently excellent and under-visited by foreign
 
 **Ritual bronzes** from the Shang and Zhou are the objects Chinese museums are proudest of, and they are genuinely astonishing as casting. Look for the stylised animal-mask motif that covers many surfaces, and look for inscriptions — often cast inside the vessel, invisible in a case, and reproduced on the label. The inscriptions are why these objects matter historically as well as aesthetically.
 
+The same free-and-under-visited logic extends past the museums. [A Chinese municipal library is free by law, open far longer, and often the most ambitious modern building in the city](/culture/public-libraries-in-china/).
+
 **Ceramics** offer the clearest visual chronology in Chinese art. Song taste ran to monochrome glazes and restrained shapes. Blue-and-white as most people picture it emerged with Yuan-dynasty production using imported cobalt. Ming and Qing porcelain becomes more colourful, more technically elaborate and more export-driven. Walk a ceramics gallery in order and the sequence is unmistakable even without labels.
 
 ## Frequently asked questions

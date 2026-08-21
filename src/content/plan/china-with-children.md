@@ -107,6 +107,8 @@ High-speed rail is the single biggest advantage. Four hours from Beijing to Shan
 
 And the country is very safe. Petty crime against visitors is rare, streets are busy late, and [the things that genuinely warrant caution](/guides/health-and-safety-in-china/) are traffic and food hygiene rather than anything that threatens a family directly.
 
+For an indoor hour that costs nothing, a public library is required to have a children's reading area, and [Beijing sets a daily minimum for children's opening hours in the school holidays](/culture/public-libraries-in-china/).
+
 ## Frequently asked questions
 
 ### Do children need their own passport for Chinese trains?

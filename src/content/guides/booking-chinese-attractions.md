@@ -68,6 +68,8 @@ The pattern is consistent enough to learn once.
 
 **Slots are released on a schedule** — a fixed number of days ahead, at a fixed hour, for the busiest venues. If something you want is sold out, the two things that actually work are being ready at the release hour for a later date, and checking back for cancellations, which do return to the pool.
 
+One category in that Shenzhen count deserves more than a line, because it is free without being ticketed and open when almost nothing else is: [the public library, and the statute that keeps its reading rooms free](/culture/public-libraries-in-china/).
+
 ## Frequently asked questions
 
 ### Do I still need to book attractions in China?

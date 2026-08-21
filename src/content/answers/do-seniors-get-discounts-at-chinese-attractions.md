@@ -15,7 +15,7 @@ related:
   - /guides/health-and-safety-in-china/
 ---
 
-Concessions for older visitors are a statutory obligation in China, not a courtesy each attraction chooses. **Article 59 of the Law on the Protection of the Rights and Interests of the Elderly** requires that museums, galleries, science and memorial museums, public libraries, cultural centres, theatres, sports venues, parks and tourist sites "open free of charge or at a discount to older people".
+Concessions for older visitors are a statutory obligation in China, not a courtesy each attraction chooses. **Article 59 of the Law on the Protection of the Rights and Interests of the Elderly** requires that museums, galleries, science and memorial museums, public libraries, cultural centres, theatres, sports venues, parks and tourist sites "open free of charge or at a discount to older people". One of those is free to everyone already, at any age — [the public library, under its own national law](/culture/public-libraries-in-china/).
 
 That settles whether a concession exists. It does not settle the two things you actually need to know.
 

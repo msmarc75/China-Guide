@@ -46,6 +46,8 @@ Before you buy for someone else, note that a short list of objects [must not be 
 
 **Electronics and phone accessories.** Cheap and abundant, though the flagship phones are not meaningfully cheaper than at home. Huaqiangbei in Shenzhen is the world's largest electronics market and worth visiting as a spectacle.
 
+**Glasses.** Prescription spectacles are made and dispensed cheaply and quickly, and the counter beside them is legally a different shop: [what changed in the standard in March 2026, and why contact lenses are Class III medical devices](/answers/can-i-buy-glasses-in-china/).
+
 **Designer toys and blind boxes.** The sealed-box walls in every mall are a category of their own with a rulebook of their own: [the odds and the contents have to be posted before you pay, and opening one bought online can cost you the seven-day return](/culture/blind-boxes-in-china/).
 
 :::tip What not to buy

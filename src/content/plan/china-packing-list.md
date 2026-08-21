@@ -92,6 +92,7 @@ Packing light only works if you can wash things, and quick-drying fabrics earn t
 - **Tissue packs** — public toilets frequently have no paper either
 - Sunscreen: available but often bundled with skin-whitening agents; bring your own if particular. [The bundling is a legal artefact rather than a marketing one](/guides/cosmetics-in-china/) — sun protection and whitening sit on the same short list of specially regulated claims
 - Mosquito repellent for the south in summer
+- A spare pair of glasses and a copy of your prescription — replacements are cheap and quick to have made, though [the standard behind a dispensed pair stopped being compulsory in March 2026](/answers/can-i-buy-glasses-in-china/)
 - A reusable insulated bottle — boiling water is free and available everywhere
 
 ## What not to bring

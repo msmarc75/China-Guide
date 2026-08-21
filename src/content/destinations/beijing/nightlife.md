@@ -48,7 +48,7 @@ Near Sanlitun, Nanluoguxiang and Wangfujing, a friendly stranger practising thei
 
 **Pay by phone.** Alipay and WeChat Pay work in essentially every bar. Some smaller hutong places take nothing else.
 
-**Live music is a real scene.** Beijing has the strongest independent music culture in China. Venues change names and addresses often enough that this page will not list them — check listings on the day rather than trusting anything written months earlier.
+**Live music is a real scene.** Beijing has the strongest independent music culture in China. Venues change names and addresses often enough that this page will not list them — check listings on the day rather than trusting anything written months earlier. Small rooms work like small rooms; it is only [above five thousand seats that the ticket is bound to your passport and a refund scheme becomes compulsory](/guides/concerts-in-china/).
 
 **KTV is the local default.** For most Chinese friends a night out means private-room karaoke rather than a bar. You rent the room by the hour, order in drinks and food, and take turns. If you are invited, go — it is a better window into how people actually socialise than any bar in Sanlitun. [What happens inside, why the door has a window in it and the price list you are owed](/culture/ktv-in-china/) is worth five minutes before your first one.
 

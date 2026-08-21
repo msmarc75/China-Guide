@@ -32,6 +32,8 @@ The Ministry of Culture and Tourism's guidance behind this was explicit that a "
 
 So the default has flipped. For most sights in most cities, you can now turn up.
 
+The same instinct is written into the rules elsewhere. For a large performance [the organiser must name the ticketing agents it has authorised](/guides/concerts-in-china/), so the question of which seller is official has a published answer rather than a guessed one.
+
 ## The exceptions are the famous ones
 
 This is the part that matters, because the cities kept reservations exactly where demand is highest.

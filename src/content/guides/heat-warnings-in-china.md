@@ -32,7 +32,7 @@ Heat runs on the same machinery and is not covered there. It also differs from w
 
 ## Heat has three colours, not four
 
-There is **no blue heat warning**. The scale starts at yellow, and the three levels are these:
+There is **no blue heat warning**. The scale starts at yellow, and the three levels are these — a shape [the fog warnings share, for a comparable reason](/guides/rain-and-fog-warnings-in-china/):
 
 | Colour | The standard |
 | --- | --- |

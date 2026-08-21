@@ -73,6 +73,7 @@ The practical instruction is unchanged and unglamorous: report the loss at the b
 - **Ask explicitly for accommodation if you were diverted or stranded at a stopover.** It is owed whatever the cause, and it will not always be offered unprompted.
 - **Watch the status yourself** rather than waiting to be told — the transport guide names the app locals use for this, which is more accurate than the airline's own.
 - **Consider the train.** On many routes the rail alternative departs within the hour and is barely weather-affected, which is half the reason [the train usually wins the comparison](/answers/should-i-fly-or-take-the-train-between-chinese-cities/) in the first place.
+- **Fog is the cause with a published signal.** A red fog warning carries an instruction about airports suspending takeoffs and landings, and [it gives you two hours of notice at most](/guides/rain-and-fog-warnings-in-china/).
 
 ## Frequently asked questions
 

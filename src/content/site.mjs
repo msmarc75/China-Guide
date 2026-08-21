@@ -163,7 +163,10 @@ export const MONETISATION = {
         'A 90-page PDF + spreadsheet: day-by-day templates for 7/10/14/21-day routes, a booking timeline, a printable offline phrasebook and QR-payment setup checklist.',
       cta: 'See what is inside',
       href: '/shop/china-trip-planner/',
-      enabled: true,
+      // Disabled until a payment processor and file delivery exist. Both need
+      // an account only the owner can open, so the product cannot be sold from
+      // the repository alone. Flip to true once checkout is wired.
+      enabled: false,
     },
     {
       id: 'phrasebook',
@@ -173,7 +176,7 @@ export const MONETISATION = {
         '120 screenshot-ready phrase cards with characters, pinyin and audio — designed to be shown to a taxi driver when your data dies.',
       cta: 'Get the phrase pack',
       href: '/shop/survival-mandarin-pack/',
-      enabled: true,
+      enabled: false,
     },
   ],
   newsletter: {

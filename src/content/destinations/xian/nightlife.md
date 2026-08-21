@@ -50,7 +50,7 @@ Touts around the railway station and the Muslim Quarter sell cheap tours that go
 
 **The promenades are free.** Datang Everbright City costs nothing to walk. Tang Paradise is ticketed.
 
-**Watch your bag in the crowds.** The Muslim Quarter and Datang Everbright City get genuinely packed on weekend evenings and during holidays, and that is where pickpocketing happens.
+**Watch your bag in the crowds.** The Muslim Quarter and Datang Everbright City get genuinely packed on weekend evenings and during holidays, and that is where pickpocketing happens. If something does go, [the police report has to be obtained before you leave the country](/guides/theft-and-lost-passport-in-china/) — no insurer settles without it.
 
 **Pay by phone.** Alipay and WeChat Pay work at every stall.
 

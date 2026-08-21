@@ -109,8 +109,16 @@ check('site config has no url', typeof ORIGIN === 'string' && ORIGIN.startsWith(
 const built = new Set(walk(DIST, '.html').map(urlOfHtml));
 
 // Pages that are deliberately not in the sitemap. /search/ is a tool, not
-// content, and robots.txt disallows it; 404 is an error page.
+// content, and robots.txt disallows it; 404 is an error page. Everything else
+// is derived from the page's own robots meta tag rather than listed by hand,
+// so a page marked noindex in its front matter drops out of the sitemap and
+// out of this expectation at the same time.
 const NOT_INDEXED = new Set(['/404.html', '/search/']);
+for (const file of walk(DIST, '.html')) {
+  if (/<meta name="robots" content="noindex/.test(fs.readFileSync(file, 'utf8'))) {
+    NOT_INDEXED.add(urlOfHtml(file));
+  }
+}
 
 // ---------------------------------------------------------------------------
 // Sitemap

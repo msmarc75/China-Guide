@@ -38,6 +38,8 @@ The **Regulations on the Hygiene Administration of Public Places** apply to seve
 
 If you are paying to be indoors somewhere in China, you are almost certainly inside one of those seven.
 
+One of the seven carries a second, much heavier regime on top of the hygiene one: [the games arcade and the internet café are governed by their own State Council regulation](/culture/internet-cafes-and-gaming-in-china/), which fixes their opening hours, bars anyone under eighteen from the premises and requires every customer's identity to be logged.
+
 ## What changed in January 2025
 
 This is the part that would have been wrong a year ago, and most of what is written about it online still is.

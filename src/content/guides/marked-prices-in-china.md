@@ -79,6 +79,7 @@ So the two tools do not overlap. [Walking away is the instrument for the price i
 - **Pay by card if you feel unsafe**, then dispute it. Physical safety comes first and always has.
 - **Complain to the market regulator**, which is what [12315 on the emergency numbers list](/answers/what-are-the-emergency-numbers-in-china/) actually is — the price-enforcement line, not a general grievance number.
 - **Identify who you dealt with.** A complaint needs a business, not a shop sign — [the licence on the wall carries the code that names it](/guides/business-licences-in-china/).
+- **If the problem is the goods rather than the price**, this regulation is the wrong instrument — [misdescription is answered by a refund plus three times the price](/guides/sold-a-fake-in-china/).
 - **Do not confuse this with theft.** If something was taken rather than overcharged, [that is a police matter and the order of the steps differs](/guides/theft-and-lost-passport-in-china/).
 
 ## Frequently asked questions

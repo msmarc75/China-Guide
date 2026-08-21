@@ -101,6 +101,8 @@ One condition decides whether a bulky purchase is worth claiming on at all: the 
 
 That list is about goods. Money is governed by its own rules and its own thresholds — [the renminbi and foreign-currency ceilings, and the declaration that keeps you the right side of them](/answers/how-much-cash-can-i-take-in-and-out-of-china/) — and they apply on the way in as well as the way out.
 
+None of the above is a plan for what happens if a purchase turns out not to be what it was sold as. That has its own rule and its own number: [a refund plus three times the price, with a floor beneath it](/guides/sold-a-fake-in-china/).
+
 ## Frequently asked questions
 
 ### How do you bargain in China?

@@ -40,6 +40,8 @@ Two ways in, and the second explains a lot about the country.
 
 **Scan a QR code.** A QR code on a table, a ticket window, a bus stop or a museum sign opens the relevant mini-programme directly. This is why QR codes are on every surface in China and why the standard instruction is "scan it": the code is not a link to a website, it is the door to a small application.
 
+It is also why the queue outside a tea shop is usually not a queue to order: [the drink was ordered in the mini-programme from somewhere else and is waiting on the collection shelf](/food/chinese-milk-tea/).
+
 That is also why a Chinese venue often has no bookable website worth the name. The mini-programme *is* the booking system, and [the venue's own channel is the one to use](/guides/booking-chinese-attractions/) precisely because the alternative is a reseller.
 
 ## Why it asks for your passport number

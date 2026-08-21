@@ -52,7 +52,7 @@ At Jiuyanqiao, be wary of a stranger who strikes up a conversation and steers yo
 
 **Skewers are the late-night food.** Chuanchuan and barbecue stalls run well past the restaurants, and Yulin is a good place to find them.
 
-**Mahjong is not a tourist activity, it is the activity.** If you are invited to a table, the polite move is to admit you cannot play and let someone teach you badly for an hour.
+**Mahjong is not a tourist activity, it is the activity.** If you are invited to a table, the polite move is to admit you cannot play and let someone teach you badly for an hour. [What the game is, why the table deals itself, and where the legal line sits](/culture/mahjong-in-china/) is worth five minutes before you sit down.
 
 **Pay by phone** — Alipay and WeChat Pay everywhere, including street stalls.
 

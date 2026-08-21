@@ -49,7 +49,7 @@ Take the metro to Panda Avenue station (line 3) plus the shuttle, or a DiDi (¥5
 
 ## Teahouses
 
-Sichuan teahouse culture is not a performance for tourists — it is how people spend afternoons, and it is the most accessible version of [Chinese tea culture](/culture/tea-culture-in-china/) anywhere in the country. Bamboo chairs, a lidded *gaiwan* cup topped up endlessly, mahjong, ear cleaning with long metal picks, and hours passing.
+Sichuan teahouse culture is not a performance for tourists — it is how people spend afternoons, and it is the most accessible version of [Chinese tea culture](/culture/tea-culture-in-china/) anywhere in the country. Bamboo chairs, a lidded *gaiwan* cup topped up endlessly, mahjong, ear cleaning with long metal picks, and hours passing. The tiles are the loudest part of it, and [the game behind the noise has three quite different legal lives](/culture/mahjong-in-china/).
 
 - **Heming Teahouse** in People's Park — the famous one, in a lakeside pavilion, ¥25–60 for a cup and unlimited refills. Touristy but genuinely full of locals.
 - **Wenshu Monastery teahouse** — quieter, in the courtyard of a working Buddhist monastery, with excellent vegetarian food next door.

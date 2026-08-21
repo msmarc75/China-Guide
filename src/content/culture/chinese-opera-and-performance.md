@@ -71,6 +71,8 @@ Both exist, and it is worth being clear-eyed about which you are buying.
 
 **The real thing** is a full-length work at a working theatre, mostly attended by people who already know the repertoire, usually without English surtitles. It is a much heavier lift for a first-timer and a much better experience for anyone who did the reading.
 
+**And there is the ordinary evening.** If a full work is too heavy a lift and the tourist hour feels thin, the thing most Chinese people actually do with an evening out is [go to the cinema, where the law requires the film to start at the time printed on your ticket](/culture/going-to-the-cinema-in-china/).
+
 **And there is a free version.** Retired Beijingers sing opera in the parks in the morning, in groups, for their own pleasure — the Temple of Heaven park is the classic place to encounter it, at around seven in the morning, along with tai chi and ballroom dancing. It is amateur and it is completely unstaged, and a lot of visitors find it the most memorable performance they see in China.
 
 ## Frequently asked questions

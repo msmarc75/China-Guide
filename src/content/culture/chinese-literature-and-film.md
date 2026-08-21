@@ -77,6 +77,8 @@ Chinese films of this period are erratically available outside China. Some have 
 If a film was not released or is not screened in mainland China, that is worth knowing but is not something to raise with people you meet. The [etiquette guide](/culture/chinese-etiquette/) sets out the general principle: the risk to you as a visitor is negligible, and the risk to the Chinese person you are talking with is not.
 :::
 
+Everything above is preparation. Seeing a film *in* China is a different exercise and a much easier one — [the booking is an app, the printed start time is legally the real one, and two-thirds of the listings board is domestic by statute](/culture/going-to-the-cinema-in-china/).
+
 ## Poetry, which is the most place-attached of all
 
 If you want literature that maps onto physical sites more tightly than anything else, it is Tang poetry — and it is the body of writing Chinese visitors actually carry in their heads.

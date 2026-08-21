@@ -20,7 +20,7 @@ related:
   - /guides/internet-vpn-apps-china/
 ---
 
-Almost every practical instruction on this site eventually arrives at the same place: open WeChat or Alipay, find the venue's **mini-programme**, book there. It is how you get into the Forbidden City, how the Dunhuang Academy sells the Mogao Caves, how a coach seat is bought in a small town, how a lost bag is registered with the railway.
+Almost every practical instruction on this site eventually arrives at the same place: open WeChat or Alipay, find the venue's **mini-programme**, book there. It is how you get into the Forbidden City, how the Dunhuang Academy sells the Mogao Caves, how a coach seat is bought in a small town, how a lost bag is registered with the railway, [how a numbered cinema seat is chosen before you leave the hotel](/culture/going-to-the-cinema-in-china/).
 
 Nobody explains what it is, so here it is.
 

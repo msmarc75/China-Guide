@@ -32,7 +32,7 @@ The city itself is a sprawling subtropical megacity of 19 million. There are sig
 
 Cantonese cooking prizes freshness and restraint: steaming, quick stir-frying, clear broths, minimal spice, and an obsession with the natural flavour of the ingredient. It is the least aggressive of China's major cuisines and, done well, the most technically demanding.
 
-**Yum cha and dim sum.** Morning tea is the institution. Go between 07:00 and 11:00.
+**Yum cha and dim sum.** Morning tea is the institution. Go between 07:00 and 11:00. It is a three-hour morning rather than a meal, and [there is a per-person charge on the bill that has to be displayed](/food/yum-cha-in-china/).
 
 - **Tao Tao Ju** and **Guangzhou Restaurant** — the old grand houses, busy and traditional
 - **Bing Sheng** — modern, consistent, excellent

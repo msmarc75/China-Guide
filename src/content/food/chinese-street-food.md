@@ -68,6 +68,8 @@ Chengdu's street eating and its restaurant scene overlap more than most cities' 
 - **Egg tarts**, **pineapple buns**, **rice noodle soup**
 - **Zhaliang** — youtiao wrapped in rice noodle
 
+Guangzhou is also the one city where the morning meal has a second, entirely different form: [yum cha is a sit-down morning of three hours rather than five minutes standing up](/food/yum-cha-in-china/).
+
 ### Shanghai
 
 Breakfast is where Shanghai street food is strongest; [the rest of the day belongs to the restaurants](/destinations/shanghai/restaurants/).

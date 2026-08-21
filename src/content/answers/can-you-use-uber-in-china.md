@@ -35,6 +35,8 @@ There is also a **DiDi mini-program inside Alipay**, which is worth knowing: if 
 Register and verify DiDi while your home phone number still receives SMS normally, and link a card at the same time. Doing this in an arrivals hall at midnight, on a phone that has just lost its data connection, is the version nobody enjoys.
 :::
 
+None of that is why it is safe to get in. That comes from a licensing regime: [the car and the driver each hold a certificate, and the platform must ensure the pair that arrive are the pair shown on your screen](/guides/ride-hailing-in-china/) — which is what makes checking the plate worth doing.
+
 ## What to expect on the ride
 
 Drivers frequently phone to confirm the pickup point, especially at airports and large stations where the designated pickup bay may be several hundred metres from where you are standing. If you cannot speak Chinese, use the in-app message templates — they are pre-translated for exactly this situation — or simply stay put and let the driver find the pin.

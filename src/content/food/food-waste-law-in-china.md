@@ -58,7 +58,7 @@ The article does not stop at duties. It also gives the caterer two discretions, 
 
 A caterer **may reward customers who take part in the "clean plate action"** — and **may charge a customer who causes obvious waste the corresponding cost of dealing with the kitchen waste**.
 
-Both are 可以, *may*: a power, not a duty. Most restaurants use neither. But a buffet that tells you at the door what happens if you leave a loaded plate is not improvising a house rule; it is exercising a discretion the statute names.
+Both are 可以, *may*: a power, not a duty. Most restaurants use neither. The 厨余垃圾 the second one refers to is a defined waste category with a bin of its own — [the third of the four a Chinese sorting station separates](/culture/rubbish-sorting-in-china/). But a buffet that tells you at the door what happens if you leave a loaded plate is not improvising a house rule; it is exercising a discretion the statute names.
 
 ## The penalties point the other way
 

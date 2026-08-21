@@ -120,7 +120,7 @@ Yes, though for different reasons than Beijing. Shanghai is modern, cosmopolitan
 
 ### What is the best time to visit Shanghai?
 
-October and November, then April and May, which broadly matches [the best time to visit China](/plan/best-time-to-visit-china/) as a whole. Summers are hot and very humid with a plum rain season in mid-June to mid-July; winters are damp and cold indoors, since buildings south of the Yangtze traditionally lack central heating.
+October and November, then April and May, which broadly matches [the best time to visit China](/plan/best-time-to-visit-china/) as a whole. Summers are hot and very humid with a plum rain season in mid-June to mid-July; winters are damp and cold indoors, since buildings south of the Yangtze traditionally lack central heating. One small local difference to know from the first morning: [Shanghai sorts its rubbish into wet and dry rather than kitchen and other](/culture/rubbish-sorting-in-china/), using words its own statute defines and the national standard does not.
 
 ### Is the Shanghai Tower worth it?
 

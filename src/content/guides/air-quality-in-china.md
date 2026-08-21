@@ -59,7 +59,7 @@ Two consequences follow, and both matter more than they sound. A Chinese AQI fig
 
 Here is the distinction the site has never drawn, and it is the practically important one.
 
-The typhoon and heat colours this site sets out elsewhere are **meteorological** signals, issued by the weather service under its own instrument. [Wind runs on four colours and heat on three](/guides/heat-warnings-in-china/). Air pollution is **not** part of that system. It has its own, run from the environmental side, and it is graded on the **forecast** index rather than on today's reading.
+The typhoon and heat colours this site sets out elsewhere are **meteorological** signals, issued by the weather service under its own instrument. [Wind runs on four colours and heat on three](/guides/heat-warnings-in-china/), and [dust runs on three of its own](/guides/sandstorm-and-cold-wave-warnings-in-china/) — worth knowing, because a spring sandstorm is a coarse-particle event that arrives with a meteorological colour attached rather than an index band. Air pollution is **not** part of that system. It has its own, run from the environmental side, and it is graded on the **forecast** index rather than on today's reading.
 
 The grading was unified nationally by the Ministry of Ecology and Environment in **环大气〔2024〕6号** (*huán dàqì*, atmospheric environment circular no. 6 of 2024), issued on **22 January 2024**:
 

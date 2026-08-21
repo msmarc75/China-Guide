@@ -65,6 +65,8 @@ Keep two situations apart, because the remedies are completely different.
 
 A licensed agency running a legitimate tour with an unlawful shopping stop is a **contractual and regulatory** matter: you have the thirty-day right above, and there is an agency with a licence to lose. That is the situation this page is about.
 
+The person in front of you is a third party again. [The guide is separately licensed and separately prohibited from deceiving you into shopping, from selling to you personally and from altering the itinerary alone](/guides/tour-guides-in-china/), which is why a complaint can go to the tourism authority as well as to the company.
+
 Someone selling tours on a station forecourt who drives you to a replica exhibition is not that. [The fake tours sold outside Xi'an's railway station](/answers/how-do-i-get-to-the-terracotta-army-from-xian/) have no contract, no licence and nobody to complain to afterwards, which is exactly why that page tells you not to buy them in the first place.
 
 ## Practical advice that follows

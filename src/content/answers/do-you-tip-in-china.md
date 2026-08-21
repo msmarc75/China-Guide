@@ -26,7 +26,7 @@ The bill is the bill. Chinese service staff are paid a wage rather than a tipped
 
 ## Where a tip has become normal
 
-**Private tour guides and drivers.** ¥50–100 per day each is now a common courtesy on private tours, particularly ones booked through international operators. It is genuinely appreciated and is not expected in the sense that its absence causes offence.
+**Private tour guides and drivers.** ¥50–100 per day each is now a common courtesy on private tours, particularly ones booked through international operators. It is genuinely appreciated and is not expected in the sense that its absence causes offence. One asymmetry is worth knowing: [a guide is forbidden to ask for a tip, openly or by hint](/guides/tour-guides-in-china/), so a request is a breach rather than a custom you missed.
 
 **Porters at five-star international hotels.** ¥10–20 is fine. These are hotels operating to an international script.
 

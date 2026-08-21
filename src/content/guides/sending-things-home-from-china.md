@@ -61,6 +61,8 @@ If an item may not legally leave China, putting it in the post does not change t
 
 **You fill in a customs declaration**, itemising contents, quantity and weight. Do it accurately. A vague declaration is the most common reason a parcel is delayed or opened, and an inaccurate one is a problem rather than a shortcut.
 
+**Bring identity, and do not seal the box beforehand.** Before any of the customs paperwork, the counter applies two rules that catch visitors out: [your identity is checked and registered, and the contents are inspected and marked](/guides/express-delivery-in-china/). Refuse either and the company is required to turn the parcel away.
+
 **Private couriers** — the large Chinese operators run international services alongside their domestic ones — are faster and more expensive. For a single box of tea or ceramics, the post office is usually the sensible choice.
 
 **Pack for handling, not for display.** Ceramics and tea sets need real padding; shops that sell them will often box them properly if you ask, and are generally better at it than you will be with hotel materials.

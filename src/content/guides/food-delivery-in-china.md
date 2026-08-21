@@ -61,7 +61,7 @@ That is what the sticker across the flap of a Chinese delivery bag is. It is a d
 Honest answer: the regulation is the easy part, and the address is the hard part.
 
 - **You need an address the app will accept**, entered in Chinese, which is the real barrier rather than the language of the menu.
-- **A hotel is the usual solution.** As a matter of commercial practice, couriers deliver to the desk or the lobby of a hotel rather than the room, and staff will call or message you. Ask at check-in how the hotel handles it before you order.
+- **A hotel is the usual solution.** As a matter of commercial practice, couriers deliver to the desk or the lobby of a hotel rather than the room, and staff will call or message you. Ask at check-in how the hotel handles it before you order. For a parcel rather than a meal, that arrangement has a legal name — [the express delivery rules let you designate someone to receive and inspect on your behalf](/guides/express-delivery-in-china/).
 - **Payment runs through the wallets**, like everything else — [the ordering flow lives inside WeChat and Alipay as well as in the standalone apps](/guides/mini-programmes-in-china/).
 - **Photographs do the work**, exactly as they do when [you use Dianping to choose a restaurant to walk to](/answers/how-do-i-find-good-restaurants-in-china/). The two tasks use the same skill and the same company's apps.
 - **Check the shopfront image and the address before ordering.** They are there because the rule requires them, so treat a listing without them as the warning it is.

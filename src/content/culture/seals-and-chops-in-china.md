@@ -100,7 +100,7 @@ Hong Kong and Macau run their own company and seal law entirely, and none of the
 - **Relief or intaglio changes the print.** Cut away the background and the characters print red on white; cut away the characters and they print white inside a red block. Both are standard and it is worth deciding rather than discovering.
 - **The paste is not ink.** Seal paste is a thick cinnabar-coloured compound; it goes on with a dabbing press rather than a stamp-pad slap, and a light rocking pressure gives a clean impression.
 - **A tourist chop is not a legal signature**, in China or at home. It is an object, not an instrument.
-- **An old seal may not be exportable.** Seals by named deceased artists sit on the restricted lists, alongside the graduated antiques rule — [which is stricter than most published guidance says](/guides/shopping-in-china/) and applies whether the piece is in your bag or a parcel.
+- **An old seal may not be exportable.** Seals by named deceased artists sit on the restricted lists, alongside the graduated antiques rule — [which is stricter than most published guidance says](/guides/shopping-in-china/) and applies whether the piece is in your bag or a parcel. Posting is the weaker route of the two: [items barred from crossing the border are one of the nineteen prohibited categories a courier must check for](/guides/express-delivery-in-china/), and the box is opened before it is accepted.
 
 ## Frequently asked questions
 

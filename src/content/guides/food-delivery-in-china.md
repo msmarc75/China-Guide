@@ -46,6 +46,8 @@ The duty falls on the platform, and the platform is what gets fined — an order
 
 This is the same credential you would read on a wall, moved onto a screen — [the hygiene licence and the food business licence are physical documents in a shop you walk into](/guides/hygiene-licences-in-china/), and for a delivery kitchen the regulation puts the equivalent in front of you before you order.
 
+The registration underneath those permits makes the same journey: an e-commerce seller must keep [its business licence, or a link to it, published on its home page](/guides/business-licences-in-china/) exactly as a shop must hang it by the door.
+
 ## The seal on the bag
 
 **Article 27** requires that catering food be **packaged and sealed, and that the seal cannot be restored once opened**, so that the food cannot be interfered with in transit.

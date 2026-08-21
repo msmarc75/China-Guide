@@ -22,6 +22,8 @@ related:
 
 The advice everywhere on this site is to follow the queue, and it is sound: turnover is the best proxy a stranger has. But it is a proxy for something that is, in fact, measured, graded and posted on the wall — and almost no visitor knows to look at it.
 
+Food shopping has the same pattern: the thing you would judge by eye is also governed by a published rule, which is why [the lamps over a Chinese meat counter no longer flatter what is under them](/food/chinese-food-markets/).
+
 ## The board with a face on it
 
 Chinese food-service premises are required to display a **food-safety grade notice board** in a prominent position — the entrance or the dining room — and to keep it up until the next inspection replaces it.

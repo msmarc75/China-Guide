@@ -87,7 +87,7 @@ Chinese restaurant portions assume a table. A solo diner ordering two dishes wil
 
 For eating alone, order from the **noodle, rice-bowl, dumpling and small-eats sections**, which are single-serving by design. Malatang and food courts are ideal. Say 一个人 (*yí ge rén*, "one person") at the door and you will be seated appropriately.
 
-The dumpling section has its own unit of measure, which catches people out: in much of the north they are sold by weight of dough rather than by the piece, so [the number on the menu may not be a count](/food/chinese-dumplings/).
+The dumpling section has its own unit of measure, which catches people out: in much of the north they are sold by weight of dough rather than by the piece, so [the number on the menu may not be a count](/food/chinese-dumplings/). Anywhere a price is per weight, including malatang, the unit behind it is [the 斤 rather than the kilogram](/food/chinese-food-markets/) — half a kilo, so the figure on the sign buys less than it looks like.
 
 Asking for leftovers to be boxed — 打包 (*dǎ bāo*) — is completely normal.
 

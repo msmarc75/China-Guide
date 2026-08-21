@@ -24,7 +24,7 @@ related:
   - /destinations/beijing/
 ---
 
-Harbin grew out of the Chinese Eastern Railway, built by Russia in the 1890s, and for decades had a large Russian population — including tens of thousands of White Russian refugees after 1917. The architecture, the bread, the sausage and the vodka all survive. So does the cold: Harbin sits at the latitude of Vladivostok and Montreal, and January averages around −18°C.
+Harbin grew out of the Chinese Eastern Railway, built by Russia in the 1890s, and for decades had a large Russian population — including tens of thousands of White Russian refugees after 1917. The architecture, the bread, the sausage and the vodka all survive. So does the cold: Harbin sits at the latitude of Vladivostok and Montreal, and January averages around −18°C. The cold itself is not what the weather service warns about — [the two signals that matter in a Chinese winter](/guides/snow-and-road-ice-warnings-in-china/) grade snowfall and the temperature of the road.
 
 ## The Ice and Snow Festival
 

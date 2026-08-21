@@ -90,7 +90,7 @@ Packing light only works if you can wash things, and quick-drying fabrics earn t
 - Plasters and blister treatment (long walking days)
 - Hand sanitiser — public toilets frequently have no soap
 - **Tissue packs** — public toilets frequently have no paper either
-- Sunscreen: available but often bundled with skin-whitening agents; bring your own if particular
+- Sunscreen: available but often bundled with skin-whitening agents; bring your own if particular. [The bundling is a legal artefact rather than a marketing one](/guides/cosmetics-in-china/) — sun protection and whitening sit on the same short list of specially regulated claims
 - Mosquito repellent for the south in summer
 - A reusable insulated bottle — boiling water is free and available everywhere
 

@@ -77,6 +77,7 @@ A separate category of venue uses the same vocabulary and sells something else. 
 ## If you are invited
 
 - **Say yes.** It is a better window into how people socialise than any expat bar.
+- **It pairs with a film.** [A Chinese multiplex starts at the printed time and finishes early enough to go on](/culture/going-to-the-cinema-in-china/), which is why the two are the standard order of a Chinese evening.
 - **Sing something.** Badly is fine and expected. Refusing entirely is the only wrong move.
 - **Pick famous.** The English catalogue is deep; the room wants a chorus it can join.
 - **Let the host host.** Whoever invited you will handle the room and usually the bill; offering to split is polite, insisting is not.

@@ -39,6 +39,8 @@ It replaced an earlier standard, and the two changes between them tell you how C
 **GB** is a compulsory national standard; **GB/T** is a recommended one. The difference is not cosmetic and it moves: on **23 March 2017** the standards administration published two announcements at once, one abolishing 396 compulsory national standards and one converting 1,077 more into recommended standards, in these terms — 自公布之日起，上述标准不再强制执行，标准代号由GB改为GB/T，标准顺序号和年代号不变 — *from the date of publication these standards are no longer compulsory; the code changes from GB to GB/T, and the number and year stay the same.*
 
 So a Chinese standard can keep its number and quietly change its force. The general national standard for wine, **GB/T 15037-2006**, is recommended today; the compulsory floor for fermented drinks sits in a separate food-safety standard rather than in the quality standard.
+
+There are rungs below these two as well, and one of them settled an argument about what counts as salmon — [what a group standard is, and who it binds](/food/salmon-in-china/).
 :::
 
 ## What the region physically is

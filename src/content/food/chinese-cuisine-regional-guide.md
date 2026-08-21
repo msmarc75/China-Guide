@@ -21,7 +21,7 @@ related:
   - /destinations/chengdu/
 ---
 
-The usual classification is the **八大菜系**, the eight great cuisines. It is far more recent than it is generally said to be — the phrase reached print in 1980, and a four-cuisine scheme preceded it — and it is a simplification, since every province has traditions the list ignores and the northwest and minority regions barely appear. It is nonetheless the framework Chinese people themselves use. For where it came from and what to use instead, see [beyond the eight cuisines](/food/beyond-the-eight-cuisines/).
+The usual classification is the **八大菜系**, the eight great cuisines. It is far more recent than it is generally said to be — the phrase reached print in 1980, and a four-cuisine scheme preceded it — and it is a simplification, since every province has traditions the list ignores and the northwest and minority regions barely appear. It is nonetheless the framework Chinese people themselves use. For where it came from and what to use instead, see [beyond the eight cuisines](/food/beyond-the-eight-cuisines/). The blind spot is real enough that the country's largest salmonid farms, on a Qinghai reservoir, belong to [a food story the eight cuisines have no room for at all](/food/salmon-in-china/).
 
 ## The eight
 

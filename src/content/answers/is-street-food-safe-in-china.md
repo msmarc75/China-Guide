@@ -36,6 +36,7 @@ The reflex to avoid street food entirely costs you the best breakfast in the cou
 - **Tap water**, everywhere, always. Not potable anywhere in mainland China
 - **Pre-cut fruit** sitting unrefrigerated
 - **Cold dishes from an unbusy stall**
+- **Raw fish outside a proper cold chain** — [what makes farmed salmon safe to eat raw in China is a national standard, not the price](/food/salmon-in-china/)
 
 ## The adjustment period is not food poisoning
 

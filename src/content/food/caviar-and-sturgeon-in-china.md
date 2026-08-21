@@ -81,6 +81,7 @@ Those cannot all be describing the same thing, so this page says **major produce
 - **Look for the mark before you look at the price.** The statute puts traceability on the product; the absence of it is information.
 - **This is what the site's other warnings meant.** Anything with a protected-species ingredient — [in a medicinal preparation](/culture/herbal-medicine-in-china/), [in a health product](/food/food-as-medicine-in-china/) or [in a souvenir](/guides/shopping-in-china/) — sits under the same statute, and the same two questions apply: is it marked, and does it have a permit?
 - **Wild is not a selling point here.** A claim that something is wild-caught rather than farmed is, in this category, a claim that it is the version you may not buy.
+- **The other farmed fish worth knowing about is sold under a disputed name.** [Chinese salmon is largely rainbow trout](/food/salmon-in-china/), reared in reservoir cages in Qinghai, and the species is meant to be printed on the packet.
 - **Hong Kong and Macau administer wildlife trade under their own ordinances**, so neither the mark nor the mainland permit described here governs a purchase made there.
 
 ## Frequently asked questions

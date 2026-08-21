@@ -23,7 +23,7 @@ Intercity **C-series services** run from **Kunming South railway station** (昆�
 
 ## Get the departure station right
 
-This is the one thing worth checking twice. **Kunming South is not Kunming station.** It is the high-speed station in Chenggong district, in the south-east of the metropolitan area, and it is a long way from the city centre.
+This is the one thing worth checking twice. **Kunming South is not Kunming station.** It is the high-speed station in Chenggong district, in the south-east of the metropolitan area, and it is a long way from the city centre. It is also [where the international trains to Laos depart, and the district that holds the climate award Kunming itself does not](/destinations/kunming/).
 
 The metro station beneath it, Kunming South Railway Station (昆明南火车站), is an interchange for **Line 1's branch (1号线支线) and Line 4**. Line 4 is usually the more useful of the two if you are coming from the centre or the north of the city. Allow considerably more time than a European city-centre station would need — an hour from a central Kunming hotel is a sensible allowance, plus the usual station security.
 

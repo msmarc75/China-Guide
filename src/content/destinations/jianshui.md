@@ -77,7 +77,7 @@ Then there is **汽锅鸡**, steam-pot chicken, one of Yunnan's defining dishes 
 
 ## Getting there and around
 
-Jianshui has no metro and does not need one. [Intercity trains from Kunming South](/answers/how-do-i-get-to-jianshui-from-kunming/) reach Jianshui station (建水站) in around two hours, and the old town is small enough to cross on foot; Tuanshan and the bridge need the little train or a taxi.
+Jianshui has no metro and does not need one. [Intercity trains from Kunming South](/answers/how-do-i-get-to-jianshui-from-kunming/) reach Jianshui station (建水站) in around two hours, and the old town is small enough to cross on foot; Tuanshan and the bridge need the little train or a taxi. The same station is [where the international trains to Laos leave from](/destinations/kunming/), which makes an overnight in Kunming easier to justify than the guidebooks suggest.
 
 ## Frequently asked questions
 

@@ -81,6 +81,8 @@ This is the pattern that most confuses first-time visitors, and it has a consist
 
 **Anything with a designed process is astonishingly efficient.** High-speed rail, payments, food delivery, parcel logistics, metro systems, hospital appointment booking. These are built at national scale, iterated hard, and used by hundreds of millions of people daily. They generally work better than their equivalents in wealthy Western countries.
 
+The pattern has a variant worth watching for: a duty set nationally and the detail set by the city. [Rubbish sorting is the clearest case](/culture/rubbish-sorting-in-china/) — the obligation to sort is in a national statute, and the words on the bin are not.
+
 **Anything requiring an exception is close to impossible.** A form that needs a Chinese ID number when you have a passport. A booking system that will not accept your name because it contains a hyphen. A rule applied to a case it was not written for. The staff member in front of you is usually sympathetic and genuinely cannot help, because the discretion to make an exception does not sit with them.
 
 That same pattern — enormous capacity for the designed case, none for the exception — is what produces the physical landscape described in [the Chinese economy for visitors](/culture/chinese-economy-for-visitors/): infrastructure built at a scale that assumes the demand will arrive.

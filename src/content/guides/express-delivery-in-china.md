@@ -132,6 +132,8 @@ Packaging must suit the operation, use resources sparingly, **avoid excessive pa
 
 The departments' joint explanation of the amendment describes the chapter as covering design, production, use, recovery and disposal together. It quotes the duty on operators as 优化快递包装方式和包装结构设计，节约使用包装物 — optimising packaging method and structural design and economising on materials, while keeping the parcel safe — and names two directions of travel: reporting on the use and recovery of 一次性塑料制品, single-use plastics, and promoting 商品原装直发，减少寄递环节的二次包装, shipping goods in their original packaging so that a second layer is not added in transit.
 
+Where the box ends up is a separate regime again: [household waste is sorted into four categories by national duty, with the words on the bin set locally](/culture/rubbish-sorting-in-china/).
+
 Where a standard is written for any of this, [whether it is a GB or a GB/T decides whether it binds](/food/chinese-wine/), exactly as elsewhere in Chinese product regulation. As a visitor you will meet the chapter as a change in the boxes rather than as a rule you obey.
 
 ## In practice

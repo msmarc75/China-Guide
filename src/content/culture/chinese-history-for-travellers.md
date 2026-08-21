@@ -41,6 +41,8 @@ China's history is usually told as a sequence of dynasties, each conventionally 
 | **Republic** | 1912–1949 | Warlords, war with Japan, civil war | [Wuhan](/destinations/wuhan/) (1911 uprising), Shanghai's Bund, Nanjing |
 | **PRC** | 1949– | The modern state | Everywhere |
 
+One dynasty leaves the table and walks around: the Tang. The robes rented by the thousand in Xi'an and Luoyang are Tang-style, which is why [both cities built their visitor experience around that period](/culture/hanfu-rental-in-china/) rather than any other.
+
 ## The parts that matter for what you will see
 
 ### Qin: the first empire, 221 BCE

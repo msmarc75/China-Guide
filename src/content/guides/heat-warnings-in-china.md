@@ -97,6 +97,8 @@ On the labour side, several commercial sites circulate a "2025 edition" of the h
 
 Hong Kong and Macau issue their own heat warnings under their own systems, and none of the above describes them.
 
+One more distinction, because the two get confused. Air pollution is **not** part of this meteorological system at all: [it runs on its own three colours, graded on forecast air quality by the environmental authorities](/guides/air-quality-in-china/), and its response measures are set city by city rather than nationally.
+
 ## Frequently asked questions
 
 ### What do China heat warning colours mean?

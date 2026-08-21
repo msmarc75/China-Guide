@@ -122,7 +122,7 @@ Some travellers get an upset stomach in the first days simply from unfamiliar oi
 
 Much improved since the 2013 peak, but still an issue in the northern plain from November to March, when winter heating comes on. Beijing, Xi'an, Shijiazhuang and Zhengzhou can exceed AQI 150 for several days at a stretch.
 
-- Check an AQI app daily
+- Check an AQI app daily — [what the number actually means, and why the standard behind it changed in March 2026](/guides/air-quality-in-china/)
 - On a bad day, move museum visits forward and postpone the Great Wall
 - Bring an N95 if you are asthmatic or have a respiratory condition
 - Kunming, coastal Fujian, Guangdong, Hainan and the plateau are clean nearly year-round

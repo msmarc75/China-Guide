@@ -119,7 +119,7 @@ Beijing's air is dramatically better than its 2013 reputation, thanks to coal re
 
 - **Worst:** the northern plain (Beijing, Xi'an, Shijiazhuang) from November to March, when heating comes on.
 - **Best:** Kunming, coastal Fujian and Guangdong, [Hainan](/destinations/sanya-hainan/), the plateau — clean nearly year-round.
-- **Practical response:** check an AQI app daily, keep an N95 in your bag if you are asthmatic, and reschedule outdoor days rather than cancelling them. Bad days are usually followed by a wind that clears everything within 24 hours.
+- **Practical response:** check an AQI app daily — [the six bands and what 150 is the boundary of](/guides/air-quality-in-china/) — keep an N95 in your bag if you are asthmatic, and reschedule outdoor days rather than cancelling them. Bad days are usually followed by a wind that clears everything within 24 hours.
 
 ## Frequently asked questions
 

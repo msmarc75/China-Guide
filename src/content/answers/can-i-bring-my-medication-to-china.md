@@ -25,6 +25,12 @@ For everything that is not a controlled substance, the operating principle at Ch
 
 What [this site already tells you six times over](/plan/china-packing-list/) is right, and worth repeating because it is what makes the reasonable-quantity judgement easy: **original labelled packaging, plus a copy of the prescription.** A box with a pharmacy label and your name on it is self-evidently personal. A bag of loose tablets is not.
 
+That principle now has a text behind it. The Regulations for the Implementation of the Drug Administration Law, revised as **State Council Order No. 828** and **in force since 15 May 2026**, say so in **Article 48**:
+
+> 个人携带、邮寄少量药品进境的，应当以合理自用数量为限，遵守国家关于个人物品进境管理的规定。
+
+Carrying or posting a small quantity of medicine into China is capped at **a reasonable quantity for personal use**. No figure, no list — a standard rather than a threshold. The same revision governs [the drawers behind a Chinese pharmacy counter](/culture/herbal-medicine-in-china/).
+
 ## The category that is regulated separately
 
 China's **麻醉药品和精神药品管理条例** (*májuì yàopǐn hé jīngshén yàopǐn guǎnlǐ tiáolì*, Regulations on the Administration of Narcotic Drugs and Psychotropic Substances) was issued as **State Council Order No. 442** on 3 August 2005 and took effect on 1 November 2005. It has been amended three times, most recently by a State Council decision of **6 December 2024**, in force since **20 January 2025**.

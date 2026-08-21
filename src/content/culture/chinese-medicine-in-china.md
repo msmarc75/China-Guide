@@ -20,7 +20,7 @@ related:
   - /culture/chinas-ethnic-minorities/
 ---
 
-This site has one page on Chinese medicine without saying so. The massage guide opens by noting that [tuina is one branch of it, alongside acupuncture, herbal medicine and dietary therapy](/culture/massage-and-bodywork-in-china/), and then — correctly, since that is its subject — covers only tuina. Of the other three, [dietary therapy has a page of its own now](/food/food-as-medicine-in-china/), because it is the branch a visitor meets at dinner rather than at a clinic.
+This site has one page on Chinese medicine without saying so. The massage guide opens by noting that [tuina is one branch of it, alongside acupuncture, herbal medicine and dietary therapy](/culture/massage-and-bodywork-in-china/), and then — correctly, since that is its subject — covers only tuina. Of the other three, two now have pages of their own: [dietary therapy](/food/food-as-medicine-in-china/), the branch a visitor meets at dinner rather than at a clinic, and [herbal medicine](/culture/herbal-medicine-in-china/), the branch that fills the drawers behind every pharmacy counter.
 
 Meanwhile [the health and safety guide](/guides/health-and-safety-in-china/) walks through public hospitals, international clinics and pharmacies without mentioning that China runs a **second hospital system**, in parallel, in every city of any size.
 
@@ -76,7 +76,7 @@ That is a description of a technique, not a claim about outcomes, and it is wort
 
 - **A Chinese-medicine hospital is a hospital.** Most cities have one in the public system, frequently attached to a university, with departments, registration desks and the same pay-before-each-step flow as any other Chinese hospital. Several of this site's city pages already name one for tuina.
 - **Departments inside ordinary hospitals** are common too, so a general hospital may offer both systems on different floors.
-- **Pharmacies sell both.** A Chinese pharmacy typically has a Western-medicine counter and a Chinese-medicine counter with drawers behind it, and the same shop dispenses from both.
+- **Pharmacies sell both.** A Chinese pharmacy typically has a Western-medicine counter and a Chinese-medicine counter with drawers behind it, and the same shop dispenses from both. [What is in those drawers has a binding national standard and a label that must name where the material was grown](/culture/herbal-medicine-in-china/).
 - **Ask what the filing says.** If a clinic offers you something that is not on the wall, that is the moment to notice.
 - **Do not buy anything with a protected-species ingredient.** It is illegal to bring home and frequently illegal to buy — [the customs categories are set out with the shopping rules](/guides/shopping-in-china/), and the ingredient list is the thing to read.
 - **Bringing your own medicine is a separate question** with its own regime, and [an ordinary Western prescription and a controlled substance are treated very differently](/answers/can-i-bring-my-medication-to-china/).

@@ -27,7 +27,7 @@ Its Article 6 sets out the goods the law itself puts outside the right, and the 
 
 > （一）消费者定作的商品；（二）鲜活易腐的商品；（三）在线下载或者消费者拆封的音像制品、计算机软件等数字化商品；（四）交付的报纸、期刊。
 
-**Goods made to the consumer's order; fresh or perishable goods; digital goods such as audiovisual products and software either downloaded or unsealed by the consumer; and delivered newspapers and periodicals.** A second, conditional category exists — things like goods that lose significant value once activated, or items flagged at sale as near their expiry date or defective — but those fall outside the right *only* if the seller flagged them and you confirmed at the moment of purchase.
+**Goods made to the consumer's order; fresh or perishable goods; digital goods such as audiovisual products and software either downloaded or unsealed by the consumer; and delivered newspapers and periodicals.** A second, conditional category exists — goods that lose significant value once activated, or items flagged at sale as near their expiry date or defective — and those fall outside the right *only* if the seller flagged them and you confirmed at the moment of purchase. That is the door [an unsealed blind box](/culture/blind-boxes-in-china/) goes through.
 
 ## Two things worth knowing
 
@@ -41,7 +41,7 @@ Its Article 6 sets out the goods the law itself puts outside the right, and the 
 - **Keep the receipt and the packaging.** Both matter more here than the argument does.
 - **Buying online inside China gives you the right; buying in person does not.** Same shop, same product, different regime.
 - **Return postage is yours** unless the seller agreed otherwise — Article 18 puts it on the consumer 依法 (*yīfǎ*), by law, subject to any agreement to the contrary.
-- **The refund has its own clock.** Article 13 gives the seller **seven days from receiving the goods back** to return the price you paid, so the window runs twice.
+- **The refund has its own clock.** Article 13 gives the seller **seven days from receiving the goods back**, so the window runs twice.
 - **A faulty or misdescribed item is a different claim entirely** — that route is [a refund plus three times the price](/guides/sold-a-fake-in-china/), and it needs deception rather than a change of heart.
 - **A different seven days covers prepayments.** The cooling-off window on [a Chinese prepaid card](/guides/prepaid-cards-in-china/) comes from a court interpretation, not from this law, and the two should not be confused.
 - **Hong Kong and Macau legislate consumer protection separately**, so neither the seven days nor the exceptions above govern a purchase made there.

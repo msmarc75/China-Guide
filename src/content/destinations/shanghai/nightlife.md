@@ -34,7 +34,7 @@ Shanghai has the best drinking culture in mainland China and the fastest turnove
 
 **Anfu Road.** In the former French Concession, part of the Wukang Road–Anfu Road quarter that Shanghai's own culture and tourism research institute has studied as a case in street-level regeneration. Small bars, natural wine, coffee places that keep serving after dark, and a crowd that skews young and local. The best area in the city simply to walk between drinks.
 
-**Yongkang Road.** A short street with an extraordinary density of cafés and small bars — locally nicknamed the coffee street. It runs east from Jiashan Road. Quieter and more neighbourhood-scaled than Anfu Road, and easy to combine with it.
+**Yongkang Road.** A short street with an extraordinary density of cafés and small bars — locally nicknamed the coffee street, and a good place to notice that [the beans are frequently Chinese](/food/coffee-in-china/). It runs east from Jiashan Road. Quieter and more neighbourhood-scaled than Anfu Road, and easy to combine with it.
 
 **Tianzifang.** The Taikang Road lane complex is a craft market by day and turns into a warren of small bars and terraces after dark. Touristed, cramped, and good fun early in the evening.
 

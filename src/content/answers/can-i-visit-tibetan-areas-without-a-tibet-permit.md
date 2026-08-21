@@ -21,6 +21,8 @@ The permit requirement is administrative rather than cultural, and the administr
 
 The **Tibet Travel Permit** is required for the **Tibet Autonomous Region** — Lhasa, Shigatse, the Everest north side, Ngari. Inside that boundary a foreign passport holder cannot travel independently: you need the permit, a licensed agency, a booked itinerary and a guide.
 
+That guide is a licensed individual, not just a chaperone — [the card is electronic and the badge is worn, and you are entitled to see both](/guides/tour-guides-in-china/).
+
 Outside it, none of that applies.
 
 ## Where the Tibetan areas outside the TAR are

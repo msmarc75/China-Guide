@@ -46,7 +46,7 @@ That is why the room you are shown into has a glass panel in the door and no way
 
 ## The signs on the wall are load-bearing
 
-Article 30 requires venues to display, **in the hall and inside every private room**, warning notices covering the prohibition of drugs, gambling and prostitution, along with signs barring or restricting minors — and those notices must carry **the reporting telephone numbers of the public security and culture authorities.**
+Article 30 requires venues to display, **in the hall and inside every private room**, warning notices covering the prohibition of drugs, gambling and prostitution, along with signs barring or restricting minors — and those notices must carry **the reporting telephone numbers of the public security and culture authorities.** The gambling line is not rhetorical: [the only lawful bet in mainland China is a ticket in one of two licensed lotteries](/culture/lotteries-in-china/).
 
 Most visitors read these as decorative officialdom. Read them instead as an index of what the regulation expects to go wrong in this category of venue, and as a route that exists if it does.
 

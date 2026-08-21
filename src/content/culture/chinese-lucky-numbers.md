@@ -51,6 +51,8 @@ In **August 2003**, Chengdu Telecom auctioned a hundred selected phone numbers. 
 
 The same instinct chose the most-watched moment in modern Chinese history. The Beijing Olympics opening ceremony began at **20:08:08 on 8 August 2008** — the eighth second of the eighth minute of the eighth hour of the evening, on the eighth day of the eighth month.
 
+The one place where a chosen number pays or does not is regulated in its own right: [China licenses two lotteries and forbids the rest, and the prize lapses if you take more than sixty days to claim it](/culture/lotteries-in-china/).
+
 ## Numbers used as words
 
 Because Mandarin digits are single syllables, they double as shorthand, and it is worth recognising a few when they appear in a shop name, a licence plate or a message.

@@ -95,7 +95,7 @@ It depends on intention and scale rather than on the presence of money. Small su
 
 ### Which law covers gambling in China?
 
-The Public Security Administration Punishments Law, comprehensively revised on 27 June 2025 and in force since 1 January 2026, where the provision is Article 82. Serious conduct is dealt with by the Criminal Law instead. Note that the article was renumbered — older English sources cite Article 70.
+The Public Security Administration Punishments Law, comprehensively revised on 27 June 2025 and in force since 1 January 2026, where the provision is Article 82. Serious conduct is dealt with by the Criminal Law instead. Note that the article was renumbered — older English sources cite Article 70. The one carve-out sits in a separate instrument: [two lotteries are licensed by the State Council and everything else, including selling them online, is not](/culture/lotteries-in-china/).
 
 ### Why do Chinese mahjong tables deal themselves?
 

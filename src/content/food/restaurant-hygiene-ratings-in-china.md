@@ -72,6 +72,7 @@ Nothing on the site changes — it gains an instrument.
 - **Prefer the visible kitchen** where you have a choice between two similar places.
 - **Keep following the queue**, which remains [the most reliable signal for stalls and small shops](/food/chinese-street-food/) where a board may be a licence card rather than a graded notice.
 - **Judge the individual kitchen in front of you**, which is the rule that governs when the paperwork and the crowd disagree.
+- **The same habit pays elsewhere.** A drinks menu in Shanghai now carries [a nutrition grade from A to D on each drink](/food/chinese-milk-tea/), read the same way and just as quickly.
 
 ## Frequently asked questions
 

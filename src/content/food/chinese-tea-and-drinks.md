@@ -68,7 +68,7 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 **Tea** is the default. Restaurant tea is often free, hot water is free everywhere, and carrying an insulated flask is what Chinese travellers do. See our [tea culture guide](/culture/tea-culture-in-china/).
 
-**The milk tea boom.** Bubble tea shops — HeyTea, Nayuki, Mixue, ChaGee — are on every commercial street, often several of the same brand within 200 m. Order in the app or point at the picture; you can usually specify sugar level (无糖 no sugar, 三分糖 30%, 半糖 half) and ice level.
+**The milk tea boom.** Bubble tea shops — HeyTea, Nayuki, Mixue, ChaGee — are on every commercial street, often several of the same brand within 200 m. Order in the app or point at the picture; you can usually specify sugar level (无糖 no sugar, 三分糖 30%, 半糖 half) and ice level. Since 2024 many menus also carry [a letter from A to D grading what is in the cup](/food/chinese-milk-tea/), set by the worst of four components rather than by an average.
 
 **Other non-alcoholic options worth knowing:**
 

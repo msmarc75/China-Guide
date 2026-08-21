@@ -61,6 +61,8 @@ The sequence: rinse the leaves with hot water and discard; steep 10–20 seconds
 
 You will see this in tea shops in Fujian, Guangdong and Yunnan especially. If a shopkeeper invites you to sit and taste, that is genuine hospitality — though it is also a sales technique, and there is no obligation to buy.
 
+Everything above is the tradition. What most people in a Chinese city drink on a weekday is [freshly brewed tea with fresh milk, ordered in an app and collected by number](/food/chinese-milk-tea/) — the same leaf, an entirely different trade.
+
 ## Tea houses
 
 - **Chengdu** — the great teahouse city. Bamboo chairs, a lidded *gaiwan*, mahjong, ear cleaning, and afternoons that go nowhere. Heming Teahouse in People's Park is the famous one; the courtyard at Wenshu Monastery is quieter

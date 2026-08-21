@@ -94,6 +94,10 @@ A VPN routes your traffic through a server outside China, which restores access 
 | — | **Pleco** | The best Chinese-English dictionary; works fully offline; camera OCR |
 | — | **Alipay** | Payments plus a huge set of mini-programs: metro QR, bike share, museum tickets |
 
+:::note Delivery is more than a row
+Meituan and Ele.me are the one entry in that table with a rulebook of their own, and it was rewritten this year: since June 2026 [a caterer must display its credentials, its physical shopfront and its real address on the listing, and the bag has to be sealed shut](/guides/food-delivery-in-china/).
+:::
+
 :::tip Two downloads that save the trip
 **Offline maps** in Amap or Apple Maps for every city on your route, and the **offline Chinese language pack** in Google Translate. Both work with no signal, no VPN and a nearly dead battery. Together they solve navigation and communication when everything else fails — [which translation app to actually install](/answers/what-is-the-best-app-for-translating-chinese/) is a two-app answer rather than one.
 :::

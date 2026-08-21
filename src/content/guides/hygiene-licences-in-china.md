@@ -83,6 +83,8 @@ That contrast is the whole reason to know which document you are looking at.
 
 **Hotels.** Every hotel is a covered premises, so the hygiene licence sits alongside whatever [star plaque or booking-platform rating](/guides/accommodation-in-china/) the place also carries — and it is the one of the three that is not optional.
 
+**And where there is no wall to read.** For a kitchen you order from rather than walk into, the same idea moved onto a screen: [a delivery listing must show the caterer's credentials, its physical shopfront and the address on its licence](/guides/food-delivery-in-china/).
+
 ## Frequently asked questions
 
 ### What is the certificate on the wall in a Chinese hotel or shop?

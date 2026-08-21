@@ -64,7 +64,7 @@ Worth being clear, because it changes how you use it.
 
 The rating measures **process and premises** — storage, separation, cleaning, records, the things an inspector can check. It says nothing about whether the food is any good, whether the noodles are hand-pulled, or whether the place is worth crossing a city for.
 
-So the two instruments do different jobs and neither replaces the other. [The queue tells you about turnover and about whether locals rate the cooking](/answers/how-do-i-find-good-restaurants-in-china/); the board tells you about the kitchen you cannot see. A long queue outside a C-grade shop is a real trade-off rather than a contradiction, and plenty of very good Chinese food is sold from premises that will never score an A.
+So the two instruments do different jobs and neither replaces the other. [The queue tells you about turnover and about whether locals rate the cooking](/answers/how-do-i-find-good-restaurants-in-china/); the board tells you about the kitchen you cannot see. A long queue outside a C-grade shop is a real trade-off rather than a contradiction, and plenty of very good Chinese food is sold from premises that will never score an A. Note also that the face does not travel: [a delivery listing shows credentials, shopfront and address instead of a grade](/guides/food-delivery-in-china/).
 
 ## Where this leaves the standard advice
 

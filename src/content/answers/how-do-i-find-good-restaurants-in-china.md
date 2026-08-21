@@ -30,7 +30,7 @@ Dianping is where the actual reviewing happens, at a scale nothing in English ap
 - **Read the photographs, not the text.** Users upload enormous numbers of dish photos, which tells you what to order as well as whether to go.
 - **Prices per head are shown**, so you can see what a meal will cost before committing.
 
-**Meituan** (美团) is the same company and overlaps heavily; if one is being awkward, try the other. Both work on a Chinese connection with no VPN.
+**Meituan** (美团) is the same company and overlaps heavily; if one is being awkward, try the other. Both work on a Chinese connection with no VPN. They are also the delivery apps, where [the listing must carry the kitchen's credentials, shopfront and real address](/guides/food-delivery-in-china/) — the same browsing skill, a different task.
 
 ## The three rules that need no app at all
 

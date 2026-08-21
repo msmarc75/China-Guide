@@ -51,7 +51,7 @@ Read the category again. **These are not filed as art, or as literature, or as f
 :::note What I read, and where
 The notice itself, with its number, date and totals, I read on the culture ministry's own site. The **national heritage register**, which carries the individual item records, refused every request from here, so the two item numbers above come from the list annex as reproduced elsewhere rather than from the register. If you need the register entry itself, go to the register.
 
-This is the intangible half of a system whose tangible half — [the grey plaques on buildings and sites](/culture/chinese-heritage-protection/) — this site already covers.
+This is the intangible half of a system whose tangible half is [the grey plaques on buildings and sites](/culture/chinese-heritage-protection/). [Both halves now have a page](/culture/intangible-heritage-in-china/), and they work differently: the tangible one protects things, the intangible one protects practices and also names the people who carry them.
 :::
 
 ## And both are sports, with a state grade attached

@@ -89,7 +89,7 @@ Municipal library projects have been a favoured category of Chinese public build
 
 ## In practice
 
-- **Go in the afternoon heat or the rain.** It is free, it is quiet, and nobody will move you on.
+- **Go in the afternoon heat or the rain.** It is free, it is quiet, and nobody will move you on — and on [an orange or red heat day](/guides/heat-warnings-in-china/) that is the whole plan for the middle of the afternoon.
 - **Look for the municipal library**, which is the largest and usually the newest.
 - **Expect a bag scanner** at the door, as at any large Chinese public building.
 - **Reading rooms and study desks are covered by the free-service duty**, not just the shelves.

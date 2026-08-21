@@ -63,7 +63,7 @@ Continental: freezing dry winters, hot humid summers, short glorious shoulder se
 
 ### The Yangtze and the east — Shanghai, Suzhou, Hangzhou, Nanjing
 
-Humid subtropical. The complication is the *meiyu*, the plum rain season, which drops persistent rain across the lower Yangtze in **mid-June to mid-July**. July and August are hot and sticky — Nanjing, Wuhan and [Chongqing](/destinations/chongqing/) are traditionally called the "three furnaces", regularly exceeding 38°C. **April, May, October and November are the good months**; classical gardens in Suzhou are at their best in late spring.
+Humid subtropical. The complication is the *meiyu*, the plum rain season, which drops persistent rain across the lower Yangtze in **mid-June to mid-July**. July and August are hot and sticky — Nanjing, Wuhan and [Chongqing](/destinations/chongqing/) are traditionally called the "three furnaces", regularly exceeding 38°C. That is not just a temperature: [heat gets its own warning colours, and above 40°C outdoor work is required to stop](/guides/heat-warnings-in-china/). **April, May, October and November are the good months**; classical gardens in Suzhou are at their best in late spring.
 
 ### The south — Guangzhou, Hong Kong, Guilin, Yangshuo
 

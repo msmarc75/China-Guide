@@ -46,6 +46,8 @@ This is the catch, and it is why the page tells you to read the expression rathe
 
 Sources on the exact face-to-letter mapping genuinely disagree, and this page does not pretend otherwise. What survives everywhere is the ranking: **compare the face you are looking at to the other two on the scale printed beside it.** A flat face is the bottom of Guangdong's scale and the middle of someone else's.
 
+The face is not the only paper on that wall. A separate regime licenses the **premises** — air, water, lighting, noise and customer utensils — and [that certificate is compulsory across seven categories of public place, from bathhouses to barbershops](/guides/hygiene-licences-in-china/). Different rule, different issuer, different question answered.
+
 ## The kitchen you can see into
 
 The second instrument is national rather than provincial, and it is the more interesting one.

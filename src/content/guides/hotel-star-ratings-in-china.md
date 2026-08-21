@@ -69,6 +69,7 @@ In practice:
 - **Do not read "no plaque" as "not good".** It usually means the hotel never applied.
 - **Ignore the word "five-star" in marketing copy** unless there is a plaque or a register entry behind it. The phrase is not protected in ordinary advertising the way the award itself is administered.
 - **Ask about the passport separately.** The star has nothing to do with it.
+- **One document on that wall is not optional.** [The hygiene licence for the premises is compulsory, displayed by rule and reviewed every two years](/guides/hygiene-licences-in-china/) — so its absence means something the star's absence does not.
 
 ## Frequently asked questions
 

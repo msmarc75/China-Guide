@@ -25,7 +25,7 @@ Crossing from the mainland into Hong Kong means:
 - **Entering Hong Kong** under its own rules, where most nationalities are admitted visa-free on arrival — British citizens for 180 days, and EU, US, Canadian and Australian passport holders for 90.
 - **Re-entering the mainland afterwards requires a fresh entry**, which means a multiple-entry visa or renewed visa-free eligibility.
 
-Macau works the same way. So does the crossing between Hong Kong and Macau.
+Macau works the same way. So does the crossing between Hong Kong and Macau. [Where Macau's separateness actually comes from](/destinations/macau/) is a short answer with three articles in it, and it explains why so much else about a China trip stops at that line too.
 
 ## The mistake that ends a trip
 

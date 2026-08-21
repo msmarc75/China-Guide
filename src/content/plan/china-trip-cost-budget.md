@@ -156,7 +156,7 @@ Same route in 4–5★ hotels (¥1,000/night), business-class rail, private guid
 
 **Cheaper than expected:** intercity rail, metro, street and neighbourhood food, beer in restaurants, laundry, domestic-brand hotels, taxis, SIM data.
 
-**More expensive than expected:** entry tickets and cable cars, imported wine and Western food, international-brand coffee, guided tours in English, anything in Hong Kong or Macau, hotels during Golden Week (rates can triple).
+**More expensive than expected:** entry tickets and cable cars, imported wine and Western food, international-brand coffee — though [a domestic chain, or Yunnan beans by the bag](/food/coffee-in-china/), is a different price altogether — guided tours in English, anything in Hong Kong or Macau, hotels during Golden Week (rates can triple).
 
 **Free:** state museums, most city parks after a nominal fee, temple courtyards in some cities, the Bund, most historic streets, hot water everywhere.
 

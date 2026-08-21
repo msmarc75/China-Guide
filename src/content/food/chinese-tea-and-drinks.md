@@ -70,6 +70,8 @@ China is the world's largest beer market by volume. The mainstream lagers — **
 
 **The milk tea boom.** Bubble tea shops — HeyTea, Nayuki, Mixue, ChaGee — are on every commercial street, often several of the same brand within 200 m. Order in the app or point at the picture; you can usually specify sugar level (无糖 no sugar, 三分糖 30%, 半糖 half) and ice level. Since 2024 many menus also carry [a letter from A to D grading what is in the cup](/food/chinese-milk-tea/), set by the worst of four components rather than by an average.
 
+**Coffee.** Not covered above because it deserved its own page, and it turns out to be the more surprising story: [China grows coffee in Yunnan and on Hainan, and three of those origins are protected by name in the European Union](/food/coffee-in-china/).
+
 **Other non-alcoholic options worth knowing:**
 
 - **酸梅汤 sour plum juice** — smoked plum, hawthorn, liquorice; sour, cold, and the traditional antidote to a spicy meal. Excellent

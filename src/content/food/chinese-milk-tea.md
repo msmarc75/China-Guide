@@ -20,7 +20,7 @@ related:
   - /culture/tea-culture-in-china/
 ---
 
-Walk any Chinese commercial street and count the tea shops. There will be more of them than anything else, frequently several branches of the same chain within a few hundred metres, each with a queue and a shelf of sealed cups waiting for collection.
+Walk any Chinese commercial street and count the tea shops. There will be more of them than anything else, frequently several branches of the same chain within a few hundred metres, each with a queue and a shelf of sealed cups waiting for collection. [The coffee shops between them](/food/coffee-in-china/) are the minority habit here, which is the reverse of what most visitors expect.
 
 This site already covers [what the chains are and how to specify sugar and ice](/food/chinese-tea-and-drinks/). What it has never covered is the letter that started appearing on those menus in 2024 — and that letter is the most interesting thing about the trade, because it is a piece of public health policy that was tried in China before almost anywhere else.
 

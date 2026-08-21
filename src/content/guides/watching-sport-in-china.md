@@ -77,6 +77,10 @@ These are rural events in a mountainous province rather than city fixtures, so t
 - **Stadium food is basic and cash-free.** Everything runs on QR payment.
 - **Crowds are family crowds.** Chinese league football has a boisterous but not hostile atmosphere, and away-fan segregation is handled by the stewarding rather than left to chance.
 
+## Playing rather than watching
+
+This page is about the stands. Doing the sport yourself runs on a different regime: [swimming, skiing, diving and rock climbing sit on a national catalogue](/guides/high-risk-sports-in-china/) that requires the venue to hold an operating licence and to staff the activity with nationally certified instructors and lifesavers.
+
 ## Frequently asked questions
 
 ### Can foreigners buy tickets to sports events in China?

@@ -50,7 +50,7 @@ The resort city on the southern coast, with three main bays:
 
 **Haitang Bay** — the newest resort strip, and home to the **CDF Mall**, the largest duty-free shopping complex in the world. Duty-free shopping is a genuine phenomenon here: Chinese travellers fly to Hainan specifically to buy cosmetics, watches and luxury goods under the island's generous allowance. It is a domestic allowance rather than a route around your own customs, and [what the numbers on a Chinese cosmetics box actually mean](/guides/cosmetics-in-china/) is worth two minutes before you join the queue.
 
-**Wuzhizhou Island** — snorkelling and diving, heavily developed and busy but with real coral.
+**Wuzhizhou Island** — snorkelling and diving, heavily developed and busy but with real coral. Diving is on [the national catalogue of activities a venue needs its own licence and certified staff to sell](/guides/high-risk-sports-in-china/).
 
 **Nanshan Temple** — a large modern Buddhist complex with a 108 m statue of Guanyin standing in the sea. Impressive at the scale it is going for.
 
